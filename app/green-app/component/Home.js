@@ -24,23 +24,27 @@ class Home extends React.Component {
 
     render() {
         return (
-            <View style={{padding: 15}}>
+            <View style={{padding: 40}}>
                 <Button
+                    color="#9ACD32"
                     title="Examiner le terrain"
                     onPress={this._evaluate}
                 />
-                <Text>Air</Text>
-                <View style={styles.progressBar} style={{width: '100%', backgroundColor: 'grey'}}>
+                <Text style={{marginTop: 60}}>Air</Text>
+                <View style={styles.progressBar} style={{width: '100%', backgroundColor: 'grey', borderRadius: 5, borderWidth: 1}}>
                     <Text style={[styles.progressBar, {width: this.state.airBar.toString() + '%'}]} ></Text>
                 </View>
-                <Text>Terre</Text>
-                <View style={styles.progressBar} style={{width: '100%', backgroundColor: 'grey'}}>
+                <Text style={{marginTop: 60}}>Terre</Text>
+                <View style={styles.progressBar} style={{width: '100%', backgroundColor: 'grey', borderRadius: 5, borderWidth: 1}}>
                     <Text style={[styles.progressBar, {width: this.state.TerreBar.toString() + '%'}]} ></Text>
                 </View>
-                <Text>Ensoleillement</Text>
-                <View style={styles.progressBar} style={{width: '100%', backgroundColor: 'grey'}}>
+                <Text style={{marginTop: 60}}>Ensoleillement</Text>
+                <View style={styles.progressBar} style={{width: '100%', backgroundColor: 'grey', borderRadius: 5, borderWidth: 1}}>
                     <Text style={[styles.progressBar, {width: this.state.EnsoleillementBar.toString() + '%'}]} ></Text>
                 </View>
+                <Text style={{borderWidth: 1, borderRadius: 15, padding: 15, color: '#9ACD32', marginTop: 50}}>
+                    Examinez d'abord votre terrain pour voir les plantes qui vous sont suggerées
+                </Text>
             </View>
         )
     }
@@ -51,9 +55,9 @@ class Home extends React.Component {
 const styles = StyleSheet.create({
         progressBar: {
         height: 20,
-        backgroundColor: 'mediumspringgreen',
+        backgroundColor: 'yellowgreen',
         borderColor: '#000',
-        borderWidth: 2,
+        borderWidth: 1,
         borderRadius: 5
     }
 });
