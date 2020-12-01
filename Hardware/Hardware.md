@@ -4,12 +4,12 @@
 
 ## Sommaire
 1. Introduction
-    1.1. Composant néçessaire
-    1.2. Différent type de terre
-    1.3 Problématique principale
+   * 1.1. Composant néçessaire
+   * 1.2. Différent type de terre
+   * 1.3 Problématique principale
 2. Température
-    2.1 Terres chaudes et froides
-    2.2 Thermomètre
+   * 2.1 Terres chaudes et froides
+   * 2.2 Thermomètre
 
 ## 1. Introduction
 
