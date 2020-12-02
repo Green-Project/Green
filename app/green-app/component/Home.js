@@ -1,15 +1,17 @@
 import {View, Text, StyleSheet, Button} from 'react-native'
 import React from 'react'
-import ProgressBar from 'react-bootstrap/ProgressBar';
+import Slider from '@react-native-community/slider';
+import {Picker} from '@react-native-picker/picker';
 
 class Home extends React.Component {
 
     constructor(props) {
         super(props)
         this.state = {
-            airBar: 0,
-            TerreBar: 0,
-            EnsoleillementBar: 0
+            Air: 0,
+            Humidity: 0,
+            Ensoleillement: 0,
+            tere: ""
         }
         this._evaluate = this._evaluate.bind(this)
     }
@@ -24,27 +26,73 @@ class Home extends React.Component {
 
     render() {
         return (
-            <View style={{padding: 40}}>
+            <View style={{padding: 40, flexDirection: 'column'}}>
+                <View style={{ textAlign: 'center', flexDirection: 'row', justifyContent: 'center'}}>
+                    <Text style={{fontWeight: "bold", color: "#9ACD32"}}>Type de sol</Text>
+                </View>
+                <Picker
+                    selectedValue={this.state.terre}
+                    style={{height: 50, width: "100%", color: "darkgray"}}
+                    onValueChange={(itemValue, itemIndex) =>
+                        this.setState({terre: itemValue})
+                    }>
+                    <Picker.Item label="terre argileuse" value="terre argileuse" />
+                    <Picker.Item label="terre calcaire" value="terre calcaire" />
+                    <Picker.Item label="terre sableuse" value="terre sableuse" />
+                    <Picker.Item label="terre siliceuse" value="terre siliceuse" />
+                    <Picker.Item label="terre tourbeuse" value="terre tourbeuse" />
+                    <Picker.Item label="terre humifère" value="terre humifère" />
+                </Picker>
+                <Text style={{width: "100%", borderTopWidth: 1, borderColor: "#9ACD32", marginTop: 15}}></Text>
+                <View style={{ textAlign: 'center', flexDirection: 'row', justifyContent: 'center', marginTop: 15}}>
+                    <Text style={{fontWeight: "bold", color: "#9ACD32"}}>Ensoleillement</Text>
+                </View>
+                <View style={{ textAlign: 'center', flexDirection: 'row', justifyContent: 'space-between', marginTop: 20}}>
+                    <Text style={{color: "darkgray"}}>Peu ensoleillé</Text>
+                    <Text style={{color: "darkgray"}}>Très ensoleillé</Text>
+                </View>
+                <Slider
+                        style={{width: '100%', height: 40}}
+                        minimumValue={0}
+                        maximumValue={1}
+                        minimumTrackTintColor="#9ACD32"
+                        maximumTrackTintColor="#000000"
+                    />
+                <Text style={{width: "100%", borderTopWidth: 1, borderColor: "#9ACD32", marginTop: 15}}></Text>
+                <View style={{ textAlign: 'center', flexDirection: 'row', justifyContent: 'center', marginTop: 15}}>
+                    <Text style={{fontWeight: "bold", color: "#9ACD32"}}>Humidité</Text>
+                </View>
+                <View style={{ textAlign: 'center', flexDirection: 'row', justifyContent: 'space-between', marginTop: 20}}>
+                    <Text style={{color: "darkgray"}}>Peu d'humidité</Text>
+                    <Text style={{color: "darkgray"}}>Très humide</Text>
+                </View>
+                <Slider
+                        style={{width: '100%', height: 40}}
+                        minimumValue={0}
+                        maximumValue={1}
+                        minimumTrackTintColor="#9ACD32"
+                        maximumTrackTintColor="#000000"
+                    />
+                <Text style={{width: "100%", borderTopWidth: 1, borderColor: "#9ACD32", marginTop: 15}}></Text>
+                <View style={{ textAlign: 'center', flexDirection: 'row', justifyContent: 'center', marginTop: 15}}>
+                    <Text style={{fontWeight: "bold", color: "#9ACD32"}}>Force des vents</Text>
+                </View>
+                <View style={{ textAlign: 'center', flexDirection: 'row', justifyContent: 'space-between', marginTop: 20}}>
+                    <Text style={{color: "darkgray"}}>Très faibles</Text>
+                    <Text style={{color: "darkgray"}}>Très forts</Text>
+                </View>
+                <Slider
+                    style={{width: '100%', height: 40}}
+                    minimumValue={0}
+                    maximumValue={1}
+                    minimumTrackTintColor="#9ACD32"
+                    maximumTrackTintColor="#000000"
+                />
                 <Button
                     color="#9ACD32"
-                    title="Examiner le terrain"
+                    title="Valider"
                     onPress={this._evaluate}
                 />
-                <Text style={{marginTop: 60}}>Air</Text>
-                <View style={styles.progressBar} style={{width: '100%', backgroundColor: 'grey', borderRadius: 5, borderWidth: 1}}>
-                    <Text style={[styles.progressBar, {width: this.state.airBar.toString() + '%'}]} ></Text>
-                </View>
-                <Text style={{marginTop: 60}}>Terre</Text>
-                <View style={styles.progressBar} style={{width: '100%', backgroundColor: 'grey', borderRadius: 5, borderWidth: 1}}>
-                    <Text style={[styles.progressBar, {width: this.state.TerreBar.toString() + '%'}]} ></Text>
-                </View>
-                <Text style={{marginTop: 60}}>Ensoleillement</Text>
-                <View style={styles.progressBar} style={{width: '100%', backgroundColor: 'grey', borderRadius: 5, borderWidth: 1}}>
-                    <Text style={[styles.progressBar, {width: this.state.EnsoleillementBar.toString() + '%'}]} ></Text>
-                </View>
-                <Text style={{borderWidth: 1, borderRadius: 15, padding: 15, color: '#9ACD32', marginTop: 50}}>
-                    Examinez d'abord votre terrain pour voir les plantes qui vous sont suggerées
-                </Text>
             </View>
         )
     }

@@ -1,12 +1,15 @@
 import { Button, View, Text, Image , TextInput} from 'react-native';
 import React from 'react'
+import ImageResizeMode from 'react-native/Libraries/Image/ImageResizeMode'
 
 class Login extends React.Component {
     render() {
         return (
             <View style={{position: "absolute" , flexDirection: 'column', top: 0, bottom: 0, left: 0, right: 0, textAlign: 'center'}}>
-                <View style={{justifyContent: 'flex-end', bottom: 0, position: "absolute"}}>
-                    <Image source={require('./../assets/loginfooter.png')} />
+                <View style={{justifyContent: 'flex-end', bottom: 0, position: "absolute", width: "100%"}}>
+                    <Image 
+                    style={{ alignSelf: 'stretch', flex: 1, resizeMode: 'cover', width: 'auto' }}
+                    source={require('./../assets/loginfooter.png')} />
 
                 </View>
                 <View style={{marginTop: 50, flexDirection: 'row', justifyContent: 'center'}}>
@@ -31,7 +34,7 @@ class Login extends React.Component {
                         />
                 </View>
                 <View style={{flexDirection: 'row', justifyContent: 'center'}}>
-                    <Text>Ou ce connecter avec:</Text>
+                    <Text>Ou se connecter avec:</Text>
                 </View>
                 <View style={{flexDirection: 'row', justifyContent: 'space-evenly', marginTop: 15}}>
                     <Image source={require('./../assets/twitter.png')}/>
