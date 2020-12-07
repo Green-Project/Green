@@ -91,7 +91,7 @@ class Home extends React.Component {
                 <Button
                     color="#9ACD32"
                     title="Valider"
-                    onPress={this._evaluate}
+                    onPress={() => this.props.navigation.navigate('Selection')}
                 />
             </View>
         )
