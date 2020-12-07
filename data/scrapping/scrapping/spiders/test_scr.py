@@ -5,22 +5,19 @@ import scrapy
 class QuotesSpider(scrapy.Spider):
     name = "quotes"
     start_urls = [
-        'https://www.aujardin.info/plantes/ananas_bracteatus.php',
+        'https://www.aujardin.info/plantes/guzmania.php',
     ]
 
     def parse(self, response):
-        f = open('testfile.html', 'w+')
-        f.write(response.css('article').get())
-        # for b_tag in response.css('b'):
-        #     f.write(b_tag.xpath('text()').get())
-        #     f.write("".join(str(b_tag.xpath('./following-sibling::text()').extract())) + '\n')
-        #     f.write("".join(str(b_tag.xpath('./following-sibling::i').extract())) + '\n')
-        #     f.write(b_tag.xpath('./following-sibling::i').get().strip() + '\n')
+        f = open('testfile2.html', 'w+')
+        for attr in response.css('div.description3'):
+            inside = attr.xpath('./child::div')
+            f.write("".join(inside.extract()))
+            # for elem in inside:
+            #     f.write("\n".join(elem.get()))
+            # f.write("\n".join(inside.xpath('./child::strong').extract()))
+            # f.write("\n".join(inside.xpath('./child::span').extract()))
+            # yield {
+            #     'N. Scientifique': elem.css('div[1]').get()
+            # }
         f.close()
-
-        # for quote in response.css('div.quote'):
-        #     yield {
-        #         'text': quote.css('span.text::text').get(),
-        #         'author': quote.css('small.author::text').get(),
-        #         'tags': quote.css('div.tags a.tag::text').getall(),
-        #     }
