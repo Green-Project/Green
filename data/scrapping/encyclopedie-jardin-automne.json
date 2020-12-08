@@ -340,6 +340,37 @@
       "Sensibilité ": "la pourriture"
     },
     {
+      "Nom": "Miscanthus du Népal",
+      "N. scientifique ": "Miscanthus nepalensis",
+      "Famille ": "Poacées, Graminées",
+      "Origine ": "Himalaya",
+      "Floraison": "fin d'été",
+      "Fleurs ": [
+        "     ",
+        "   dorée "
+      ],
+      "Type": "graminée ornementale",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre légère "
+      ],
+      "Sol": "frais et drainant",
+      "Acidité ": "au environ de neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, potée",
+      "Plantation": "printemps",
+      "Multiplication": "division, semis"
+    },
+    {
       "Nom": "Menthe arbustive japonaise à fleurs blanches",
       "N. scientifique ": "Leucosceptrum japonicum",
       "Famille ": "Labiacées, Lamiacées, Labiées",
@@ -555,37 +586,6 @@
       "Plantation": "printemps",
       "Multiplication": "division de la touffe au printemps",
       "Sensibilité ": "résistante aux maladies"
-    },
-    {
-      "Nom": "Miscanthus du Népal",
-      "N. scientifique ": "Miscanthus nepalensis",
-      "Famille ": "Poacées, Graminées",
-      "Origine ": "Himalaya",
-      "Floraison": "fin d'été",
-      "Fleurs ": [
-        "     ",
-        "   dorée "
-      ],
-      "Type": "graminée ornementale",
-      "Végétation": "herbacée",
-      "Feuillage ": "caduc",
-      "Hauteur": "1,20 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique jusqu'à -12°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à ombre légère "
-      ],
-      "Sol": "frais et drainant",
-      "Acidité ": "au environ de neutre",
-      "Humidité ": "normal à frais",
-      "Utilisation": "massif, potée",
-      "Plantation": "printemps",
-      "Multiplication": "division, semis"
     },
     {
       "Nom": "Hélénie d'automne, Hélénie automnale",
@@ -957,6 +957,39 @@
       "Multiplication": "division de la touffe, semis"
     },
     {
+      "Nom": "Renouée grimpante, Renouée de Boukhara, Renouée du Turkestan",
+      "N. scientifique ": "Fallopia baldschuanica",
+      "Synonymes ": "Polygonum baldschuanicum, Reynoutria baldschuanica",
+      "Famille ": "Polygonacées",
+      "Origine ": "Chine",
+      "Floraison": "fin d'été et automne, parfois aussi au début de l'été",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "6 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre à ensoleillée "
+      ],
+      "Sol": "riche",
+      "Acidité ": "légèrement acide à légèrement neutre",
+      "Humidité ": "frais à normal",
+      "Utilisation": "pergola, treillage, clôture, grand mur",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis, bouturage au printemps, marcottage en été"
+    },
+    {
       "Nom": "Aster à fleurs latérales, Aster calicot",
       "N. scientifique ": "Symphyotrichum lateriflorum",
       "Synonyme ": "Aster lateriflorus",
@@ -1026,37 +1059,33 @@
       "Sensibilité ": "l'oïdium, résistant aux maladies"
     },
     {
-      "Nom": "Renouée grimpante, Renouée de Boukhara, Renouée du Turkestan",
-      "N. scientifique ": "Fallopia baldschuanica",
-      "Synonymes ": "Polygonum baldschuanicum, Reynoutria baldschuanica",
-      "Famille ": "Polygonacées",
-      "Origine ": "Chine",
-      "Floraison": "fin d'été et automne, parfois aussi au début de l'été",
+      "Nom": "Gingenbre Kahili, Longose",
+      "N. scientifique ": "Hedychium gardnerianum",
+      "Famille ": "Zingibéracées",
+      "Origine ": "Himalaya, Népal, Bhoutan",
+      "Floraison": "juillet à novembre",
       "Fleurs ": [
         "     ",
-        "   crème "
+        "   jaune pale "
       ],
-      "Type": "plante grimpante",
+      "Type": "plante tropicale rhizomateuse",
       "Végétation": "vivace",
       "Feuillage ": "caduc",
-      "Hauteur": "6 m",
+      "Hauteur": "2,40 m",
       "Rusticité ": [
         "  ",
-        " ",
-        " ",
-        "  très rustique, -24°C "
+        "  peu rustique, -7°C "
       ],
       "Exposition ": [
         "  ",
-        " ",
-        "  mi-ombre à ensoleillée "
+        "  mi-ombre "
       ],
-      "Sol": "riche",
-      "Acidité ": "légèrement acide à légèrement neutre",
-      "Humidité ": "frais à normal",
-      "Utilisation": "pergola, treillage, clôture, grand mur",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis, bouturage au printemps, marcottage en été"
+      "Sol": "riche et drainant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "conteneur, serre chaude, extérieur en été",
+      "Plantation": "printemps",
+      "Multiplication": "semis, divisions"
     },
     {
       "Nom": "Gingenbre 'Pink V', Gingembre saumon",
@@ -1202,35 +1231,6 @@
       "Utilisation": "massif, rocaille, potée",
       "Plantation": "août",
       "Multiplication": "division des bulbes"
-    },
-    {
-      "Nom": "Gingenbre Kahili, Longose",
-      "N. scientifique ": "Hedychium gardnerianum",
-      "Famille ": "Zingibéracées",
-      "Origine ": "Himalaya, Népal, Bhoutan",
-      "Floraison": "juillet à novembre",
-      "Fleurs ": [
-        "     ",
-        "   jaune pale "
-      ],
-      "Type": "plante tropicale rhizomateuse",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "2,40 m",
-      "Rusticité ": [
-        "  ",
-        "  peu rustique, -7°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "riche et drainant",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "normal à sec",
-      "Utilisation": "conteneur, serre chaude, extérieur en été",
-      "Plantation": "printemps",
-      "Multiplication": "semis, divisions"
     },
     {
       "Nom": "Colchique d’automne, Safran des prés, Crocus d'automne, Safran bâtard",
@@ -1385,34 +1385,6 @@
       "Sensibilité ": "les tâches foliaires, les pucerons, les cochenilles"
     },
     {
-      "Nom": "Soleil, Helianthe, Tournesol",
-      "N. scientifique ": "Helianthus",
-      "Famille ": "Astéracées, Composées",
-      "Origine ": "Pérou pour le tournesol, Amérique du nord",
-      "Floraison": "de juillet à octobre",
-      "Fleurs ": "        jaune, orange, rouge ",
-      "Type": "fleur",
-      "Végétation": "annuel, vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "2,5 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  les hélianthes vivaces sont très rustiques pour la plupart "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "ordinaire, profond, riche",
-      "Acidité ": "neutre à alcalin",
-      "Humidité ": "normal, voir sec",
-      "Utilisation": "massif, fleur coupée",
-      "Plantation": "printemps",
-      "Multiplication": "semis en place de mars à juin, division des rhizomes au printemps",
-      "Sensibilité ": "l'oïdium, le mildiou, les limaces lorsque les plants sont jeunes"
-    },
-    {
       "Nom": "Callune, Bruyère commune",
       "N. scientifique ": "Calluna vulgaris",
       "Famille ": "Ericacées",
@@ -1501,6 +1473,34 @@
       "Plantation": "automne",
       "Multiplication": "bouturage",
       "Sensibilité ": "résistant aux maladies"
+    },
+    {
+      "Nom": "Soleil, Helianthe, Tournesol",
+      "N. scientifique ": "Helianthus",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Pérou pour le tournesol, Amérique du nord",
+      "Floraison": "de juillet à octobre",
+      "Fleurs ": "        jaune, orange, rouge ",
+      "Type": "fleur",
+      "Végétation": "annuel, vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "2,5 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  les hélianthes vivaces sont très rustiques pour la plupart "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "ordinaire, profond, riche",
+      "Acidité ": "neutre à alcalin",
+      "Humidité ": "normal, voir sec",
+      "Utilisation": "massif, fleur coupée",
+      "Plantation": "printemps",
+      "Multiplication": "semis en place de mars à juin, division des rhizomes au printemps",
+      "Sensibilité ": "l'oïdium, le mildiou, les limaces lorsque les plants sont jeunes"
     },
     {
       "Nom": "Mil perlé, Millet à chandelle",

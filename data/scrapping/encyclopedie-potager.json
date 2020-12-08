@@ -999,6 +999,34 @@
       "Sensibilité ": "la mouche du céleri"
     },
     {
+      "Nom": "Carotte",
+      "N. scientifique ": "Daucus carota",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Bassin méditerranéen",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume",
+      "Végétation": "bisannuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 cm",
+      "Toxicité": "racine comestible",
+      "Rusticité ": "   gélive ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "profond, léger, riche en humus, frais",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis",
+      "Sensibilité ": "La mouche de la carotte, mildiou, ver blanc, les araignées rouges, les pucerons"
+    },
+    {
       "Nom": "Betterave rouge",
       "N. scientifique ": "Beta vulgaris var. rubra",
       "Famille ": "Chénopodiacées",
@@ -1179,34 +1207,6 @@
       "Utilisation": "alimentation",
       "Plantation": "printemps",
       "Multiplication": "semis"
-    },
-    {
-      "Nom": "Carotte",
-      "N. scientifique ": "Daucus carota",
-      "Famille ": "Apiacées, Ombellifères",
-      "Origine ": "Bassin méditerranéen",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "légume",
-      "Végétation": "bisannuel",
-      "Feuillage ": "caduc",
-      "Hauteur": "30 cm",
-      "Toxicité": "racine comestible",
-      "Rusticité ": "   gélive ",
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "profond, léger, riche en humus, frais",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "potager",
-      "Plantation": "printemps",
-      "Multiplication": "semis",
-      "Sensibilité ": "La mouche de la carotte, mildiou, ver blanc, les araignées rouges, les pucerons"
     },
     {
       "Nom": "Moutarde noire, Sénevé noir",
@@ -1471,35 +1471,6 @@
       "Multiplication": "semis, bouturage "
     },
     {
-      "Nom": "Potiron, Potimarron",
-      "N. scientifique ": "Cucurbita maxima",
-      "Famille ": "Cucurbitacées",
-      "Origine ": "Amérique du sud",
-      "Floraison": "juin à septembre",
-      "Fleurs ": [
-        "     ",
-        "   orange à rouge "
-      ],
-      "Type": "légume",
-      "Végétation": "annuel",
-      "Feuillage ": "caduc",
-      "Hauteur": "hauteur 50 cm, mais rampe de 5 à 8 m",
-      "Toxicité": "fruits comestibles",
-      "Rusticité ": "   non rustique, 2 °C ",
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "très riche en humus, culture sur fumier possible",
-      "Acidité ": "tolérant",
-      "Humidité ": "normal à frais",
-      "Utilisation": "potager",
-      "Plantation": "printemps",
-      "Multiplication": "semis en mars-avril sous abri ou en avril-mai en place",
-      "Taille": "pas de taille nécessaire",
-      "Sensibilité ": "l'oïdium"
-    },
-    {
       "Nom": "Tomate",
       "N. scientifique ": "Solanum lycopersicum",
       "Synonymes ": "Lycopersicon esculentum, Lycopersicon pomumamoris, Lycopersicon lycopersicum",
@@ -1527,6 +1498,35 @@
       "Plantation": "printemps",
       "Multiplication": "semis, bouturage au printemps",
       "Sensibilité ": "le mildiou, les pucerons, les doryphores"
+    },
+    {
+      "Nom": "Potiron, Potimarron",
+      "N. scientifique ": "Cucurbita maxima",
+      "Famille ": "Cucurbitacées",
+      "Origine ": "Amérique du sud",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   orange à rouge "
+      ],
+      "Type": "légume",
+      "Végétation": "annuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "hauteur 50 cm, mais rampe de 5 à 8 m",
+      "Toxicité": "fruits comestibles",
+      "Rusticité ": "   non rustique, 2 °C ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "très riche en humus, culture sur fumier possible",
+      "Acidité ": "tolérant",
+      "Humidité ": "normal à frais",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis en mars-avril sous abri ou en avril-mai en place",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "l'oïdium"
     },
     {
       "Nom": "Poivron, Piment",
@@ -2206,6 +2206,37 @@
       "Sensibilité ": "limaces au démarrage du semis, pourriture"
     },
     {
+      "Nom": "Roquette",
+      "N. scientifique ": "Eruca sativa",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "Europe, Asie, Afrique, Méditerranée",
+      "Floraison": "mai à août",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "50 à 80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillé à mi-ombre "
+      ],
+      "Sol": "normal à riche",
+      "Acidité ": "basique",
+      "Humidité ": "normal",
+      "Utilisation": "salade, mesclun, condiment",
+      "Plantation": "printemps",
+      "Multiplication": "par les graines uniquement"
+    },
+    {
       "Nom": "Pourpier potager",
       "N. scientifique ": "Portulaca oleracea",
       "Famille ": "Portulacacées",
@@ -2290,71 +2321,6 @@
       "Sensibilité ": "la rouille, le mildiou, la teigne ou ver du poireau, la mouche de l'oignon, la mouche mineuse du poireau"
     },
     {
-      "Nom": "Patience, Oseille épinard, Epinard perpétuel",
-      "N. scientifique ": "Rumex patienta",
-      "Famille ": "Polygonacées",
-      "Origine ": "Europe",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "   vert-rouge "
-      ],
-      "Type": "légume feuille",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 40 cm",
-      "Toxicité": "feuilles consommables",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "ordinaire, lourd, argileux, riche en humus",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "potager",
-      "Plantation": "printemps",
-      "Multiplication": "semis ou division de la touffe au printemps",
-      "Taille": "pas de taille",
-      "Sensibilité ": "les limaces"
-    },
-    {
-      "Nom": "Roquette",
-      "N. scientifique ": "Eruca sativa",
-      "Famille ": "Brassicacées, Crucifères",
-      "Origine ": "Europe, Asie, Afrique, Méditerranée",
-      "Floraison": "mai à août",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "légume",
-      "Végétation": "annuelle",
-      "Feuillage ": "caduc",
-      "Hauteur": "50 à 80 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, jusqu'à -12°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillé à mi-ombre "
-      ],
-      "Sol": "normal à riche",
-      "Acidité ": "basique",
-      "Humidité ": "normal",
-      "Utilisation": "salade, mesclun, condiment",
-      "Plantation": "printemps",
-      "Multiplication": "par les graines uniquement"
-    },
-    {
       "Nom": "Pissenlit, Dent de Lion",
       "N. scientifique ": "Taraxacum officinale, Taraxacum dens leonis",
       "Synonyme ": " Taraxacum dens leonis",
@@ -2387,6 +2353,40 @@
       "Multiplication": "semis s'effectue de mars à fin juin",
       "Taille": "coupez les fleurs",
       "Sensibilité ": "l'oïdium"
+    },
+    {
+      "Nom": "Patience, Oseille épinard, Epinard perpétuel",
+      "N. scientifique ": "Rumex patienta",
+      "Famille ": "Polygonacées",
+      "Origine ": "Europe",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   vert-rouge "
+      ],
+      "Type": "légume feuille",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 40 cm",
+      "Toxicité": "feuilles consommables",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "ordinaire, lourd, argileux, riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis ou division de la touffe au printemps",
+      "Taille": "pas de taille",
+      "Sensibilité ": "les limaces"
     },
     {
       "Nom": "Oseille commune",
@@ -2511,69 +2511,6 @@
       "Sensibilité ": "l'oïdium, le mildiou"
     },
     {
-      "Nom": "Laitue",
-      "N. scientifique ": "Lactuca sativa",
-      "Famille ": "Astéracées, Composées",
-      "Origine ": "plante cultivée",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "légume",
-      "Végétation": "annuelle ou bisannuelle",
-      "Feuillage ": "persistant",
-      "Hauteur": "50 à 120 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  plus ou moins rustiques selon les variétés "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "moyen, riche et drainant",
-      "Acidité ": "un peu acide à basique",
-      "Humidité ": "normal",
-      "Utilisation": "potager, légume-feuille, légume-tige salade, parfois évadée des jardins sur les friches, bords des chemin",
-      "Plantation": "printemps",
-      "Multiplication": "semis",
-      "Sensibilité ": "la fonte des semis, le mildiou, le botrytis, les limaces, les pucerons"
-    },
-    {
-      "Nom": "Grand cerfeuil sauvage, Cerfeuil musqué, Cerfeuil perpétuel, Myrrhis odorante, Fougère musquée",
-      "N. scientifique ": "Myrrhis odorata",
-      "Synonyme ": "Chaerophylum odoratum",
-      "Famille ": "Apiacées, Ombellifères",
-      "Origine ": "Europe",
-      "Floraison": "juin à août",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "fleurs",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "50 à 120 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, jusqu'à -19 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "sol riche, limoneux, argileux ou graveleux",
-      "Acidité ": "neutre à légèrement basique",
-      "Humidité ": "normal à frais",
-      "Utilisation": "plante aromatique condimentaire, médicinale, potagère",
-      "Plantation": "printemps, été",
-      "Multiplication": "semis"
-    },
-    {
       "Nom": "Maceron, Gros persil de Macédoine",
       "N. scientifique ": "Smyrnium olusatrum",
       "Famille ": "Apiacées, Ombellifères",
@@ -2635,6 +2572,69 @@
       "Humidité ": "assez frais",
       "Utilisation": "légume ancien, plante potagère, espèce indigène",
       "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Laitue",
+      "N. scientifique ": "Lactuca sativa",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "plante cultivée",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume",
+      "Végétation": "annuelle ou bisannuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "50 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  plus ou moins rustiques selon les variétés "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "moyen, riche et drainant",
+      "Acidité ": "un peu acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "potager, légume-feuille, légume-tige salade, parfois évadée des jardins sur les friches, bords des chemin",
+      "Plantation": "printemps",
+      "Multiplication": "semis",
+      "Sensibilité ": "la fonte des semis, le mildiou, le botrytis, les limaces, les pucerons"
+    },
+    {
+      "Nom": "Grand cerfeuil sauvage, Cerfeuil musqué, Cerfeuil perpétuel, Myrrhis odorante, Fougère musquée",
+      "N. scientifique ": "Myrrhis odorata",
+      "Synonyme ": "Chaerophylum odoratum",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Europe",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "50 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -19 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "sol riche, limoneux, argileux ou graveleux",
+      "Acidité ": "neutre à légèrement basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "plante aromatique condimentaire, médicinale, potagère",
+      "Plantation": "printemps, été",
       "Multiplication": "semis"
     },
     {

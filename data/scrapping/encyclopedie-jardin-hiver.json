@@ -2,128 +2,6 @@
   "category": "Fleurs d'hiver",
   "data": [
     {
-      "Nom": "Bruyère du Cap",
-      "N. scientifique ": "Erica x hiemalis",
-      "Famille ": "Ericacées",
-      "Origine ": "horticole",
-      "Floraison": "novembre à mars",
-      "Fleurs ": [
-        "     ",
-        "   blanche à rose "
-      ],
-      "Type": "arbuste",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "40 à 60 cm",
-      "Rusticité ": [
-        "  ",
-        "  moyennement rustique -12°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "limoneux et sableux, terre de bruyère",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "normal à frais",
-      "Utilisation": "méditerranéenne, intérieur, véranda",
-      "Plantation": "printemps, automne",
-      "Multiplication": "boutures"
-    },
-    {
-      "Nom": "Bruyère blanche, Bruyère en arbre",
-      "N. scientifique ": "Erica arborea",
-      "Famille ": "Ericacées",
-      "Origine ": "Europe occidentale, Afrique du nord, Asie",
-      "Floraison": "mars à mai",
-      "Fleurs ": [
-        "     ",
-        "   blanche, rosée "
-      ],
-      "Type": "arbuste",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1 à 4 m",
-      "Rusticité ": "   moyennement rustique, -9°C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "siliceux et léger, terre de bruyère",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "normal, drainant",
-      "Utilisation": "massif, lisière",
-      "Plantation": "printemps",
-      "Multiplication": "boutures, semis"
-    },
-    {
-      "Nom": "Arbre de fer, Parrotie de Perse",
-      "N. scientifique ": "Parrotia persica",
-      "Famille ": "Hamamélidacées",
-      "Origine ": "Iran du nord",
-      "Floraison": "février-mars",
-      "Fleurs ": [
-        "     ",
-        "   fleurs rouges sans pétales "
-      ],
-      "Type": "arbuste",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "de 5 à 10 m de haut en 20 à 30 ans",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  Très rustique, -25°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "profond, riche en humus",
-      "Acidité ": "plutôt acide, survit dans un sol calcaire",
-      "Humidité ": "frais",
-      "Utilisation": "isolé, massif, bac",
-      "Plantation": "automne",
-      "Multiplication": "semis difficile et long, greffage, marcottage ou bouturage",
-      "Taille": "aucune taille, ni aucun traitement ne sont nécessaires",
-      "Sensibilité ": "Très résistant aux maladies et aux parasites"
-    },
-    {
-      "Nom": "Noisetier d'hiver parfumé, Faux noisetier, Corylopsis parfumé",
-      "N. scientifique ": "Corylopsis glabrescens",
-      "Famille ": "Hamamélidacées",
-      "Origine ": "Japon, Chine",
-      "Floraison": "février, mars",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "petit arbre à floraison hivernale",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "jusqu'à 5 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  rustique, -28 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillé à mi-ombre "
-      ],
-      "Sol": "humifère",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "frais et drainant",
-      "Utilisation": "en isolé, en massif",
-      "Plantation": "automne, printemps",
-      "Multiplication": "boutures, marcottage, semis"
-    },
-    {
       "Nom": "Rose de Noël, Hellébore noire",
       "N. scientifique ": "Helleborus niger",
       "Synonyme ": "Helleborus nigra",
@@ -559,6 +437,41 @@
       "Sensibilité ": "résistants aux parasites, les diverses petites taches foliaires qui peuvent se former sur les feuilles sont dues à des champignons, mais elles n'affectent pas le développement de l'arbuste. "
     },
     {
+      "Nom": "Vigne de l'Oregon",
+      "N. scientifique ": "Mahonia x media",
+      "Famille ": "Berbéridacées",
+      "Origine ": "Asie, Amérique du nord",
+      "Floraison": "automne, hiver, printemps",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 2 à 4 m",
+      "Toxicité": " Des troubles digestifs : diarrhées, vomissements, douleurs abdominales peuvent être observés après l'absorption par de jeunes enfants d'au moins une dizaine de baies. Les effets sont en général sans conséquence.",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -10°C adulte, une protection, hivernale chez les jeunes sujets "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre, ombre, soleil en climat tempéré "
+      ],
+      "Sol": "terre plutôt sableuse, enrichie en humus",
+      "Acidité ": "neutre à acide, calcaire accepté",
+      "Humidité ": "normal",
+      "Utilisation": "isolé, haie libre, rocaille, massif, bac",
+      "Plantation": "Effectuez la plantation de préférence entre octobre et mars/avril",
+      "Multiplication": "semis, bouturage en août, drageonnage",
+      "Taille": "Les jeunes mahonias doivent obligatoirement être taillés après la floraison, afin d'encourager la plante à se ramifier : pincez le bouquet de feuilles terminales. Adulte le Mahonia ne nécessite pratiquement aucune taille. Contentez-vous d'éliminer les rameaux abîmés ou desséchés et de supprimer les hampes florales fanées.",
+      "Sensibilité ": "la rouille, le mildiou"
+    },
+    {
       "Nom": "Sarcocoque à feuilles de ruscus",
       "N. scientifique ": "Sarcococca ruscifolia",
       "Famille ": "Buxacées",
@@ -841,6 +754,128 @@
       "Multiplication": "bouturage",
       "Taille": "Taille facultative après la floraison. Se pratique pour rajeunir un pied ou pour former un jeune pied.",
       "Sensibilité ": "Les taches foliaires, les cochenilles"
+    },
+    {
+      "Nom": "Bruyère du Cap",
+      "N. scientifique ": "Erica x hiemalis",
+      "Famille ": "Ericacées",
+      "Origine ": "horticole",
+      "Floraison": "novembre à mars",
+      "Fleurs ": [
+        "     ",
+        "   blanche à rose "
+      ],
+      "Type": "arbuste",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "40 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        "  moyennement rustique -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "limoneux et sableux, terre de bruyère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "méditerranéenne, intérieur, véranda",
+      "Plantation": "printemps, automne",
+      "Multiplication": "boutures"
+    },
+    {
+      "Nom": "Bruyère blanche, Bruyère en arbre",
+      "N. scientifique ": "Erica arborea",
+      "Famille ": "Ericacées",
+      "Origine ": "Europe occidentale, Afrique du nord, Asie",
+      "Floraison": "mars à mai",
+      "Fleurs ": [
+        "     ",
+        "   blanche, rosée "
+      ],
+      "Type": "arbuste",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 4 m",
+      "Rusticité ": "   moyennement rustique, -9°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "siliceux et léger, terre de bruyère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal, drainant",
+      "Utilisation": "massif, lisière",
+      "Plantation": "printemps",
+      "Multiplication": "boutures, semis"
+    },
+    {
+      "Nom": "Arbre de fer, Parrotie de Perse",
+      "N. scientifique ": "Parrotia persica",
+      "Famille ": "Hamamélidacées",
+      "Origine ": "Iran du nord",
+      "Floraison": "février-mars",
+      "Fleurs ": [
+        "     ",
+        "   fleurs rouges sans pétales "
+      ],
+      "Type": "arbuste",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 5 à 10 m de haut en 20 à 30 ans",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  Très rustique, -25°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "profond, riche en humus",
+      "Acidité ": "plutôt acide, survit dans un sol calcaire",
+      "Humidité ": "frais",
+      "Utilisation": "isolé, massif, bac",
+      "Plantation": "automne",
+      "Multiplication": "semis difficile et long, greffage, marcottage ou bouturage",
+      "Taille": "aucune taille, ni aucun traitement ne sont nécessaires",
+      "Sensibilité ": "Très résistant aux maladies et aux parasites"
+    },
+    {
+      "Nom": "Noisetier d'hiver parfumé, Faux noisetier, Corylopsis parfumé",
+      "N. scientifique ": "Corylopsis glabrescens",
+      "Famille ": "Hamamélidacées",
+      "Origine ": "Japon, Chine",
+      "Floraison": "février, mars",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "petit arbre à floraison hivernale",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 5 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, -28 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillé à mi-ombre "
+      ],
+      "Sol": "humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais et drainant",
+      "Utilisation": "en isolé, en massif",
+      "Plantation": "automne, printemps",
+      "Multiplication": "boutures, marcottage, semis"
     }
   ]
 }

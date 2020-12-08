@@ -2,200 +2,6 @@
   "category": "Plantes du bassin",
   "data": [
     {
-      "Nom": "Gunnére, Rhubarbe géante",
-      "N. scientifique ": "Gunnera manicata",
-      "Famille ": "Gunnéracées",
-      "Origine ": "Brésil, Colombie",
-      "Floraison": "juin",
-      "Fleurs ": "        vert-rouge ",
-      "Type": "plante décorative",
-      "Végétation": "vivace",
-      "Feuillage ": "semi-persistant",
-      "Hauteur": "jusqu'à 3 m",
-      "Toxicité": "non comestible malgré son appellation de rhubarbe géante",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  -10°C, moyennement rustique, protégez le pied du Gunnéra à l'aide d'un bon paillage dans les régions les plus froides ou coupez les feuilles que vous utiliserez pour protéger le pied. "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "très riche en humus",
-      "Acidité ": "neutre",
-      "Humidité ": "frais",
-      "Utilisation": "bord d'eau, massif",
-      "Plantation": "printemps",
-      "Multiplication": "semis au printemps, bouturage de jeunes pousses au printemps",
-      "Taille": "pas de taille nécessaire",
-      "Sensibilité ": "les limaces, les aleurodes, les pucerons"
-    },
-    {
-      "Nom": "Grand pétasite, Pétasite officinale",
-      "N. scientifique ": "Petasites hybridus",
-      "Synonymes ": "Petasitus vulgaris, Petasitus officinalis, Petasitus ovatus, Cineraria hybrida",
-      "Famille ": "Astéracées, Composées",
-      "Origine ": "Europe, Asie",
-      "Floraison": "mars à mai",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "   rose à blanc "
-      ],
-      "Type": "plante de zone humide, subaquatique",
-      "Végétation": "plante vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "0.50 à 0,80 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  rustique jusqu'à -29 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ombre à mi-ombre "
-      ],
-      "Sol": "riche",
-      "Acidité ": "moyennement acide à légèrement basique",
-      "Humidité ": "normal à humide",
-      "Utilisation": "à éviter dans un jardin, plante médicinale",
-      "Plantation": "toute l'année en milieu humide",
-      "Multiplication": "division"
-    },
-    {
-      "Nom": "Galane oblique, Galane tête de tortue",
-      "N. scientifique ": "Chelone oblica",
-      "Famille ": "Plantaginacées",
-      "Origine ": "Amérique du nord",
-      "Floraison": "juillet à août",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "plante vivace, plante pour bassin",
-      "Végétation": "herbacée",
-      "Feuillage ": "caduc",
-      "Hauteur": "60 à 80 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, -28°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        " ",
-        "  ensoleillée à ombre dense "
-      ],
-      "Sol": "profond et fertile",
-      "Acidité ": "tolérant",
-      "Humidité ": "frais à humide",
-      "Utilisation": "en massif",
-      "Plantation": "printemps, fin d’été",
-      "Multiplication": "semis, bouturage, division"
-    },
-    {
-      "Nom": "Darmera pelté, Rhubarbe indienne, Plante parapluie",
-      "N. scientifique ": "Darmera peltata",
-      "Synonyme ": "Peltiphyllum peltatum",
-      "Famille ": "Saxifragacées",
-      "Origine ": "Sud-ouest de l'Amérique du Nord",
-      "Floraison": "avril à mai",
-      "Fleurs ": [
-        "     ",
-        "   rosé "
-      ],
-      "Type": "plante de bassin, plante de berge ",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "30 à 150 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -27°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil à ombre claire "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "légèrement acide à légèrement basique",
-      "Humidité ": "frais à humide",
-      "Utilisation": "sous-bois frais, massif ombragé, zone humide",
-      "Plantation": "printemps",
-      "Multiplication": "semis, division­­­­"
-    },
-    {
-      "Nom": "Danseuse étoile",
-      "N. scientifique ": "Rhynchospora colorata",
-      "Synonyme ": "Dichromena colorata",
-      "Famille ": "Cypéracées",
-      "Origine ": "Sud des Etats-Unis, Amérique centrale",
-      "Floraison": "juin à octobre",
-      "Fleurs ": [
-        "     ",
-        "   bractées blanches "
-      ],
-      "Type": "plante de berge",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "45 à 60 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, -6°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "argileux ou sableux",
-      "Acidité ": "acide à légèrement basique",
-      "Humidité ": "terre humide à submergée",
-      "Utilisation": "bassin, conteneur",
-      "Plantation": "printemps",
-      "Multiplication": "divisions, semis"
-    },
-    {
-      "Nom": "Benoîte des ruisseaux, Benoîte aquatique",
-      "N. scientifique ": "Geum rivale",
-      "Famille ": "Rosacées",
-      "Origine ": "Europe, Asie",
-      "Floraison": "avril à mai",
-      "Fleurs ": [
-        "     ",
-        "   jaune rougeâtre "
-      ],
-      "Type": "plante de zone humide",
-      "Végétation": "vivace",
-      "Feuillage ": "semi-persistant",
-      "Hauteur": "20 à 50 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, -15°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "riche et humifère",
-      "Acidité ": "ph moyennement acide à basique",
-      "Humidité ": "humide à inondé",
-      "Utilisation": "parterre, bassin",
-      "Plantation": "printemps, automne",
-      "Multiplication": "division, semis"
-    },
-    {
       "Nom": "Sarracénie pourpre, Sarracène pourpre",
       "N. scientifique ": "Sarracenia purpurea",
       "Famille ": "Sarracéniacées",
@@ -609,6 +415,38 @@
       "Sensibilité ": "les feuilles et fleurs peuvent subir les attaques des limaces ou escargots, résistant aux maladies"
     },
     {
+      "Nom": "Glaïeul écarlate, Lis des Cafres",
+      "N. scientifique ": "Schizostylis coccinea",
+      "Famille ": "Iridacées",
+      "Origine ": "Afrique du sud",
+      "Floraison": "d'août aux gelées",
+      "Fleurs ": [
+        "     ",
+        "   rose, rouge "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistante",
+      "Hauteur": "60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -10°C, rustique, à protéger dans les régions ou l'hiver est rude "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "ordinaire, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "humide",
+      "Utilisation": "bassin, massif",
+      "Plantation": "printemps",
+      "Multiplication": "semis ou division de la touffe au printemps",
+      "Sensibilité ": "résistant aux maladies et aux insectes"
+    },
+    {
       "Nom": "Bougie d’eau, Plante à bougies, Oronte, Flamme d’eau, Cryptocoryne américaine",
       "N. scientifique ": "Orontium aquaticum",
       "Famille ": "Aracées",
@@ -704,87 +542,6 @@
       "Multiplication": "division, semis"
     },
     {
-      "Nom": "Salade d'eau",
-      "N. scientifique ": "Pistia stratiotes",
-      "Famille ": "Aracées",
-      "Origine ": "Amérique, Asie, Afrique, Océanie",
-      "Floraison": "été",
-      "Fleurs ": "        blanc sans intérêt ",
-      "Type": "plante aquatique",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "20cm, avec des racines de 50cm sous l'eau",
-      "Rusticité ": "   non rustique ",
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "plante flottante",
-      "Acidité ": "neutre à acide",
-      "Humidité ": "humide",
-      "Utilisation": "plante décorative pour bassin",
-      "Plantation": "printemps",
-      "Multiplication": "séparation des rejets produit par la plante pendant la belle saison"
-    },
-    {
-      "Nom": "Petite lentille d'eau, Petite lenticule, Lentille d'eau commune",
-      "N. scientifique ": "Lemna minor",
-      "Famille ": "Lemnacées",
-      "Origine ": "tout le globe",
-      "Floraison": "mai à septembre",
-      "Fleurs ": [
-        "     ",
-        "   verte, sans corolle "
-      ],
-      "Type": "plante aquatique flottante",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1 à 3 mm de diamètre",
-      "Rusticité ": "   rustique, - 26°C ",
-      "Exposition ": [
-        "  ",
-        "  ensoleillée "
-      ],
-      "Sol": "eau stagnante riche en matières organique",
-      "Acidité ": "acide à basique",
-      "Humidité ": "eau assez chaude",
-      "Utilisation": "bassin, mare, étang, fossé, aquarium",
-      "Plantation": "printemps",
-      "Multiplication": "division rapide des frondes, propagation par les oiseaux"
-    },
-    {
-      "Nom": "Glaïeul écarlate, Lis des Cafres",
-      "N. scientifique ": "Schizostylis coccinea",
-      "Famille ": "Iridacées",
-      "Origine ": "Afrique du sud",
-      "Floraison": "d'août aux gelées",
-      "Fleurs ": [
-        "     ",
-        "   rose, rouge "
-      ],
-      "Type": "fleur",
-      "Végétation": "vivace",
-      "Feuillage ": "persistante",
-      "Hauteur": "60 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  -10°C, rustique, à protéger dans les régions ou l'hiver est rude "
-      ],
-      "Exposition ": [
-        "  ",
-        "  plein soleil "
-      ],
-      "Sol": "ordinaire, bien drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "humide",
-      "Utilisation": "bassin, massif",
-      "Plantation": "printemps",
-      "Multiplication": "semis ou division de la touffe au printemps",
-      "Sensibilité ": "résistant aux maladies et aux insectes"
-    },
-    {
       "Nom": "Myriophylle aquatique, Millefeuille aquatique",
       "N. scientifique ": "Myriophyllum aquaticum",
       "Synonymes ": " Myriophyllum brasiliense, Myriophyllum proserpinacoides",
@@ -842,6 +599,83 @@
       "Utilisation": "aquarium non chauffé, bassin",
       "Plantation": "printemps",
       "Multiplication": "bouturage"
+    },
+    {
+      "Nom": "Salade d'eau",
+      "N. scientifique ": "Pistia stratiotes",
+      "Famille ": "Aracées",
+      "Origine ": "Amérique, Asie, Afrique, Océanie",
+      "Floraison": "été",
+      "Fleurs ": "        blanc sans intérêt ",
+      "Type": "plante aquatique",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "20cm, avec des racines de 50cm sous l'eau",
+      "Rusticité ": "   non rustique ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "plante flottante",
+      "Acidité ": "neutre à acide",
+      "Humidité ": "humide",
+      "Utilisation": "plante décorative pour bassin",
+      "Plantation": "printemps",
+      "Multiplication": "séparation des rejets produit par la plante pendant la belle saison"
+    },
+    {
+      "Nom": "Petite lentille d'eau, Petite lenticule, Lentille d'eau commune",
+      "N. scientifique ": "Lemna minor",
+      "Famille ": "Lemnacées",
+      "Origine ": "tout le globe",
+      "Floraison": "mai à septembre",
+      "Fleurs ": [
+        "     ",
+        "   verte, sans corolle "
+      ],
+      "Type": "plante aquatique flottante",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 3 mm de diamètre",
+      "Rusticité ": "   rustique, - 26°C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "eau stagnante riche en matières organique",
+      "Acidité ": "acide à basique",
+      "Humidité ": "eau assez chaude",
+      "Utilisation": "bassin, mare, étang, fossé, aquarium",
+      "Plantation": "printemps",
+      "Multiplication": "division rapide des frondes, propagation par les oiseaux"
+    },
+    {
+      "Nom": "Jacinthe d'eau, Camalote",
+      "N. scientifique ": "Eichhornia Crassipes ",
+      "Famille ": "Pontédériacées",
+      "Origine ": "Amérique du sud",
+      "Floraison": "juin, juillet, août",
+      "Fleurs ": [
+        "     ",
+        "   mauve "
+      ],
+      "Type": "plante de bassin",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "25 à 50 cm",
+      "Rusticité ": "   2 °C, rentrez la jacinthe d'eau en serre l'hiver ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "riche, limono-argileux",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "plante flottante",
+      "Utilisation": "bassin, fossé, petit bac, aquarium",
+      "Plantation": "installation dans le jardin d'eau au printemps",
+      "Multiplication": "séparation des rejets, semis",
+      "Sensibilité ": "résistante aux maladies et aux ravageurs"
     },
     {
       "Nom": "Châtaigne d’eau, Mâcre nageante, Truffe d'eau",
@@ -933,32 +767,37 @@
       "Multiplication": "éclat de rhizome, semis"
     },
     {
-      "Nom": "Jacinthe d'eau, Camalote",
-      "N. scientifique ": "Eichhornia Crassipes ",
-      "Famille ": "Pontédériacées",
-      "Origine ": "Amérique du sud",
-      "Floraison": "juin, juillet, août",
+      "Nom": "Nénuphar hybride rustique",
+      "N. scientifique ": "Nymphea x",
+      "Famille ": "Nymphéacées",
+      "Origine ": "Europe",
+      "Floraison": "été",
       "Fleurs ": [
         "     ",
-        "   mauve "
+        "     ",
+        "     ",
+        "     ",
+        "   blanc, rose, rouge, jaune, ...  "
       ],
-      "Type": "plante de bassin",
+      "Type": "plante aquatique",
       "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "25 à 50 cm",
-      "Rusticité ": "   2 °C, rentrez la jacinthe d'eau en serre l'hiver ",
-      "Exposition ": [
+      "Feuillage ": "caduc",
+      "Hauteur": " jusqu'à 1m de surface",
+      "Rusticité ": [
         "  ",
         " ",
-        "  ensoleillée à mi-ombre "
+        "  rustique jusqu'à -19°C,  mais vérifiez la rusticité pour la variété  choisie "
       ],
-      "Sol": "riche, limono-argileux",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "plante flottante",
-      "Utilisation": "bassin, fossé, petit bac, aquarium",
-      "Plantation": "installation dans le jardin d'eau au printemps",
-      "Multiplication": "séparation des rejets, semis",
-      "Sensibilité ": "résistante aux maladies et aux ravageurs"
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "sol ou eau riche",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "pied immergé",
+      "Utilisation": "bassin",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division des rhizomes au printemps, en été, en automne, semis pour les espèces botaniques"
     },
     {
       "Nom": "Nénuphar géant, Victoria d'amazonie",
@@ -1049,39 +888,6 @@
       "Utilisation": "bassin, mare, étang",
       "Plantation": "printemps",
       "Multiplication": "éclats de rhizome, semis"
-    },
-    {
-      "Nom": "Nénuphar hybride rustique",
-      "N. scientifique ": "Nymphea x",
-      "Famille ": "Nymphéacées",
-      "Origine ": "Europe",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "     ",
-        "     ",
-        "   blanc, rose, rouge, jaune, ...  "
-      ],
-      "Type": "plante aquatique",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": " jusqu'à 1m de surface",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique jusqu'à -19°C,  mais vérifiez la rusticité pour la variété  choisie "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "sol ou eau riche",
-      "Acidité ": "légèrement acide à neutre",
-      "Humidité ": "pied immergé",
-      "Utilisation": "bassin",
-      "Plantation": "printemps, automne",
-      "Multiplication": "division des rhizomes au printemps, en été, en automne, semis pour les espèces botaniques"
     },
     {
       "Nom": "Salicaire commune, Herbe aux coliques",
@@ -1338,6 +1144,200 @@
       "Utilisation": "maintien des berges, roselière, phytoépuration, plante comestible, vannerie, bouquet sec",
       "Plantation": "printemps",
       "Multiplication": "division"
+    },
+    {
+      "Nom": "Gunnére, Rhubarbe géante",
+      "N. scientifique ": "Gunnera manicata",
+      "Famille ": "Gunnéracées",
+      "Origine ": "Brésil, Colombie",
+      "Floraison": "juin",
+      "Fleurs ": "        vert-rouge ",
+      "Type": "plante décorative",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "jusqu'à 3 m",
+      "Toxicité": "non comestible malgré son appellation de rhubarbe géante",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  -10°C, moyennement rustique, protégez le pied du Gunnéra à l'aide d'un bon paillage dans les régions les plus froides ou coupez les feuilles que vous utiliserez pour protéger le pied. "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "très riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "bord d'eau, massif",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps, bouturage de jeunes pousses au printemps",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "les limaces, les aleurodes, les pucerons"
+    },
+    {
+      "Nom": "Grand pétasite, Pétasite officinale",
+      "N. scientifique ": "Petasites hybridus",
+      "Synonymes ": "Petasitus vulgaris, Petasitus officinalis, Petasitus ovatus, Cineraria hybrida",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "mars à mai",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   rose à blanc "
+      ],
+      "Type": "plante de zone humide, subaquatique",
+      "Végétation": "plante vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "0.50 à 0,80 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique jusqu'à -29 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "riche",
+      "Acidité ": "moyennement acide à légèrement basique",
+      "Humidité ": "normal à humide",
+      "Utilisation": "à éviter dans un jardin, plante médicinale",
+      "Plantation": "toute l'année en milieu humide",
+      "Multiplication": "division"
+    },
+    {
+      "Nom": "Galane oblique, Galane tête de tortue",
+      "N. scientifique ": "Chelone oblica",
+      "Famille ": "Plantaginacées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "juillet à août",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "plante vivace, plante pour bassin",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "60 à 80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -28°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        " ",
+        "  ensoleillée à ombre dense "
+      ],
+      "Sol": "profond et fertile",
+      "Acidité ": "tolérant",
+      "Humidité ": "frais à humide",
+      "Utilisation": "en massif",
+      "Plantation": "printemps, fin d’été",
+      "Multiplication": "semis, bouturage, division"
+    },
+    {
+      "Nom": "Darmera pelté, Rhubarbe indienne, Plante parapluie",
+      "N. scientifique ": "Darmera peltata",
+      "Synonyme ": "Peltiphyllum peltatum",
+      "Famille ": "Saxifragacées",
+      "Origine ": "Sud-ouest de l'Amérique du Nord",
+      "Floraison": "avril à mai",
+      "Fleurs ": [
+        "     ",
+        "   rosé "
+      ],
+      "Type": "plante de bassin, plante de berge ",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 150 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -27°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à ombre claire "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "frais à humide",
+      "Utilisation": "sous-bois frais, massif ombragé, zone humide",
+      "Plantation": "printemps",
+      "Multiplication": "semis, division­­­­"
+    },
+    {
+      "Nom": "Danseuse étoile",
+      "N. scientifique ": "Rhynchospora colorata",
+      "Synonyme ": "Dichromena colorata",
+      "Famille ": "Cypéracées",
+      "Origine ": "Sud des Etats-Unis, Amérique centrale",
+      "Floraison": "juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "   bractées blanches "
+      ],
+      "Type": "plante de berge",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "45 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -6°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "argileux ou sableux",
+      "Acidité ": "acide à légèrement basique",
+      "Humidité ": "terre humide à submergée",
+      "Utilisation": "bassin, conteneur",
+      "Plantation": "printemps",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Benoîte des ruisseaux, Benoîte aquatique",
+      "N. scientifique ": "Geum rivale",
+      "Famille ": "Rosacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "avril à mai",
+      "Fleurs ": [
+        "     ",
+        "   jaune rougeâtre "
+      ],
+      "Type": "plante de zone humide",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "20 à 50 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "ph moyennement acide à basique",
+      "Humidité ": "humide à inondé",
+      "Utilisation": "parterre, bassin",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division, semis"
     }
   ]
 }

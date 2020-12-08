@@ -1658,6 +1658,35 @@
       "Multiplication": "semis, keiki"
     },
     {
+      "Nom": "Iris bambou",
+      "N. scientifique ": "Iris confusa",
+      "Famille ": "Iridacées",
+      "Origine ": "Chine",
+      "Floraison": "avril à mai",
+      "Fleurs ": [
+        "     ",
+        "   bleu pâle "
+      ],
+      "Type": "herbacée rhizomateuse",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "0,60 à 0,90 m",
+      "Rusticité ": [
+        "  ",
+        "  rusique, jusqu'à -9°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre à ombre légère "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal",
+      "Utilisation": "massif",
+      "Plantation": "printemps",
+      "Multiplication": "divisions, semis"
+    },
+    {
       "Nom": "Houstonie bleue",
       "N. scientifique ": "Houstonia caerulea",
       "Synonyme ": "Hedyotis caerulea",
@@ -1758,6 +1787,37 @@
       "Multiplication": "divisions, semis"
     },
     {
+      "Nom": "Grémil diffus",
+      "N. scientifique ": "Lithodora diffusa",
+      "Synonyme ": "Lithospermum diffusum",
+      "Famille ": "Boraginacées, Borraginacées, Boragacées",
+      "Origine ": "Europe du sud",
+      "Floraison": "mai à juin",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "plante de rocaille",
+      "Végétation": "sous-arbrisseau",
+      "Feuillage ": "persistant",
+      "Hauteur": "10 à 20 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -19°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "drainant et non calcaire",
+      "Acidité ": "acide à légèrement acide",
+      "Humidité ": "normal, supporte les périodes de sécheresse",
+      "Utilisation": "rocaille, talus, bordure, potée",
+      "Plantation": "printemps",
+      "Multiplication": "boutures, semis"
+    },
+    {
       "Nom": "Grande pervenche",
       "N. scientifique ": "Vinca major",
       "Famille ": "Apocynacées",
@@ -1788,66 +1848,6 @@
       "Utilisation": "grand couvre-sol monospécifique",
       "Plantation": "printemps, automne, hiver",
       "Multiplication": "division"
-    },
-    {
-      "Nom": "Iris bambou",
-      "N. scientifique ": "Iris confusa",
-      "Famille ": "Iridacées",
-      "Origine ": "Chine",
-      "Floraison": "avril à mai",
-      "Fleurs ": [
-        "     ",
-        "   bleu pâle "
-      ],
-      "Type": "herbacée rhizomateuse",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "0,60 à 0,90 m",
-      "Rusticité ": [
-        "  ",
-        "  rusique, jusqu'à -9°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  mi-ombre à ombre légère "
-      ],
-      "Sol": "riche et drainant",
-      "Acidité ": "légèrement acide à légèrement basique",
-      "Humidité ": "normal",
-      "Utilisation": "massif",
-      "Plantation": "printemps",
-      "Multiplication": "divisions, semis"
-    },
-    {
-      "Nom": "Grémil diffus",
-      "N. scientifique ": "Lithodora diffusa",
-      "Synonyme ": "Lithospermum diffusum",
-      "Famille ": "Boraginacées, Borraginacées, Boragacées",
-      "Origine ": "Europe du sud",
-      "Floraison": "mai à juin",
-      "Fleurs ": [
-        "     ",
-        "   bleu "
-      ],
-      "Type": "plante de rocaille",
-      "Végétation": "sous-arbrisseau",
-      "Feuillage ": "persistant",
-      "Hauteur": "10 à 20 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, -19°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "drainant et non calcaire",
-      "Acidité ": "acide à légèrement acide",
-      "Humidité ": "normal, supporte les périodes de sécheresse",
-      "Utilisation": "rocaille, talus, bordure, potée",
-      "Plantation": "printemps",
-      "Multiplication": "boutures, semis"
     },
     {
       "Nom": "Globulaire à feuilles cordées, Globulaire à feuilles en coeur, Veuve-cé",

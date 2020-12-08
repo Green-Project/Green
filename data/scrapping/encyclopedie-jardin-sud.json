@@ -2,352 +2,6 @@
   "category": "Plantes méditerranéennes",
   "data": [
     {
-      "Nom": "Phlomis arbustif, Sauge de Jérusalem arbustive",
-      "N. scientifique ": "Phlomis fructicosa",
-      "Famille ": "Labiacées, Lamiacées, Labiées",
-      "Origine ": "Asie, Europe",
-      "Floraison": "mai à septembre",
-      "Fleurs ": [
-        "     ",
-        "   jaune d'or "
-      ],
-      "Type": "arbustive, plante méditerranéenne",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1 à 1,80 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique jusqu'à -15°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "pauvre à riche, supporte le calcaire",
-      "Acidité ": "légèrement acide à basique",
-      "Humidité ": "sec à frais, mais drainant",
-      "Utilisation": "fond ou milieu de massif, haies, talus, zone sèche",
-      "Plantation": "printemps",
-      "Multiplication": "division, bouturage, semis"
-    },
-    {
-      "Nom": "Petit flamboyant, Orgueil de Chine, Fleur de paon, Macata, Baraguette",
-      "N. scientifique ": "Caesalpinia pulcherrima, Poinciana pulcherrima",
-      "Synonyme ": " Poinciana pulcherrima",
-      "Famille ": "Caesalpiniacées",
-      "Origine ": "régions tropicales",
-      "Floraison": "printemps, été",
-      "Fleurs ": "        jaune, rouge-orange ",
-      "Type": "arbuste à fleurs",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant, perd son feuillage sous 10]C",
-      "Hauteur": "de 4 à 5 m",
-      "Toxicité": "les graines contenues dans les gousses sont toxiques",
-      "Rusticité ": "   non rustique, à réserver aux jardins méditerranéen ",
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "riche en humus, bien drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "plutôt frais",
-      "Utilisation": "massif, isolé, bac, serre tempérée",
-      "Plantation": "printemps",
-      "Multiplication": "semis au chaud en avril, bouturage herbacée au printemps, bouturage mi-aoûté en été",
-      "Taille": "en culture en serre, taillez après la floraison pour lui conserver une taille raisonnable",
-      "Sensibilité ": "les aleurodes, les araignées rouges, les cochenilles"
-    },
-    {
-      "Nom": "Pelote d'épingles orange",
-      "N. scientifique ": "Leucospermum cordifolium",
-      "Famille ": "Proteacées",
-      "Origine ": "Afrique du sud",
-      "Floraison": "avril à mai",
-      "Fleurs ": [
-        "     ",
-        "   orange "
-      ],
-      "Type": "plante méditerranéenne",
-      "Végétation": "arbustive",
-      "Feuillage ": "persistant",
-      "Hauteur": "1m 20 à 1m 80",
-      "Rusticité ": "   peu rustique, -6°C, à réserver aux régions au climat doux ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "caillouteux ou sablonneux, pauvre",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "normal à sec",
-      "Utilisation": "conteneur, pleine terre en climat méditerranéen",
-      "Plantation": "printemps",
-      "Multiplication": "bouture, semis"
-    },
-    {
-      "Nom": "Pelote d'épingles en fusée",
-      "N. scientifique ": "Leucospermum reflexum",
-      "Famille ": "Proteacées",
-      "Origine ": "Afrique du sud",
-      "Floraison": "avril à mai",
-      "Fleurs ": [
-        "     ",
-        "   orange, jaune "
-      ],
-      "Type": "plante méditerranéenne",
-      "Végétation": "arbustive",
-      "Feuillage ": "persistant",
-      "Hauteur": "2 à 4 m",
-      "Rusticité ": "   peu rustique, -6°C, à réserver en extérieur aux régions au climat doux ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "caillouteux ou sablonneux, pauvre",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "normal à sec",
-      "Utilisation": "conteneur, pleine terre en climat méditerranéen",
-      "Plantation": "printemps",
-      "Multiplication": "bouture, semis"
-    },
-    {
-      "Nom": "Acanthe à feuilles molles",
-      "N. scientifique ": "Acanthus mollis",
-      "Famille ": "Acanthacées",
-      "Origine ": "Bassin méditerranéen et asie mineure",
-      "Floraison": "juin, juillet, août",
-      "Fleurs ": [
-        "     ",
-        "   blanc-rose "
-      ],
-      "Type": "fleur",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant dans les régions au climat doux, semi-persistant ailleurs",
-      "Hauteur": "de 1,50 à 2 m avec ses hampes florales",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  -15°C, très rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil, mi-ombre dans les régions sud "
-      ],
-      "Sol": "bien drainé, riche en humus",
-      "Acidité ": "neutre",
-      "Humidité ": "frais",
-      "Utilisation": "massif, isolé",
-      "Plantation": "printemps",
-      "Multiplication": "semis au chaud, division de la touffe au printemps ou à l'automne",
-      "Taille": "coupez les hampes florales après la floraison sauf si vous souhaitez récupérez des graines",
-      "Sensibilité ": "l'oïdium, les limaces et les escargots"
-    },
-    {
-      "Nom": "Volubilis bleu, Ipomée bleu",
-      "N. scientifique ": "Ipomoea indica",
-      "Synonymes ": "Ipomoea learii, Ipomoea acuminata",
-      "Famille ": "Convolvulacées",
-      "Origine ": "Amérique du sud, naturalisée ailleurs",
-      "Floraison": "Juin à octobre",
-      "Fleurs ": [
-        "     ",
-        "   bleu "
-      ],
-      "Type": "plante grimpante",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "3 à 10 m",
-      "Rusticité ": "   peu rustique, -4°C ",
-      "Exposition ": [
-        "  ",
-        "  ensoleillée "
-      ],
-      "Sol": "tolérant, riche",
-      "Acidité ": "ph acide à neutre",
-      "Humidité ": "normal",
-      "Utilisation": "haie, palissade, pergola, véranda",
-      "Plantation": "printemps",
-      "Multiplication": "semis, marcottage"
-    },
-    {
-      "Nom": "Plumbago du Cap, Dentelaire du Cap",
-      "N. scientifique ": "Plumbago auriculata",
-      "Synonymes ": "Plumbago capensis, Plumbago grandiflora",
-      "Famille ": "Plumbaginacées",
-      "Origine ": "Afrique du sud",
-      "Floraison": "tout l’été jusqu’aux gelées",
-      "Fleurs ": [
-        "     ",
-        "   bleu ciel "
-      ],
-      "Type": "plante semi-grimpante",
-      "Végétation": "vivace",
-      "Feuillage ": "semi-persistant",
-      "Hauteur": "2 à 4 m",
-      "Rusticité ": "   peu rustique, -5°C, extérieur en climat méditerranéen ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillé à mi-ombre "
-      ],
-      "Sol": "riche",
-      "Acidité ": "tolérant",
-      "Humidité ": "normal à frais",
-      "Utilisation": "extérieur en été, véranda, serre",
-      "Plantation": "printemps",
-      "Multiplication": "division de rejets, semis, boutures"
-    },
-    {
-      "Nom": "Passiflore 'Amethyst', Fleur de la passion",
-      "N. scientifique ": "Passiflora violacea 'Amethyst'",
-      "Synonymes ": "Passiflora violacea, Passiflora amethystina, Passiflora 'Lavender Lady', Passiflora 'Amethyst'",
-      "Famille ": "Passifloracées",
-      "Origine ": "horticole",
-      "Floraison": "tout l'été",
-      "Fleurs ": [
-        "     ",
-        "   violet "
-      ],
-      "Type": "plante grimpante",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1,5 à 4 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique -7°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  lumineuse "
-      ],
-      "Sol": "riche et humifère",
-      "Acidité ": "acide à légèrement basique",
-      "Humidité ": "frais",
-      "Utilisation": "intérieur, serre, véranda, extérieur en climat doux",
-      "Plantation": "printemps",
-      "Multiplication": "semis, boutures"
-    },
-    {
-      "Nom": "Queue de castor, Othonne à feuilles de giroflées",
-      "N. scientifique ": "Hertia cheirifolia",
-      "Synonymes ": "Othonna cheirifolia, Othonnopsis cheirifolia",
-      "Famille ": "Astéracées, Composées",
-      "Origine ": "Algérie, Tunisie",
-      "Floraison": "mars à juillet",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "plante vivace, plante méditerranéenne",
-      "Végétation": "sous-arbrisseau",
-      "Feuillage ": "persistant",
-      "Hauteur": "30 à 40 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique jusqu'à - 12°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "assez drainant, calcaire",
-      "Acidité ": "plutôt basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "massif sec, talus, rocaille, potée, jardin de gravier,  bord de mer",
-      "Plantation": "printemps",
-      "Multiplication": "semis, boutures, marcottage"
-    },
-    {
-      "Nom": "Prêle restio",
-      "N. scientifique ": "Elegia capensis",
-      "Famille ": "Restionacées",
-      "Origine ": "Afrique australe",
-      "Floraison": "étalée",
-      "Fleurs ": [
-        "     ",
-        "   brune "
-      ],
-      "Type": "feuillage décoratif",
-      "Végétation": "vivace",
-      "Feuillage ": "pas de feuilles",
-      "Hauteur": "1,5 à 3 m",
-      "Rusticité ": "   -2°C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à ombre légère "
-      ],
-      "Sol": "sableux et pauvre",
-      "Acidité ": "neutre",
-      "Humidité ": "frais mais drainé",
-      "Utilisation": "massif, en isolé, bordure d’eau",
-      "Plantation": "printemps, automne"
-    },
-    {
-      "Nom": "Plante cigarette, Fleur cigarette",
-      "N. scientifique ": "Cuphea ignea",
-      "Famille ": "Lythracées",
-      "Origine ": "Mexique",
-      "Floraison": "de mai à décembre",
-      "Fleurs ": [
-        "     ",
-        "   rouge "
-      ],
-      "Type": "plante à fleurs",
-      "Végétation": "vivace dans les régions à climat doux",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 80 cm",
-      "Rusticité ": "   5°C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "terreau, bien drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "pot, bac, jardinière",
-      "Plantation": "printemps",
-      "Multiplication": "bouturage",
-      "Sensibilité ": "les limaces, les pucerons"
-    },
-    {
-      "Nom": "Pimelée ferrugineuse, Bonne petite",
-      "N. scientifique ": "Pimelea ferruginea 'Bonne Petite'",
-      "Synonymes ": "Pimelea decussata, Pimelea diosmifolia",
-      "Famille ": "Thyméléacées, Daphnacées",
-      "Origine ": "sud-ouest d’Australie",
-      "Espèces proches": "Pimelea  'Magenta Mist'",
-      "Floraison": "mai à juin",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "vivace arbustive",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "60 à 100 cm",
-      "Rusticité ": "   peu rustique, -3°C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "riche et drainant",
-      "Acidité ": "acide",
-      "Humidité ": "frais à sec",
-      "Utilisation": "massif, potée, plante d’orangerie",
-      "Plantation": "printemps",
-      "Multiplication": "bouturage"
-    },
-    {
       "Nom": "Strelitzia blanc, Oiseau du paradis blanc, Banane sauvage à fleurs blanches, Banane sauvage du Cap",
       "N. scientifique ": " Strelitzia augusta",
       "Synonyme ": "Strelitzia alba",
@@ -583,6 +237,121 @@
       "Utilisation": "massif, potée, comme annuelle",
       "Plantation": "printemps",
       "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Queue de castor, Othonne à feuilles de giroflées",
+      "N. scientifique ": "Hertia cheirifolia",
+      "Synonymes ": "Othonna cheirifolia, Othonnopsis cheirifolia",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Algérie, Tunisie",
+      "Floraison": "mars à juillet",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante vivace, plante méditerranéenne",
+      "Végétation": "sous-arbrisseau",
+      "Feuillage ": "persistant",
+      "Hauteur": "30 à 40 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à - 12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "assez drainant, calcaire",
+      "Acidité ": "plutôt basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif sec, talus, rocaille, potée, jardin de gravier,  bord de mer",
+      "Plantation": "printemps",
+      "Multiplication": "semis, boutures, marcottage"
+    },
+    {
+      "Nom": "Prêle restio",
+      "N. scientifique ": "Elegia capensis",
+      "Famille ": "Restionacées",
+      "Origine ": "Afrique australe",
+      "Floraison": "étalée",
+      "Fleurs ": [
+        "     ",
+        "   brune "
+      ],
+      "Type": "feuillage décoratif",
+      "Végétation": "vivace",
+      "Feuillage ": "pas de feuilles",
+      "Hauteur": "1,5 à 3 m",
+      "Rusticité ": "   -2°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre légère "
+      ],
+      "Sol": "sableux et pauvre",
+      "Acidité ": "neutre",
+      "Humidité ": "frais mais drainé",
+      "Utilisation": "massif, en isolé, bordure d’eau",
+      "Plantation": "printemps, automne"
+    },
+    {
+      "Nom": "Plante cigarette, Fleur cigarette",
+      "N. scientifique ": "Cuphea ignea",
+      "Famille ": "Lythracées",
+      "Origine ": "Mexique",
+      "Floraison": "de mai à décembre",
+      "Fleurs ": [
+        "     ",
+        "   rouge "
+      ],
+      "Type": "plante à fleurs",
+      "Végétation": "vivace dans les régions à climat doux",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 80 cm",
+      "Rusticité ": "   5°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "terreau, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "pot, bac, jardinière",
+      "Plantation": "printemps",
+      "Multiplication": "bouturage",
+      "Sensibilité ": "les limaces, les pucerons"
+    },
+    {
+      "Nom": "Pimelée ferrugineuse, Bonne petite",
+      "N. scientifique ": "Pimelea ferruginea 'Bonne Petite'",
+      "Synonymes ": "Pimelea decussata, Pimelea diosmifolia",
+      "Famille ": "Thyméléacées, Daphnacées",
+      "Origine ": "sud-ouest d’Australie",
+      "Espèces proches": "Pimelea  'Magenta Mist'",
+      "Floraison": "mai à juin",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "vivace arbustive",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "60 à 100 cm",
+      "Rusticité ": "   peu rustique, -3°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "acide",
+      "Humidité ": "frais à sec",
+      "Utilisation": "massif, potée, plante d’orangerie",
+      "Plantation": "printemps",
+      "Multiplication": "bouturage"
     },
     {
       "Nom": "Phlox de nuit",
@@ -1407,6 +1176,125 @@
       "Multiplication": "semis, division des rhizomes au printemps",
       "Taille": "pas de taille nécessaire",
       "Sensibilité ": "les limaces"
+    },
+    {
+      "Nom": "Acanthe à feuilles molles",
+      "N. scientifique ": "Acanthus mollis",
+      "Famille ": "Acanthacées",
+      "Origine ": "Bassin méditerranéen et asie mineure",
+      "Floraison": "juin, juillet, août",
+      "Fleurs ": [
+        "     ",
+        "   blanc-rose "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant dans les régions au climat doux, semi-persistant ailleurs",
+      "Hauteur": "de 1,50 à 2 m avec ses hampes florales",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -15°C, très rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil, mi-ombre dans les régions sud "
+      ],
+      "Sol": "bien drainé, riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif, isolé",
+      "Plantation": "printemps",
+      "Multiplication": "semis au chaud, division de la touffe au printemps ou à l'automne",
+      "Taille": "coupez les hampes florales après la floraison sauf si vous souhaitez récupérez des graines",
+      "Sensibilité ": "l'oïdium, les limaces et les escargots"
+    },
+    {
+      "Nom": "Volubilis bleu, Ipomée bleu",
+      "N. scientifique ": "Ipomoea indica",
+      "Synonymes ": "Ipomoea learii, Ipomoea acuminata",
+      "Famille ": "Convolvulacées",
+      "Origine ": "Amérique du sud, naturalisée ailleurs",
+      "Floraison": "Juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "3 à 10 m",
+      "Rusticité ": "   peu rustique, -4°C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "tolérant, riche",
+      "Acidité ": "ph acide à neutre",
+      "Humidité ": "normal",
+      "Utilisation": "haie, palissade, pergola, véranda",
+      "Plantation": "printemps",
+      "Multiplication": "semis, marcottage"
+    },
+    {
+      "Nom": "Plumbago du Cap, Dentelaire du Cap",
+      "N. scientifique ": "Plumbago auriculata",
+      "Synonymes ": "Plumbago capensis, Plumbago grandiflora",
+      "Famille ": "Plumbaginacées",
+      "Origine ": "Afrique du sud",
+      "Floraison": "tout l’été jusqu’aux gelées",
+      "Fleurs ": [
+        "     ",
+        "   bleu ciel "
+      ],
+      "Type": "plante semi-grimpante",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "2 à 4 m",
+      "Rusticité ": "   peu rustique, -5°C, extérieur en climat méditerranéen ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillé à mi-ombre "
+      ],
+      "Sol": "riche",
+      "Acidité ": "tolérant",
+      "Humidité ": "normal à frais",
+      "Utilisation": "extérieur en été, véranda, serre",
+      "Plantation": "printemps",
+      "Multiplication": "division de rejets, semis, boutures"
+    },
+    {
+      "Nom": "Passiflore 'Amethyst', Fleur de la passion",
+      "N. scientifique ": "Passiflora violacea 'Amethyst'",
+      "Synonymes ": "Passiflora violacea, Passiflora amethystina, Passiflora 'Lavender Lady', Passiflora 'Amethyst'",
+      "Famille ": "Passifloracées",
+      "Origine ": "horticole",
+      "Floraison": "tout l'été",
+      "Fleurs ": [
+        "     ",
+        "   violet "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1,5 à 4 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique -7°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  lumineuse "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à légèrement basique",
+      "Humidité ": "frais",
+      "Utilisation": "intérieur, serre, véranda, extérieur en climat doux",
+      "Plantation": "printemps",
+      "Multiplication": "semis, boutures"
     },
     {
       "Nom": "Pandoréa jasmin",
@@ -3099,6 +2987,118 @@
       "Sensibilité ": "escargots, mineuses"
     },
     {
+      "Nom": "Phlomis arbustif, Sauge de Jérusalem arbustive",
+      "N. scientifique ": "Phlomis fructicosa",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Asie, Europe",
+      "Floraison": "mai à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune d'or "
+      ],
+      "Type": "arbustive, plante méditerranéenne",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 1,80 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "pauvre à riche, supporte le calcaire",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "sec à frais, mais drainant",
+      "Utilisation": "fond ou milieu de massif, haies, talus, zone sèche",
+      "Plantation": "printemps",
+      "Multiplication": "division, bouturage, semis"
+    },
+    {
+      "Nom": "Petit flamboyant, Orgueil de Chine, Fleur de paon, Macata, Baraguette",
+      "N. scientifique ": "Caesalpinia pulcherrima, Poinciana pulcherrima",
+      "Synonyme ": " Poinciana pulcherrima",
+      "Famille ": "Caesalpiniacées",
+      "Origine ": "régions tropicales",
+      "Floraison": "printemps, été",
+      "Fleurs ": "        jaune, rouge-orange ",
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant, perd son feuillage sous 10]C",
+      "Hauteur": "de 4 à 5 m",
+      "Toxicité": "les graines contenues dans les gousses sont toxiques",
+      "Rusticité ": "   non rustique, à réserver aux jardins méditerranéen ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche en humus, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "plutôt frais",
+      "Utilisation": "massif, isolé, bac, serre tempérée",
+      "Plantation": "printemps",
+      "Multiplication": "semis au chaud en avril, bouturage herbacée au printemps, bouturage mi-aoûté en été",
+      "Taille": "en culture en serre, taillez après la floraison pour lui conserver une taille raisonnable",
+      "Sensibilité ": "les aleurodes, les araignées rouges, les cochenilles"
+    },
+    {
+      "Nom": "Pelote d'épingles orange",
+      "N. scientifique ": "Leucospermum cordifolium",
+      "Famille ": "Proteacées",
+      "Origine ": "Afrique du sud",
+      "Floraison": "avril à mai",
+      "Fleurs ": [
+        "     ",
+        "   orange "
+      ],
+      "Type": "plante méditerranéenne",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "1m 20 à 1m 80",
+      "Rusticité ": "   peu rustique, -6°C, à réserver aux régions au climat doux ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "caillouteux ou sablonneux, pauvre",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "conteneur, pleine terre en climat méditerranéen",
+      "Plantation": "printemps",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Pelote d'épingles en fusée",
+      "N. scientifique ": "Leucospermum reflexum",
+      "Famille ": "Proteacées",
+      "Origine ": "Afrique du sud",
+      "Floraison": "avril à mai",
+      "Fleurs ": [
+        "     ",
+        "   orange, jaune "
+      ],
+      "Type": "plante méditerranéenne",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "2 à 4 m",
+      "Rusticité ": "   peu rustique, -6°C, à réserver en extérieur aux régions au climat doux ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "caillouteux ou sablonneux, pauvre",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "conteneur, pleine terre en climat méditerranéen",
+      "Plantation": "printemps",
+      "Multiplication": "bouture, semis"
+    },
+    {
       "Nom": "Osmanthe parfumé, Olivier odorant, Olivier de Chine, Olivier à thé",
       "N. scientifique ": "Osmanthus fragrans",
       "Synonyme ": "Osmanthus macrocarpus",
@@ -3464,6 +3464,38 @@
       "Multiplication": "Le semis est difficile car peu de graines sont fertiles et il ne transmet pas fidèlement les caractères de la plante mère. Les professionnels préfèrent le bouturage en fin d'été de rameaux semi-ligneux. Sachez qu'un plant issu de semis ne fleurit qu'après 3 à 5 ans, un plant provenant de bouture seulement après deux ans.",
       "Taille": "Chaque année, en février ou mars, taillez très court les rameaux florifères, en ne laissant que 4 à 6 bourgeons (environ 8 à 15 cm de long). Pour les sujets cultivés en buisson, cela revient à rabattre la touffe entre 20 et 30 cm du sol. Pour les lagerstroemias en arbre, réduisez toutes les branches secondaires des 2/3 de leur longueur. Supprimez les brindilles chétives et les rameaux mal placés, de manière à conserver une ramure bien équilibrée et aérée en son centre.",
       "Sensibilité ": "les cochenilles, les araignées rouges"
+    },
+    {
+      "Nom": "Laurier rose",
+      "N. scientifique ": "Nerium oleander",
+      "Famille ": "Apocynacées",
+      "Origine ": "Afrique du nord",
+      "Floraison": "tout l'été",
+      "Fleurs ": "        blanc, rose, rouge, saumon, jaune, fuchsia ",
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 4m",
+      "Toxicité": "C'est une des plante les plus dangereuses de nos régions. Feuilles, fleurs, écorce et bois, frais ou séchés, sont toxiques à très faible dose. On considère quune seule feuille peut être mortelle pour lhomme.",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -6°C, jusqu'à -10°C pour les variétés les plus rustiques "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "léger et drainant",
+      "Acidité ": "neutre à légèrement acide",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, haie libre, en bac en dehors d'un climat méditerranéen",
+      "Plantation": "printemps",
+      "Multiplication": "bouturage en eau ou en terre en prélevant une pousse d'une dizaine de centimètres non fleurie en juillet ou en août",
+      "Taille": "Après la floraison, rabattez de moitié les rameaux ayant fleuris. Ça lui redonnera une forme plus dense. Une année sur deux, taillez une branche sur cinq à 40 cm du sol pour que la base soit toujours garnie. La floraison est moindre après une taille sévère qui aura lieu de préférence à la fin de l'hiver si nécessaire",
+      "Sensibilité ": "la pourriture, le chancre, la galle bactérienne (boursouflures grises), l'Ascochita, le puceron noir et jaune, le thrips et les cochenilles"
     },
     {
       "Nom": "Lantanier rampant, Lantanier de Sellow, Lantana violet",
@@ -4099,36 +4131,35 @@
       "Multiplication": "semis"
     },
     {
-      "Nom": "Faux-cotonnier, Gomphocarpe à feuilles de saules, Cotonnier à feuilles étroites",
-      "N. scientifique ": "Gomphocarpus fructicosus",
-      "Synonymes ": "Asclepias fructicosus, Asclepias salicifolium",
-      "Famille ": "Asclépiadacées",
-      "Origine ": "Afrique australe",
-      "Floraison": "de juin jusqu'en automne",
+      "Nom": "Filaire à feuilles étroites",
+      "N. scientifique ": "Phillyrea angustifolia",
+      "Famille ": "Apocynacées",
+      "Origine ": "Europe du sud et nord de l'Afrique",
+      "Floraison": "mars à mai",
       "Fleurs ": [
         "     ",
-        "     ",
-        "   blanc crémeux et rose "
+        "   blanches "
       ],
-      "Type": "sous-arbrisseau",
-      "Végétation": "vivace",
-      "Feuillage ": "semi-persistant",
-      "Hauteur": "0,50 à 2 m",
+      "Type": "plante méditerranéenne",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 4 m",
       "Rusticité ": [
         "  ",
-        "  non rustique, jusqu'à -1 °C "
+        " ",
+        "  rustique -15°C "
       ],
       "Exposition ": [
         "  ",
         " ",
         "  ensoleillée à mi-ombre "
       ],
-      "Sol": "drainant",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "sec à humide",
-      "Utilisation": "ornementale, médicinale, mais aussi invasive",
-      "Plantation": "printemps",
-      "Multiplication": "semis, rejet"
+      "Sol": "léger et drainant",
+      "Acidité ": "tolérant",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, potée",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouturage"
     },
     {
       "Nom": "Fausse bruyère, Étoile du Mexique, Bruyère mexicaine",
@@ -4366,6 +4397,38 @@
       "Multiplication": "semis, bouture"
     },
     {
+      "Nom": "Faux-cotonnier, Gomphocarpe à feuilles de saules, Cotonnier à feuilles étroites",
+      "N. scientifique ": "Gomphocarpus fructicosus",
+      "Synonymes ": "Asclepias fructicosus, Asclepias salicifolium",
+      "Famille ": "Asclépiadacées",
+      "Origine ": "Afrique australe",
+      "Floraison": "de juin jusqu'en automne",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanc crémeux et rose "
+      ],
+      "Type": "sous-arbrisseau",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "0,50 à 2 m",
+      "Rusticité ": [
+        "  ",
+        "  non rustique, jusqu'à -1 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "sec à humide",
+      "Utilisation": "ornementale, médicinale, mais aussi invasive",
+      "Plantation": "printemps",
+      "Multiplication": "semis, rejet"
+    },
+    {
       "Nom": "Eremophila soyeux",
       "N. scientifique ": "Eremophila nivea",
       "Famille ": "Myoporacées",
@@ -4458,96 +4521,6 @@
       "Utilisation": "terrasse, pleine terre, bord de mer, plante mellifère",
       "Plantation": "printemps, automne",
       "Multiplication": "semis, boutures"
-    },
-    {
-      "Nom": "Corokie cotonéastre, Corokia cotonéaster",
-      "N. scientifique ": "Corokia cotoneaster",
-      "Famille ": "Argophyllacées",
-      "Origine ": "Nouvelle-Zélande",
-      "Floraison": "printemps",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "arbuste ornemental",
-      "Végétation": "arbustive",
-      "Feuillage ": "persistant",
-      "Hauteur": "2 à 3 m, mais se taille",
-      "Rusticité ": [
-        "  ",
-        "  semi-rustique, jusqu'à -8 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à ombre claire "
-      ],
-      "Sol": "tolérant, assez drainant plutôt pauvre",
-      "Acidité ": "relativement neutre",
-      "Humidité ": "normal à sec",
-      "Utilisation": "en isolé, dans un massif, en haie, en pot profond",
-      "Plantation": "printemps",
-      "Multiplication": "bouture, semis"
-    },
-    {
-      "Nom": "Ciste pourpre",
-      "N. scientifique ": "Cistus x purpureus",
-      "Famille ": "Cistacées",
-      "Origine ": "Europe méditerranéenne",
-      "Floraison": "juin, juillet",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "arbuste décoratif à fleurs",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 1m 50 à 3m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, -14°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ensoleillée "
-      ],
-      "Sol": "bien drainé, tolérant au calcaire",
-      "Acidité ": "assez tolérant",
-      "Humidité ": "sec",
-      "Utilisation": "arbuste isolé, haie, rocaille",
-      "Plantation": "automne ou printemps",
-      "Multiplication": "bouturage"
-    },
-    {
-      "Nom": "Césalpinie de Gilles, Oiseau de paradis jaune",
-      "N. scientifique ": "Caesalpinia gilliesii",
-      "Synonyme ": "Poinciana giliesii",
-      "Famille ": "Caesalpiniacées",
-      "Origine ": "Madagascar, Argentine, Uruguay",
-      "Floraison": "de mai à août ",
-      "Fleurs ": [
-        "     ",
-        "   jaune aux étamines rouges "
-      ],
-      "Type": "arbuste à fleurs",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 3 m",
-      "Toxicité": "Toutes les parties de la plante sont toxiques",
-      "Rusticité ": "   0°C sur une courte période ",
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "mélange de terre de jardin et de terreau, drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "frais",
-      "Utilisation": "isolé dans le sud de la France, en bac ailleurs",
-      "Plantation": "printemps",
-      "Multiplication": "semis au chaud au printemps, bouturage en été",
-      "Taille": "En bac, taillez après après la floraison pour conserver un port compact",
-      "Sensibilité ": "les cochenilles, les araignées rouges, les mouches blanches"
     },
     {
       "Nom": "Céanothe, Lilas de Californie",
@@ -4672,6 +4645,96 @@
       "Utilisation": "isière, en  isolé, haie",
       "Plantation": "printemps",
       "Multiplication": "boutures, semis"
+    },
+    {
+      "Nom": "Corokie cotonéastre, Corokia cotonéaster",
+      "N. scientifique ": "Corokia cotoneaster",
+      "Famille ": "Argophyllacées",
+      "Origine ": "Nouvelle-Zélande",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "arbuste ornemental",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "2 à 3 m, mais se taille",
+      "Rusticité ": [
+        "  ",
+        "  semi-rustique, jusqu'à -8 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre claire "
+      ],
+      "Sol": "tolérant, assez drainant plutôt pauvre",
+      "Acidité ": "relativement neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "en isolé, dans un massif, en haie, en pot profond",
+      "Plantation": "printemps",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Ciste pourpre",
+      "N. scientifique ": "Cistus x purpureus",
+      "Famille ": "Cistacées",
+      "Origine ": "Europe méditerranéenne",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "arbuste décoratif à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 1m 50 à 3m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -14°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "bien drainé, tolérant au calcaire",
+      "Acidité ": "assez tolérant",
+      "Humidité ": "sec",
+      "Utilisation": "arbuste isolé, haie, rocaille",
+      "Plantation": "automne ou printemps",
+      "Multiplication": "bouturage"
+    },
+    {
+      "Nom": "Césalpinie de Gilles, Oiseau de paradis jaune",
+      "N. scientifique ": "Caesalpinia gilliesii",
+      "Synonyme ": "Poinciana giliesii",
+      "Famille ": "Caesalpiniacées",
+      "Origine ": "Madagascar, Argentine, Uruguay",
+      "Floraison": "de mai à août ",
+      "Fleurs ": [
+        "     ",
+        "   jaune aux étamines rouges "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 3 m",
+      "Toxicité": "Toutes les parties de la plante sont toxiques",
+      "Rusticité ": "   0°C sur une courte période ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "mélange de terre de jardin et de terreau, drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "isolé dans le sud de la France, en bac ailleurs",
+      "Plantation": "printemps",
+      "Multiplication": "semis au chaud au printemps, bouturage en été",
+      "Taille": "En bac, taillez après après la floraison pour conserver un port compact",
+      "Sensibilité ": "les cochenilles, les araignées rouges, les mouches blanches"
     },
     {
       "Nom": "Cassie, Senné",

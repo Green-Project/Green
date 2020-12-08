@@ -2,38 +2,6 @@
   "category": "Arbres et arbustes du printemps",
   "data": [
     {
-      "Nom": "Acacia jaune, Caraganier de Sibérie, Pois de Sibérie",
-      "N. scientifique ": "Caragana arborescens",
-      "Famille ": "Légumineuses, Fabacées, Papilionacées",
-      "Origine ": "Europe de l'Est, Mongolie, Sibérie",
-      "Floraison": "mai",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "arbuste ou petit arbre",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "4 à 6 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -42°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "légèrement acide à très basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "ornementale, alimentaire, coupe-vent",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis, bouture, greffe"
-    },
-    {
       "Nom": "Weigélia jaune",
       "N. scientifique ": "Weigela subsessilis",
       "Famille ": "Caprifoliacées",
@@ -191,6 +159,72 @@
       "Acidité ": "moyennement acide à neutre",
       "Humidité ": "normal",
       "Utilisation": "arbuste isolé, massif, couvre-sol",
+      "Plantation": "automne et printemps",
+      "Multiplication": "boutures, marcottage, semis"
+    },
+    {
+      "Nom": "Viorne de Chine",
+      "N. scientifique ": "Viburnum plicatum",
+      "Famille ": "Adoxacée (anciennement Caprifoliacées)",
+      "Origine ": "Horticole",
+      "Floraison": "En mai et juin",
+      "Fleurs ": [
+        "     ",
+        "   Blanche "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "Vivace",
+      "Feuillage ": "Caduc",
+      "Hauteur": "de 2 à 3m de haut",
+      "Toxicité": "L'espèce type ne produit pas de fruits et est donc exempte de risques toxiques. Attention toutefois aux cultivars en produisant, ils contiennent de la saponine et de la viburnine, toutes deux pouvant provoquer des irritations et des gastro-entérites",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -15°C sans problème. Attention toutefois aux gels tardifs "
+      ],
+      "Exposition ": [
+        "  ",
+        "  Plein soleil à ombrage léger "
+      ],
+      "Sol": "Riche, sablo-humique à argilo-humide, donc de toute façon avec une part importante d'humus et pas trop lourd",
+      "Acidité ": "Neutre à plutôt acide ; il supporte une légère alcalinité",
+      "Humidité ": "Bonne fraîcheur voire une certaine humidité ; supporte mal les sols secs",
+      "Utilisation": "En haie fleurie ou dans des massifs arbustifs, en bac",
+      "Plantation": "D'octobre à avril, en évitant les périodes de gel",
+      "Multiplication": "On optera pour des boutures herbacées en été. C'est la seule option, car ne produisant pas de fruits, le semis est impossible",
+      "Taille": "Suppression éventuelle des fleurs fanées ainsi que du bois mort au cœur de l'arbuste. On taillera les rameaux défleuris au niveau des gros bourgeons ou au-dessus des jeunes pousses. On peut le tailler assez sec pour favoriser la formation de nouvelles tiges. Toutefois son port gracile et original préconise qu'on le laisse tranquille de ce côté",
+      "Sensibilité ": "Armillaire, taches noires, pucerons et charançons"
+    },
+    {
+      "Nom": "Viorne de Carles, Viorne de Corée",
+      "N. scientifique ": "Viburnum carlesii",
+      "Famille ": "Caprifoliacées",
+      "Origine ": "Japon, Corée",
+      "Floraison": "mai",
+      "Fleurs ": [
+        "     ",
+        "   blanche "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,50 à 2 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -29°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "moyennement acide à neutre",
+      "Humidité ": "normal, plus d’arrosage en période très chaude",
+      "Utilisation": "arbuste isolé, haie fleurie, massif",
       "Plantation": "automne et printemps",
       "Multiplication": "boutures, marcottage, semis"
     },
@@ -355,72 +389,6 @@
       "Multiplication": "bouture, marcottage"
     },
     {
-      "Nom": "Viorne de Chine",
-      "N. scientifique ": "Viburnum plicatum",
-      "Famille ": "Adoxacée (anciennement Caprifoliacées)",
-      "Origine ": "Horticole",
-      "Floraison": "En mai et juin",
-      "Fleurs ": [
-        "     ",
-        "   Blanche "
-      ],
-      "Type": "arbuste à fleurs",
-      "Végétation": "Vivace",
-      "Feuillage ": "Caduc",
-      "Hauteur": "de 2 à 3m de haut",
-      "Toxicité": "L'espèce type ne produit pas de fruits et est donc exempte de risques toxiques. Attention toutefois aux cultivars en produisant, ils contiennent de la saponine et de la viburnine, toutes deux pouvant provoquer des irritations et des gastro-entérites",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  -15°C sans problème. Attention toutefois aux gels tardifs "
-      ],
-      "Exposition ": [
-        "  ",
-        "  Plein soleil à ombrage léger "
-      ],
-      "Sol": "Riche, sablo-humique à argilo-humide, donc de toute façon avec une part importante d'humus et pas trop lourd",
-      "Acidité ": "Neutre à plutôt acide ; il supporte une légère alcalinité",
-      "Humidité ": "Bonne fraîcheur voire une certaine humidité ; supporte mal les sols secs",
-      "Utilisation": "En haie fleurie ou dans des massifs arbustifs, en bac",
-      "Plantation": "D'octobre à avril, en évitant les périodes de gel",
-      "Multiplication": "On optera pour des boutures herbacées en été. C'est la seule option, car ne produisant pas de fruits, le semis est impossible",
-      "Taille": "Suppression éventuelle des fleurs fanées ainsi que du bois mort au cœur de l'arbuste. On taillera les rameaux défleuris au niveau des gros bourgeons ou au-dessus des jeunes pousses. On peut le tailler assez sec pour favoriser la formation de nouvelles tiges. Toutefois son port gracile et original préconise qu'on le laisse tranquille de ce côté",
-      "Sensibilité ": "Armillaire, taches noires, pucerons et charançons"
-    },
-    {
-      "Nom": "Viorne de Carles, Viorne de Corée",
-      "N. scientifique ": "Viburnum carlesii",
-      "Famille ": "Caprifoliacées",
-      "Origine ": "Japon, Corée",
-      "Floraison": "mai",
-      "Fleurs ": [
-        "     ",
-        "   blanche "
-      ],
-      "Type": "arbuste à fleurs",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "1,50 à 2 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, -29°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "moyennement acide à neutre",
-      "Humidité ": "normal, plus d’arrosage en période très chaude",
-      "Utilisation": "arbuste isolé, haie fleurie, massif",
-      "Plantation": "automne et printemps",
-      "Multiplication": "boutures, marcottage, semis"
-    },
-    {
       "Nom": "Viorne à feuilles de prunier, Viorne américaine",
       "N. scientifique ": "Viburnum prunifolium",
       "Famille ": "Caprifoliacées",
@@ -450,38 +418,6 @@
       "Utilisation": "haie, arbre isolé, plante médicinale",
       "Plantation": "automne et printemps",
       "Multiplication": "boutures, marcottage, semis"
-    },
-    {
-      "Nom": "Spirée de Thunberg",
-      "N. scientifique ": "Spiraea thunbergii",
-      "Famille ": "Rosacées",
-      "Origine ": "Est de la Chine",
-      "Floraison": "mars",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "arbuste à fleurs",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "1,50 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, -25 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "acide à légèrement basique",
-      "Humidité ": "sec à frais",
-      "Utilisation": "haie, massif, en isolé",
-      "Plantation": "automne et printemps",
-      "Multiplication": "boutures, marcottage"
     },
     {
       "Nom": "Viorne à feuilles de camphrier",
@@ -636,6 +572,38 @@
       "Acidité ": "tolérant",
       "Humidité ": "sec à frais",
       "Utilisation": "haie, massif",
+      "Plantation": "automne et printemps",
+      "Multiplication": "boutures, marcottage"
+    },
+    {
+      "Nom": "Spirée de Thunberg",
+      "N. scientifique ": "Spiraea thunbergii",
+      "Famille ": "Rosacées",
+      "Origine ": "Est de la Chine",
+      "Floraison": "mars",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,50 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -25 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à légèrement basique",
+      "Humidité ": "sec à frais",
+      "Utilisation": "haie, massif, en isolé",
       "Plantation": "automne et printemps",
       "Multiplication": "boutures, marcottage"
     },
@@ -903,6 +871,39 @@
       "Multiplication": "greffage, bouture, semis"
     },
     {
+      "Nom": "Physocarpe à feuille d'Obier",
+      "N. scientifique ": "Physocarpus opulifolius",
+      "Synonymes ": "Spiraea opulifolia, Neillia opulifolia",
+      "Famille ": "Rosacées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "mai à juin",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbre de petite taille",
+      "Végétation": "arbustive",
+      "Feuillage ": "caduc",
+      "Hauteur": "1 m 50 à  2 m 50",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -39°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal",
+      "Utilisation": "massif, isolé, potée, palissé",
+      "Plantation": "automne",
+      "Multiplication": "boutures, marcottes"
+    },
+    {
       "Nom": "Osmanthe de Burkwood",
       "N. scientifique ": "Osmanthus x burkwoodii",
       "Synonyme ": "Osmarea x burkwoodii",
@@ -1127,39 +1128,6 @@
       "Sensibilité ": "les cochenilles, résistant aux maladies"
     },
     {
-      "Nom": "Physocarpe à feuille d'Obier",
-      "N. scientifique ": "Physocarpus opulifolius",
-      "Synonymes ": "Spiraea opulifolia, Neillia opulifolia",
-      "Famille ": "Rosacées",
-      "Origine ": "Amérique du nord",
-      "Floraison": "mai à juin",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "arbre de petite taille",
-      "Végétation": "arbustive",
-      "Feuillage ": "caduc",
-      "Hauteur": "1 m 50 à  2 m 50",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, -39°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "légèrement acide à légèrement basique",
-      "Humidité ": "normal",
-      "Utilisation": "massif, isolé, potée, palissé",
-      "Plantation": "automne",
-      "Multiplication": "boutures, marcottes"
-    },
-    {
       "Nom": "Lilas de Hongrie",
       "N. scientifique ": "Syringa josikaea",
       "Famille ": "Oléacées",
@@ -1191,34 +1159,6 @@
       "Plantation": "automne, printemps",
       "Multiplication": "boutures, semis, division de rejet",
       "Sensibilité ": "oïdium, teigne du lilas"
-    },
-    {
-      "Nom": "Genêt de Madère",
-      "N. scientifique ": "Genista maderensis",
-      "Synonyme ": "Cytisus maderensis",
-      "Famille ": "Légumineuses, Fabacées, Papilionacées",
-      "Origine ": "Madère",
-      "Floraison": "avril-mai",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "plante méditerranéenne",
-      "Végétation": "arbustive",
-      "Feuillage ": "persistant",
-      "Hauteur": "1 à 2 m en culture",
-      "Rusticité ": [
-        "  ",
-        "  peu rustique, -5°C, à réserver aux régions au climat doux "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ombre claire à mi-ombragée "
-      ],
-      "Sol": "drainant, moyennement riche",
-      "Acidité ": "neutre à acide",
-      "Humidité ": "normal",
-      "Utilisation": "potée, jardin d'hiver, véranda"
     },
     {
       "Nom": "Lilas à petites feuilles",
@@ -1410,6 +1350,34 @@
       "Multiplication": "bouturage, semis"
     },
     {
+      "Nom": "Genêt de Madère",
+      "N. scientifique ": "Genista maderensis",
+      "Synonyme ": "Cytisus maderensis",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Madère",
+      "Floraison": "avril-mai",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante méditerranéenne",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 2 m en culture",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, -5°C, à réserver aux régions au climat doux "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ombre claire à mi-ombragée "
+      ],
+      "Sol": "drainant, moyennement riche",
+      "Acidité ": "neutre à acide",
+      "Humidité ": "normal",
+      "Utilisation": "potée, jardin d'hiver, véranda"
+    },
+    {
       "Nom": "Genêt",
       "N. scientifique ": "Cytisus",
       "Famille ": "Légumineuses, Fabacées, Papilionacées",
@@ -1540,6 +1508,38 @@
       "Multiplication": "boutures, marcottage, semis"
     },
     {
+      "Nom": "Exochorde de Wilson, Arbre aux perles",
+      "N. scientifique ": "Exochorda giraldii var. wilsonii",
+      "Synonyme ": "Exochorda racemosa var. wilsonii",
+      "Famille ": "Rosacées",
+      "Origine ": "Chine, Himalaya",
+      "Floraison": "mai, juin",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbre de petit développement",
+      "Végétation": "arborée",
+      "Feuillage ": "caduc",
+      "Hauteur": "2,5 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "limono-argileux",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "en isolé, haie fleurie, conteneur",
+      "Plantation": "automne, printemps",
+      "Sensibilité ": "résistant aux insectes et aux maladies"
+    },
+    {
       "Nom": "Epine vinette de Darwin",
       "N. scientifique ": "Berberis darwinii",
       "Famille ": "Berbéridacées",
@@ -1664,38 +1664,6 @@
       "Multiplication": "semis ou bouturage",
       "Taille": "tailler au printemps si besoin",
       "Sensibilité ": "résistant aux maladies"
-    },
-    {
-      "Nom": "Exochorde de Wilson, Arbre aux perles",
-      "N. scientifique ": "Exochorda giraldii var. wilsonii",
-      "Synonyme ": "Exochorda racemosa var. wilsonii",
-      "Famille ": "Rosacées",
-      "Origine ": "Chine, Himalaya",
-      "Floraison": "mai, juin",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "arbre de petit développement",
-      "Végétation": "arborée",
-      "Feuillage ": "caduc",
-      "Hauteur": "2,5 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, -24°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ensoleillée "
-      ],
-      "Sol": "limono-argileux",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "en isolé, haie fleurie, conteneur",
-      "Plantation": "automne, printemps",
-      "Sensibilité ": "résistant aux insectes et aux maladies"
     },
     {
       "Nom": "Dipelta florifère",
@@ -3631,6 +3599,38 @@
       "Multiplication": "bouturage, greffage",
       "Taille": "Sur les Prunus triloba conduits en touffe, coupez toutes les tiges après la floraison, au niveau d'un beau bourgeon situé le plus près possible du sol. Ce sont en effet les pousses de un an qui fleurissent le mieux. Chez les formes conduites sur tige, conservez un début de ramure bien lignifié, puis taillez tous les jeunes pousses à deux yeux de leur point de départ. Sur les Prunus triloba palissés en éventail, conservez les branches principales et réduisez à deux yeux, toutes les pousses latérales. Toutes les plaies de taille doivent être parées et enduites d'une bonne couche de mastic cicatrisant, car ils sont sensible à la gommose",
       "Sensibilité ": "les pucerons"
+    },
+    {
+      "Nom": "Acacia jaune, Caraganier de Sibérie, Pois de Sibérie",
+      "N. scientifique ": "Caragana arborescens",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Europe de l'Est, Mongolie, Sibérie",
+      "Floraison": "mai",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "arbuste ou petit arbre",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "4 à 6 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -42°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à très basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "ornementale, alimentaire, coupe-vent",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis, bouture, greffe"
     }
   ]
 }

@@ -2,72 +2,6 @@
   "category": "Aromatiques, condimentaires et officinales",
   "data": [
     {
-      "Nom": "Angélique officinale, Angélique aromatique",
-      "N. scientifique ": "Angelica archangelica",
-      "Synonyme ": "Angelica officinalis",
-      "Famille ": "Apiacées, Ombellifères",
-      "Origine ": "Europe du Nord, Asie",
-      "Floraison": "juillet à août",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "   blanche, parfois jaune "
-      ],
-      "Type": "plante herbacée",
-      "Végétation": "bisannuelle ou vivace de vie brève",
-      "Feuillage ": "caduc",
-      "Hauteur": "2,40 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -34 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  mi-ombre, ombre claire "
-      ],
-      "Sol": "sol riche et ordinaire, argile, limon",
-      "Acidité ": "très acide à alcalin",
-      "Humidité ": "normal à humide",
-      "Utilisation": "plante comestible, condimentaire, floraison et silhouette ornementale, plante médicinale, mellifère",
-      "Plantation": "printemps",
-      "Multiplication": "semis"
-    },
-    {
-      "Nom": "Absinthe",
-      "N. scientifique ": "Artemisia absinthium",
-      "Famille ": "Astéracées, Composées",
-      "Origine ": "régions tempérées de l'Asie, de l'Europe et d'Afrique du Nord",
-      "Floraison": "de juillet à octobre",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "aromatique",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 1m, éétalement important",
-      "Toxicité": "plante aromatique mais attention elle possède des substances dangereuses ( à utiliser à faible dose )",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        "  plein soleil "
-      ],
-      "Sol": "riche en humus, bien drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "potager, massif",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis au printemps à l'abri du froid, division de touffes à l'automne et au printemps, boutures herbacée et à talon en juin",
-      "Taille": "A l'automne, rabattez vos pieds d'absinthe à la base.",
-      "Sensibilité ": "la rouille"
-    },
-    {
       "Nom": "Verveine officinale, Verveine commune, Verveine sauvage",
       "N. scientifique ": "Verbena officinalis",
       "Famille ": "Verbénacées",
@@ -347,37 +281,6 @@
       "Sensibilité ": "pourriture, rongeurs"
     },
     {
-      "Nom": "Roquette sauvage, Roquette vivace, Diplotaxis à feuilles étroites, Roquette jaune",
-      "N. scientifique ": "Diplotaxis tenuifolia",
-      "Famille ": "Brassicacées, Crucifères",
-      "Origine ": "Europe, Asie, Afrique, Méditerranée",
-      "Floraison": "avril  à novembre",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "condiment, plante médicinale",
-      "Végétation": "bisannuelle ou vivace à vie brève",
-      "Feuillage ": "caduc",
-      "Hauteur": "30 à 80  cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique jusqu'à -15°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "tolérant, supporte les sols difficiles, sablonneux",
-      "Acidité ": "basique",
-      "Humidité ": "normal",
-      "Utilisation": "friche, chemin, terrain vague",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis"
-    },
-    {
       "Nom": "Poivrier du Sichuan, Poivrier chinois, Clavalier à feuilles de frêne",
       "N. scientifique ": "Zanthoxylum simulans",
       "Synonymes ": "Zanthoxylum podocarpum, Zanthoxylum acanthophyllum, Zanthoxylum argyi, Fagara podocarpa",
@@ -407,6 +310,37 @@
       "Humidité ": "normal",
       "Utilisation": "en isolé, en massif, haie défensive, bonsaï",
       "Plantation": "printemps, automne"
+    },
+    {
+      "Nom": "Roquette sauvage, Roquette vivace, Diplotaxis à feuilles étroites, Roquette jaune",
+      "N. scientifique ": "Diplotaxis tenuifolia",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "Europe, Asie, Afrique, Méditerranée",
+      "Floraison": "avril  à novembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "condiment, plante médicinale",
+      "Végétation": "bisannuelle ou vivace à vie brève",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 80  cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "tolérant, supporte les sols difficiles, sablonneux",
+      "Acidité ": "basique",
+      "Humidité ": "normal",
+      "Utilisation": "friche, chemin, terrain vague",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
     },
     {
       "Nom": "Poivrier du Sichuan",
@@ -470,67 +404,6 @@
       "Sensibilité ": "résistant aux maladies mais gare aux araignées rouges en culture d'intérieur"
     },
     {
-      "Nom": "Piment",
-      "N. scientifique ": "Capsicum",
-      "Famille ": "Solanacées",
-      "Origine ": "Amérique centrale",
-      "Floraison": "juin à septembre",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "   blanc verdâtre, jaunâtre, violet avec ou sans parties blanches "
-      ],
-      "Type": "condiment",
-      "Végétation": "annuel",
-      "Feuillage ": "caduc",
-      "Hauteur": "10 cm à 1,50 m",
-      "Toxicité": "feuillage toxique, fruit très piquant, ils se consomment à très petite dose",
-      "Rusticité ": "   non rustique ",
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "humifère, riche ",
-      "Acidité ": "légèrement acide à légèrement basique",
-      "Humidité ": "normal",
-      "Utilisation": "potager",
-      "Plantation": "printemps",
-      "Multiplication": "semis au chaud en fin d'hiver, printemps",
-      "Taille": "pas de taille nécessaire",
-      "Sensibilité ": "les pucerons, les acariens"
-    },
-    {
-      "Nom": "Oignon rocambole, Oignon de Catawissa",
-      "N. scientifique ": "Allium cepa var. Proliferum",
-      "Famille ": "Amaryllidacées",
-      "Origine ": "Europe méridionale, Egypte",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "vivace",
-      "Végétation": "persistant",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 50cm",
-      "Toxicité": "consommation des bulbilles",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "léger, riche, bien drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "potager",
-      "Plantation": "printemps, automne",
-      "Multiplication": "division de la touffe tous les 4-5 ans"
-    },
-    {
       "Nom": "Oignon patate",
       "N. scientifique ": "Allium cepa var. aggregatum",
       "Famille ": "Amaryllidacées",
@@ -590,6 +463,67 @@
       "Utilisation": "potager",
       "Plantation": "automne et printemps",
       "Multiplication": "division des touffes"
+    },
+    {
+      "Nom": "Piment",
+      "N. scientifique ": "Capsicum",
+      "Famille ": "Solanacées",
+      "Origine ": "Amérique centrale",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanc verdâtre, jaunâtre, violet avec ou sans parties blanches "
+      ],
+      "Type": "condiment",
+      "Végétation": "annuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "10 cm à 1,50 m",
+      "Toxicité": "feuillage toxique, fruit très piquant, ils se consomment à très petite dose",
+      "Rusticité ": "   non rustique ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "humifère, riche ",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis au chaud en fin d'hiver, printemps",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "les pucerons, les acariens"
+    },
+    {
+      "Nom": "Oignon rocambole, Oignon de Catawissa",
+      "N. scientifique ": "Allium cepa var. Proliferum",
+      "Famille ": "Amaryllidacées",
+      "Origine ": "Europe méridionale, Egypte",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "vivace",
+      "Végétation": "persistant",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 50cm",
+      "Toxicité": "consommation des bulbilles",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "léger, riche, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division de la touffe tous les 4-5 ans"
     },
     {
       "Nom": "Oignon",
@@ -2346,6 +2280,72 @@
       "Utilisation": "plante condimentaire et ornementale, plante médicinale en autres utilisée pour lutter contre la Malaria",
       "Plantation": "automne, printemps",
       "Multiplication": "semis, bouture"
+    },
+    {
+      "Nom": "Angélique officinale, Angélique aromatique",
+      "N. scientifique ": "Angelica archangelica",
+      "Synonyme ": "Angelica officinalis",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Europe du Nord, Asie",
+      "Floraison": "juillet à août",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanche, parfois jaune "
+      ],
+      "Type": "plante herbacée",
+      "Végétation": "bisannuelle ou vivace de vie brève",
+      "Feuillage ": "caduc",
+      "Hauteur": "2,40 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre, ombre claire "
+      ],
+      "Sol": "sol riche et ordinaire, argile, limon",
+      "Acidité ": "très acide à alcalin",
+      "Humidité ": "normal à humide",
+      "Utilisation": "plante comestible, condimentaire, floraison et silhouette ornementale, plante médicinale, mellifère",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Absinthe",
+      "N. scientifique ": "Artemisia absinthium",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "régions tempérées de l'Asie, de l'Europe et d'Afrique du Nord",
+      "Floraison": "de juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "aromatique",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 1m, éétalement important",
+      "Toxicité": "plante aromatique mais attention elle possède des substances dangereuses ( à utiliser à faible dose )",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "riche en humus, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager, massif",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis au printemps à l'abri du froid, division de touffes à l'automne et au printemps, boutures herbacée et à talon en juin",
+      "Taille": "A l'automne, rabattez vos pieds d'absinthe à la base.",
+      "Sensibilité ": "la rouille"
     }
   ]
 }

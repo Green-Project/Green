@@ -2220,61 +2220,6 @@
       "Multiplication": "boutures, semis"
     },
     {
-      "Nom": "Sansevière bâton",
-      "N. scientifique ": "Sansevieria stuckyi",
-      "Famille ": "Asparagacées",
-      "Origine ": "Côte est de l'Afrique",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "plante d'intérieur, plante succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "0,60 à 2 m",
-      "Rusticité ": "   plante gélive, jusqu'à 5 °C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre, ombre claire "
-      ],
-      "Sol": "drainant",
-      "Acidité ": "légèrement acide à basique",
-      "Humidité ": "arrosages espacés",
-      "Utilisation": "culture en pot",
-      "Plantation": "printemps, automne",
-      "Multiplication": "bouturage, semis"
-    },
-    {
-      "Nom": "Sansevière à feuilles cylindriques",
-      "N. scientifique ": "Sansevieria cylindrica",
-      "Synonymes ": "Acyntha cylindrica, Cordyline cylindrica, Sansevieria angolensis",
-      "Famille ": "Asparagacées",
-      "Origine ": "Afrique",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "plante succulente, plante d'intérieur",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "50 à 90 cm",
-      "Rusticité ": "   non rustique, 6 °C minimum ",
-      "Exposition ": [
-        "  ",
-        "  lumière vive, mais tamisée "
-      ],
-      "Sol": "drainant",
-      "Acidité ": "légèrement acide à basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "conteneur, intérieur, extérieur à la belle saison",
-      "Plantation": "printemps, été",
-      "Multiplication": "division, bouture de feuilles",
-      "Sensibilité ": "les cochenilles"
-    },
-    {
       "Nom": "Plante parachute, Céropégia",
       "N. scientifique ": "Ceropegia sandersonii",
       "Famille ": "Asclépiadacées",
@@ -2439,6 +2384,61 @@
       "Multiplication": "bouturage, division, semis"
     },
     {
+      "Nom": "Sansevière bâton",
+      "N. scientifique ": "Sansevieria stuckyi",
+      "Famille ": "Asparagacées",
+      "Origine ": "Côte est de l'Afrique",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante d'intérieur, plante succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "0,60 à 2 m",
+      "Rusticité ": "   plante gélive, jusqu'à 5 °C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre, ombre claire "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "arrosages espacés",
+      "Utilisation": "culture en pot",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouturage, semis"
+    },
+    {
+      "Nom": "Sansevière à feuilles cylindriques",
+      "N. scientifique ": "Sansevieria cylindrica",
+      "Synonymes ": "Acyntha cylindrica, Cordyline cylindrica, Sansevieria angolensis",
+      "Famille ": "Asparagacées",
+      "Origine ": "Afrique",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante succulente, plante d'intérieur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "50 à 90 cm",
+      "Rusticité ": "   non rustique, 6 °C minimum ",
+      "Exposition ": [
+        "  ",
+        "  lumière vive, mais tamisée "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "conteneur, intérieur, extérieur à la belle saison",
+      "Plantation": "printemps, été",
+      "Multiplication": "division, bouture de feuilles",
+      "Sensibilité ": "les cochenilles"
+    },
+    {
       "Nom": "Orpin rouge",
       "N. scientifique ": "Sedum moranense",
       "Synonymes ": "Sedum arboreum, Sedum submontanum",
@@ -2568,69 +2568,6 @@
       "Sensibilité ": "la pourriture"
     },
     {
-      "Nom": "Orpin doux, Orpin de Bologne, Orpin à 6 angles",
-      "N. scientifique ": "Sedum sexangulare",
-      "Synonymes ": "Sedum boloniense, Sedum mite, Sedum tschernokolevii",
-      "Famille ": "Crassulacées",
-      "Origine ": "Europe",
-      "Floraison": "juin, juillet",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "plante grasse",
-      "Végétation": "vivace",
-      "Feuillage ": "feuilles épaissies, persistantes",
-      "Hauteur": "5 à 12 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, -15°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "normal, drainant",
-      "Acidité ": "indifférent",
-      "Humidité ": "sec à normal",
-      "Utilisation": "plante de rocaille",
-      "Plantation": "avril à septembre",
-      "Multiplication": "bouturage, division"
-    },
-    {
-      "Nom": "Orpin de Siebold",
-      "N. scientifique ": "Sedum sieboldii",
-      "Famille ": "Crassulacées",
-      "Origine ": "Japon",
-      "Floraison": "fin d’été",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "plante grasse, succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "20cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, -19° C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  lumineuse à mi-ombre "
-      ],
-      "Sol": "sol minéral, drainant et pauvre",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "potée, jardin, mur, rocaille",
-      "Plantation": "avril à juillet",
-      "Multiplication": "bouturage, division"
-    },
-    {
       "Nom": "Orpin de Montéreale, Orpin de Mondovi, Sédum à feuilles en croix",
       "N. scientifique ": "Sedum monregalense",
       "Synonyme ": "Sedum cruciatum",
@@ -2692,6 +2629,69 @@
       "Humidité ": "sec à normal",
       "Utilisation": "plante de rocaille, couvre-sol",
       "Plantation": "d'avril à septembre",
+      "Multiplication": "bouturage, division"
+    },
+    {
+      "Nom": "Orpin doux, Orpin de Bologne, Orpin à 6 angles",
+      "N. scientifique ": "Sedum sexangulare",
+      "Synonymes ": "Sedum boloniense, Sedum mite, Sedum tschernokolevii",
+      "Famille ": "Crassulacées",
+      "Origine ": "Europe",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante grasse",
+      "Végétation": "vivace",
+      "Feuillage ": "feuilles épaissies, persistantes",
+      "Hauteur": "5 à 12 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "normal, drainant",
+      "Acidité ": "indifférent",
+      "Humidité ": "sec à normal",
+      "Utilisation": "plante de rocaille",
+      "Plantation": "avril à septembre",
+      "Multiplication": "bouturage, division"
+    },
+    {
+      "Nom": "Orpin de Siebold",
+      "N. scientifique ": "Sedum sieboldii",
+      "Famille ": "Crassulacées",
+      "Origine ": "Japon",
+      "Floraison": "fin d’été",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "plante grasse, succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "20cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -19° C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  lumineuse à mi-ombre "
+      ],
+      "Sol": "sol minéral, drainant et pauvre",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "potée, jardin, mur, rocaille",
+      "Plantation": "avril à juillet",
       "Multiplication": "bouturage, division"
     },
     {
@@ -3634,64 +3634,35 @@
       "Multiplication": "bouture, semis"
     },
     {
-      "Nom": "Echeveria frisé",
-      "N. scientifique ": "Echeveria shaviana",
-      "Famille ": "Crassulacées",
-      "Origine ": "Mexique",
-      "Floraison": "juin",
+      "Nom": "Délosperma à feuilles cylindriques",
+      "N. scientifique ": "Delosperma spalmanhoïde",
+      "Famille ": "Aizoacées",
+      "Origine ": "Afrique du Sud",
+      "Floraison": "mars, avril",
       "Fleurs ": [
         "     ",
-        "   orange à rosé "
+        "   violet "
       ],
-      "Type": "plante succulente",
+      "Type": "plante grasse, succulente",
       "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "40 cm",
+      "Feuillage ": "feuilles persistantes",
+      "Hauteur": "4 cm",
       "Rusticité ": [
         "  ",
-        "  peu rustique, jusqu'à -3 °C "
-      ],
-      "Exposition ": [
-        "  ",
         " ",
-        "  ensoleillée à ombre claire "
+        "  rustique, jusqu'à -18 °C "
       ],
-      "Sol": "tolérant",
-      "Acidité ": "légèrement acide à basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "serre, véranda, plante d'intérieur, extérieur en zone méditerranéenne",
-      "Plantation": "printemps, été",
-      "Multiplication": "bouture, semis"
-    },
-    {
-      "Nom": "Echeveria",
-      "N. scientifique ": "Echeveria",
-      "Famille ": "Crassulacées",
-      "Origine ": "Mexique",
-      "Floraison": "printemps",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "     ",
-        "     ",
-        "   rouges, orangées, parfois jaunes à l’intérieur "
-      ],
-      "Type": "succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 10 à 30 cm selon les espèces",
-      "Rusticité ": "   minimum 5 ° au sec ",
       "Exposition ": [
         "  ",
-        "  soleil "
+        "  ensoleillée "
       ],
-      "Sol": "sableux, bien drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "sec",
-      "Utilisation": "serre, rocaille, appartement",
-      "Plantation": "printemps",
-      "Multiplication": "semis, boutures de feuilles, de tiges",
-      "Sensibilité ": "cochenilles, escargots, limaces"
+      "Sol": "drainant, sablonneux, minéral",
+      "Acidité ": "tolérant, aime le calcaire",
+      "Humidité ": "frais en hiver, sec en été",
+      "Utilisation": "rocaille, auge, jardin de gravier",
+      "Plantation": "printemps, fin d'été",
+      "Multiplication": "semis, bouturage",
+      "Sensibilité ": "pourriture des tissus"
     },
     {
       "Nom": "Drosanthème",
@@ -3786,6 +3757,93 @@
       "Sensibilité ": "pourriture due à l'humidité"
     },
     {
+      "Nom": "Echeveria frisé",
+      "N. scientifique ": "Echeveria shaviana",
+      "Famille ": "Crassulacées",
+      "Origine ": "Mexique",
+      "Floraison": "juin",
+      "Fleurs ": [
+        "     ",
+        "   orange à rosé "
+      ],
+      "Type": "plante succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "40 cm",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, jusqu'à -3 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre claire "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "serre, véranda, plante d'intérieur, extérieur en zone méditerranéenne",
+      "Plantation": "printemps, été",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Dasylire de Berlandier",
+      "N. scientifique ": "Dasylirion berlandieri",
+      "Famille ": "Agavacées",
+      "Origine ": "Amérique centrale",
+      "Floraison": "août, septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "vivace arbustive exotique",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1m, 4m lors de la floraison",
+      "Rusticité ": "   rustique jusqu'à -12°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  plein soleil à éventuellement mi-ombre "
+      ],
+      "Sol": "minéral et très drainant",
+      "Acidité ": "neutre à alcalin",
+      "Humidité ": "normal à très sec",
+      "Utilisation": "potée, rocaille, serre froide, véranda",
+      "Plantation": "printemps",
+      "Multiplication": "semis au chaud au printemps"
+    },
+    {
+      "Nom": "Echeveria",
+      "N. scientifique ": "Echeveria",
+      "Famille ": "Crassulacées",
+      "Origine ": "Mexique",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   rouges, orangées, parfois jaunes à l’intérieur "
+      ],
+      "Type": "succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 10 à 30 cm selon les espèces",
+      "Rusticité ": "   minimum 5 ° au sec ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "sableux, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "sec",
+      "Utilisation": "serre, rocaille, appartement",
+      "Plantation": "printemps",
+      "Multiplication": "semis, boutures de feuilles, de tiges",
+      "Sensibilité ": "cochenilles, escargots, limaces"
+    },
+    {
       "Nom": "Délosperma congestionné, Pourpier congestionné",
       "N. scientifique ": "Delosperma congestum",
       "Famille ": "Aizoacées",
@@ -3817,64 +3875,6 @@
       "Sensibilité ": "pourriture"
     },
     {
-      "Nom": "Délosperma à feuilles cylindriques",
-      "N. scientifique ": "Delosperma spalmanhoïde",
-      "Famille ": "Aizoacées",
-      "Origine ": "Afrique du Sud",
-      "Floraison": "mars, avril",
-      "Fleurs ": [
-        "     ",
-        "   violet "
-      ],
-      "Type": "plante grasse, succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "feuilles persistantes",
-      "Hauteur": "4 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, jusqu'à -18 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ensoleillée "
-      ],
-      "Sol": "drainant, sablonneux, minéral",
-      "Acidité ": "tolérant, aime le calcaire",
-      "Humidité ": "frais en hiver, sec en été",
-      "Utilisation": "rocaille, auge, jardin de gravier",
-      "Plantation": "printemps, fin d'été",
-      "Multiplication": "semis, bouturage",
-      "Sensibilité ": "pourriture des tissus"
-    },
-    {
-      "Nom": "Dasylire de Berlandier",
-      "N. scientifique ": "Dasylirion berlandieri",
-      "Famille ": "Agavacées",
-      "Origine ": "Amérique centrale",
-      "Floraison": "août, septembre",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "vivace arbustive exotique",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1m, 4m lors de la floraison",
-      "Rusticité ": "   rustique jusqu'à -12°C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  plein soleil à éventuellement mi-ombre "
-      ],
-      "Sol": "minéral et très drainant",
-      "Acidité ": "neutre à alcalin",
-      "Humidité ": "normal à très sec",
-      "Utilisation": "potée, rocaille, serre froide, véranda",
-      "Plantation": "printemps",
-      "Multiplication": "semis au chaud au printemps"
-    },
-    {
       "Nom": "Dasylire acrotriche",
       "N. scientifique ": "Dasylirion acrotrichum",
       "Famille ": "Asparagacées",
@@ -3903,6 +3903,39 @@
       "Utilisation": "potée, rocaille, serre froide, véranda",
       "Plantation": "printemps",
       "Multiplication": "semis"
+    },
+    {
+      "Nom": "Crassula de Schmidt",
+      "N. scientifique ": "Crassula exilis ssp. schmidtii",
+      "Synonyme ": "Crassula exilis subsp Schmidtii",
+      "Famille ": "Crassulacées",
+      "Origine ": "Afrique du Sud ou origine horticole",
+      "Floraison": "n'importe quand",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   rose/rougeâtre parfois blanche "
+      ],
+      "Type": "plante succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "feuilles épaissies, persistantes",
+      "Hauteur": "15 à 30 cm",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, -4 °C minimum "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "sol minéral et drainant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "assez sec, arrosage en fonction du cycle de la plante",
+      "Utilisation": "plante d'intérieur, véranda, extérieur en été",
+      "Plantation": "d'avril à septembre",
+      "Multiplication": "bouturage, semis"
     },
     {
       "Nom": "Crassule",
@@ -3991,68 +4024,6 @@
       "Plantation": "d'avril à juillet"
     },
     {
-      "Nom": "Crassula de Schmidt",
-      "N. scientifique ": "Crassula exilis ssp. schmidtii",
-      "Synonyme ": "Crassula exilis subsp Schmidtii",
-      "Famille ": "Crassulacées",
-      "Origine ": "Afrique du Sud ou origine horticole",
-      "Floraison": "n'importe quand",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "     ",
-        "   rose/rougeâtre parfois blanche "
-      ],
-      "Type": "plante succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "feuilles épaissies, persistantes",
-      "Hauteur": "15 à 30 cm",
-      "Rusticité ": [
-        "  ",
-        "  peu rustique, -4 °C minimum "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "sol minéral et drainant",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "assez sec, arrosage en fonction du cycle de la plante",
-      "Utilisation": "plante d'intérieur, véranda, extérieur en été",
-      "Plantation": "d'avril à septembre",
-      "Multiplication": "bouturage, semis"
-    },
-    {
-      "Nom": "Crassula à faucilles, Plante à hélice",
-      "N. scientifique ": "Crassula perfoliata var. minor",
-      "Synonymes ": "Larochea falcata var. minor, Rochea falcata var. minor, Crassula falcata, Larochea falcata, Rochea falcata, Crassula perfoliata var. falcata, Crassula retroflexa, Crassula falx",
-      "Famille ": "Crassulacées",
-      "Origine ": "Afrique du sud (Eastern Cape), vallées de rivières asséchées du Bushveld (=maquis)",
-      "Floraison": "milieu d'été",
-      "Fleurs ": [
-        "     ",
-        "   rouge "
-      ],
-      "Type": "plante succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "feuilles épaissies, persistantes",
-      "Hauteur": "15 à 50 cm",
-      "Rusticité ": "   non rustique, -2°C au sec ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "sol minéral et drainant",
-      "Acidité ": "neutre à basique, ne craint pas le calcaire",
-      "Humidité ": "sec, arrosage en fonction du cycle de la plante",
-      "Utilisation": "plante d'intérieur, véranda, extérieur en été",
-      "Plantation": "printemps, avant la reprise végétative (fin Mars/début Avril)",
-      "Multiplication": "bouturage, semis",
-      "Sensibilité ": "cochenilles, poux des racines, attaques cryptogamique. Pourriture due à l'humidité excessive"
-    },
-    {
       "Nom": "Crassula 'Buddha's Temple'",
       "N. scientifique ": "Crassula ‘Temple’s boubha’",
       "Famille ": "Crassulacées",
@@ -4104,6 +4075,35 @@
       "Utilisation": "plante d’intérieur, véranda",
       "Plantation": "pendant toute la belle saison",
       "Multiplication": "bouturage, semis"
+    },
+    {
+      "Nom": "Crassula à faucilles, Plante à hélice",
+      "N. scientifique ": "Crassula perfoliata var. minor",
+      "Synonymes ": "Larochea falcata var. minor, Rochea falcata var. minor, Crassula falcata, Larochea falcata, Rochea falcata, Crassula perfoliata var. falcata, Crassula retroflexa, Crassula falx",
+      "Famille ": "Crassulacées",
+      "Origine ": "Afrique du sud (Eastern Cape), vallées de rivières asséchées du Bushveld (=maquis)",
+      "Floraison": "milieu d'été",
+      "Fleurs ": [
+        "     ",
+        "   rouge "
+      ],
+      "Type": "plante succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "feuilles épaissies, persistantes",
+      "Hauteur": "15 à 50 cm",
+      "Rusticité ": "   non rustique, -2°C au sec ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "sol minéral et drainant",
+      "Acidité ": "neutre à basique, ne craint pas le calcaire",
+      "Humidité ": "sec, arrosage en fonction du cycle de la plante",
+      "Utilisation": "plante d'intérieur, véranda, extérieur en été",
+      "Plantation": "printemps, avant la reprise végétative (fin Mars/début Avril)",
+      "Multiplication": "bouturage, semis",
+      "Sensibilité ": "cochenilles, poux des racines, attaques cryptogamique. Pourriture due à l'humidité excessive"
     },
     {
       "Nom": "Cactus étoile de mer",

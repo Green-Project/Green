@@ -2,6 +2,35 @@
   "category": "Feuillages décoratifs",
   "data": [
     {
+      "Nom": "Bouclier persan",
+      "N. scientifique ": "Strobilanthes dyerianus",
+      "Famille ": "Acanthacées",
+      "Origine ": "Birmanie",
+      "Floraison": "automne, hiver",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "plante d'intérieur, pour l'extérieur en été et hivernée hors gel, ou cultivée en annuelle",
+      "Végétation": "vivace",
+      "Feuillage ": "plus ou moins persistant",
+      "Hauteur": "35 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, jusqu'à -5 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ombre claire "
+      ],
+      "Sol": "humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "toujours frais, mais sans excès",
+      "Utilisation": "massif, potée",
+      "Plantation": "printemps",
+      "Multiplication": "division, semis"
+    },
+    {
       "Nom": "Zoysia du Japon",
       "N. scientifique ": "Zoysia japonica",
       "Famille ": "Poacées, Graminées",
@@ -129,36 +158,6 @@
       "Sensibilité ": "résistant aux maladies"
     },
     {
-      "Nom": "Restio",
-      "N. scientifique ": "Thamnochortus insignis",
-      "Famille ": "Restionacées",
-      "Origine ": "Afrique, le Cap",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "   brune "
-      ],
-      "Type": "feuillage décoratif",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1,5 à 3 m",
-      "Rusticité ": [
-        "  ",
-        "  peu rustique, jusqu'à -7°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à ombre légère "
-      ],
-      "Sol": "drainant",
-      "Acidité ": "légèrement acide à légèrement basique",
-      "Humidité ": "frais à sec",
-      "Utilisation": "ornemental en massif, en isolé, fabrication  des toits de chaumes",
-      "Plantation": "printemps",
-      "Sensibilité ": "peu de problèmes si les conditions de culture sont bonnes"
-    },
-    {
       "Nom": "Sagine subulée",
       "N. scientifique ": "Sagina subulata",
       "Famille ": "Caryophyllacées",
@@ -224,6 +223,36 @@
       "Utilisation": "massif, bordure d'étang, lagunage, phyto-épuration",
       "Plantation": "printemps",
       "Multiplication": "division"
+    },
+    {
+      "Nom": "Restio",
+      "N. scientifique ": "Thamnochortus insignis",
+      "Famille ": "Restionacées",
+      "Origine ": "Afrique, le Cap",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   brune "
+      ],
+      "Type": "feuillage décoratif",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1,5 à 3 m",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, jusqu'à -7°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre légère "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "frais à sec",
+      "Utilisation": "ornemental en massif, en isolé, fabrication  des toits de chaumes",
+      "Plantation": "printemps",
+      "Sensibilité ": "peu de problèmes si les conditions de culture sont bonnes"
     },
     {
       "Nom": "Paris polyphylla",
@@ -419,6 +448,33 @@
       "Multiplication": "division"
     },
     {
+      "Nom": "Lin des montagnes, Phormium des Montagnes, Phormium de Cook",
+      "N. scientifique ": "Phormium cookianum",
+      "Synonyme ": "Phormium colensoi",
+      "Famille ": "Asphodélacées",
+      "Origine ": "Nouvelle-Zélande",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante  en forme de grande graminée",
+      "Végétation": "plante vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1m à 1,50 m",
+      "Rusticité ": "   feuillage -7°C, souche -15 °C ",
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "riche, humifère",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "sol normal à frais",
+      "Utilisation": "massif",
+      "Plantation": "printemps",
+      "Multiplication": "semis, division"
+    },
+    {
       "Nom": "Lin de Nouvelle-Zélande, Chanvre de Nouvelle-Zélande",
       "N. scientifique ": "Phormium tenax",
       "Famille ": "Liliacées",
@@ -449,33 +505,6 @@
       "Multiplication": "semis au printemps, division de la touffe en automne",
       "Taille": "retirez les hampes florales après la floraison",
       "Sensibilité ": "les cochenilles farineuses"
-    },
-    {
-      "Nom": "Lin des montagnes, Phormium des Montagnes, Phormium de Cook",
-      "N. scientifique ": "Phormium cookianum",
-      "Synonyme ": "Phormium colensoi",
-      "Famille ": "Asphodélacées",
-      "Origine ": "Nouvelle-Zélande",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "plante  en forme de grande graminée",
-      "Végétation": "plante vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1m à 1,50 m",
-      "Rusticité ": "   feuillage -7°C, souche -15 °C ",
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "riche, humifère",
-      "Acidité ": "légèrement acide à légèrement alcalin",
-      "Humidité ": "sol normal à frais",
-      "Utilisation": "massif",
-      "Plantation": "printemps",
-      "Multiplication": "semis, division"
     },
     {
       "Nom": "Lampourde pourpre",
@@ -972,6 +1001,40 @@
       "Multiplication": "semis, division"
     },
     {
+      "Nom": "Cloche des fées du Japon",
+      "N. scientifique ": "Disporum sessile",
+      "Synonyme ": "Disporum nantouense",
+      "Famille ": "Liliacées",
+      "Origine ": "Corée",
+      "Floraison": "avril, mai",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanc et vert "
+      ],
+      "Type": "plante ornementale",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 50 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -26 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre à ombre claire "
+      ],
+      "Sol": "drainant, humifère, éventuellement tourbeux",
+      "Acidité ": "neutre à très acide",
+      "Humidité ": "frais",
+      "Utilisation": "massif",
+      "Plantation": "printemps",
+      "Multiplication": "divisions, semis"
+    },
+    {
       "Nom": "Cheveux d'ange",
       "N. scientifique ": "Stipa tenuissima",
       "Synonymes ": "Stipa tenuifolia, Nassella tenuissima",
@@ -1126,36 +1189,62 @@
       "Taille": "Taillez en mars avant le démarrage de la végétation et dégagez tuiles et gouttières"
     },
     {
-      "Nom": "Lierre du Caucase, Lierre de Perse, Lierre de Colchide",
-      "N. scientifique ": "Hedera colchica",
-      "Famille ": "Araliacées",
-      "Origine ": "Turquie, Asie mineure",
-      "Floraison": "septembre",
-      "Fleurs ": [
-        "     ",
-        "   verdâtre "
-      ],
-      "Type": "plante grimpante",
+      "Nom": "Fougère laineuse",
+      "N. scientifique ": "Cheilanthes lanosa",
+      "Synonymes ": "Myriopteris lanosa, Allosorus lanosus, Hemionitis lanosa",
+      "Famille ": "Pteridacées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "été à automne",
+      "Fleurs ": "        plante sans fleurs ",
+      "Type": "fougère, plante cultivée pour feuillage, plante xérophyte",
       "Végétation": "vivace",
       "Feuillage ": "persistant",
-      "Hauteur": "peut dépasser les 10 m",
+      "Hauteur": "15 à 30 cm",
       "Rusticité ": [
         "  ",
         " ",
-        "  rustique, jusqu'à -18 °C "
+        " ",
+        "  très rustique, jusqu'à -28 °C "
       ],
       "Exposition ": [
         "  ",
         " ",
-        " ",
-        "  ombre à plein soleil "
+        "  plein soleil, mi-ombre, ombre légère "
       ],
-      "Sol": "riche et humifère",
-      "Acidité ": "tolérant",
-      "Humidité ": "frais",
-      "Utilisation": "sous-bois, couvre-sol, clôture, mur",
+      "Sol": "sol graveleux ou pierreux",
+      "Acidité ": "acide à légèrement basique",
+      "Humidité ": "résistante à la sécheresse",
+      "Utilisation": "jardin de gravier, muret, rocaille, pot",
       "Plantation": "printemps, automne",
-      "Multiplication": "bouture, marcotte"
+      "Multiplication": "semis de spores, division"
+    },
+    {
+      "Nom": "Fougère femelle",
+      "N. scientifique ": "Athyrium filix-femina",
+      "Famille ": "Athyriacées, Dryoptéridacées",
+      "Origine ": "Hémisphère nord",
+      "Type": "feuillage décoratif",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 1,20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -30°C, très rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre, ombre "
+      ],
+      "Sol": "riche en humus",
+      "Acidité ": "neutre, acide",
+      "Humidité ": "normal",
+      "Utilisation": "sous-bois, massif",
+      "Plantation": "printemps",
+      "Multiplication": "semis de spores au chaud, division de la touffe au printemps",
+      "Sensibilité ": "résistant aux maladies et aux insectes"
     },
     {
       "Nom": "Lierre commun",
@@ -1190,6 +1279,38 @@
       "Multiplication": "bouturage en automne, marcottage",
       "Taille": "rabattez en toute saison",
       "Sensibilité ": "résistant aux parasites et aux maladies"
+    },
+    {
+      "Nom": "Lierre du Caucase, Lierre de Perse, Lierre de Colchide",
+      "N. scientifique ": "Hedera colchica",
+      "Famille ": "Araliacées",
+      "Origine ": "Turquie, Asie mineure",
+      "Floraison": "septembre",
+      "Fleurs ": [
+        "     ",
+        "   verdâtre "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "peut dépasser les 10 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -18 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        " ",
+        "  ombre à plein soleil "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "tolérant",
+      "Humidité ": "frais",
+      "Utilisation": "sous-bois, couvre-sol, clôture, mur",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, marcotte"
     },
     {
       "Nom": "Houblon",
@@ -1354,64 +1475,6 @@
       "Sensibilité ": "résistante aux maladies et aux insectes"
     },
     {
-      "Nom": "Fougère laineuse",
-      "N. scientifique ": "Cheilanthes lanosa",
-      "Synonymes ": "Myriopteris lanosa, Allosorus lanosus, Hemionitis lanosa",
-      "Famille ": "Pteridacées",
-      "Origine ": "Amérique du Nord",
-      "Floraison": "été à automne",
-      "Fleurs ": "        plante sans fleurs ",
-      "Type": "fougère, plante cultivée pour feuillage, plante xérophyte",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "15 à 30 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -28 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  plein soleil, mi-ombre, ombre légère "
-      ],
-      "Sol": "sol graveleux ou pierreux",
-      "Acidité ": "acide à légèrement basique",
-      "Humidité ": "résistante à la sécheresse",
-      "Utilisation": "jardin de gravier, muret, rocaille, pot",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis de spores, division"
-    },
-    {
-      "Nom": "Fausse fougère mâle Cristata The king, Dryoptéris écailleux cristé",
-      "N. scientifique ": "Dryopteris affinis 'Cristata The King'",
-      "Famille ": "Athyriacées, Dryoptéridacées",
-      "Origine ": "Europe",
-      "Floraison": "septembre à novembre",
-      "Fleurs ": "        plante sans fleur ",
-      "Type": "fougère",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "50 à 100 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  rustique, -24°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ombre légère "
-      ],
-      "Sol": "sol modérément riche, non calcaire",
-      "Acidité ": "légèrement acide à neutre",
-      "Humidité ": "humide à frais",
-      "Utilisation": "sous-bois, jardin d'ombre, tourbière, bord de bassin",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis, division"
-    },
-    {
       "Nom": "Fougère arborescente du Mexique",
       "N. scientifique ": "Cibotium schiedei",
       "Synonyme ": "Dryopteris cristatum",
@@ -1437,160 +1500,6 @@
       "Utilisation": "sous-bois, jardin d'ombre, tourbière, bord de bassin",
       "Plantation": "printemps, automne",
       "Multiplication": "semis"
-    },
-    {
-      "Nom": "Fougère arborescente",
-      "N. scientifique ": "Dicksonia antarctica",
-      "Famille ": "Dicksoniacées, Cynthéacées",
-      "Origine ": "Tasmanie",
-      "Floraison": "pas de fleurs",
-      "Fleurs ": "        pas de fleurs ",
-      "Type": "fougère",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 6 m à plus de 10 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  peu rustique, résiste à de courtes gelées jusqu'à -10°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  mi-ombre, ombre "
-      ],
-      "Sol": "riche en humus, léger",
-      "Acidité ": "acide",
-      "Humidité ": "frais",
-      "Utilisation": "en serre",
-      "Plantation": "printemps",
-      "Multiplication": "semis des spores au printemps",
-      "Taille": "pas de nécessaire,",
-      "Sensibilité ": "résistante aux maladies et aux insectes"
-    },
-    {
-      "Nom": "Fausse capilaire, Doradille",
-      "N. scientifique ": "Asplenium trichomanes",
-      "Famille ": "Aspleniacées",
-      "Origine ": "Régions tempérées et subarctiques",
-      "Floraison": "Juillet pour les spores",
-      "Fleurs ": [
-        "     ",
-        "   Spores bruns "
-      ],
-      "Type": "Fougère",
-      "Végétation": "Vivace",
-      "Feuillage ": "Persistant",
-      "Hauteur": "de 5 à 15 cm de haut",
-      "Toxicité": "Non toxique",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  Très résistante au froid, jusqu'à -30°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  Mi-ombre, lumière filtrée "
-      ],
-      "Sol": "Sols humifères, bien drainés de sable grossier, toujours un peu humides",
-      "Acidité ": "Plutôt acide pour l'espèce type et calcaire pour les sous-espèces",
-      "Humidité ": "Pas gorgé d’eau, drainé ou non, s’accommode bien des sols secs",
-      "Utilisation": "Dans les rochers, murets ou en rocaille",
-      "Plantation": "A l'automne ou au printemps de préférence. Evitez de la planter lorsqu'il fait trop chaud, elle peut vite décliner.",
-      "Multiplication": "La division de souches fonctionne assez bien, mais pour cette plante gracile la meilleure option est le semis des spores. Il faut attendre qu'ils soient à maturité (vers juillet et parfois jusqu'à septembre) et que la température avoisine les 15°C.",
-      "Taille": "Aucune, sauf parfois les frondes qui ont brunies.",
-      "Sensibilité ": "Elle ne risque rien, si ce n'est parfois quelques cochenilles mais cela reste très rare."
-    },
-    {
-      "Nom": "Cloche des fées du Japon",
-      "N. scientifique ": "Disporum sessile",
-      "Synonyme ": "Disporum nantouense",
-      "Famille ": "Liliacées",
-      "Origine ": "Corée",
-      "Floraison": "avril, mai",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "   blanc et vert "
-      ],
-      "Type": "plante ornementale",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "30 à 50 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -26 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  mi-ombre à ombre claire "
-      ],
-      "Sol": "drainant, humifère, éventuellement tourbeux",
-      "Acidité ": "neutre à très acide",
-      "Humidité ": "frais",
-      "Utilisation": "massif",
-      "Plantation": "printemps",
-      "Multiplication": "divisions, semis"
-    },
-    {
-      "Nom": "Sapin d’Espagne, Sapin d’Andalousie",
-      "N. scientifique ": "Abies pinsapo",
-      "Famille ": "Pinacées",
-      "Origine ": "Espagne, Maroc",
-      "Floraison": "septembre",
-      "Fleurs ": "        cônes ",
-      "Type": "conifère",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 30m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  rustique jusqu’à - 25°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ensoleillée "
-      ],
-      "Sol": "argilo-limoneux assez pauvre",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "en isolé",
-      "Plantation": "automne jusqu’à mars",
-      "Multiplication": "semis, greffe"
-    },
-    {
-      "Nom": "Fougère femelle",
-      "N. scientifique ": "Athyrium filix-femina",
-      "Famille ": "Athyriacées, Dryoptéridacées",
-      "Origine ": "Hémisphère nord",
-      "Type": "feuillage décoratif",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "jusqu'à 1,20 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  -30°C, très rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  mi-ombre, ombre "
-      ],
-      "Sol": "riche en humus",
-      "Acidité ": "neutre, acide",
-      "Humidité ": "normal",
-      "Utilisation": "sous-bois, massif",
-      "Plantation": "printemps",
-      "Multiplication": "semis de spores au chaud, division de la touffe au printemps",
-      "Sensibilité ": "résistant aux maladies et aux insectes"
     },
     {
       "Nom": "Fougère Bambou, Coniogramme du Mont Emei",
@@ -1646,6 +1555,247 @@
       "Utilisation": "plante en pot, sous-bois, jardin d'ombre",
       "Plantation": "printemps, automne",
       "Multiplication": "semis de spores"
+    },
+    {
+      "Nom": "Fougère arborescente",
+      "N. scientifique ": "Dicksonia antarctica",
+      "Famille ": "Dicksoniacées, Cynthéacées",
+      "Origine ": "Tasmanie",
+      "Floraison": "pas de fleurs",
+      "Fleurs ": "        pas de fleurs ",
+      "Type": "fougère",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 6 m à plus de 10 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  peu rustique, résiste à de courtes gelées jusqu'à -10°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre, ombre "
+      ],
+      "Sol": "riche en humus, léger",
+      "Acidité ": "acide",
+      "Humidité ": "frais",
+      "Utilisation": "en serre",
+      "Plantation": "printemps",
+      "Multiplication": "semis des spores au printemps",
+      "Taille": "pas de nécessaire,",
+      "Sensibilité ": "résistante aux maladies et aux insectes"
+    },
+    {
+      "Nom": "Fausse fougère mâle Cristata The king, Dryoptéris écailleux cristé",
+      "N. scientifique ": "Dryopteris affinis 'Cristata The King'",
+      "Famille ": "Athyriacées, Dryoptéridacées",
+      "Origine ": "Europe",
+      "Floraison": "septembre à novembre",
+      "Fleurs ": "        plante sans fleur ",
+      "Type": "fougère",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "50 à 100 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ombre légère "
+      ],
+      "Sol": "sol modérément riche, non calcaire",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "humide à frais",
+      "Utilisation": "sous-bois, jardin d'ombre, tourbière, bord de bassin",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis, division"
+    },
+    {
+      "Nom": "Fausse capilaire, Doradille",
+      "N. scientifique ": "Asplenium trichomanes",
+      "Famille ": "Aspleniacées",
+      "Origine ": "Régions tempérées et subarctiques",
+      "Floraison": "Juillet pour les spores",
+      "Fleurs ": [
+        "     ",
+        "   Spores bruns "
+      ],
+      "Type": "Fougère",
+      "Végétation": "Vivace",
+      "Feuillage ": "Persistant",
+      "Hauteur": "de 5 à 15 cm de haut",
+      "Toxicité": "Non toxique",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  Très résistante au froid, jusqu'à -30°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  Mi-ombre, lumière filtrée "
+      ],
+      "Sol": "Sols humifères, bien drainés de sable grossier, toujours un peu humides",
+      "Acidité ": "Plutôt acide pour l'espèce type et calcaire pour les sous-espèces",
+      "Humidité ": "Pas gorgé d’eau, drainé ou non, s’accommode bien des sols secs",
+      "Utilisation": "Dans les rochers, murets ou en rocaille",
+      "Plantation": "A l'automne ou au printemps de préférence. Evitez de la planter lorsqu'il fait trop chaud, elle peut vite décliner.",
+      "Multiplication": "La division de souches fonctionne assez bien, mais pour cette plante gracile la meilleure option est le semis des spores. Il faut attendre qu'ils soient à maturité (vers juillet et parfois jusqu'à septembre) et que la température avoisine les 15°C.",
+      "Taille": "Aucune, sauf parfois les frondes qui ont brunies.",
+      "Sensibilité ": "Elle ne risque rien, si ce n'est parfois quelques cochenilles mais cela reste très rare."
+    },
+    {
+      "Nom": "Dryoptéris Sunset Fern",
+      "N. scientifique ": "Dryotperis lepidopoda",
+      "Synonyme ": "Dryopteris filix-mas subsp. khasiana",
+      "Famille ": "Athyriacées, Dryoptéridacées",
+      "Origine ": "Himalaya, Chine, Taiwan",
+      "Floraison": "mai à octobre",
+      "Fleurs ": "        plante sans fleur ",
+      "Type": "fougère",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "60 à 70 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -23 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "sol riche et humifère",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "sous-bois, jardin d'ombre",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis de spores"
+    },
+    {
+      "Nom": "Dryoptéris à crêtes",
+      "N. scientifique ": "Dryopteris cristata",
+      "Synonyme ": "Dryopteris cristatum",
+      "Famille ": "Athyriacées, Dryoptéridacées",
+      "Origine ": "Europe",
+      "Floraison": "septembre à novembre",
+      "Fleurs ": "        plante sans fleur ",
+      "Type": "fougère, plante aquatique, plante de bassin",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "40 à 70 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique jusqu'à -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "sol tourbeux",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "très humide",
+      "Utilisation": "sous-bois, jardin d'ombre, tourbière, bord de bassin",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis, division"
+    },
+    {
+      "Nom": "Thuya",
+      "N. scientifique ": "Thuja",
+      "Famille ": "Cupressacées",
+      "Origine ": "Amérique du nord, Chine",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "conifère",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 20 à 30 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre pour les variétés au feuillage panaché "
+      ],
+      "Sol": "riche, bien drainé, profond",
+      "Acidité ": "neutre à légèrement acide",
+      "Humidité ": "frais",
+      "Utilisation": "haie taillée, isolé, haie coupe-vent",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis, bouturage fin août, marcottage",
+      "Taille": "taillez votre haie au printemps et en septembre",
+      "Sensibilité ": "maladies cryptogamiques, les araignées rouges, les cochenilles"
+    },
+    {
+      "Nom": "Séquoia géant",
+      "N. scientifique ": "Sequoïadendron giganteum",
+      "Famille ": "Taxodiacées",
+      "Origine ": "Californie",
+      "Type": "Arbre conifère",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 20 à 80 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "filtrant (bonne terre) compact (argile) très poreux (sableux)",
+      "Acidité ": "légèrement acide",
+      "Humidité ": "frais et sec",
+      "Utilisation": "isolé",
+      "Plantation": "Octobre-Avril",
+      "Multiplication": "semis au printemps",
+      "Sensibilité ": "Pourridié"
+    },
+    {
+      "Nom": "Sapin d’Espagne, Sapin d’Andalousie",
+      "N. scientifique ": "Abies pinsapo",
+      "Famille ": "Pinacées",
+      "Origine ": "Espagne, Maroc",
+      "Floraison": "septembre",
+      "Fleurs ": "        cônes ",
+      "Type": "conifère",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 30m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique jusqu’à - 25°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "argilo-limoneux assez pauvre",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "en isolé",
+      "Plantation": "automne jusqu’à mars",
+      "Multiplication": "semis, greffe"
     },
     {
       "Nom": "Sapin du Colorado",
@@ -1773,127 +1923,6 @@
       "Plantation": "automne",
       "Multiplication": "semis en février, greffage",
       "Sensibilité ": "l'armillaire"
-    },
-    {
-      "Nom": "Dryoptéris Sunset Fern",
-      "N. scientifique ": "Dryotperis lepidopoda",
-      "Synonyme ": "Dryopteris filix-mas subsp. khasiana",
-      "Famille ": "Athyriacées, Dryoptéridacées",
-      "Origine ": "Himalaya, Chine, Taiwan",
-      "Floraison": "mai à octobre",
-      "Fleurs ": "        plante sans fleur ",
-      "Type": "fougère",
-      "Végétation": "vivace",
-      "Feuillage ": "semi-persistant",
-      "Hauteur": "60 à 70 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, -23 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ombre à mi-ombre "
-      ],
-      "Sol": "sol riche et humifère",
-      "Acidité ": "légèrement acide à neutre",
-      "Humidité ": "normal à frais",
-      "Utilisation": "sous-bois, jardin d'ombre",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis de spores"
-    },
-    {
-      "Nom": "Dryoptéris à crêtes",
-      "N. scientifique ": "Dryopteris cristata",
-      "Synonyme ": "Dryopteris cristatum",
-      "Famille ": "Athyriacées, Dryoptéridacées",
-      "Origine ": "Europe",
-      "Floraison": "septembre à novembre",
-      "Fleurs ": "        plante sans fleur ",
-      "Type": "fougère, plante aquatique, plante de bassin",
-      "Végétation": "vivace",
-      "Feuillage ": "semi-persistant",
-      "Hauteur": "40 à 70 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique jusqu'à -24°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "sol tourbeux",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "très humide",
-      "Utilisation": "sous-bois, jardin d'ombre, tourbière, bord de bassin",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis, division"
-    },
-    {
-      "Nom": "Thuya",
-      "N. scientifique ": "Thuja",
-      "Famille ": "Cupressacées",
-      "Origine ": "Amérique du nord, Chine",
-      "Floraison": "printemps",
-      "Fleurs ": [
-        "     ",
-        "   crème "
-      ],
-      "Type": "conifère",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 20 à 30 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre pour les variétés au feuillage panaché "
-      ],
-      "Sol": "riche, bien drainé, profond",
-      "Acidité ": "neutre à légèrement acide",
-      "Humidité ": "frais",
-      "Utilisation": "haie taillée, isolé, haie coupe-vent",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis, bouturage fin août, marcottage",
-      "Taille": "taillez votre haie au printemps et en septembre",
-      "Sensibilité ": "maladies cryptogamiques, les araignées rouges, les cochenilles"
-    },
-    {
-      "Nom": "Séquoia géant",
-      "N. scientifique ": "Sequoïadendron giganteum",
-      "Famille ": "Taxodiacées",
-      "Origine ": "Californie",
-      "Type": "Arbre conifère",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 20 à 80 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique -15°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "filtrant (bonne terre) compact (argile) très poreux (sableux)",
-      "Acidité ": "légèrement acide",
-      "Humidité ": "frais et sec",
-      "Utilisation": "isolé",
-      "Plantation": "Octobre-Avril",
-      "Multiplication": "semis au printemps",
-      "Sensibilité ": "Pourridié"
     },
     {
       "Nom": "Pin sylvestre, Pin d'Écosse, Pin du nord",
@@ -3042,39 +3071,6 @@
       "Multiplication": "bouture, semis"
     },
     {
-      "Nom": "Photinia",
-      "N. scientifique ": "Photinia x fraseri ",
-      "Famille ": "Rosacées",
-      "Origine ": "(Horticole à partir de Photinia glabra et de Photinia serratifolia) Sud-Est de l'asie, Himalaya",
-      "Floraison": "printemps",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "arbuste décoratif",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu' 5 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "riche, ordinaire",
-      "Acidité ": "neutre, non calcaire, légèrement acide",
-      "Humidité ": "normal",
-      "Utilisation": "haie taillée, haie libre, isolé, bac",
-      "Plantation": "automne",
-      "Multiplication": "semis sous chassis froid à l'automne, bouturage en été",
-      "Taille": "Maintenez un arbre équilibré et aéré",
-      "Sensibilité ": "tavelure du pommier, oïdium, feu bactérien"
-    },
-    {
       "Nom": "Saule à feuilles étroites, Saule à feuilles de romarin",
       "N. scientifique ": "Salix rosmarinifolia",
       "Synonyme ": "Salix repens subsp rosmarinifolia",
@@ -3106,6 +3102,39 @@
       "Utilisation": "en isolé, en massif, en haie",
       "Plantation": "automne, printemps",
       "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Photinia",
+      "N. scientifique ": "Photinia x fraseri ",
+      "Famille ": "Rosacées",
+      "Origine ": "(Horticole à partir de Photinia glabra et de Photinia serratifolia) Sud-Est de l'asie, Himalaya",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste décoratif",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu' 5 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche, ordinaire",
+      "Acidité ": "neutre, non calcaire, légèrement acide",
+      "Humidité ": "normal",
+      "Utilisation": "haie taillée, haie libre, isolé, bac",
+      "Plantation": "automne",
+      "Multiplication": "semis sous chassis froid à l'automne, bouturage en été",
+      "Taille": "Maintenez un arbre équilibré et aéré",
+      "Sensibilité ": "tavelure du pommier, oïdium, feu bactérien"
     },
     {
       "Nom": "Osmanthe à feuilles variables ou Osmanthe faux-houx Tricolor",
@@ -4801,6 +4830,39 @@
       "Multiplication": "semis"
     },
     {
+      "Nom": "Orme de Chine",
+      "N. scientifique ": "Ulmus Parviflora",
+      "Synonyme ": "Ulmus chinensis",
+      "Famille ": "Ulmacées",
+      "Origine ": "Chine, Japon",
+      "Floraison": "mars",
+      "Fleurs ": [
+        "     ",
+        "   anis "
+      ],
+      "Type": "petit arbre",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "10 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre à plein soleil "
+      ],
+      "Sol": "limono argileux, tolérant",
+      "Acidité ": "acide à moyennement basique",
+      "Humidité ": "humide à moyennement sec",
+      "Utilisation": "massif, lisière, arbre isolé, bonsaï",
+      "Plantation": "automne, printemps",
+      "Multiplication": "boutures, semis"
+    },
+    {
       "Nom": "Orme champêtre",
       "N. scientifique ": "Orme champêtre, Ulmus minor",
       "Synonymes ": "Ulmus vulgaris, Ulmus campestris",
@@ -5034,35 +5096,35 @@
       "Sensibilité ": "le mildiou, les pucerons, les cochenilles"
     },
     {
-      "Nom": "Érable sycomore",
-      "N. scientifique ": "Acer pseudoplatanus",
-      "Famille ": "Aceracées",
-      "Origine ": "Europe, Asie",
-      "Floraison": "mai",
+      "Nom": "Gommier cidre, Gommier de Gunn",
+      "N. scientifique ": "Eucalyptus gunnii",
+      "Synonyme ": "Eucalyptus divaricata",
+      "Famille ": "Myrtacées",
+      "Origine ": "Australie",
+      "Floraison": "octobre à février",
       "Fleurs ": [
         "     ",
-        "   verdâtre "
+        "   crème "
       ],
-      "Type": "arbre",
+      "Type": "arbre de taille moyenne, arbuste",
       "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "20 à 30 m",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 m",
       "Rusticité ": [
         "  ",
         " ",
-        " ",
-        "  très rustique, -28 °C "
+        "  rustique jusqu'à -18°C "
       ],
       "Exposition ": [
         "  ",
-        "  ensoleillé à mi-ombre "
+        "  soleil "
       ],
       "Sol": "tolérant",
-      "Acidité ": "acide à moyennement basique",
-      "Humidité ": "normal à frais",
-      "Utilisation": "en isolé, alignement coupe-vent, repeuplement forestier, bois d'œuvre",
-      "Plantation": "automne et printemps",
-      "Multiplication": "semis, boutures"
+      "Acidité ": "moyennement acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "arbre isolé, arbuste, bouquet",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
     },
     {
       "Nom": "Gommier à petites feuilles",
@@ -5116,6 +5178,35 @@
       "Multiplication": "semis",
       "Taille": "si nécessaire",
       "Sensibilité ": "psylles, plomb parasitaire"
+    },
+    {
+      "Nom": "Frêne commun, Frêne élevé",
+      "N. scientifique ": "Fraxinus excelsior",
+      "Famille ": "Oléacées",
+      "Origine ": "Europe",
+      "Floraison": "avril",
+      "Fleurs ": "        insignifiantes ",
+      "Type": "arbre de grande taille",
+      "Végétation": "arbustif",
+      "Feuillage ": "caduc",
+      "Hauteur": "20 à 30 m  ",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique jusqu'à -24 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "calcaire, argileux, limoneux",
+      "Acidité ": "très légèrement acide à basique",
+      "Humidité ": "sol normal  à frais",
+      "Utilisation": "isolé",
+      "Plantation": "automne, printemps",
+      "Multiplication": "semis,  greffe, marcottage"
     },
     {
       "Nom": "Frêne à feuilles étroites, Frêne bordeaux, Frêne du midi",
@@ -5179,37 +5270,68 @@
       "Multiplication": "greffe sur la forme botanique"
     },
     {
-      "Nom": "Orme de Chine",
-      "N. scientifique ": "Ulmus Parviflora",
-      "Synonyme ": "Ulmus chinensis",
-      "Famille ": "Ulmacées",
-      "Origine ": "Chine, Japon",
-      "Floraison": "mars",
+      "Nom": "Érable sycomore",
+      "N. scientifique ": "Acer pseudoplatanus",
+      "Famille ": "Aceracées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "mai",
       "Fleurs ": [
         "     ",
-        "   anis "
+        "   verdâtre "
       ],
-      "Type": "petit arbre",
+      "Type": "arbre",
       "Végétation": "vivace",
-      "Feuillage ": "semi-persistant",
-      "Hauteur": "10 m",
+      "Feuillage ": "caduc",
+      "Hauteur": "20 à 30 m",
       "Rusticité ": [
         "  ",
         " ",
         " ",
-        "  très rustique, -24°C "
+        "  très rustique, -28 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillé à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à moyennement basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "en isolé, alignement coupe-vent, repeuplement forestier, bois d'œuvre",
+      "Plantation": "automne et printemps",
+      "Multiplication": "semis, boutures"
+    },
+    {
+      "Nom": "Érable plane, Érable blanc, Faux sycomore, Érable de Norvège",
+      "N. scientifique ": "Acer platanoïdes",
+      "Famille ": "Aceracées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "mai",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   vert-jaune "
+      ],
+      "Type": "arbre",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "20 à 30 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, -24 °C "
       ],
       "Exposition ": [
         "  ",
         " ",
-        "  mi-ombre à plein soleil "
+        "  ensoleillé à mi-ombre "
       ],
-      "Sol": "limono argileux, tolérant",
-      "Acidité ": "acide à moyennement basique",
-      "Humidité ": "humide à moyennement sec",
-      "Utilisation": "massif, lisière, arbre isolé, bonsaï",
-      "Plantation": "automne, printemps",
-      "Multiplication": "boutures, semis"
+      "Sol": "très tolérant",
+      "Acidité ": "acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "en isolé, alignement coupe-vent, espèce citadine",
+      "Plantation": "automne et printemps",
+      "Multiplication": "semis, boutures, marcotte aérienne"
     },
     {
       "Nom": "Erable palmé, Erable japonais lisse",
@@ -5244,128 +5366,6 @@
       "Multiplication": "Semis, en place ou en pot à l'extérieur, des graines récoltées à l'automne et stratifiées durant tout l'hiver dans du sable maintenu à peine humide. Les cultivars se propagent par greffage de côté sous écorce en novembre (à réserver aux professionnels) ou par écussonnage en août (possible pour l'amateur).",
       "Taille": "Jamais en dehors de la période comprise entre novembre et mars, hormis le bois mort. Supprimez en douceur les pousses en surnombre ou mal placées.",
       "Sensibilité ": "résistant aux parasites et aux maladies, parfois les pucerons"
-    },
-    {
-      "Nom": "Gommier cidre, Gommier de Gunn",
-      "N. scientifique ": "Eucalyptus gunnii",
-      "Synonyme ": "Eucalyptus divaricata",
-      "Famille ": "Myrtacées",
-      "Origine ": "Australie",
-      "Floraison": "octobre à février",
-      "Fleurs ": [
-        "     ",
-        "   crème "
-      ],
-      "Type": "arbre de taille moyenne, arbuste",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "20 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique jusqu'à -18°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "moyennement acide à basique",
-      "Humidité ": "normal",
-      "Utilisation": "arbre isolé, arbuste, bouquet",
-      "Plantation": "printemps",
-      "Multiplication": "semis"
-    },
-    {
-      "Nom": "Érable champêtre",
-      "N. scientifique ": "Érable champêtre, Acer campestre",
-      "Famille ": "Aceracées",
-      "Origine ": "Europe, Asie",
-      "Floraison": "mai",
-      "Fleurs ": [
-        "     ",
-        "   vert jaune "
-      ],
-      "Type": "arbre",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "12 à 15 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  rustique, -28 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillé à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "normal",
-      "Utilisation": "en isolé, haie, bois d'œuvre",
-      "Plantation": "automne et printemps",
-      "Multiplication": "semis"
-    },
-    {
-      "Nom": "Chêne sessile, Chêne rouvre, Chêne à trochets",
-      "N. scientifique ": "Quercus petraea",
-      "Famille ": "Fagacées",
-      "Origine ": "Europe",
-      "Floraison": "mai",
-      "Fleurs ": [
-        "     ",
-        "   vert "
-      ],
-      "Type": "arbre de grande taille",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "20 à 40 m",
-      "Rusticité ": "   rustique jusqu’à -24°C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "Limono-sableux, tolérant pour l’argile",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "normal",
-      "Utilisation": "en isolé, forêt, industrie du bois",
-      "Plantation": "automne"
-    },
-    {
-      "Nom": "Érable plane, Érable blanc, Faux sycomore, Érable de Norvège",
-      "N. scientifique ": "Acer platanoïdes",
-      "Famille ": "Aceracées",
-      "Origine ": "Europe, Asie",
-      "Floraison": "mai",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "   vert-jaune "
-      ],
-      "Type": "arbre",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "20 à 30 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  rustique, -24 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillé à mi-ombre "
-      ],
-      "Sol": "très tolérant",
-      "Acidité ": "acide à basique",
-      "Humidité ": "normal",
-      "Utilisation": "en isolé, alignement coupe-vent, espèce citadine",
-      "Plantation": "automne et printemps",
-      "Multiplication": "semis, boutures, marcotte aérienne"
     },
     {
       "Nom": "Erable gris, Erable à écorce de papier, Erable à cannelle",
@@ -5469,6 +5469,96 @@
       "Sensibilité ": "Parfois des cochenilles ou de l'armillaire"
     },
     {
+      "Nom": "Érable champêtre",
+      "N. scientifique ": "Érable champêtre, Acer campestre",
+      "Famille ": "Aceracées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "mai",
+      "Fleurs ": [
+        "     ",
+        "   vert jaune "
+      ],
+      "Type": "arbre",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "12 à 15 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, -28 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillé à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal",
+      "Utilisation": "en isolé, haie, bois d'œuvre",
+      "Plantation": "automne et printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Copalme d'amérique",
+      "N. scientifique ": "Liquidambar styraciflua",
+      "Famille ": "Hamamélidacées",
+      "Origine ": "Sud-est des Etats-Unis, Mexique",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "arbre",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 10 à 40 m selon les variétés",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "sol aéré, ordinaire",
+      "Acidité ": "neutre à légèrement acide",
+      "Humidité ": "humide, bord de cours d'eau",
+      "Utilisation": "isolé",
+      "Plantation": "automne",
+      "Multiplication": "semis en pot à l'automne, bouturage en été, marcottage",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "résistant aux maladies et aux ravageurs"
+    },
+    {
+      "Nom": "Chêne sessile, Chêne rouvre, Chêne à trochets",
+      "N. scientifique ": "Quercus petraea",
+      "Famille ": "Fagacées",
+      "Origine ": "Europe",
+      "Floraison": "mai",
+      "Fleurs ": [
+        "     ",
+        "   vert "
+      ],
+      "Type": "arbre de grande taille",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "20 à 40 m",
+      "Rusticité ": "   rustique jusqu’à -24°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "Limono-sableux, tolérant pour l’argile",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal",
+      "Utilisation": "en isolé, forêt, industrie du bois",
+      "Plantation": "automne"
+    },
+    {
       "Nom": "Chêne pédonculé",
       "N. scientifique ": "Quercus robur",
       "Synonyme ": "Quercus pedunculata",
@@ -5502,35 +5592,6 @@
       "Sensibilité ": "l'oïdium, les pucerons"
     },
     {
-      "Nom": "Frêne commun, Frêne élevé",
-      "N. scientifique ": "Fraxinus excelsior",
-      "Famille ": "Oléacées",
-      "Origine ": "Europe",
-      "Floraison": "avril",
-      "Fleurs ": "        insignifiantes ",
-      "Type": "arbre de grande taille",
-      "Végétation": "arbustif",
-      "Feuillage ": "caduc",
-      "Hauteur": "20 à 30 m  ",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique jusqu'à -24 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "calcaire, argileux, limoneux",
-      "Acidité ": "très légèrement acide à basique",
-      "Humidité ": "sol normal  à frais",
-      "Utilisation": "isolé",
-      "Plantation": "automne, printemps",
-      "Multiplication": "semis,  greffe, marcottage"
-    },
-    {
       "Nom": "Chêne des marais",
       "N. scientifique ": "Quercus palustris",
       "Famille ": "Fagacées",
@@ -5560,38 +5621,6 @@
       "Humidité ": "normal à frais",
       "Utilisation": "ornemental, en isolé, en alignement",
       "Plantation": "automne"
-    },
-    {
-      "Nom": "Aulne glutineux, Vergne",
-      "N. scientifique ": "Alnus glutinosa",
-      "Famille ": "Bétulacées",
-      "Origine ": "Europe, Asie",
-      "Floraison": "mars à avril",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "   femelles pourpres, mâles jaunes "
-      ],
-      "Type": "arbre de petit à moyen développement",
-      "Végétation": "arborée",
-      "Feuillage ": "caduc",
-      "Hauteur": "10 m à 20 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -29 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ensoleillée "
-      ],
-      "Sol": "tolérant aux sols lourds et aux sols pauvres",
-      "Acidité ": "acide à basique",
-      "Humidité ": "frais à très humide",
-      "Utilisation": "haie, isolé, bois, plante médicinale",
-      "Plantation": "automne, printemps",
-      "Multiplication": "boutures, semis"
     },
     {
       "Nom": "Charme commun, Charmille",
@@ -5749,6 +5778,38 @@
       "Multiplication": "semis"
     },
     {
+      "Nom": "Aulne glutineux, Vergne",
+      "N. scientifique ": "Alnus glutinosa",
+      "Famille ": "Bétulacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "mars à avril",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   femelles pourpres, mâles jaunes "
+      ],
+      "Type": "arbre de petit à moyen développement",
+      "Végétation": "arborée",
+      "Feuillage ": "caduc",
+      "Hauteur": "10 m à 20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -29 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "tolérant aux sols lourds et aux sols pauvres",
+      "Acidité ": "acide à basique",
+      "Humidité ": "frais à très humide",
+      "Utilisation": "haie, isolé, bois, plante médicinale",
+      "Plantation": "automne, printemps",
+      "Multiplication": "boutures, semis"
+    },
+    {
       "Nom": "Arbre aux pochettes, Arbre aux mouchoirs",
       "N. scientifique ": "Davidia involucrata",
       "Famille ": "Nyssacées",
@@ -5782,38 +5843,6 @@
       "Multiplication": "Par bouturage des yeux en octobre puis sous abri à l’étouffée ou boutures à bois sec en hiver. Sinon le semis fonctionne également, en plaçant le fruit entier et à maturité dans un mélange de compost et de terre en pot sous châssis froid ou même directement en pleine terre ; il faut attendre le printemps de la seconde année pour qu’il germe.",
       "Taille": "Aucune, sauf de structure en fonction de la façon dont on le conduit",
       "Sensibilité ": "Aucune maladie ou insecte"
-    },
-    {
-      "Nom": "Copalme d'amérique",
-      "N. scientifique ": "Liquidambar styraciflua",
-      "Famille ": "Hamamélidacées",
-      "Origine ": "Sud-est des Etats-Unis, Mexique",
-      "Floraison": "printemps",
-      "Fleurs ": [
-        "     ",
-        "   crème "
-      ],
-      "Type": "arbre",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "de 10 à 40 m selon les variétés",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "sol aéré, ordinaire",
-      "Acidité ": "neutre à légèrement acide",
-      "Humidité ": "humide, bord de cours d'eau",
-      "Utilisation": "isolé",
-      "Plantation": "automne",
-      "Multiplication": "semis en pot à l'automne, bouturage en été, marcottage",
-      "Taille": "pas de taille nécessaire",
-      "Sensibilité ": "résistant aux maladies et aux ravageurs"
     },
     {
       "Nom": "Arbre aux 40 écus",
@@ -6050,35 +6079,6 @@
       "Plantation": "automne",
       "Multiplication": "semis en place au printemps",
       "Sensibilité ": "les limaces"
-    },
-    {
-      "Nom": "Bouclier persan",
-      "N. scientifique ": "Strobilanthes dyerianus",
-      "Famille ": "Acanthacées",
-      "Origine ": "Birmanie",
-      "Floraison": "automne, hiver",
-      "Fleurs ": [
-        "     ",
-        "   bleu "
-      ],
-      "Type": "plante d'intérieur, pour l'extérieur en été et hivernée hors gel, ou cultivée en annuelle",
-      "Végétation": "vivace",
-      "Feuillage ": "plus ou moins persistant",
-      "Hauteur": "35 à 120 cm",
-      "Rusticité ": [
-        "  ",
-        "  peu rustique, jusqu'à -5 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ombre claire "
-      ],
-      "Sol": "humifère",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "toujours frais, mais sans excès",
-      "Utilisation": "massif, potée",
-      "Plantation": "printemps",
-      "Multiplication": "division, semis"
     }
   ]
 }

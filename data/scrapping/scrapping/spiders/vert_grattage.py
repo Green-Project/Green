@@ -2,21 +2,22 @@
 
 import scrapy
 import json
+import os
 
 class QuotesSpider(scrapy.Spider):
     name = "vert"
     parent_dict = dict()
-    file = None
-    start_urls = [
-        'https://www.aujardin.info/plantes/guzmania.php',
-        'https://www.aujardin.info/plantes/ananas_bracteatus.php',
-    ]
+    file = open('debug.html', 'w+')
 
     def debugLog(self, data):
         self.file.write(str(data))
 
+    def write_json_to_file(self, data, file, mode='w+'):
+        tmp = open(file, mode)
+        json.dump(data, tmp, ensure_ascii=False, indent=2)
+        tmp.close()
+
     def start_requests(self):
-        self.file = open('debug.html', 'w+')
         base_urls = [
             'https://www.aujardin.info/plantes/arbres-arbustes-ete.php',
             'https://www.aujardin.info/plantes/arbres-arbustes-printemps.php',
@@ -24,7 +25,6 @@ class QuotesSpider(scrapy.Spider):
             'https://www.aujardin.info/plantes/encyclopedie-balcon.php',
             'https://www.aujardin.info/plantes/encyclopedie-bassin.php',
             'https://www.aujardin.info/plantes/encyclopedie-cactus.php',
-            'https://www.aujardin.info/champignons/',
             'https://www.aujardin.info/plantes/encyclopedie-jardin-feuillage.php',
             'https://www.aujardin.info/plantes/encyclopedie-jardin-ete.php',
             'https://www.aujardin.info/plantes/encyclopedie-jardin-printemps.php',
@@ -51,21 +51,23 @@ class QuotesSpider(scrapy.Spider):
             'data': []
         })
 
-        # Temporary file
+        # File to fill
         fname = response.meta.get('url_name') + '.json'
-        tmp = open(fname, 'w+')
-        json.dump(self.parent_dict, tmp, ensure_ascii=False, indent=2)
-        tmp.close()
+        if (fname == '.json'): return
+        self.write_json_to_file({
+            'category': response.css('div#centercontentpage').xpath('./child::h1/text()')[0].extract(),
+            'data': []
+        }, fname)
 
         # Get all links in the current page
         plant_links = response.css('ul.rubrique').xpath('./child::li/a/@href').extract()
         for l in plant_links:
-            yield scrapy.Request(url=l, callback=self.parse, meta={'fname': fname})
+            yield scrapy.Request(url=l, callback=self.parseFromPlant, meta={'fname': fname})
 
     # This fuction is used to get write data from a single plant
-    def parse(self, response):
+    def parseFromPlant(self, response):
         fname = response.meta.get('fname')
-        parent_d = json.loads(open(fname).read())
+        parent_dict = json.loads(open(fname).read())
 
         d = dict({'Nom': response.css('article').xpath('./child::h1/text()')[0].extract()})
         for attr in response.css('div.description3').xpath('./child::div'):
@@ -79,8 +81,5 @@ class QuotesSpider(scrapy.Spider):
                 # f.write(str(tab.extract()) + '\n')
                 d[str(n.xpath('./text()').extract()[0])] = tab.extract() if len(tab) > 1 else tab[0].extract()
 
-        parent_d['data'].append(d)
-        tmp = open(fname, 'w+')
-        json.dump(parent_d, tmp, ensure_ascii=False, indent=2)
-        tmp.close()
-        # self.debugLog(parent_d)
+        parent_dict['data'].append(d)
+        self.write_json_to_file(parent_dict, fname)

@@ -2,6 +2,31 @@
   "category": "Fleurs annuelles et bulbes d'été",
   "data": [
     {
+      "Nom": "Amarante, Queue-de-renard",
+      "N. scientifique ": "Amaranthus caudatus",
+      "Famille ": "Amaranthacées",
+      "Origine ": "Afrique, Inde, Amérique du sud",
+      "Floraison": "de juillet à septembre",
+      "Fleurs ": "        rouge-pourpre, vert ",
+      "Type": "fleur",
+      "Végétation": "vivace éphémère",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 1 à 1,5 m",
+      "Toxicité": "plante encore utilisée comme légume dans certains pays",
+      "Rusticité ": "   plante gélive ",
+      "Exposition ": [
+        "  ",
+        "  soleil, à l'abri du vent "
+      ],
+      "Sol": "riche en humus, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif, pot",
+      "Plantation": "printemps",
+      "Multiplication": "semis en mars-avril au chaud et repiquage en mai",
+      "Sensibilité ": "les pucerons, les araignées rouges"
+    },
+    {
       "Nom": "Agérate, Agératum du Mexique",
       "N. scientifique ": "Ageratum houstonianum",
       "Famille ": "Astéracées, Composées",
@@ -31,6 +56,158 @@
       "Multiplication": "semis en mars-avril et repiquage en place en mai",
       "Taille": "pas de taille",
       "Sensibilité ": "les pucerons, les araignées rouges, les limaces"
+    },
+    {
+      "Nom": "Dichelostemma ida-maia",
+      "N. scientifique ": "Dichelostemma ida-maia",
+      "Synonymes ": "Brodiaea ida-maia, Brevoortia ida-maia",
+      "Famille ": "Liliacées",
+      "Origine ": "Amérique du nord-ouest",
+      "Floraison": "de mai à juillet",
+      "Fleurs ": "        rose, bleu, rouge ",
+      "Type": "fleurs",
+      "Végétation": "bulbe",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 40 à 90 cm selon l'espèce",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, cependant gare aux fortes gelées "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "bien drainé, léger",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "rocaille, fleurs coupées",
+      "Plantation": "automne",
+      "Multiplication": "semis au printemps, séparation des caïeux à la fin de l'été"
+    },
+    {
+      "Nom": "Cyclamen d'Europe, Cyclamen pourpre, Cyclamen commun, Pain de pourceau",
+      "N. scientifique ": "Cyclamen purpurascens",
+      "Synonyme ": "Cyclamen europeum L.",
+      "Famille ": "Primulacées",
+      "Origine ": "Europe centrale et Europe méridionale",
+      "Floraison": "août à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "plante à bulbes",
+      "Végétation": "vivace",
+      "Feuillage ": "presque persistant",
+      "Hauteur": "10 à 15 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -28°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre, ombre "
+      ],
+      "Sol": "sol riche et drainant",
+      "Acidité ": "légèrement acide à alcalin",
+      "Humidité ": "frais",
+      "Utilisation": "massif, sous-bois",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Crocosmia, Montbrétia",
+      "N. scientifique ": "Crocosmia",
+      "Famille ": "Iridacées",
+      "Origine ": "Régions australes et tropicales de l'Afrique",
+      "Floraison": "de juin à octobre",
+      "Fleurs ": "        jaune, orange, rouge ",
+      "Type": "fleur",
+      "Végétation": "bulbe (cormus)",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 50 à 100 cm selon les variétés",
+      "Rusticité ": [
+        "  ",
+        "  moyennement rustique selon les variétés, à retirer dans les régions à l'hiver rude "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "léger, frais, sablonneux, pauvre",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif, fleurs coupées",
+      "Plantation": "plantation entre 5 et 8 cm de profondeur au début du printemps",
+      "Multiplication": "semis en mars à l'intérieur, division des touffes tous les 3-4 ans en avril ou à l'automne",
+      "Taille": "Enlevez au fur et à mesure les fleurs fanées",
+      "Sensibilité ": "résistant aux maladies"
+    },
+    {
+      "Nom": "Crinum asiatique, Grand crinum, Crinum lis",
+      "N. scientifique ": "Crinum asiaticum",
+      "Famille ": "Amaryllidacées",
+      "Origine ": "Asie tropicale et subtropicale",
+      "Floraison": "toute l’année sauf lorsqu’il fait trop froid",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante à bulbe",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1,50m à 2m",
+      "Toxicité": "sève toxique, parfois allergisante",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, -4°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre légère "
+      ],
+      "Sol": "sol riche",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif, potée",
+      "Plantation": "toute l’année",
+      "Multiplication": "division des bulbes, semis"
+    },
+    {
+      "Nom": "Crinole de Powell",
+      "N. scientifique ": "Crinum x powellii",
+      "Famille ": "Amaryllidacées",
+      "Origine ": "horticole",
+      "Floraison": "fin d’été, automne",
+      "Fleurs ": [
+        "     ",
+        "   rose clair "
+      ],
+      "Type": "plante à fleur herbacée",
+      "Végétation": "bulbe vivace",
+      "Feuillage ": "caduc en région froide",
+      "Hauteur": "80 à 120 cm",
+      "Toxicité": "sève toxique, parfois allergisante",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  assez rustique, -12 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "sol riche et drainant",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif",
+      "Plantation": "automne",
+      "Multiplication": "séparation des bulbes"
     },
     {
       "Nom": "Rhubarbe palmée, Rhubarbe décorative, Rhubarbe de Chine",
@@ -822,6 +999,35 @@
       "Multiplication": "écailles, divisions, semis"
     },
     {
+      "Nom": "Lis",
+      "N. scientifique ": "Lilium",
+      "Famille ": "Liliacées",
+      "Origine ": "hémisphère nord",
+      "Floraison": "mai à septembre",
+      "Fleurs ": "        variés ",
+      "Type": "fleur",
+      "Végétation": "bulbe",
+      "Feuillage ": "caduc",
+      "Hauteur": "200 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil et ombre pour les racines "
+      ],
+      "Sol": " riche en humus, drainé",
+      "Acidité ": "acide, alcalin pour certaines variétés",
+      "Humidité ": "frais",
+      "Utilisation": "rocaille pour les espèces les plus petites, massif, massif de plantes de terre de bruyère pour certaines espèces, fleurs coupées",
+      "Plantation": "printemps 15 cm de profondeur, déterrez vos bulbes tous les 3-4 ans pour les desserrer",
+      "Multiplication": "semis, bouturage par prélèvement d'écailles ",
+      "Sensibilité ": "le criocère du lis, la pourriture grise (botrytis), la mosaïque, la moisissure bleue, les acariens des bulbes, les pucerons"
+    },
+    {
       "Nom": "Glaïeul d'Abyssinie, Acidanthère bicolore",
       "N. scientifique ": "Gladiolus murieliae",
       "Synonymes ": "Gladiolus callianthus, Acidanthera bicolor var murieliae",
@@ -881,6 +1087,34 @@
       "Sensibilité ": "la pourriture grise, les pucerons, le criocère, les limaces"
     },
     {
+      "Nom": "Fleur ananas, Eucomide",
+      "N. scientifique ": "Eucomis comosa",
+      "Famille ": "Liliacées",
+      "Origine ": "Afrique du Sud",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": "        blanche, roses, pourpre ",
+      "Type": "plante à bulbe",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "50 à 80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -16 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal à frais en été,  assez sec sec en hiver",
+      "Utilisation": "en extérieur, en potée ou en pleine terre",
+      "Plantation": "printemps",
+      "Multiplication": "division, semis, bouture"
+    },
+    {
       "Nom": "Fleur ananas",
       "N. scientifique ": "Eucomis bicolor",
       "Famille ": "Liliacées",
@@ -911,63 +1145,6 @@
       "Multiplication": "semis au chaud au printemps, séparation des rejets au printemps",
       "Taille": "pas de taille",
       "Sensibilité ": "résistant aux maladies et aux insectes"
-    },
-    {
-      "Nom": "Lis",
-      "N. scientifique ": "Lilium",
-      "Famille ": "Liliacées",
-      "Origine ": "hémisphère nord",
-      "Floraison": "mai à septembre",
-      "Fleurs ": "        variés ",
-      "Type": "fleur",
-      "Végétation": "bulbe",
-      "Feuillage ": "caduc",
-      "Hauteur": "200 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil et ombre pour les racines "
-      ],
-      "Sol": " riche en humus, drainé",
-      "Acidité ": "acide, alcalin pour certaines variétés",
-      "Humidité ": "frais",
-      "Utilisation": "rocaille pour les espèces les plus petites, massif, massif de plantes de terre de bruyère pour certaines espèces, fleurs coupées",
-      "Plantation": "printemps 15 cm de profondeur, déterrez vos bulbes tous les 3-4 ans pour les desserrer",
-      "Multiplication": "semis, bouturage par prélèvement d'écailles ",
-      "Sensibilité ": "le criocère du lis, la pourriture grise (botrytis), la mosaïque, la moisissure bleue, les acariens des bulbes, les pucerons"
-    },
-    {
-      "Nom": "Fleur ananas, Eucomide",
-      "N. scientifique ": "Eucomis comosa",
-      "Famille ": "Liliacées",
-      "Origine ": "Afrique du Sud",
-      "Floraison": "juillet à septembre",
-      "Fleurs ": "        blanche, roses, pourpre ",
-      "Type": "plante à bulbe",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "50 à 80 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique jusqu'à -16 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "drainant",
-      "Acidité ": "légèrement acide à légèrement basique",
-      "Humidité ": "normal à frais en été,  assez sec sec en hiver",
-      "Utilisation": "en extérieur, en potée ou en pleine terre",
-      "Plantation": "printemps",
-      "Multiplication": "division, semis, bouture"
     },
     {
       "Nom": "Eucomis nain à feuilles tachetées",
@@ -1031,158 +1208,6 @@
       "Utilisation": "en extérieur, en potée ou en pleine terre",
       "Plantation": "printemps",
       "Multiplication": "division, semis, bouture"
-    },
-    {
-      "Nom": "Dichelostemma ida-maia",
-      "N. scientifique ": "Dichelostemma ida-maia",
-      "Synonymes ": "Brodiaea ida-maia, Brevoortia ida-maia",
-      "Famille ": "Liliacées",
-      "Origine ": "Amérique du nord-ouest",
-      "Floraison": "de mai à juillet",
-      "Fleurs ": "        rose, bleu, rouge ",
-      "Type": "fleurs",
-      "Végétation": "bulbe",
-      "Feuillage ": "caduc",
-      "Hauteur": "de 40 à 90 cm selon l'espèce",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, cependant gare aux fortes gelées "
-      ],
-      "Exposition ": [
-        "  ",
-        "  plein soleil "
-      ],
-      "Sol": "bien drainé, léger",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "rocaille, fleurs coupées",
-      "Plantation": "automne",
-      "Multiplication": "semis au printemps, séparation des caïeux à la fin de l'été"
-    },
-    {
-      "Nom": "Cyclamen d'Europe, Cyclamen pourpre, Cyclamen commun, Pain de pourceau",
-      "N. scientifique ": "Cyclamen purpurascens",
-      "Synonyme ": "Cyclamen europeum L.",
-      "Famille ": "Primulacées",
-      "Origine ": "Europe centrale et Europe méridionale",
-      "Floraison": "août à octobre",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "plante à bulbes",
-      "Végétation": "vivace",
-      "Feuillage ": "presque persistant",
-      "Hauteur": "10 à 15 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, -28°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  mi-ombre, ombre "
-      ],
-      "Sol": "sol riche et drainant",
-      "Acidité ": "légèrement acide à alcalin",
-      "Humidité ": "frais",
-      "Utilisation": "massif, sous-bois",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis"
-    },
-    {
-      "Nom": "Crocosmia, Montbrétia",
-      "N. scientifique ": "Crocosmia",
-      "Famille ": "Iridacées",
-      "Origine ": "Régions australes et tropicales de l'Afrique",
-      "Floraison": "de juin à octobre",
-      "Fleurs ": "        jaune, orange, rouge ",
-      "Type": "fleur",
-      "Végétation": "bulbe (cormus)",
-      "Feuillage ": "caduc",
-      "Hauteur": "de 50 à 100 cm selon les variétés",
-      "Rusticité ": [
-        "  ",
-        "  moyennement rustique selon les variétés, à retirer dans les régions à l'hiver rude "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "léger, frais, sablonneux, pauvre",
-      "Acidité ": "neutre",
-      "Humidité ": "frais",
-      "Utilisation": "massif, fleurs coupées",
-      "Plantation": "plantation entre 5 et 8 cm de profondeur au début du printemps",
-      "Multiplication": "semis en mars à l'intérieur, division des touffes tous les 3-4 ans en avril ou à l'automne",
-      "Taille": "Enlevez au fur et à mesure les fleurs fanées",
-      "Sensibilité ": "résistant aux maladies"
-    },
-    {
-      "Nom": "Crinum asiatique, Grand crinum, Crinum lis",
-      "N. scientifique ": "Crinum asiaticum",
-      "Famille ": "Amaryllidacées",
-      "Origine ": "Asie tropicale et subtropicale",
-      "Floraison": "toute l’année sauf lorsqu’il fait trop froid",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "plante à bulbe",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1,50m à 2m",
-      "Toxicité": "sève toxique, parfois allergisante",
-      "Rusticité ": [
-        "  ",
-        "  peu rustique, -4°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à ombre légère "
-      ],
-      "Sol": "sol riche",
-      "Acidité ": "neutre",
-      "Humidité ": "frais",
-      "Utilisation": "massif, potée",
-      "Plantation": "toute l’année",
-      "Multiplication": "division des bulbes, semis"
-    },
-    {
-      "Nom": "Crinole de Powell",
-      "N. scientifique ": "Crinum x powellii",
-      "Famille ": "Amaryllidacées",
-      "Origine ": "horticole",
-      "Floraison": "fin d’été, automne",
-      "Fleurs ": [
-        "     ",
-        "   rose clair "
-      ],
-      "Type": "plante à fleur herbacée",
-      "Végétation": "bulbe vivace",
-      "Feuillage ": "caduc en région froide",
-      "Hauteur": "80 à 120 cm",
-      "Toxicité": "sève toxique, parfois allergisante",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  assez rustique, -12 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "sol riche et drainant",
-      "Acidité ": "neutre",
-      "Humidité ": "frais",
-      "Utilisation": "massif",
-      "Plantation": "automne",
-      "Multiplication": "séparation des bulbes"
     },
     {
       "Nom": "Bégonia de Bolivie",
@@ -1595,34 +1620,6 @@
       "Sensibilité ": "oïdium, fusariose, pucerons et vers gris."
     },
     {
-      "Nom": "Ptilotus",
-      "N. scientifique ": "Ptilotus exaltatus",
-      "Famille ": "Amaranthacées",
-      "Origine ": "Australie",
-      "Floraison": "mai-juin à septembre en France",
-      "Fleurs ": [
-        "     ",
-        "   rose à rouge "
-      ],
-      "Type": "fleurs",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 40cm",
-      "Rusticité ": "   Plante gélive et annuelle sous nos contrées ",
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "normal",
-      "Acidité ": "neutre",
-      "Humidité ": "normal à sec",
-      "Utilisation": "bac, pot, massif",
-      "Plantation": "au printemps",
-      "Multiplication": "par semis au chaud au printemps",
-      "Taille": "pas de taille nécessaire",
-      "Sensibilité ": "résistante aux maladies"
-    },
-    {
       "Nom": "Pourpier de rocaille, Calandrinia en ombelle",
       "N. scientifique ": "Calandrinia umbellata",
       "Synonymes ": "Montiopsis umbellata, Talinum umbellatum",
@@ -1953,64 +1950,6 @@
       "Sensibilité ": "oïdium"
     },
     {
-      "Nom": "Mauve de Mauritanie, Grande mauve, Mauve des bois, Mauve sylvestre",
-      "N. scientifique ": "Malva sylvestris var Mauritiana",
-      "Synonymes ": "Malva sylvestris, Malva sylvestris Mauritania",
-      "Famille ": "Malvacées",
-      "Origine ": "Europe, Asie occidentale, Afrique du Nord",
-      "Floraison": "juin à septembre",
-      "Fleurs ": [
-        "     ",
-        "   pourpre violacé "
-      ],
-      "Type": "plante herbacée",
-      "Végétation": "bisannuelle",
-      "Feuillage ": "caduc",
-      "Hauteur": "70 cm à 1,20 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, -34 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "argileux à calvaire, riche",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "normal",
-      "Utilisation": "ornementale et médicinale, comestible",
-      "Plantation": "printemps, automne",
-      "Multiplication": "divisions, semis"
-    },
-    {
-      "Nom": "Mauve annuelle, Lavatère d'un trimestre",
-      "N. scientifique ": "Lavatera trimestris",
-      "Famille ": "Malvacées",
-      "Origine ": "Méditerranée, Asie et Afrique",
-      "Floraison": "de juillet à septembre",
-      "Fleurs ": [
-        "     ",
-        "   mauve "
-      ],
-      "Type": "fleur",
-      "Végétation": "annuelle",
-      "Feuillage ": "caduc",
-      "Hauteur": "jusqu'à 1m",
-      "Rusticité ": "   non rustique, la plante ne passe pas l'hiver ",
-      "Exposition ": [
-        "  ",
-        "  plein soleil "
-      ],
-      "Sol": "frais; riche",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "massif",
-      "Plantation": "printemps, semis en place",
-      "Multiplication": "par semis"
-    },
-    {
       "Nom": "Lupin changeant",
       "N. scientifique ": "Lupinus mutabilis",
       "Synonymes ": "Lupinus mutabilis var. cruckshanksii, Lupinus cruckshanksii, Lupinus hartwegii ssp. cruckshanksii",
@@ -2109,6 +2048,34 @@
       "Sensibilité ": "résistant aux maladies"
     },
     {
+      "Nom": "Ptilotus",
+      "N. scientifique ": "Ptilotus exaltatus",
+      "Famille ": "Amaranthacées",
+      "Origine ": "Australie",
+      "Floraison": "mai-juin à septembre en France",
+      "Fleurs ": [
+        "     ",
+        "   rose à rouge "
+      ],
+      "Type": "fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 40cm",
+      "Rusticité ": "   Plante gélive et annuelle sous nos contrées ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "normal",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "bac, pot, massif",
+      "Plantation": "au printemps",
+      "Multiplication": "par semis au chaud au printemps",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "résistante aux maladies"
+    },
+    {
       "Nom": "Impatiente de l'Himalaya, Impatiente glanduleuse",
       "N. scientifique ": "Impatiens glandulifera",
       "Synonyme ": "Impatiens roylei",
@@ -2137,6 +2104,121 @@
       "Multiplication": "semis au chaud en avril",
       "Taille": "pas de taille nécessaire",
       "Sensibilité ": "les aleurodes, les araignées rouges"
+    },
+    {
+      "Nom": "Fleur de satin, Godetia, Clarkia",
+      "N. scientifique ": "Clarkia amonea",
+      "Synonymes ": "Godetia amonea, Clarkia grandiflora",
+      "Famille ": "Onagracées",
+      "Origine ": "Amérique du Nord, Californie",
+      "Floraison": "juin-juillet ou juillet à septembre",
+      "Fleurs ": "        rose, violet, blanc ",
+      "Type": "plante ornementale",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 80 cm, selon les variétés",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "léger, sablonneux",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, prairie fleurie, jardinière",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Mauve de Mauritanie, Grande mauve, Mauve des bois, Mauve sylvestre",
+      "N. scientifique ": "Malva sylvestris var Mauritiana",
+      "Synonymes ": "Malva sylvestris, Malva sylvestris Mauritania",
+      "Famille ": "Malvacées",
+      "Origine ": "Europe, Asie occidentale, Afrique du Nord",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   pourpre violacé "
+      ],
+      "Type": "plante herbacée",
+      "Végétation": "bisannuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "70 cm à 1,20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "argileux à calvaire, riche",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal",
+      "Utilisation": "ornementale et médicinale, comestible",
+      "Plantation": "printemps, automne",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Mauve annuelle, Lavatère d'un trimestre",
+      "N. scientifique ": "Lavatera trimestris",
+      "Famille ": "Malvacées",
+      "Origine ": "Méditerranée, Asie et Afrique",
+      "Floraison": "de juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   mauve "
+      ],
+      "Type": "fleur",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 1m",
+      "Rusticité ": "   non rustique, la plante ne passe pas l'hiver ",
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "frais; riche",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "massif",
+      "Plantation": "printemps, semis en place",
+      "Multiplication": "par semis"
+    },
+    {
+      "Nom": "Coquelourde des jardins",
+      "N. scientifique ": "Lychnis coronaria",
+      "Famille ": "Caryophyllacées",
+      "Origine ": "Europe méridionale, Asie occidentale",
+      "Floraison": "de juillet jusqu’à l’automne",
+      "Fleurs ": [
+        "     ",
+        "   pourpre, blanche "
+      ],
+      "Type": "plante ornementale",
+      "Végétation": "vivace à vie brève, bisannuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "60 cm",
+      "Rusticité ": "   très rustique, -29°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre partielle "
+      ],
+      "Sol": "pauvre et caillouteux, mais tolérant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, bouquet, terrains difficiles",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
     },
     {
       "Nom": "Immortelle d'Australie, Acroclinium rose, Acroclinie rose",
@@ -2261,36 +2343,6 @@
       "Multiplication": "printemps"
     },
     {
-      "Nom": "Fleur de satin, Godetia, Clarkia",
-      "N. scientifique ": "Clarkia amonea",
-      "Synonymes ": "Godetia amonea, Clarkia grandiflora",
-      "Famille ": "Onagracées",
-      "Origine ": "Amérique du Nord, Californie",
-      "Floraison": "juin-juillet ou juillet à septembre",
-      "Fleurs ": "        rose, violet, blanc ",
-      "Type": "plante ornementale",
-      "Végétation": "annuelle",
-      "Feuillage ": "caduc",
-      "Hauteur": "30 à 80 cm, selon les variétés",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -24°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "léger, sablonneux",
-      "Acidité ": "légèrement acide à légèrement basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "massif, prairie fleurie, jardinière",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis"
-    },
-    {
       "Nom": "Fleur araignée",
       "N. scientifique ": "Cleome spinosa",
       "Synonymes ": " Cleome pungens, Cleome hassleriana",
@@ -2388,33 +2440,6 @@
       "Plantation": "printemps",
       "Multiplication": "semis en avril à 16°C",
       "Sensibilité ": "les pucerons"
-    },
-    {
-      "Nom": "Coquelourde des jardins",
-      "N. scientifique ": "Lychnis coronaria",
-      "Famille ": "Caryophyllacées",
-      "Origine ": "Europe méridionale, Asie occidentale",
-      "Floraison": "de juillet jusqu’à l’automne",
-      "Fleurs ": [
-        "     ",
-        "   pourpre, blanche "
-      ],
-      "Type": "plante ornementale",
-      "Végétation": "vivace à vie brève, bisannuelle",
-      "Feuillage ": "persistant",
-      "Hauteur": "60 cm",
-      "Rusticité ": "   très rustique, -29°C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à ombre partielle "
-      ],
-      "Sol": "pauvre et caillouteux, mais tolérant",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "massif, bouquet, terrains difficiles",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis"
     },
     {
       "Nom": "Coquelicot",
@@ -2649,31 +2674,6 @@
       "Plantation": "printemps",
       "Multiplication": "semis en avril, bouture herbacée en juin",
       "Sensibilité ": "fonte des semis, Botrytis, aleurodes, araignées rouges, pucerons"
-    },
-    {
-      "Nom": "Amarante, Queue-de-renard",
-      "N. scientifique ": "Amaranthus caudatus",
-      "Famille ": "Amaranthacées",
-      "Origine ": "Afrique, Inde, Amérique du sud",
-      "Floraison": "de juillet à septembre",
-      "Fleurs ": "        rouge-pourpre, vert ",
-      "Type": "fleur",
-      "Végétation": "vivace éphémère",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 1 à 1,5 m",
-      "Toxicité": "plante encore utilisée comme légume dans certains pays",
-      "Rusticité ": "   plante gélive ",
-      "Exposition ": [
-        "  ",
-        "  soleil, à l'abri du vent "
-      ],
-      "Sol": "riche en humus, bien drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "frais",
-      "Utilisation": "massif, pot",
-      "Plantation": "printemps",
-      "Multiplication": "semis en mars-avril au chaud et repiquage en mai",
-      "Sensibilité ": "les pucerons, les araignées rouges"
     }
   ]
 }

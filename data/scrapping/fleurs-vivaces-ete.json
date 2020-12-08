@@ -2319,43 +2319,6 @@
       "Multiplication": "bouture, semis"
     },
     {
-      "Nom": "Lavande, Lavandin",
-      "N. scientifique ": "Lavandula",
-      "Famille ": "Labiacées, Lamiacées, Labiées",
-      "Origine ": "Bassin méditerranéen, îles Canaries, Afrique du nord, Inde, Asie du sud-est",
-      "Floraison": "de mai à août selon les variétés, fleurs parfumées et mellifère qui attirent les abeilles",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "     ",
-        "     ",
-        "   bleu, mauve, violet, blanc "
-      ],
-      "Type": "arbrisseau",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 30 à 100 cm selon les variétés",
-      "Toxicité": "La lavande est connue depuis la nuit des temps pour son parfum et ses propriétés apaisantes et antiseptiques.",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  de -15 à -20°C pour les plus rustiques, Lavandula stoechas commence à souffrir à partir de -5°C, protéger les les Lavandes en pot "
-      ],
-      "Exposition ": [
-        "  ",
-        "  plein soleil "
-      ],
-      "Sol": "ordinaire, légère, drainé, voir pauvre",
-      "Acidité ": "neutre",
-      "Humidité ": "normal à sec",
-      "Utilisation": "massif, bordure, haie basse, talus, bac, fleurs coupées à prélever avant l'ouverture, pots-pourris",
-      "Plantation": "printemps",
-      "Multiplication": "semis au printemps, bouturage en juillet-août en prélevant des rameaux de 5 cm que vous planterez dans une mini-serre",
-      "Taille": "Indispensable. Pratiquez une taille après la floraison pour lui garder sa forme ronde. En vieillissant, la lavande a tendance à se dégarnir à la base, surtout si elle n'a pas été régulièrement taillée. Mieux vaut dans ce cas, remplacer le pied, car une taille sévère ne donne rarement de bons résultats, les percements sur le vieux bois étant rares.",
-      "Sensibilité ": "le botrytis"
-    },
-    {
       "Nom": "Laîche palmier de Chine, Laîche Tenjiku",
       "N. scientifique ": "Carex phyllocephala",
       "Famille ": "Cypéracées",
@@ -4058,41 +4021,6 @@
       "Sensibilité ": "attention à la pourriture"
     },
     {
-      "Nom": "Campanule laiteuse",
-      "N. scientifique ": "Campanula lactiflora",
-      "Synonymes ": "Campanula biserrata, Campanula celtidifolia, Campanula hispida",
-      "Famille ": "Campanulacées",
-      "Origine ": "Caucase, Turquie, Iran",
-      "Floraison": "juin à octobre",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "     ",
-        "   bleu, lavande, blanc, rose "
-      ],
-      "Type": "plante vivace",
-      "Végétation": "herbacée",
-      "Feuillage ": "caduc",
-      "Hauteur": "50 à 150 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -28 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "sol riche et humifère",
-      "Acidité ": "neutre à moyennement basique",
-      "Humidité ": "normal à humide, mais relativement drainant",
-      "Utilisation": "ornementale pour massif, plante mellifère, plante comestible",
-      "Plantation": "semis, division",
-      "Multiplication": "automne, printemps"
-    },
-    {
       "Nom": "Chardon africain pourpre, Verkheya pourpre",
       "N. scientifique ": "Berkheya purpurea",
       "Famille ": "Astéracées, Composées",
@@ -4308,6 +4236,41 @@
       "Acidité ": "acide à basique",
       "Humidité ": "normal à frais",
       "Utilisation": "massif, salade",
+      "Plantation": "semis, division",
+      "Multiplication": "automne, printemps"
+    },
+    {
+      "Nom": "Campanule laiteuse",
+      "N. scientifique ": "Campanula lactiflora",
+      "Synonymes ": "Campanula biserrata, Campanula celtidifolia, Campanula hispida",
+      "Famille ": "Campanulacées",
+      "Origine ": "Caucase, Turquie, Iran",
+      "Floraison": "juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   bleu, lavande, blanc, rose "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "50 à 150 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -28 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "sol riche et humifère",
+      "Acidité ": "neutre à moyennement basique",
+      "Humidité ": "normal à humide, mais relativement drainant",
+      "Utilisation": "ornementale pour massif, plante mellifère, plante comestible",
       "Plantation": "semis, division",
       "Multiplication": "automne, printemps"
     },

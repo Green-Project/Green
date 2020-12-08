@@ -1408,6 +1408,34 @@
       "Multiplication": "bouturage"
     },
     {
+      "Nom": "Fleur de cire miniature, Fleur de porcelaine",
+      "N. scientifique ": "Hoya bella",
+      "Synonyme ": "Hoya lanceolata subsp. bella",
+      "Famille ": "Asclépiadacées",
+      "Origine ": "Inde, Thaïlande, Birmanie",
+      "Floraison": "surtout au printemps",
+      "Fleurs ": [
+        "     ",
+        "   blanc, crème "
+      ],
+      "Type": "plante d’appartement",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "tiges jusqu’à 1 m",
+      "Rusticité ": "   gélive, 12°C minimum ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre à ombre légère "
+      ],
+      "Sol": "terreau",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "humide mais drainant",
+      "Utilisation": "plante d’intérieur, véranda",
+      "Plantation": "pendant toute la belle saison",
+      "Multiplication": "bouturage"
+    },
+    {
       "Nom": "Figuier rampant, Figuier nain, Ficus rampant",
       "N. scientifique ": "Ficus pumila",
       "Synonymes ": "Ficus repens, Ficus scandens, Ficus stipulata",
@@ -1592,34 +1620,6 @@
       "Utilisation": "plante d’intérieur, extérieur en hiver doux",
       "Plantation": "printemps, été",
       "Multiplication": "divisions"
-    },
-    {
-      "Nom": "Fleur de cire miniature, Fleur de porcelaine",
-      "N. scientifique ": "Hoya bella",
-      "Synonyme ": "Hoya lanceolata subsp. bella",
-      "Famille ": "Asclépiadacées",
-      "Origine ": "Inde, Thaïlande, Birmanie",
-      "Floraison": "surtout au printemps",
-      "Fleurs ": [
-        "     ",
-        "   blanc, crème "
-      ],
-      "Type": "plante d’appartement",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "tiges jusqu’à 1 m",
-      "Rusticité ": "   gélive, 12°C minimum ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  mi-ombre à ombre légère "
-      ],
-      "Sol": "terreau",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "humide mais drainant",
-      "Utilisation": "plante d’intérieur, véranda",
-      "Plantation": "pendant toute la belle saison",
-      "Multiplication": "bouturage"
     },
     {
       "Nom": "Fougère d'intérieur",

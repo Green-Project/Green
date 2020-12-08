@@ -2,6 +2,142 @@
   "category": "Orchidées & broméliacées",
   "data": [
     {
+      "Nom": "Sabot de Vénus de Chamberlain",
+      "N. scientifique ": "Paphiopedilum chamberlainianum",
+      "Synonyme ": "Paphiopedilum victoria-reginae var. chamberlainianum",
+      "Famille ": "Orchidées, Orchidacées",
+      "Origine ": "Sumatra",
+      "Floraison": "printemps, été",
+      "Fleurs ": [
+        "     ",
+        "   rose et pourpre "
+      ],
+      "Type": "orchidée tropicale",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "50 à 90 cm",
+      "Rusticité ": "   12°C minimum ",
+      "Exposition ": [
+        "  ",
+        "  mi-ombre, lumière tamisée "
+      ],
+      "Sol": "mélange drainant et aéré",
+      "Acidité ": "basique",
+      "Humidité ": "frais",
+      "Utilisation": "serre chaude, intérieur",
+      "Plantation": "printemps",
+      "Multiplication": "division, semis in vitro"
+    },
+    {
+      "Nom": "Pleione forrestii",
+      "N. scientifique ": "Pleione forrestii",
+      "Famille ": "Orchidées, Orchidacées",
+      "Origine ": "Chine, Yunnan",
+      "Floraison": "début du printemps",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "orchidée tempérée",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "5 à 15 cm",
+      "Rusticité ": "   non rustique, 1°C ",
+      "Exposition ": [
+        "  ",
+        "  lumineuse "
+      ],
+      "Sol": "mélange spécifique",
+      "Acidité ": "acide",
+      "Humidité ": "humide ou sec en fonction des saisons",
+      "Utilisation": "serre froide, extérieur en région tempérée",
+      "Plantation": "printemps",
+      "Multiplication": "division"
+    },
+    {
+      "Nom": "Phragmipedium 'Memoria Dick Clements'",
+      "N. scientifique ": "Phragmipedium besseae x sargentianum",
+      "Famille ": "Orchidées, Orchidacées",
+      "Origine ": "horticole",
+      "Floraison": "souvent au sortir de l’hiver",
+      "Fleurs ": [
+        "     ",
+        "   rouge cerise "
+      ],
+      "Type": "orchidée tropicale",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "50 à 90 cm",
+      "Rusticité ": "   non rustique -12°C minimum ",
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "mélange pour orchidées",
+      "Acidité ": "acide",
+      "Humidité ": "humide",
+      "Utilisation": "serre chaude, intérieur",
+      "Plantation": "printemps",
+      "Multiplication": "division, semis in vitro"
+    },
+    {
+      "Nom": "Phragmipédium",
+      "N. scientifique ": "Phragmipedium",
+      "Famille ": "Orchidées, Orchidacées",
+      "Origine ": "Amérique du sud et amérique centrale",
+      "Floraison": "toute l’année, variable, selon les espèces",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   jaune, rouge, rose, brun "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 10 à 1 m avec la hampe florale",
+      "Rusticité ": "   de 12° C à 32 °C, non rustique ",
+      "Exposition ": [
+        "  ",
+        "  lumière tamisée, pas de soleil direct "
+      ],
+      "Sol": "mélange pour orchidées",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "pot, serre chaude, véranda",
+      "Plantation": "printemps",
+      "Multiplication": "division de la touffe au printemps, semis in vitro",
+      "Taille": "pas de taille",
+      "Sensibilité ": "les pucerons, les cochenilles, les araignées rouges"
+    },
+    {
+      "Nom": "Orchidée-pensée",
+      "N. scientifique ": "Miltoniopsis",
+      "Synonyme ": "Miltonia",
+      "Famille ": "Orchidées, Orchidacées",
+      "Origine ": "Brésil de l'ouest, Pérou, Bolivie, Colombie",
+      "Floraison": "toute l'année",
+      "Fleurs ": "        variable selon les espèces ",
+      "Type": "fleur",
+      "Végétation": "vivace épiphyte",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 40 à 60 cm",
+      "Rusticité ": "   10°C minimum, idéal entre 15 et 20°C toute l'année ",
+      "Exposition ": [
+        "  ",
+        "  lumière vive "
+      ],
+      "Sol": "mélange pour orchidées",
+      "Acidité ": "neutre",
+      "Humidité ": "humide",
+      "Utilisation": "pot, bac",
+      "Plantation": "rempotez en septembre après la période estivale",
+      "Multiplication": "semis réservé aux professionnels, division de la touffe à l'automne au moment du rempotage",
+      "Taille": "pas de taille",
+      "Sensibilité ": "les cochenilles, les pucerons, les araignées rouges"
+    },
+    {
       "Nom": "Zygopétalum",
       "N. scientifique ": "Zygopetalum",
       "Famille ": "Orchidées, Orchidacées",
@@ -139,142 +275,6 @@
       "Plantation": "printemps",
       "Multiplication": "séparation des rejets",
       "Sensibilité ": "les cochenilles, les araignées rouges, les pucerons"
-    },
-    {
-      "Nom": "Sabot de Vénus de Chamberlain",
-      "N. scientifique ": "Paphiopedilum chamberlainianum",
-      "Synonyme ": "Paphiopedilum victoria-reginae var. chamberlainianum",
-      "Famille ": "Orchidées, Orchidacées",
-      "Origine ": "Sumatra",
-      "Floraison": "printemps, été",
-      "Fleurs ": [
-        "     ",
-        "   rose et pourpre "
-      ],
-      "Type": "orchidée tropicale",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "50 à 90 cm",
-      "Rusticité ": "   12°C minimum ",
-      "Exposition ": [
-        "  ",
-        "  mi-ombre, lumière tamisée "
-      ],
-      "Sol": "mélange drainant et aéré",
-      "Acidité ": "basique",
-      "Humidité ": "frais",
-      "Utilisation": "serre chaude, intérieur",
-      "Plantation": "printemps",
-      "Multiplication": "division, semis in vitro"
-    },
-    {
-      "Nom": "Pleione forrestii",
-      "N. scientifique ": "Pleione forrestii",
-      "Famille ": "Orchidées, Orchidacées",
-      "Origine ": "Chine, Yunnan",
-      "Floraison": "début du printemps",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "orchidée tempérée",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "5 à 15 cm",
-      "Rusticité ": "   non rustique, 1°C ",
-      "Exposition ": [
-        "  ",
-        "  lumineuse "
-      ],
-      "Sol": "mélange spécifique",
-      "Acidité ": "acide",
-      "Humidité ": "humide ou sec en fonction des saisons",
-      "Utilisation": "serre froide, extérieur en région tempérée",
-      "Plantation": "printemps",
-      "Multiplication": "division"
-    },
-    {
-      "Nom": "Phragmipedium 'Memoria Dick Clements'",
-      "N. scientifique ": "Phragmipedium besseae x sargentianum",
-      "Famille ": "Orchidées, Orchidacées",
-      "Origine ": "horticole",
-      "Floraison": "souvent au sortir de l’hiver",
-      "Fleurs ": [
-        "     ",
-        "   rouge cerise "
-      ],
-      "Type": "orchidée tropicale",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "50 à 90 cm",
-      "Rusticité ": "   non rustique -12°C minimum ",
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "mélange pour orchidées",
-      "Acidité ": "acide",
-      "Humidité ": "humide",
-      "Utilisation": "serre chaude, intérieur",
-      "Plantation": "printemps",
-      "Multiplication": "division, semis in vitro"
-    },
-    {
-      "Nom": "Phragmipédium",
-      "N. scientifique ": "Phragmipedium",
-      "Famille ": "Orchidées, Orchidacées",
-      "Origine ": "Amérique du sud et amérique centrale",
-      "Floraison": "toute l’année, variable, selon les espèces",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "     ",
-        "     ",
-        "   jaune, rouge, rose, brun "
-      ],
-      "Type": "fleur",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 10 à 1 m avec la hampe florale",
-      "Rusticité ": "   de 12° C à 32 °C, non rustique ",
-      "Exposition ": [
-        "  ",
-        "  lumière tamisée, pas de soleil direct "
-      ],
-      "Sol": "mélange pour orchidées",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "pot, serre chaude, véranda",
-      "Plantation": "printemps",
-      "Multiplication": "division de la touffe au printemps, semis in vitro",
-      "Taille": "pas de taille",
-      "Sensibilité ": "les pucerons, les cochenilles, les araignées rouges"
-    },
-    {
-      "Nom": "Orchidée-pensée",
-      "N. scientifique ": "Miltoniopsis",
-      "Synonyme ": "Miltonia",
-      "Famille ": "Orchidées, Orchidacées",
-      "Origine ": "Brésil de l'ouest, Pérou, Bolivie, Colombie",
-      "Floraison": "toute l'année",
-      "Fleurs ": "        variable selon les espèces ",
-      "Type": "fleur",
-      "Végétation": "vivace épiphyte",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 40 à 60 cm",
-      "Rusticité ": "   10°C minimum, idéal entre 15 et 20°C toute l'année ",
-      "Exposition ": [
-        "  ",
-        "  lumière vive "
-      ],
-      "Sol": "mélange pour orchidées",
-      "Acidité ": "neutre",
-      "Humidité ": "humide",
-      "Utilisation": "pot, bac",
-      "Plantation": "rempotez en septembre après la période estivale",
-      "Multiplication": "semis réservé aux professionnels, division de la touffe à l'automne au moment du rempotage",
-      "Taille": "pas de taille",
-      "Sensibilité ": "les cochenilles, les pucerons, les araignées rouges"
     },
     {
       "Nom": "Orchidée papillon",
@@ -1739,6 +1739,36 @@
       "Multiplication": "rejets, semis"
     },
     {
+      "Nom": "Abromeitiella tapissante",
+      "N. scientifique ": "Deuterocohnia brevifolia",
+      "Synonyme ": "Abromeitiella brevifolia",
+      "Famille ": "Broméliacées",
+      "Origine ": "Amérique du Sud",
+      "Floraison": "hiver",
+      "Fleurs ": [
+        "     ",
+        "   fleurs vert acide "
+      ],
+      "Type": "plante xérophyte, broméliacée terrestre",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "coussinet large jusqu'à 90 cm, en dôme",
+      "Rusticité ": [
+        "  ",
+        "  non rustique, jusqu'à -2 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "drainant, pauvre en matière organique",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "sec en hiver, arrosé en été",
+      "Utilisation": "plante d'intérieur, serre, véranda, extérieur en été",
+      "Plantation": "fin de printemps, début d'été",
+      "Multiplication": "rejets, semis"
+    },
+    {
       "Nom": "Billbergie penchée",
       "N. scientifique ": "Billbergia nutans",
       "Famille ": "Broméliacées",
@@ -1796,36 +1826,6 @@
       "Multiplication": "semis, séparation des rejets",
       "Taille": "pas de taille nécessaire",
       "Sensibilité ": "rongeurs"
-    },
-    {
-      "Nom": "Abromeitiella tapissante",
-      "N. scientifique ": "Deuterocohnia brevifolia",
-      "Synonyme ": "Abromeitiella brevifolia",
-      "Famille ": "Broméliacées",
-      "Origine ": "Amérique du Sud",
-      "Floraison": "hiver",
-      "Fleurs ": [
-        "     ",
-        "   fleurs vert acide "
-      ],
-      "Type": "plante xérophyte, broméliacée terrestre",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "coussinet large jusqu'à 90 cm, en dôme",
-      "Rusticité ": [
-        "  ",
-        "  non rustique, jusqu'à -2 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "drainant, pauvre en matière organique",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "sec en hiver, arrosé en été",
-      "Utilisation": "plante d'intérieur, serre, véranda, extérieur en été",
-      "Plantation": "fin de printemps, début d'été",
-      "Multiplication": "rejets, semis"
     }
   ]
 }

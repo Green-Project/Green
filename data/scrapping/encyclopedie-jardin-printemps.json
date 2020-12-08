@@ -2,135 +2,33 @@
   "category": "Fleurs annuelles et bulbes du printemps",
   "data": [
     {
-      "Nom": "Ail de Bulgarie",
-      "N. scientifique ": "Nectaroscordum siculum",
-      "Synonymes ": "Allium siculum, Trigonea siculum",
-      "Famille ": "Amaryllidacées",
-      "Origine ": "Bulgarie, contour de la mer Noire",
-      "Floraison": "mai à juin",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "   rose et crème "
-      ],
-      "Type": "plante à bulbe",
-      "Végétation": "vivace",
+      "Nom": "Giroflée jaune, Murailler, Violier, Ravenelle",
+      "N. scientifique ": "Erysimum cheiri",
+      "Synonyme ": "Cheiranthus cheiri",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "Europe",
+      "Floraison": "printemps",
+      "Fleurs ": "        jaune, orange, pourpre, brun ",
+      "Type": "fleur",
+      "Végétation": "bisannuelle, vivace éphémère",
       "Feuillage ": "caduc",
-      "Hauteur": "20 à 50  cm",
+      "Hauteur": "de 20 à 80cm",
       "Rusticité ": [
         "  ",
         " ",
-        "  rustique, jusqu'à -15 °C "
+        "  rustique "
       ],
       "Exposition ": [
         "  ",
-        " ",
-        "  soleil à mi-ombre "
+        "  soleil "
       ],
-      "Sol": "drainant",
-      "Acidité ": "légèrement acide à moyennement basique",
-      "Humidité ": "assez frais pendant la croissance, sec en été",
-      "Utilisation": "massif, auge, rocaille",
-      "Plantation": "été, automne",
-      "Multiplication": "semis, division"
-    },
-    {
-      "Nom": "Ail d'ornement, Ail d'Aflatun",
-      "N. scientifique ": "Allium aflatunense",
-      "Synonyme ": "Allium hollandicum",
-      "Famille ": "Amaryllidacées",
-      "Origine ": "Iran",
-      "Floraison": "avril, mai",
-      "Fleurs ": [
-        "     ",
-        "   rose à pourpre "
-      ],
-      "Type": "bulbeuse à fleurs",
-      "Végétation": "bulbe",
-      "Feuillage ": "caduc",
-      "Hauteur": "80 à 100 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, -19 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ensoleillée à mi-ombre, très tolérant "
-      ],
-      "Sol": "sol frais, riche et drainant",
+      "Sol": "ordinaire, léger, bien drainé",
       "Acidité ": "neutre",
       "Humidité ": "normal",
-      "Utilisation": "massifs",
-      "Plantation": "dès septembre et durant l'automne",
-      "Multiplication": "division des bulbes, semis"
-    },
-    {
-      "Nom": "Ail à trois angles, Ail triquètre",
-      "N. scientifique ": "Allium triquetrum",
-      "Famille ": "Amaryllidacées",
-      "Origine ": "Pourtour méditerranéen",
-      "Floraison": "avril à juin",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "plante à bulbe",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "40 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, jusqu'à -10 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        " ",
-        "  soleil à ombre complète "
-      ],
-      "Sol": "drainant",
-      "Acidité ": "légèrement acide à basique",
-      "Humidité ": "normal à humide",
-      "Utilisation": "massif, jardinières, sous-bois, parfois consommé",
-      "Plantation": "été, automne",
-      "Multiplication": "semis, division"
-    },
-    {
-      "Nom": "Plante des savetiers, Bergénie à feuilles cordées",
-      "N. scientifique ": "Bergenia cordifolia",
-      "Famille ": "Saxifragacées",
-      "Origine ": "Sibérie, Himalaya",
-      "Floraison": "mars, avril",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "     ",
-        "   rose, rouge, blanc "
-      ],
-      "Type": "fleur",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 50 cm avec les hampes florales",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  très rustique, -18°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  mi-ombre à ombre "
-      ],
-      "Sol": "limono-argileux, un peu humifère, tolérant",
-      "Acidité ": "légèrement acide à légèrement basique",
-      "Humidité ": "normal à frais",
-      "Utilisation": "rocaille ombragée, massif, bordure, mur  végétal, couvre-sol",
-      "Plantation": "printemps, fin d'été",
-      "Multiplication": "semis en mai et repiquage en septembre, division de la touffe au printemps",
-      "Taille": "retirez les feuilles fanées",
-      "Sensibilité ": "résistant aux insectes et aux maladies"
+      "Utilisation": "rocaille, massif, fleur coupée",
+      "Plantation": "printemps",
+      "Multiplication": "semis en mai, bouturage au printemps",
+      "Sensibilité ": "les limaces, le mildiou"
     },
     {
       "Nom": "Trillium géant pourpre, Trille géant pourpre",
@@ -293,6 +191,41 @@
       "Plantation": "printemps, automne",
       "Multiplication": "division",
       "Sensibilité ": "les limaces"
+    },
+    {
+      "Nom": "Plante des savetiers, Bergénie à feuilles cordées",
+      "N. scientifique ": "Bergenia cordifolia",
+      "Famille ": "Saxifragacées",
+      "Origine ": "Sibérie, Himalaya",
+      "Floraison": "mars, avril",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   rose, rouge, blanc "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 50 cm avec les hampes florales",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  très rustique, -18°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre à ombre "
+      ],
+      "Sol": "limono-argileux, un peu humifère, tolérant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "rocaille ombragée, massif, bordure, mur  végétal, couvre-sol",
+      "Plantation": "printemps, fin d'été",
+      "Multiplication": "semis en mai et repiquage en septembre, division de la touffe au printemps",
+      "Taille": "retirez les feuilles fanées",
+      "Sensibilité ": "résistant aux insectes et aux maladies"
     },
     {
       "Nom": "Pivoine Itoh",
@@ -1743,6 +1676,33 @@
       "Multiplication": "division des bulbes"
     },
     {
+      "Nom": "Fritillaire de Perse",
+      "N. scientifique ": "Fritillaria persica",
+      "Famille ": "Liliacées",
+      "Origine ": "Turquie, Iran, Jordanie, Israël",
+      "Floraison": "avril à mai",
+      "Fleurs ": [
+        "     ",
+        "   presque noire "
+      ],
+      "Type": "plante à bulbe",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "40 à 100 cm",
+      "Rusticité ": "   rusique, jusqu'à -19°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "très drainant, sablonneux",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal en hiver, sec en été",
+      "Utilisation": "massif, rocaille, potée",
+      "Plantation": "été, automne",
+      "Multiplication": "semis, division"
+    },
+    {
       "Nom": "Fritillaire pintade, Oeuf de vanneaux, Méléagre, Fritillaire damier, Coccigrole, Tulipe des marais",
       "N. scientifique ": "Fritillaria meleagris",
       "Famille ": "Liliacées",
@@ -1808,33 +1768,6 @@
       "Plantation": "plantation entre septembre et novembre",
       "Multiplication": "division des bulbes en septembre",
       "Sensibilité ": "les limaces"
-    },
-    {
-      "Nom": "Fritillaire de Perse",
-      "N. scientifique ": "Fritillaria persica",
-      "Famille ": "Liliacées",
-      "Origine ": "Turquie, Iran, Jordanie, Israël",
-      "Floraison": "avril à mai",
-      "Fleurs ": [
-        "     ",
-        "   presque noire "
-      ],
-      "Type": "plante à bulbe",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "40 à 100 cm",
-      "Rusticité ": "   rusique, jusqu'à -19°C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "très drainant, sablonneux",
-      "Acidité ": "légèrement acide à basique",
-      "Humidité ": "normal en hiver, sec en été",
-      "Utilisation": "massif, rocaille, potée",
-      "Plantation": "été, automne",
-      "Multiplication": "semis, division"
     },
     {
       "Nom": "Freesia",
@@ -2599,6 +2532,102 @@
       "Sensibilité ": "pourriture en hiver dans les sols trop humides"
     },
     {
+      "Nom": "Ail de Bulgarie",
+      "N. scientifique ": "Nectaroscordum siculum",
+      "Synonymes ": "Allium siculum, Trigonea siculum",
+      "Famille ": "Amaryllidacées",
+      "Origine ": "Bulgarie, contour de la mer Noire",
+      "Floraison": "mai à juin",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   rose et crème "
+      ],
+      "Type": "plante à bulbe",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "20 à 50  cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -15 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "légèrement acide à moyennement basique",
+      "Humidité ": "assez frais pendant la croissance, sec en été",
+      "Utilisation": "massif, auge, rocaille",
+      "Plantation": "été, automne",
+      "Multiplication": "semis, division"
+    },
+    {
+      "Nom": "Ail d'ornement, Ail d'Aflatun",
+      "N. scientifique ": "Allium aflatunense",
+      "Synonyme ": "Allium hollandicum",
+      "Famille ": "Amaryllidacées",
+      "Origine ": "Iran",
+      "Floraison": "avril, mai",
+      "Fleurs ": [
+        "     ",
+        "   rose à pourpre "
+      ],
+      "Type": "bulbeuse à fleurs",
+      "Végétation": "bulbe",
+      "Feuillage ": "caduc",
+      "Hauteur": "80 à 100 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -19 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée à mi-ombre, très tolérant "
+      ],
+      "Sol": "sol frais, riche et drainant",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "massifs",
+      "Plantation": "dès septembre et durant l'automne",
+      "Multiplication": "division des bulbes, semis"
+    },
+    {
+      "Nom": "Ail à trois angles, Ail triquètre",
+      "N. scientifique ": "Allium triquetrum",
+      "Famille ": "Amaryllidacées",
+      "Origine ": "Pourtour méditerranéen",
+      "Floraison": "avril à juin",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante à bulbe",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "40 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -10 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        " ",
+        "  soleil à ombre complète "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal à humide",
+      "Utilisation": "massif, jardinières, sous-bois, parfois consommé",
+      "Plantation": "été, automne",
+      "Multiplication": "semis, division"
+    },
+    {
       "Nom": "Violier, Giroflée des jardins, giroflée d'été, Giroflée d'hiver",
       "N. scientifique ": "Matthiola incana",
       "Famille ": "Brassicacées, Crucifères",
@@ -2752,35 +2781,6 @@
       "Utilisation": "parterre, potée, rocaille, talus, prairie fleurie, bouquet, fleur coupée",
       "Plantation": "printemps",
       "Multiplication": "semis"
-    },
-    {
-      "Nom": "Giroflée jaune, Murailler, Violier, Ravenelle",
-      "N. scientifique ": "Erysimum cheiri",
-      "Synonyme ": "Cheiranthus cheiri",
-      "Famille ": "Brassicacées, Crucifères",
-      "Origine ": "Europe",
-      "Floraison": "printemps",
-      "Fleurs ": "        jaune, orange, pourpre, brun ",
-      "Type": "fleur",
-      "Végétation": "bisannuelle, vivace éphémère",
-      "Feuillage ": "caduc",
-      "Hauteur": "de 20 à 80cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "ordinaire, léger, bien drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "rocaille, massif, fleur coupée",
-      "Plantation": "printemps",
-      "Multiplication": "semis en mai, bouturage au printemps",
-      "Sensibilité ": "les limaces, le mildiou"
     }
   ]
 }

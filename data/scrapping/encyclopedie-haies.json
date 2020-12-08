@@ -2,6 +2,365 @@
   "category": "Plantes de haie",
   "data": [
     {
+      "Nom": "Noisetier (Noisette), Coudrier, Avelinier",
+      "N. scientifique ": "Corylus avellana",
+      "Famille ": "Bétulacées",
+      "Origine ": "Europe, Asie mineure, Algérie",
+      "Floraison": "les chatons apparaissent en plein hiver, quelques semaines avant les glomérules qui sont les fleurs femelles",
+      "Fleurs ": [
+        "     ",
+        "   chatons mâles jaunes "
+      ],
+      "Type": "arbuste de moyen développement",
+      "Végétation": "arbustive",
+      "Feuillage ": "caduc",
+      "Hauteur": "2 à 5 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -18 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "très tolérant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "en isolé, par paire, en haie, en bosquet, culture fruitière",
+      "Plantation": "automne jusqu'à mars",
+      "Multiplication": "bouturage en novembre, prélèvement de drageons, marcottage, semis mais les noisettes obtenues sont plus petites qu'une obtention par bouturage ou marcottage",
+      "Taille": "Un éclaircissage peut être pratiqué régulièrement pour aérer le pied. En fin d'automne, coupez les branches génantes.",
+      "Sensibilité ": "les larves du balanin ou ver des noisettes"
+    },
+    {
+      "Nom": "Groseillier à maquereau (Groseille)",
+      "N. scientifique ": "Ribes grossularia",
+      "Synonyme ": "Ribes uva crispa",
+      "Famille ": "Grossulariacées",
+      "Origine ": "Europe du nord (Caucase, Ukraine)",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste fruitier",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 50 à 150 cm",
+      "Toxicité": "épines suivant les variétés",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "ordinaire",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "jardin fruitier",
+      "Plantation": "automne",
+      "Multiplication": "marcottage, division des touffes, bouturage au printemps",
+      "Taille": "Coupez les plus vieux rameaux à ras du sol en mars car ils donnent moins et cela permet d'aérer la touffe. Coupez les rameaux qui trainent sur le sol.",
+      "Sensibilité ": "l'oïdium, la tenthrède du groseillier qui sont est une chenille"
+    },
+    {
+      "Nom": "Groseillier à grappes (Groseille)",
+      "N. scientifique ": "Ribes rubrum",
+      "Famille ": "Grossulariacées",
+      "Origine ": "Europe, afrique du nord",
+      "Floraison": "mars, avril",
+      "Fleurs ": [
+        "     ",
+        "   jaune-vert "
+      ],
+      "Type": "arbuste fruitier",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "150 cm",
+      "Toxicité": "Fruits comestibles",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "ordinaire, riche en humus, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "jardin fruitier",
+      "Plantation": "automne",
+      "Multiplication": "bouturage en automne en récupérant des rameaux coupés en tronçon de 20 cm que l'on replantent groupés par trois, marcottage",
+      "Taille": "Coupez les plus vieux rameaux à ras du sol en mars car ils donnent moins et cela permet d'aérer la touffe.",
+      "Sensibilité ": "les pucerons, l'oïdium, la tenthrède du groseillier qui est une chenille"
+    },
+    {
+      "Nom": "Grenadier (Grenade), Grenadier d'ornement",
+      "N. scientifique ": "Punica granatum",
+      "Famille ": "Punicacées",
+      "Origine ": "Asie, Iran, Inde",
+      "Floraison": "de mai à août",
+      "Fleurs ": [
+        "     ",
+        "   rouge "
+      ],
+      "Type": "arbuste à fruits",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 3 à 8 m selon les variétés",
+      "Toxicité": "les fruits sont comestibles pour certaines variétés",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  -12°C, rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil, à protéger des vents froids "
+      ],
+      "Sol": "drainé, frais",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "verger, haie libre, isolé, bac",
+      "Plantation": "février, mars ou à l'automne",
+      "Multiplication": "semis, bouturage en août",
+      "Taille": "supporte mal la taille"
+    },
+    {
+      "Nom": "Goyavier ananas, Goyavier du Brésil, Goyavier de Montevideo",
+      "N. scientifique ": "Feijoa sellowiana, Acca sellowiana",
+      "Synonyme ": "Acca sellowiana",
+      "Famille ": "Myrtacées",
+      "Origine ": "Uruguay, Paraguay, sud du Brésil, nord de l'Argentine",
+      "Floraison": "mai, juin",
+      "Fleurs ": [
+        "     ",
+        "   Fleur blanche aux étamines rouges "
+      ],
+      "Type": "arbuste fruitier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 3 à 6 m",
+      "Toxicité": "fruits comestibles",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -10°C, à protéger dans les régions aux hivers rigoureux ou à cultiver en bac "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "bien drainé, riche, argileux, léger",
+      "Acidité ": "neutre à acide, calcaire accepté",
+      "Humidité ": "normal",
+      "Utilisation": "isolé, haie libre, jardin fruitier, bac, bonsaï",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps, bouturage en août, greffage",
+      "Taille": "en mars-avril, rabattez votre Feijoa pour conserver une touffe compacte. Pincez les jeunes plants pour obtenir une bonne ramification",
+      "Sensibilité ": "les cochenilles"
+    },
+    {
+      "Nom": "Goji, Lyciet de chine",
+      "N. scientifique ": "Lycium chinense",
+      "Synonyme ": "Lycium chinensis",
+      "Famille ": "Solanacées",
+      "Origine ": "Asie",
+      "Espèces proches": "Lycium Barbatum",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   violette "
+      ],
+      "Type": "arbuste fruitier",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "2 à 3m",
+      "Rusticité ": "   rustique, -19°C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "pauvre et drainant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à humide",
+      "Utilisation": "fruitier, alicament",
+      "Plantation": "printemps, automne",
+      "Multiplication": "divisions, boutures, marcottages, semis"
+    },
+    {
+      "Nom": "Goji, Lyciet de Barbarie",
+      "N. scientifique ": "Lycium barbarum",
+      "Synonyme ": "Lycium halimifolium",
+      "Famille ": "Solanacées",
+      "Origine ": "Chine, Tibet",
+      "Espèces proches": "Lycium chinense",
+      "Floraison": "de mi-mai à fin juin",
+      "Fleurs ": [
+        "     ",
+        "   mauve "
+      ],
+      "Type": "légume/fruit",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,50 à 2 mètres",
+      "Toxicité": "feuillage toxique ; baie toxique lorsqu'elle n'est pas mûre",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  - 22 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche",
+      "Acidité ": "neutre voire calcaire",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis, bouturage",
+      "Taille": "pincer pour ramifier",
+      "Sensibilité ": "limaces, altises"
+    },
+    {
+      "Nom": "Cornouiller mâle, Cornouille sauvage, Cormier",
+      "N. scientifique ": "Cornus mas",
+      "Famille ": "Cornacées",
+      "Origine ": "Europe",
+      "Floraison": "février à avril",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "arbuste à petit arbre",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "2 m à 6 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique jusqu'à - 24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillé à mi-ombre   "
+      ],
+      "Sol": "calcaire, marne, argiles, limon, sable",
+      "Acidité ": "neutre à très basique",
+      "Humidité ": "très frais à sec",
+      "Utilisation": "haie, massif, fruits",
+      "Plantation": "automne jusqu'à mars",
+      "Multiplication": "semis, bouture, marcotte"
+    },
+    {
+      "Nom": "Cassissier (Cassis)",
+      "N. scientifique ": "Ribes nigrum",
+      "Famille ": "Grossulariacées",
+      "Origine ": "Nord de l'Europe et de l'Asie",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   vert jaunâtre "
+      ],
+      "Type": "arbuste fruitier",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 150 cm",
+      "Toxicité": "fruits comestibles",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  pas en plein soleil, car il craint le soleil trop fort comme dans le sud de la France "
+      ],
+      "Sol": "ordinaire, riche en humus, drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "jardin fruitier",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouturage en automne, marcottage",
+      "Taille": "Taillez votre cassissier en hiver en rabattant les rameaux principaux à un tiers de leur longueur. Pour les rameaux secondaires, laissez trois yeux. Limitez le nombre de branches en éliminant les vieux rameaux.",
+      "Sensibilité ": "l'anthracnose, oïdium, la jaunisse, les pucerons."
+    },
+    {
+      "Nom": "Amélanchier à feuilles d'aulne, Amélanchier fruitier",
+      "N. scientifique ": "Amelanchier alnifolia",
+      "Famille ": "Rosacées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "avril, mai",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste décoratif à fruits comestibles",
+      "Végétation": "arborée",
+      "Feuillage ": "caduc",
+      "Hauteur": "4,5  m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -30 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "normal à légèrement humide",
+      "Utilisation": "isolé en petit arbre parasol ou multi-tronc, en haie, en fourré fruitier",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Sureau noir",
+      "N. scientifique ": "Sambucus nigra",
+      "Famille ": "Caprifoliacées",
+      "Origine ": "Europe, Afrique du nord, Asie mineure",
+      "Floraison": "juin",
+      "Fleurs ": [
+        "     ",
+        "   blanche "
+      ],
+      "Type": "arbuste à fleurs et fruits",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "3 m à 6 m",
+      "Toxicité": "baies comestibles",
+      "Rusticité ": "   rustique ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi ombre "
+      ],
+      "Sol": "tout type de sol assez riche",
+      "Acidité ": "tolérant",
+      "Humidité ": "tolérant",
+      "Utilisation": "haie, jardin",
+      "Plantation": "automne, printemps",
+      "Multiplication": "semis, boutures",
+      "Taille": "receper éventuellement en hiver"
+    },
+    {
       "Nom": "Citronnier épineux",
       "N. scientifique ": "Poncirus trifoliata",
       "Famille ": "Rutacées",
@@ -95,37 +454,6 @@
       "Sensibilité ": "les araignées rouges en serre"
     },
     {
-      "Nom": "Filaire à feuilles étroites",
-      "N. scientifique ": "Phillyrea angustifolia",
-      "Famille ": "Apocynacées",
-      "Origine ": "Europe du sud et nord de l'Afrique",
-      "Floraison": "mars à mai",
-      "Fleurs ": [
-        "     ",
-        "   blanches "
-      ],
-      "Type": "plante méditerranéenne",
-      "Végétation": "arbustive",
-      "Feuillage ": "persistant",
-      "Hauteur": "1 à 4 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique -15°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "léger et drainant",
-      "Acidité ": "tolérant",
-      "Humidité ": "normal à sec",
-      "Utilisation": "massif, potée",
-      "Plantation": "printemps, automne",
-      "Multiplication": "bouturage"
-    },
-    {
       "Nom": "Arbousier (Arbouse), Arbre aux fraises",
       "N. scientifique ": "Arbutus unedo",
       "Famille ": "Ericacées",
@@ -156,38 +484,6 @@
       "Plantation": "automne, printemps",
       "Multiplication": "semis, bouturage en août, marcottage en août septembre ",
       "Sensibilité ": "résistant aux maladies"
-    },
-    {
-      "Nom": "Laurier rose",
-      "N. scientifique ": "Nerium oleander",
-      "Famille ": "Apocynacées",
-      "Origine ": "Afrique du nord",
-      "Floraison": "tout l'été",
-      "Fleurs ": "        blanc, rose, rouge, saumon, jaune, fuchsia ",
-      "Type": "arbuste à fleurs",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 4m",
-      "Toxicité": "C'est une des plante les plus dangereuses de nos régions. Feuilles, fleurs, écorce et bois, frais ou séchés, sont toxiques à très faible dose. On considère quune seule feuille peut être mortelle pour lhomme.",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  -6°C, jusqu'à -10°C pour les variétés les plus rustiques "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "léger et drainant",
-      "Acidité ": "neutre à légèrement acide",
-      "Humidité ": "normal à sec",
-      "Utilisation": "massif, haie libre, en bac en dehors d'un climat méditerranéen",
-      "Plantation": "printemps",
-      "Multiplication": "bouturage en eau ou en terre en prélevant une pousse d'une dizaine de centimètres non fleurie en juillet ou en août",
-      "Taille": "Après la floraison, rabattez de moitié les rameaux ayant fleuris. Ça lui redonnera une forme plus dense. Une année sur deux, taillez une branche sur cinq à 40 cm du sol pour que la base soit toujours garnie. La floraison est moindre après une taille sévère qui aura lieu de préférence à la fin de l'hiver si nécessaire",
-      "Sensibilité ": "la pourriture, le chancre, la galle bactérienne (boursouflures grises), l'Ascochita, le puceron noir et jaune, le thrips et les cochenilles"
     },
     {
       "Nom": "Plante du pêcheur, Diosmè hirsute, Buchu",
@@ -221,6 +517,43 @@
       "Multiplication": "bouturage",
       "Taille": "fin de printemps, après la floraison",
       "Sensibilité ": "pas de maladie"
+    },
+    {
+      "Nom": "Lavande, Lavandin",
+      "N. scientifique ": "Lavandula",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Bassin méditerranéen, îles Canaries, Afrique du nord, Inde, Asie du sud-est",
+      "Floraison": "de mai à août selon les variétés, fleurs parfumées et mellifère qui attirent les abeilles",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   bleu, mauve, violet, blanc "
+      ],
+      "Type": "arbrisseau",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 30 à 100 cm selon les variétés",
+      "Toxicité": "La lavande est connue depuis la nuit des temps pour son parfum et ses propriétés apaisantes et antiseptiques.",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  de -15 à -20°C pour les plus rustiques, Lavandula stoechas commence à souffrir à partir de -5°C, protéger les les Lavandes en pot "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "ordinaire, légère, drainé, voir pauvre",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, bordure, haie basse, talus, bac, fleurs coupées à prélever avant l'ouverture, pots-pourris",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps, bouturage en juillet-août en prélevant des rameaux de 5 cm que vous planterez dans une mini-serre",
+      "Taille": "Indispensable. Pratiquez une taille après la floraison pour lui garder sa forme ronde. En vieillissant, la lavande a tendance à se dégarnir à la base, surtout si elle n'a pas été régulièrement taillée. Mieux vaut dans ce cas, remplacer le pied, car une taille sévère ne donne rarement de bons résultats, les percements sur le vieux bois étant rares.",
+      "Sensibilité ": "le botrytis"
     },
     {
       "Nom": "Lantanier, Mille fleurs, Corbeille d'or",
@@ -380,41 +713,6 @@
       "Humidité ": "frais à sec",
       "Utilisation": "en isolé, haie",
       "Plantation": "mi-septembre à mi-novembre, mars-avril"
-    },
-    {
-      "Nom": "Vigne de l'Oregon",
-      "N. scientifique ": "Mahonia x media",
-      "Famille ": "Berbéridacées",
-      "Origine ": "Asie, Amérique du nord",
-      "Floraison": "automne, hiver, printemps",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "arbuste à fleurs",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 2 à 4 m",
-      "Toxicité": " Des troubles digestifs : diarrhées, vomissements, douleurs abdominales peuvent être observés après l'absorption par de jeunes enfants d'au moins une dizaine de baies. Les effets sont en général sans conséquence.",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  -10°C adulte, une protection, hivernale chez les jeunes sujets "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  mi-ombre, ombre, soleil en climat tempéré "
-      ],
-      "Sol": "terre plutôt sableuse, enrichie en humus",
-      "Acidité ": "neutre à acide, calcaire accepté",
-      "Humidité ": "normal",
-      "Utilisation": "isolé, haie libre, rocaille, massif, bac",
-      "Plantation": "Effectuez la plantation de préférence entre octobre et mars/avril",
-      "Multiplication": "semis, bouturage en août, drageonnage",
-      "Taille": "Les jeunes mahonias doivent obligatoirement être taillés après la floraison, afin d'encourager la plante à se ramifier : pincez le bouquet de feuilles terminales. Adulte le Mahonia ne nécessite pratiquement aucune taille. Contentez-vous d'éliminer les rameaux abîmés ou desséchés et de supprimer les hampes florales fanées.",
-      "Sensibilité ": "la rouille, le mildiou"
     },
     {
       "Nom": "Argousier, Bourdaine marine, Epine luisante, Griset, Faux-nerprun",
