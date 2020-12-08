@@ -1,0 +1,5921 @@
+{
+  "category": "Fleurs vivaces d'été",
+  "data": [
+    {
+      "Nom": "Violette de Tasmanie",
+      "N. scientifique ": "Viola banksii",
+      "Synonyme ": "Viola hederacea (par erreur)",
+      "Famille ": "Violacées",
+      "Origine ": "Australie",
+      "Floraison": "toute la belle saison",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanc et mauve "
+      ],
+      "Type": "plante ornementale pour extérieur ou intérieur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "15 cm maximum",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, jusqu'à -7 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ombre claire "
+      ],
+      "Sol": "humifère, limoneux ou sablonneux",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "frais",
+      "Utilisation": "massif d'ombre, couvre-sol, pot",
+      "Plantation": "automne, printemps",
+      "Multiplication": "division",
+      "Sensibilité ": "pucerons"
+    },
+    {
+      "Nom": "Verveine rugueuse, Verveine tubéreuse",
+      "N. scientifique ": "Verbena rigida",
+      "Synonyme ": "Verbena venosa",
+      "Famille ": "Verbénacées",
+      "Origine ": "Amérique du sud",
+      "Floraison": "juin à novembre",
+      "Fleurs ": [
+        "     ",
+        "   pourpre "
+      ],
+      "Type": "plante vivace parfois cultivée en annuelle",
+      "Végétation": "herbacée",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "30 à 45 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  moyennement rustique, jusqu’à -14°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "normal à très sec",
+      "Utilisation": "massif, couvre-sol, talus",
+      "Plantation": "printemps",
+      "Multiplication": "boutures, semis"
+    },
+    {
+      "Nom": "Verveine de MacDougall, Verveine du Nouveau-Mexique",
+      "N. scientifique ": "Verbena macdougalii",
+      "Synonyme ": "Verbena venosa",
+      "Famille ": "Verbénacées",
+      "Origine ": "Amérique du Nord, Amérique centrale",
+      "Floraison": "juin à novembre",
+      "Fleurs ": [
+        "     ",
+        "   pourpre "
+      ],
+      "Type": "plante vivace parfois cultivée en annuelle",
+      "Végétation": "herbacée",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "80 à 150 cm",
+      "Rusticité ": [
+        "  ",
+        "  rustique jusqu'à - 7 °C, et bien davantage pour la variété  'Lavender Spires' "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "sec à frais",
+      "Utilisation": "massif, talus",
+      "Plantation": "printemps",
+      "Multiplication": "boutures, semis"
+    },
+    {
+      "Nom": "Verveine de Buenos-Aires",
+      "N. scientifique ": "Verbena bonariensis",
+      "Synonyme ": "Verbena patagonica",
+      "Famille ": "Verbénacées",
+      "Origine ": "Brésil, Argentine",
+      "Floraison": "juin à novembre",
+      "Fleurs ": [
+        "     ",
+        "   lilas "
+      ],
+      "Type": "herbacée",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "60 cm  à 1 m 50",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -7°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "riche en humus, bien drainé, léger",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "normal à très sec",
+      "Utilisation": "massif, couvre-sol, talus",
+      "Plantation": "printemps",
+      "Multiplication": "semis au chaud en mars, division des touffes au printemps ou bouturage",
+      "Taille": "coupez les tiges défleuries",
+      "Sensibilité ": "les pucerons"
+    },
+    {
+      "Nom": "Véronique en épi",
+      "N. scientifique ": "Veronica spicata",
+      "Synonymes ": "Cardia spicata, Eustaxia oppositifolia, Hedystachys spicata, Pseudolysimachion spicatum",
+      "Famille ": "Plantaginacées",
+      "Origine ": "Europe",
+      "Floraison": "juillet à août",
+      "Fleurs ": "        blanc, bleu, rose ",
+      "Type": "plante herbacée à fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "jusqu'à 1 m selon les cultivars",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -26°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "très tolérante",
+      "Acidité ": "neutre à basique, avec une préférence pour le sol calcaire",
+      "Humidité ": "normal",
+      "Utilisation": "massif",
+      "Plantation": "printemps, été",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Véronique à feuilles longues",
+      "N. scientifique ": "Veronica longifolia",
+      "Famille ": "Plantaginacées",
+      "Origine ": "Europe",
+      "Floraison": "juillet, août",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante herbacée à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1m",
+      "Rusticité ": "   rustique, -25 °C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "riche, de type argileux",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal",
+      "Utilisation": "massif",
+      "Plantation": "printemps, été",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Vernone hybride",
+      "N. scientifique ": "Vernonia angustifolia x missurica",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "horticole, parents d'Amérique du Nord",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   pourpre foncé "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacées",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 1,50m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, jusqu'à -20 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "indifférent",
+      "Humidité ": "normal à humide",
+      "Utilisation": "fond de massif, remarquable pour contraster dans massif de graminées...",
+      "Plantation": "divisions, boutures",
+      "Multiplication": "automne, printemps"
+    },
+    {
+      "Nom": "Vergerette de Karvinski, Vergerette muscronée, Marguerite folle",
+      "N. scientifique ": "Erigeron karvinskianus",
+      "Synonymes ": "Vittadinia triloba, Erigeron mucronatus",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Amérique centrale, Mexique",
+      "Floraison": "mai à octobre",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante vivace à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "15 à 30 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -20°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "minéral et drainant",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "muret, rocaille, massif ensoleillé",
+      "Plantation": "printemps, automne",
+      "Multiplication": "divisions"
+    },
+    {
+      "Nom": "Valériane rouge, Centranthe rouge, Lilas d’espagne",
+      "N. scientifique ": "Centranthus ruber",
+      "Famille ": "Valérianacées",
+      "Origine ": "Europe du sud, Afrique du nord",
+      "Floraison": "mai à septembre",
+      "Fleurs ": [
+        "     ",
+        "   pourpre "
+      ],
+      "Type": "vivace à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,60 à 0,80 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -19°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "drainant, argilo-limoneux à calcaire",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "fond de massif, muret, fissure, fleur coupée",
+      "Plantation": "automne, printemps",
+      "Multiplication": "division, semis, bouture"
+    },
+    {
+      "Nom": "Trachélie bleue, Trachélium bleu",
+      "N. scientifique ": "Trachelium caerulata",
+      "Famille ": "Campanulacées",
+      "Origine ": "Europe méridionale, Afrique septentrionale",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   bleu clair ou sombre, mauve, blanc, rose "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -12 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "tolérant, mais plutôt drainant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal à très sec",
+      "Utilisation": "massif, rocaille, talus, jardinière, bouquet",
+      "Plantation": "automne, printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Spirée à 3 feuilles",
+      "N. scientifique ": "Gillenia trifoliata",
+      "Synonyme ": "Porteranthus trifoliatus",
+      "Famille ": "Rosacées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "mai à septembre",
+      "Fleurs ": [
+        "     ",
+        "   blanche, rose "
+      ],
+      "Type": "plante à fleur pour massif d’ombre",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "50 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -21°C minimum "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "frais à humide",
+      "Utilisation": "massif, sous-bois",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division de touffes, semis"
+    },
+    {
+      "Nom": "Scabieuse",
+      "N. scientifique ": "Scabiosa",
+      "Famille ": "Dipsacacées",
+      "Origine ": "Caucase",
+      "Floraison": "de juin aux gelées",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   mauve, bleu, rose, pourpre, blanc, jaune "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant ou caduc",
+      "Hauteur": "de 30 à 80 cm selon les espèces et les variétés",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "fertile, bien drainé",
+      "Acidité ": "neutre, alcalin",
+      "Humidité ": "normal",
+      "Utilisation": "massif, fleurs coupées",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis, division de la touffe",
+      "Sensibilité ": "les limaces"
+    },
+    {
+      "Nom": "Saxifrage musquée",
+      "N. scientifique ": "Saxifraga moschata",
+      "Famille ": "Saxifragacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "juillet-août",
+      "Fleurs ": [
+        "     ",
+        "   jaune pâle "
+      ],
+      "Type": "plante de rocaille, plante alpine",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "8 cm",
+      "Rusticité ": "   rustique, -19°C ",
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "pauvre et drainant",
+      "Acidité ": "basique",
+      "Humidité ": "normal",
+      "Utilisation": "rocaille, potée",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Saxifrage des Pyrénées",
+      "N. scientifique ": "Saxifraga longifolia",
+      "Famille ": "Saxifragacées",
+      "Origine ": "Europe, Pyrénéen",
+      "Floraison": "monocarpique, en juillet-aout",
+      "Fleurs ": [
+        "     ",
+        "   blanche "
+      ],
+      "Type": "plante de rocaille, plante alpine",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 à 80 cm",
+      "Rusticité ": "   rustique, -19°C ",
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "pauvre et drainant",
+      "Acidité ": "basique",
+      "Humidité ": "normal",
+      "Utilisation": "rocaille, potée",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Saxifrage d'Arends, Saxifrage mousse",
+      "N. scientifique ": "Saxifraga arendsii",
+      "Famille ": "Saxifragacées",
+      "Origine ": "horticole",
+      "Floraison": "mai à août",
+      "Fleurs ": "        blanc, rose, rouge ",
+      "Type": "plante de rocaille, plante alpine",
+      "Végétation": "persistant",
+      "Feuillage ": "persistant",
+      "Hauteur": "8 à 25 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -28°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à frais, qui ne se dessèche pas",
+      "Utilisation": "rocaille, auge, devant de massif",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division"
+    },
+    {
+      "Nom": "Sauge russe, Lavande d'Afghanistan",
+      "N. scientifique ": "Perovskia",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Asie",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "sous-arbrisseau à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 90 cm à 1,5 m selon les espèces",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "bien drainé, pauvre, rocailleux",
+      "Acidité ": "neutre, calcaire toléré",
+      "Humidité ": "sec",
+      "Utilisation": "massif, pot",
+      "Plantation": "avril-mai, 3 plantes pour garnir 1 m² et 50 à 60 cm d’espace vital à chacune",
+      "Multiplication": "semis, bouturage herbacé en mai ou bouturage en fin d'été, séparation des drageons",
+      "Taille": "rabattre en mars à 10 cm du sol pour favoriser l'apparition de nouvelles pousses florifères",
+      "Sensibilité ": "résistant aux maladies et aux insectes"
+    },
+    {
+      "Nom": "Sauge involucre",
+      "N. scientifique ": "Salvia involucrata",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Mexique",
+      "Floraison": "de juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 1,50 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, pailler le pied l'hiver "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche en humus, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif",
+      "Plantation": "printemps",
+      "Multiplication": "semis et bouturage au printemps",
+      "Taille": "coupez les fleurs fanées",
+      "Sensibilité ": "les pucerons, les limaces, les araignées rouges"
+    },
+    {
+      "Nom": "Sauge farineuse",
+      "N. scientifique ": "Salvia farinacea",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Sud des Etats-Unis, Mexique",
+      "Floraison": "juillet aux gelées",
+      "Fleurs ": "        Blanc, bleu ou bicolore ",
+      "Type": "fleur",
+      "Végétation": "vivace sous climat doux, cultivée comme une annuelle ailleurs",
+      "Feuillage ": "persistant",
+      "Hauteur": "60 cm",
+      "Rusticité ": "   gélive ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "bonne terre de jardin",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "massif",
+      "Plantation": "printemps",
+      "Multiplication": "semis sur couche chaude en mars, division des touffes au printemps, boutures herbacées en été.",
+      "Sensibilité ": "limaces, escargots, pourriture des racines"
+    },
+    {
+      "Nom": "Sauge éclatante, sauge rouge",
+      "N. scientifique ": "Salvia splendens",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Brésil",
+      "Floraison": "de juin aux gelées",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   rouge, crême, violet "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace sous climat doux, cultivée comme une annuelle ailleurs",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 30 à 60 cm",
+      "Rusticité ": "   10°C ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche en humus, léger",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "massif, jardinière",
+      "Plantation": "printemps",
+      "Multiplication": "semis en mars au chaud à 18°C et repiquage en mai",
+      "Sensibilité ": "les limaces, les pucerons"
+    },
+    {
+      "Nom": "Sauge du Pérou, Sauge andine, Sauge noire",
+      "N. scientifique ": "Salvia discolor",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Pérou",
+      "Floraison": "juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "   aubergine presque noir "
+      ],
+      "Type": "semi-grimpante ornementale",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "45 à 90 cm",
+      "Rusticité ": "   rustique, -10°C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, potée",
+      "Plantation": "printemps",
+      "Multiplication": "bouture"
+    },
+    {
+      "Nom": "Sauge des marais, Sauge uligineuse",
+      "N. scientifique ": "Salvia uliginosa",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Amérique du sud",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "plante fleurie",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "90 cm à 180 cm",
+      "Rusticité ": [
+        "  ",
+        "  moyennement rustique, -10°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "frais à humide",
+      "Utilisation": "massif, jardin informel",
+      "Plantation": "printemps",
+      "Multiplication": "division de la touffe, semis au printemps"
+    },
+    {
+      "Nom": "Sauge des bois",
+      "N. scientifique ": "Salvia nemorosa",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "de l'Europe à l'Asie centrale",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   bleu-violet "
+      ],
+      "Type": "herbacée ornementale",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 90 cm",
+      "Rusticité ": "   très rustique, -29°C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal à moyennement sec",
+      "Utilisation": "massif",
+      "Plantation": "printemps",
+      "Multiplication": "division, bouture"
+    },
+    {
+      "Nom": "Sauge de Jérusalem à fleurs roses, Phlomis tubéreux",
+      "N. scientifique ": "Phlomis tuberosa",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Asie, Europe",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   rose à pourpre "
+      ],
+      "Type": "herbacée",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,50 à 1,80 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -25°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "pauvre à riche, supporte le calcaire",
+      "Acidité ": "ph neutre à basique",
+      "Humidité ": "sec à frais, mais drainant",
+      "Utilisation": "fond ou milieu de massif, racines comestibles",
+      "Plantation": "automne",
+      "Multiplication": "division, bouturage, semis"
+    },
+    {
+      "Nom": "Sauge de Jérusalem",
+      "N. scientifique ": "Phlomis grandiflora",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Turquie",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "fleur herbacée à sous-arbustive",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1m 50 à 2 m",
+      "Rusticité ": "   rustique, - 14°C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "pauvre à riche, supporte le calcaire",
+      "Acidité ": "ph neutre à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "plante décorative, huile essentielle",
+      "Plantation": "automne",
+      "Multiplication": "division, bouturage, semis"
+    },
+    {
+      "Nom": "Rudbeckie lumineuse, Rudbeckia lumineux",
+      "N. scientifique ": "Rudbeckia fulgida",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "août à octobre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "vivace",
+      "Végétation": "herbacées",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "90 à 150 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, jusqu'à -29 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à ombre partielle "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à humide",
+      "Utilisation": "massif, prairie fleurie",
+      "Plantation": "automne, printemps",
+      "Multiplication": "divisions"
+    },
+    {
+      "Nom": "Rudbeckia doux, Echinacée douce",
+      "N. scientifique ": "Rudbeckia subtomentosa",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "août à octobre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "90 à 150 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -29 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à ombre partielle "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à humide",
+      "Utilisation": "massif, prairie fleurie",
+      "Plantation": "divisions",
+      "Multiplication": "automne, printemps"
+    },
+    {
+      "Nom": "Rudbéckia à trois lobes, Echinacées à 3 lobes",
+      "N. scientifique ": "Rudbeckia triloba",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Etats-Unis",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante bisannuelle à vivace de courte durée",
+      "Végétation": "herbacée",
+      "Feuillage ": "persistant",
+      "Hauteur": "60 à 90 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -39°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à ombre partielle "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "normal à frais, voire humide",
+      "Utilisation": "massif, prairie fleurie",
+      "Plantation": "automne, printemps",
+      "Multiplication": "divisions"
+    },
+    {
+      "Nom": "Rudbeckia",
+      "N. scientifique ": "Rudbeckia",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "de juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace, certaines sont cultivées commes des annuelles (Rudbeckia hirta)",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 30 à 180 cm selon les variétés",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "ordinaire, drainé",
+      "Acidité ": "neutre, calcaire accepté",
+      "Humidité ": "normal",
+      "Utilisation": "massif, bordure",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis en place ou au chaud en avril et repiquez en automne, division de la touffe au printemps ou en automne",
+      "Taille": "Rabattre sévèrement au début de l'hiver",
+      "Sensibilité ": "les limaces pour les jeunes pousses"
+    },
+    {
+      "Nom": "Rose trémière, Rose à bâton",
+      "N. scientifique ": "Althaea rosea, Althaea sinensis",
+      "Synonymes ": "Althaea rosea, Althaea sinensis",
+      "Famille ": "Malvacées",
+      "Origine ": "inconnue (Europe, Asie)",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   blanc, jaune, saumon, rouge, rose, violet, noir, abricot "
+      ],
+      "Type": "plante herbacée",
+      "Végétation": "bisannuelle ou vivace de vie brève",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,80 à 3 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -39 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "argileux ou sablonneux, riche ou pauvre",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "supporte des sols frais comme des sol secs",
+      "Utilisation": "ornementale, médicinale, comestible",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis, bouture, divisions",
+      "Sensibilité ": "la rouille"
+    },
+    {
+      "Nom": "Roscoea jaune, Roscoea à floraison précoce, Gingembre orchidée",
+      "N. scientifique ": "Roscoea cautleoides",
+      "Synonyme ": "Roscoea cautleyoides",
+      "Famille ": "Zingibéracées",
+      "Origine ": "Chine, des provinces du Sichuan et du Yunnan",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   jaune, blanc, rose ou mauve "
+      ],
+      "Type": "plante rhizomateuse",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "15 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -20 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, potée",
+      "Plantation": "printemps",
+      "Multiplication": "semis, divisions"
+    },
+    {
+      "Nom": "Ricin vivace",
+      "N. scientifique ": "Napea dioica",
+      "Famille ": "Malvacées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante herbacées",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "0.90 à 2 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu’à -19°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "humifère",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "frais à humide",
+      "Utilisation": "bord de l’eau, massif frais",
+      "Plantation": "printemps, automne",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Renouée rose",
+      "N. scientifique ": "Persicaria capitata",
+      "Synonyme ": "Polygonum capitatum",
+      "Famille ": "Polygonacées",
+      "Origine ": "Asie, Himalaya",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "plante herbacée à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant en climat doux",
+      "Hauteur": "15 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -8°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "argileuse et humifère",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à humide",
+      "Utilisation": "massif, couvre-sol, potée",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Renouée bistorte",
+      "N. scientifique ": "Persicaria bistorta",
+      "Synonymes ": "Polygonum bistorta , Bistorta officinalis",
+      "Famille ": "Polygonacées",
+      "Origine ": "Europe du Nord, Asie",
+      "Floraison": "mai à août",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "plante herbacée à fleurs",
+      "Végétation": "plante vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "60 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -25 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre à ensoleillée "
+      ],
+      "Sol": "riche",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "frais à humide",
+      "Utilisation": "massif, berge, plante médicinale, comestible",
+      "Plantation": "printemps, automne"
+    },
+    {
+      "Nom": "Renouée",
+      "N. scientifique ": "Persicaria runcinata",
+      "Famille ": "Polygonacées",
+      "Origine ": "Népal",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "plante herbacée à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 40 cm",
+      "Rusticité ": "   rustique, -20°C ",
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "argileuse et humifère",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à humide",
+      "Utilisation": "massif",
+      "Plantation": "printemps"
+    },
+    {
+      "Nom": "Raisin d'amérique, Phytolaque d'amérique",
+      "N. scientifique ": "Phytolacca americana",
+      "Famille ": "Phytolaccacées",
+      "Origine ": "Amérique du nord, Mexique",
+      "Floraison": "de juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanc-rose "
+      ],
+      "Type": "vivace dressée ramifiée",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 4 m",
+      "Toxicité": "baies toxiques en cas d'ingestion",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "sol riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "haie libre",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps",
+      "Taille": "coupez les tiges disgraçieuses",
+      "Sensibilité ": "résistant aux maladies et aux insectes ravageurs"
+    },
+    {
+      "Nom": "Queue de lion",
+      "N. scientifique ": "Leonotis leonorus",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Afrique du sud",
+      "Floraison": "d'août à octobre",
+      "Fleurs ": [
+        "     ",
+        "   blanc, orange "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace souvent cultivée en annuelle",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "de 1 à 2 m",
+      "Rusticité ": [
+        "  ",
+        "  non rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "riche en humus, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "massif, pot, serre froide, fleurs coupées",
+      "Plantation": "printemps",
+      "Multiplication": "semis au chaud en avril, bouturage en juin",
+      "Taille": "rabattez la plante au début du printemps",
+      "Sensibilité ": "les araignées rouges et les aleurodes en serre"
+    },
+    {
+      "Nom": "Primevère de Vial, Primevère des marais",
+      "N. scientifique ": "Primula vialii",
+      "Famille ": "Primulacées",
+      "Origine ": "Chine",
+      "Floraison": "de mai à juillet",
+      "Fleurs ": [
+        "     ",
+        "   lilas "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 20 à 50 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "sol ordinaire",
+      "Acidité ": "neutre à acide",
+      "Humidité ": "frais à humide",
+      "Utilisation": "bordure de massifs ou de bassin, rocaille, pot, jardinière",
+      "Plantation": "printemps",
+      "Multiplication": "divisez la touffe après la floraison",
+      "Taille": "pas de taille",
+      "Sensibilité ": "limaces, araignées rouges"
+    },
+    {
+      "Nom": "Primevère de Siebold, Sakurasoo",
+      "N. scientifique ": "Primula sieboldii",
+      "Famille ": "Primulacées",
+      "Origine ": "Asie",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": "        rose, blanc, bleuté ",
+      "Type": "plante ornementale",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "15 à 30 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre à ombre légère "
+      ],
+      "Sol": "humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais à humide",
+      "Utilisation": "massif, rocaille fraiche, fleurs coupées",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Primevère candélabre",
+      "N. scientifique ": "Primula section candelabra",
+      "Famille ": "Primulacées",
+      "Origine ": "Chine, Birmanie selon les espèces",
+      "Floraison": "de mai à juillet",
+      "Fleurs ": [
+        "     ",
+        "   jaune, violet selon les espèces "
+      ],
+      "Type": "fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant à semi-persistant",
+      "Hauteur": "de 20 à 30 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ombre "
+      ],
+      "Sol": "ordinaire",
+      "Acidité ": "neutre à acide",
+      "Humidité ": "frais à humide",
+      "Utilisation": "bordure, rocaille, bord de bassin ou de ruisseau, pot, jardinière",
+      "Plantation": "printemps, automne",
+      "Multiplication": "propagation par semis naturel, division de la touffe après la floraison",
+      "Taille": "pas de taille",
+      "Sensibilité ": "limaces, araignées rouges"
+    },
+    {
+      "Nom": "Polygale petit buis, Faux-buis",
+      "N. scientifique ": "Polygala chamaebuxus var.grandiflora",
+      "Famille ": "Polygalacées",
+      "Origine ": "Alpes",
+      "Floraison": "avril à août",
+      "Fleurs ": [
+        "     ",
+        "   violette et jaune "
+      ],
+      "Type": "plante vivace, buissonnante",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "10 à 20 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -12°C9 "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "humifère et graveleux",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, rocaille, potée",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Pissenlit à fleurs roses",
+      "N. scientifique ": "Taraxacum pseudoroseum",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Asie centrale",
+      "Floraison": "mai à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   rose et jaune "
+      ],
+      "Type": "plante herbacée",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "15 à 30 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal à frais, mais non humide",
+      "Utilisation": "massif, talus, rocaille",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Pigamon de Rochebrun",
+      "N. scientifique ": "Thalictrum rochebrunianum",
+      "Synonyme ": "Thalictrum dipterocarpum",
+      "Famille ": "Renonculacées",
+      "Origine ": "Japon",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   mauve "
+      ],
+      "Type": "plante ornementale",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 2 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -30°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "riche, humifère",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "frais",
+      "Utilisation": "massif, arrière-plan",
+      "Plantation": "automne, printemps, été à partir de plante en pot",
+      "Multiplication": "semis, division"
+    },
+    {
+      "Nom": "Pigamon de Delavay",
+      "N. scientifique ": "Thalictrum delavayi",
+      "Synonyme ": "Thalictrum dipterocarpum",
+      "Famille ": "Renonculacées",
+      "Origine ": "Chine",
+      "Floraison": "juillet, août",
+      "Fleurs ": [
+        "     ",
+        "   mauve "
+      ],
+      "Type": "plante ornementale",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "90 cm à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "riche, limoneux à tendance calcaire",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, fleurs coupées",
+      "Plantation": "automne, printemps",
+      "Multiplication": "semis, division",
+      "Sensibilité ": "parfois l'oïdium, attention aux limaces au démarrage de la végétation"
+    },
+    {
+      "Nom": "Pied de chat dioïque, Antennaire dioïque",
+      "N. scientifique ": "Antennaria dioica",
+      "Synonymes ": "Gnaphalium dioicum, Antennaria hibernica",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Europe, Asie de l'Ouest",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanc ou rose "
+      ],
+      "Type": "plante vivace, alpine",
+      "Végétation": "herbacées",
+      "Feuillage ": "persistant",
+      "Hauteur": "10 à 30 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique jusqu'à -29 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "drainant et relativement pauvre",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "rocaille, jardin de gravier, fissure, plante médicinale, fleurs coupées",
+      "Plantation": "divisions, semis",
+      "Multiplication": "automne, printemps"
+    },
+    {
+      "Nom": "Pied d'alouette, dauphinelle",
+      "N. scientifique ": "Delphinium ",
+      "Famille ": "Renonculacées",
+      "Origine ": "Asie",
+      "Floraison": "de l’été jusqu’à l’automne",
+      "Fleurs ": "        bleu, rose, violet, blanc ",
+      "Type": "fleur",
+      "Végétation": "vivace, annuel",
+      "Feuillage ": "disparait complètement en hiver",
+      "Hauteur": "0,50 m à 2.40 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à  mi ombre "
+      ],
+      "Sol": "fertile, profond, frais",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "massif",
+      "Plantation": "à l’automne ou au printemps",
+      "Multiplication": "semis en août pour les vivaces et en mars pour les annuels, division de la touffe au printemps",
+      "Taille": "rabattez court les tiges florales après la floraison, pour une remontée en août-septembre",
+      "Sensibilité ": "l'oïdium, la bactériose, la fusariose, la pourriture du collet, les limaces"
+    },
+    {
+      "Nom": "Pied d'alouette",
+      "N. scientifique ": "Delphinium x elatum",
+      "Synonyme ": "Delphinium x culturum",
+      "Famille ": "Renonculacées",
+      "Origine ": "horticole",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   bleu, blanc, violet, rose "
+      ],
+      "Type": "plante herbacée",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,80 m à 2,40 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -23 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "terre de jardin, fertile de préférence",
+      "Acidité ": "tolérant",
+      "Humidité ": "sol frais",
+      "Utilisation": "massif, fleur coupée",
+      "Plantation": "à l'automne ou au printemps",
+      "Multiplication": "semis, boutures",
+      "Taille": "rabattre éventuellement après la première floraison",
+      "Sensibilité ": "limaces, pucerons sur les jeunes pousses"
+    },
+    {
+      "Nom": "Physostégie de Virginie",
+      "N. scientifique ": "Physostegia virginiana",
+      "Synonymes ": "Dracocephalum denticulatum, Dracocephalum virginiana",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "août à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rose, mauve, blanc "
+      ],
+      "Type": "plante ornementale",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "60 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -39°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, lisière de bois",
+      "Plantation": "printemps, septembre, octobre",
+      "Multiplication": "division, semis"
+    },
+    {
+      "Nom": "Phlox paniculé, Phlox vivace",
+      "N. scientifique ": "Phlox paniculata",
+      "Famille ": "Polémoniacées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "de juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   rose, rouge, mauve, bleu, blanc "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 80 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, variable selon les variétés "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche, drainé",
+      "Acidité ": "Indifférent",
+      "Humidité ": "normal à frais",
+      "Utilisation": "rocaille, massif, muret, fleur coupée",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis (printemps), division de la touffe (printemps-automne), bouture (printemps)",
+      "Taille": "rabattez les tiges à 10 cm du sol après la floraison en fin d'automne",
+      "Sensibilité ": "l'oïdium pour les plus tardifs"
+    },
+    {
+      "Nom": "Phlomis de Russel",
+      "N. scientifique ": "Phlomis russeliana",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Turquie",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "herbacées",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "0,80 à 0,90 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, - 20 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "assez tolérant, survit même en sol lourd",
+      "Acidité ": "légèrement acide à légèrement basique  ",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, couvre-sol",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division, bouturage, semis"
+    },
+    {
+      "Nom": "Petite scabieuse de Macédoine, Knautie de Macédoine",
+      "N. scientifique ": "Knautia macedonica",
+      "Famille ": "Caprifoliacées",
+      "Origine ": "Balkans",
+      "Floraison": "août à septembre",
+      "Fleurs ": [
+        "     ",
+        "   pourpre "
+      ],
+      "Type": "plante vivace à fleurs",
+      "Végétation": "vivace herbacée",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "40 à 80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu’à -16°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "tolérant, argileux-limoneux à calcaire",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "jardin naturel, jardin de gravier, massif",
+      "Plantation": "divisions, semis, bouture",
+      "Multiplication": "automne, printemps"
+    },
+    {
+      "Nom": "Persicaire, Renouée amplexicaule",
+      "N. scientifique ": "Persicaria amplexicaulis",
+      "Synonymes ": "Polygonum amplexicaule, Bistorta amplexicaulis",
+      "Famille ": "Polygonacées",
+      "Origine ": "Himalaya",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "plante herbacée à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "100 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, -26°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "riche",
+      "Acidité ": "légèrement acide à légèrement neutre",
+      "Humidité ": "frais à humide",
+      "Utilisation": "massif, berge",
+      "Plantation": "printemps, automne"
+    },
+    {
+      "Nom": "Penstémon",
+      "N. scientifique ": "Penstemon heterophyllus",
+      "Famille ": "Scrophulariacées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "mai à octobre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   bleu, pourpre, rouge, rose, blanc ou jaune "
+      ],
+      "Type": "sous-arbrisseau à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 30 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "fertile, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal, voir sec",
+      "Utilisation": "massif, plate-bande, fleurs coupées",
+      "Plantation": "printemps",
+      "Multiplication": "semis en mars, bouturage en juillet, division de la touffe au printemps",
+      "Taille": "Quand les premiers boutons apparaissent dans la touffe, couper une branche sur deux à 5-10 cm de la souche. Les nouvelles pousses ainsi provoquées fleuriront plus tard et la floraison se prolongera jusqu'en octobre-novembre.",
+      "Sensibilité ": "l'oïdium, les limaces"
+    },
+    {
+      "Nom": "Pavot de Californie",
+      "N. scientifique ": "Eschscholtzia californica",
+      "Famille ": "Papavéracées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "   orange vif "
+      ],
+      "Type": "plante herbacée à fleurs",
+      "Végétation": "vivace à vie brève",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 à 40 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu’à -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "ornementale et médicinale",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Pavot bleu de l'Himalaya",
+      "N. scientifique ": "Pavot bleu de l'Himalaya, Meconopsis betonicifolia",
+      "Famille ": "Papavéracées",
+      "Origine ": "Tibet, Sud Ouest de la Chine, Myanmar",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace éphémère",
+      "Feuillage ": "caduc",
+      "Hauteur": "150 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "drainé, riche",
+      "Acidité ": "acide",
+      "Humidité ": "frais",
+      "Utilisation": "rocaille, massif, sujet isolé",
+      "Plantation": "printemps/automne",
+      "Multiplication": "semis, division des touffes",
+      "Sensibilité ": "oïdium, limace"
+    },
+    {
+      "Nom": "Panicaut Big Blue, Chardon Big Blue",
+      "N. scientifique ": "Eryngium x zabelii 'Big Blue'",
+      "Synonyme ": "Eryngium bourgatii 'Big Blue'",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "hybride horticole",
+      "Floraison": "juillet, août",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "plante herbacée, chardon ornemental",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,60 à 0,90 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -26 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "minéral et drainant",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "normal à sec, résistant à la sécheresse",
+      "Utilisation": "rocaille, talus, jardin sec",
+      "Plantation": "printemps",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Ortie rouge, Lamier orvale",
+      "N. scientifique ": "Lamium orvala",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Europe centrale, Balkan",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   rose, pourpre "
+      ],
+      "Type": "plante fleurie",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "40 à 80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -23°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "sol relativement pauvre et drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "ne doit pas dessécher",
+      "Utilisation": "massif, jardin informel",
+      "Plantation": "printemps, automne",
+      "Multiplication": "divisions, bouture, semis"
+    },
+    {
+      "Nom": "Oreille d’ours, Oreille de lapin, Epiaire laineuse",
+      "N. scientifique ": "Stachys byzantina",
+      "Synonyme ": "Stachys lanata",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Asie mineure, Caucase, Turquie",
+      "Floraison": "juin, juillet, août",
+      "Fleurs ": [
+        "     ",
+        "   mauve "
+      ],
+      "Type": "plante herbacée, couvre sol",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "60cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, - 19°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "tolérant, aime le calcaire",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division, bouture, semis"
+    },
+    {
+      "Nom": "Onagre rose, Oenothère rose, Oenothe rose",
+      "N. scientifique ": "Oenothera speciosa",
+      "Famille ": "Onagracées",
+      "Origine ": "Amérique du Nord, Amérique centrale",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   rose, blanche "
+      ],
+      "Type": "plante ornementale",
+      "Végétation": "plante vivace",
+      "Feuillage ": "semi-persistante",
+      "Hauteur": "jusqu'à 40 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "plutôt drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "assez humide à sec",
+      "Utilisation": "massif, potée",
+      "Plantation": "printemps",
+      "Multiplication": "division, semis"
+    },
+    {
+      "Nom": "Onagre arbustif, Oenothère",
+      "N. scientifique ": "Oenothera fruticosa, Oenothera linearis",
+      "Synonyme ": " Oenothera linearis",
+      "Famille ": "Onagracées",
+      "Origine ": "Etats-Unis : Massachusetts, Michigan, Missouri et Floride",
+      "Floraison": "De mai à septembre",
+      "Fleurs ": [
+        "     ",
+        "   Jaune "
+      ],
+      "Type": "Fleur",
+      "Végétation": "Vivace ou bisannuelle",
+      "Feuillage ": "Persistant (juste une rosette au ras du sol en hiver)",
+      "Hauteur": "De 30 à 70cm de haut",
+      "Toxicité": "Non toxique",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  Bonne rusticité, -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  Soleil, éventuellement mi-ombre "
+      ],
+      "Sol": "Indifférent",
+      "Acidité ": "Neutre à calcaire",
+      "Humidité ": "Pas d'excès d'eau. Supporte les sols secs mais la floraison risque d'être moins belle",
+      "Utilisation": "En massif",
+      "Plantation": "A l'automne ou au printemps de préférence",
+      "Multiplication": "Le semis est le plus indiqué, en mars en caissette. On peut le diviser en mars. Enfin le bouturage herbacé sur les tiges non florifères marche assez bien, de mai à juillet.",
+      "Taille": "Les fleurs fanées peuvent être supprimées",
+      "Sensibilité ": "Taches foliaires et mildiou pour les champignons, mais aussi limaces fréquemment ou pourriture des racines dans les sols trop lourds et surtout humides."
+    },
+    {
+      "Nom": "Oeillet mignardise",
+      "N. scientifique ": "Dianthus plumarius",
+      "Famille ": "Caryophyllacées",
+      "Origine ": "Europe centrale, Orient",
+      "Floraison": "mai à juillet",
+      "Fleurs ": "        rose, rouge, blanc ",
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "30 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "ordinaire",
+      "Acidité ": "neutre, calcaire",
+      "Humidité ": "normal",
+      "Utilisation": "bordure, massif, rocaille, fleurs coupées",
+      "Plantation": "printemps",
+      "Multiplication": "semis en avril-mai, bouturage en septembre, division des touffes au printemps ou à l'automne",
+      "Sensibilité ": "la mouche de l'oeillet, la tordeuse, les pucerons, le thrips, le botrytis, la rouille, l'alternariose"
+    },
+    {
+      "Nom": "Oeillet giroflée, Oeillet des fleuristes, Oeillet commun",
+      "N. scientifique ": "Dianthus caryophyllus",
+      "Famille ": "Caryophyllacées",
+      "Origine ": "Europe méridionale",
+      "Floraison": "de juin jusqu’à l’automne",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante ornementale",
+      "Végétation": "vivace à vie brève",
+      "Feuillage ": "persistant",
+      "Hauteur": "10 à 80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu’à -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "moyen et drainant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal, résiste à la sécheresse",
+      "Utilisation": "massif, bordure, fleurs coupées",
+      "Plantation": "printemps",
+      "Multiplication": "bouture au printemps ou en été"
+    },
+    {
+      "Nom": "Oeillet des chartreux",
+      "N. scientifique ": "Dianthus cathusianorum",
+      "Famille ": "Caryophyllacées",
+      "Origine ": "Europe",
+      "Floraison": "de juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rose pourpré "
+      ],
+      "Type": "plante ornementale",
+      "Végétation": "vivace à vie brève",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "ordinaire et drainant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, bordure, rocaille",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture au printemps ou en été"
+    },
+    {
+      "Nom": "Muguet de Chine, Muguet japonais",
+      "N. scientifique ": "Reineckea carnea",
+      "Famille ": "Asparagacées",
+      "Origine ": "Chine, Japon",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "persistant",
+      "Feuillage ": "persistant",
+      "Hauteur": "15 à 30 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique -16°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre légère "
+      ],
+      "Sol": "fertile",
+      "Acidité ": "tolérant",
+      "Humidité ": "normal à frais",
+      "Utilisation": "couvre-sol, bordure, massif",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division, semis"
+    },
+    {
+      "Nom": "Monarde écarlate, Monarde didyme, Bergamote écarlate",
+      "N. scientifique ": "Monarda didyma",
+      "Synonyme ": "Monarda coccinea",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Est de l'Amérique du Nord",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   rouge, rose, pourpre "
+      ],
+      "Type": "herbacées, plante aromatique",
+      "Végétation": "plante vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "80 à 120 cm ",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -29 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "argileux, limoneux, sablonneux",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "frais à normal",
+      "Utilisation": "massif, infusion",
+      "Plantation": "printemps",
+      "Multiplication": "semis, division"
+    },
+    {
+      "Nom": "Lysimaque ponctuée",
+      "N. scientifique ": "Lysimachia punctata",
+      "Famille ": "Primulacées",
+      "Origine ": "Europe, Asie",
+      "Espèces proches": "Lysimachia vulgaris",
+      "Floraison": "juin à septembre",
+      "Fleurs ": "        jaune ",
+      "Type": "plante herbacée",
+      "Végétation": "plante vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,50 à 0,90 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -29°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à ombre claire "
+      ],
+      "Sol": "humifère à argileux, même lourd",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "frais",
+      "Utilisation": "ornementale, massif ou bord de bassin, teinture, plante médicinale",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division"
+    },
+    {
+      "Nom": "Lysimaque de Chine, Lysimaque col de cygne",
+      "N. scientifique ": "Lysimachia clethroides",
+      "Famille ": "Primulacées",
+      "Origine ": "Chine, Japon",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "vivace ornementale",
+      "Végétation": "plante vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "0,30 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rusique, jusqu'à -7°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à ombre claire "
+      ],
+      "Sol": "humifère à argileux, même lourd",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "frais",
+      "Utilisation": "massif",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division"
+    },
+    {
+      "Nom": "Lysimaque commune, Grande lysimaque",
+      "N. scientifique ": "Lysimachia vulgaris",
+      "Famille ": "Primulacées",
+      "Origine ": "Europe, Asie",
+      "Espèces proches": "Lysimachia punctata",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante herbacée",
+      "Végétation": "plante herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,50 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à ombre claire "
+      ],
+      "Sol": "humifère à argileux, même lourd",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "frais à submergé",
+      "Utilisation": "ornementale, massif ou bord de bassin, teinture, plante médicinale",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division"
+    },
+    {
+      "Nom": "Lupin indigo, Faux indigotier",
+      "N. scientifique ": "Baptisia australis",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "juin à début août",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "plante herbacée à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -29°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, bouquet sec",
+      "Plantation": "printemps, fin d’été",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Lupin de Russell, Lupin des jardins",
+      "N. scientifique ": "Lupinus x russellii",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "horticole",
+      "Floraison": "juin à juillet",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   bleu, blanc, rose, jaune, bicolores… "
+      ],
+      "Type": "plante ornementale",
+      "Végétation": "vivace",
+      "Feuillage ": "caduque à semi-persistant",
+      "Hauteur": "1,20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -23 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "argileux, limoneux ou sablonneux",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal",
+      "Utilisation": "massif",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Lobélie rouge",
+      "N. scientifique ": "Lobelia x speciosa",
+      "Famille ": "Campanulacées",
+      "Origine ": "horticole",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   rouge vif, violet "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "de 60 cm à 1 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche, léger",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif, pot, fleur coupée",
+      "Plantation": "printemps",
+      "Multiplication": "division de la touffe au printemps, semis en avril"
+    },
+    {
+      "Nom": "Lis des incas, Lis du Pérou, Alstroemère",
+      "N. scientifique ": "Alstroemeria ligtu hybride",
+      "Famille ": "Amaryllidacées",
+      "Origine ": "Amérique du sud, particulièrement le Chili",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   très variable, jaune, rouge, orange, rose... "
+      ],
+      "Type": "plante à fleur herbacée",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 60 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -8°C, à protéger "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillé à mi- ombre "
+      ],
+      "Sol": "riche en humus, drainé, profond, léger pour un bon développement du système racinaire",
+      "Acidité ": "neutre à légèrement acide",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif",
+      "Plantation": "printemps",
+      "Multiplication": "semis au chaud, division de la touffe",
+      "Sensibilité ": "les limaces, les araignées rouges"
+    },
+    {
+      "Nom": "Lis crapaud de Formose",
+      "N. scientifique ": "Tricyrtis formosana",
+      "Famille ": "Liliacées",
+      "Origine ": "Japon, Himalaya, Asie",
+      "Floraison": "en général de juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   fleurs tachetées violet, blanc, jaune "
+      ],
+      "Type": "vivace rhizomateuse",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 30 à 80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre, ombre "
+      ],
+      "Sol": "riche en humus, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif",
+      "Plantation": "automne",
+      "Multiplication": "semis, division de la touffe à la fin de l'hiver",
+      "Sensibilité ": "escargots et limaces"
+    },
+    {
+      "Nom": "Liriope muscari",
+      "N. scientifique ": "Liriope muscari",
+      "Synonymes ": "Liriope platyphylla, Liriope graminifolia",
+      "Famille ": "Liliacées",
+      "Origine ": "Chine, Japon",
+      "Floraison": "fin de l’été",
+      "Fleurs ": [
+        "     ",
+        "   blanc à violet "
+      ],
+      "Type": "plante herbacée, couvre sol",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "30 à 60 cm",
+      "Rusticité ": "   rustique, -15°C ",
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "ph acide à neutre",
+      "Humidité ": "normal",
+      "Utilisation": "parterre, couvre-sol, bordure",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division de la touffe au printemps "
+    },
+    {
+      "Nom": "Linaire pourpre",
+      "N. scientifique ": "Linaria purpurea",
+      "Famille ": "Plantaginacées",
+      "Origine ": "Europe",
+      "Floraison": "juillet-août",
+      "Fleurs ": "        violette, rose, blanche ",
+      "Type": "plante herbacée à fleurs",
+      "Végétation": "plante vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "50 à 70 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -26°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif",
+      "Plantation": "printemps",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Lavande, Lavandin",
+      "N. scientifique ": "Lavandula",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Bassin méditerranéen, îles Canaries, Afrique du nord, Inde, Asie du sud-est",
+      "Floraison": "de mai à août selon les variétés, fleurs parfumées et mellifère qui attirent les abeilles",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   bleu, mauve, violet, blanc "
+      ],
+      "Type": "arbrisseau",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 30 à 100 cm selon les variétés",
+      "Toxicité": "La lavande est connue depuis la nuit des temps pour son parfum et ses propriétés apaisantes et antiseptiques.",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  de -15 à -20°C pour les plus rustiques, Lavandula stoechas commence à souffrir à partir de -5°C, protéger les les Lavandes en pot "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "ordinaire, légère, drainé, voir pauvre",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, bordure, haie basse, talus, bac, fleurs coupées à prélever avant l'ouverture, pots-pourris",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps, bouturage en juillet-août en prélevant des rameaux de 5 cm que vous planterez dans une mini-serre",
+      "Taille": "Indispensable. Pratiquez une taille après la floraison pour lui garder sa forme ronde. En vieillissant, la lavande a tendance à se dégarnir à la base, surtout si elle n'a pas été régulièrement taillée. Mieux vaut dans ce cas, remplacer le pied, car une taille sévère ne donne rarement de bons résultats, les percements sur le vieux bois étant rares.",
+      "Sensibilité ": "le botrytis"
+    },
+    {
+      "Nom": "Laîche palmier de Chine, Laîche Tenjiku",
+      "N. scientifique ": "Carex phyllocephala",
+      "Famille ": "Cypéracées",
+      "Origine ": "Asie",
+      "Floraison": "été, automne",
+      "Fleurs ": [
+        "     ",
+        "   vert "
+      ],
+      "Type": "graminée ornementale",
+      "Végétation": "herbacée",
+      "Feuillage ": "persistant",
+      "Hauteur": "35 à 50 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre à ombre "
+      ],
+      "Sol": "assez riche",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif d'ombre, potée",
+      "Plantation": "printemps",
+      "Multiplication": "division"
+    },
+    {
+      "Nom": "Iris tigré, Iris léopard",
+      "N. scientifique ": "Iris domestica",
+      "Synonyme ": "Belamcanda chinensis",
+      "Famille ": "Iridacées",
+      "Origine ": "Chine et Japon",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   orange "
+      ],
+      "Type": "herbacée rhizomateuse",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "0,60 à 0,90 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rusique, jusqu'à -19°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal, bien arrosé en été",
+      "Utilisation": "massif, potée, bouquet sec, plante médicinale en Chine",
+      "Plantation": "printemps, été",
+      "Multiplication": " divisions, semis"
+    },
+    {
+      "Nom": "Impatiens tubéreuse de Qingchengshan, Balsamine tubéreuse de Chine",
+      "N. scientifique ": "Impatiens qingchanganica",
+      "Synonymes ": "Impatiens qingchengshanica,  Impatiens qingchanganica 'Omeishan'",
+      "Famille ": "Balsaminacées",
+      "Origine ": "Chine, Sichuan",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 40 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ombre "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "couvre-sol, parterre ombragé",
+      "Plantation": "automne, printemps",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Immortelle pagophilum",
+      "N. scientifique ": "Helichrysum pagophilum",
+      "Synonyme ": "écrit parfois par erreur Helichrysum pagophyllum",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Afrique du Sud",
+      "Floraison": "juillet, août",
+      "Fleurs ": [
+        "     ",
+        "   fleurs jaunes, bractées blanches "
+      ],
+      "Type": "plante vivace alpine, plante de rocaille",
+      "Végétation": "sous-arbrisseau",
+      "Feuillage ": "persistant",
+      "Hauteur": "10 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -13 °C minimum "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "crevasse, sol caillouteux ou poreux, très drainant",
+      "Acidité ": "aux environs de neutre",
+      "Humidité ": "humidité modérée dans un sol drainant",
+      "Utilisation": "rocaille, serre alpine",
+      "Plantation": "printemps",
+      "Multiplication": "semis, boutures"
+    },
+    {
+      "Nom": "Hibiscus des marais, Ketmie des marais",
+      "N. scientifique ": "Hibiscus moscheutos, Hibiscus palustris",
+      "Synonyme ": " Hibiscus palustris",
+      "Famille ": "Malvacées",
+      "Origine ": "Sud des Etats-Unis",
+      "Floraison": "de juillet à septembre",
+      "Fleurs ": "        blanc, rose, rouge ",
+      "Type": "fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 2,5 m dans de bonnes conditions de culture",
+      "Rusticité ": "   5°C, en extérieur, la souche doit être paillée ",
+      "Exposition ": [
+        "  ",
+        "  soleil, à l'abri du froid et du vent "
+      ],
+      "Sol": "bien drainé, riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif, pot, bac",
+      "Plantation": "printemps",
+      "Multiplication": "semis et division de la souche au printemps",
+      "Taille": "coupez les tiges à 10 cm (repérage) en automne et paillez vos pieds",
+      "Sensibilité ": "les pucerons"
+    },
+    {
+      "Nom": "Heuchère, Désespoir du peintre",
+      "N. scientifique ": "Heuchera",
+      "Famille ": "Saxifragacées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "juin",
+      "Fleurs ": "        rouge, rose, vert, blanc ",
+      "Type": " fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 30 à 80 cm selon les espèces",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "bordure, rocaille, massif, pot, fleur coupée",
+      "Plantation": "printemps",
+      "Multiplication": "semis en avril, division de la touffe à l'automne ou au printemps",
+      "Taille": "Rabattez la touffe à la fin de l'hiver pour favoriser l'apparition d'un nouveau feuillage"
+    },
+    {
+      "Nom": "Herbe aux perruches, Herbe à la ouate, Asclépiade commune",
+      "N. scientifique ": "Asclepias syriaca",
+      "Synonymes ": "Asclepias cornutii, A. apocinatum, A. capitellata, A. globosa",
+      "Famille ": "Asclépiadacées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "juillet, août",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   rose, blanc "
+      ],
+      "Type": "fleur",
+      "Végétation": "plante herbacée rhizomateuse",
+      "Feuillage ": "caduc",
+      "Hauteur": "1 m à 1,50 m",
+      "Toxicité": "Certaines parties de la plante peuvent être mangées cuites, d'autres sont au contraire toxique comme son latex",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -25 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "humifère et drainant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal",
+      "Utilisation": "massif, conteneur, aliment, décoration, fibre naturelle",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis en avril-mai, division de la touffe ou bouturage au printemps",
+      "Taille": "pas de taille",
+      "Sensibilité ": "les aleurodes"
+    },
+    {
+      "Nom": "Herbe aux écouvillons 'Japonicum'",
+      "N. scientifique ": "Pennisetum alopecuroides 'Japonicum'",
+      "Synonyme ": "Pennisetum alopecuroides 'Foxtrot'",
+      "Famille ": "Poacées, Graminées",
+      "Origine ": "Asie et Australie",
+      "Floraison": "été, automne",
+      "Fleurs ": [
+        "     ",
+        "   rose puis dorée "
+      ],
+      "Type": "graminée ornementale",
+      "Végétation": "vivace herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "150 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu’à -19°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "assez riche et drainant",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "frais",
+      "Utilisation": "massif, en isolé, fleur séchée",
+      "Plantation": "printemps",
+      "Multiplication": "division"
+    },
+    {
+      "Nom": "Herbe aux écouvillons",
+      "N. scientifique ": "Pennisetum alopecuroides",
+      "Synonyme ": "Pennisetum compressum",
+      "Famille ": "Poacées, Graminées",
+      "Origine ": "Asie et Australie",
+      "Floraison": "été, automne",
+      "Fleurs ": "        dorée, mauve, verte, brune ",
+      "Type": "graminée ornementale",
+      "Végétation": "vivace herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "90 cm à 130 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu’à -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, bordure, fleur séchée",
+      "Plantation": "printemps",
+      "Multiplication": "division, semis"
+    },
+    {
+      "Nom": "Héliopsis, Faux-tournesol, Fausse hélianthe",
+      "N. scientifique ": "Heliopsis helianthoides",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacées",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,60 m à 1,80 m, selon les variétés",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique jusqu'à -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "sec à modérément humide",
+      "Utilisation": "massifs",
+      "Plantation": "divisions, boutures, semis",
+      "Multiplication": "automne, printemps"
+    },
+    {
+      "Nom": "Hélénie hybride",
+      "N. scientifique ": "Helenium x",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "horticole",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacées",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,20 m à 1,50 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique jusqu'à -28 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "légèrement neutre à légèrement alcalin",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massifs",
+      "Plantation": "automne, printemps",
+      "Multiplication": "divisions"
+    },
+    {
+      "Nom": "Gypsophile paniculée, Gypsophile nuage, Plante brouillard",
+      "N. scientifique ": "Gypsophila paniculata",
+      "Synonymes ": "Arrostia paniculata, Gypsophila effusa, Gypsophila hungarica, Gypsophila manginii, Gypsophila parviflora",
+      "Famille ": "Caryophyllacées",
+      "Origine ": "Europe centrale, Sibérie",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanc, rose "
+      ],
+      "Type": "vivace",
+      "Végétation": "sous-arbrisseau",
+      "Feuillage ": "caduc",
+      "Hauteur": "40 à 80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "drainant, caillouteux",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal, résiste à la sécheresse",
+      "Utilisation": "massif, rocaille, jardin de gravier, fleurs coupées",
+      "Plantation": "printemps",
+      "Multiplication": "bouture au printemps ou en été"
+    },
+    {
+      "Nom": "Grande marguerite d'été jaune",
+      "N. scientifique ": "Leucanthemum x superbum 'Goldfinch’",
+      "Synonyme ": "Chrysanthemum x superbum",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "horticole",
+      "Floraison": "juin, juillet, septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacées",
+      "Feuillage ": "persistant",
+      "Hauteur": "45 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -34°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "normal, assez drainant",
+      "Acidité ": "indifférent",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif",
+      "Plantation": "automne, printemps",
+      "Multiplication": "divisions"
+    },
+    {
+      "Nom": "Grande marguerite",
+      "N. scientifique ": "Chrysanthemum maximum",
+      "Synonyme ": "Leucanthemum x superbum",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-caduc",
+      "Hauteur": "80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "ordinaire",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "massif, fleur coupée",
+      "Plantation": "printemps",
+      "Multiplication": "semis en mai, division de la touffe au printemps ou à l'automne",
+      "Sensibilité ": "les limaces, les psylles (feuilles recroquevillées), les punaises, les pucerons, la pourriture grise"
+    },
+    {
+      "Nom": "Grande Chélidoine à fleurs doubles",
+      "N. scientifique ": "Chelidonium majus 'Flore Pleno'",
+      "Famille ": "Papavéracées",
+      "Origine ": "Europe, Asie du nord est",
+      "Floraison": "mai à octobre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 50 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -21 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre à ombre claire "
+      ],
+      "Sol": "assez riche",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "frais à normal",
+      "Utilisation": "plante indigène, plante médicinale",
+      "Plantation": "printemps, fin d'été",
+      "Multiplication": "semis uniquement"
+    },
+    {
+      "Nom": "Grande astrance, Grande radiaire, Sanicle de montagne",
+      "N. scientifique ": "Astrantia major",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Europe centrale et orientale",
+      "Floraison": "Juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   blanche à rose "
+      ],
+      "Type": "plante herbacée ornementale et indigène",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,60 à 1 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, -26°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre à ensoleillé "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "neutre à moyennement acide",
+      "Humidité ": "frais à humide",
+      "Utilisation": "massif, sous-bois",
+      "Plantation": "printemps",
+      "Multiplication": "division de la touffe, semis"
+    },
+    {
+      "Nom": "Gingembre orchidée pourpre, Roscoea pourpre",
+      "N. scientifique ": "Roscoea purpurea",
+      "Synonyme ": "Roscoea procera",
+      "Famille ": "Zingibéracées",
+      "Origine ": "Himalaya",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   mauve, blanche "
+      ],
+      "Type": "plante rhizomateuse",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -15 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, potée",
+      "Plantation": "printemps",
+      "Multiplication": "semis, divisions"
+    },
+    {
+      "Nom": "Géranium vivace, Bec de grue",
+      "N. scientifique ": "Geranium",
+      "Famille ": "Géraniacées",
+      "Origine ": "Europpe, moyen-orient, asie",
+      "Floraison": "de mai aux premières gelées",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   blanc, rose, violet, bleu "
+      ],
+      "Type": "fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "selon les espèces",
+      "Hauteur": "de 20 à 150 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  la plupart des véritables géraniums résistent à - 20 ° C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre, ombre "
+      ],
+      "Sol": "sol assez compacte, riche, bien fumé, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "bordure, massif, bac, pot",
+      "Plantation": "au printemps ou en automne",
+      "Multiplication": "semis au printemps, division de la touffe et bouturage au printemps",
+      "Taille": "otez les fleurs fanées. A la fin de l'automne, rabattez au ras du sol les plantes à feuillage caduc, lorsque le feuillage flétrit.",
+      "Sensibilité ": "l'oïdium"
+    },
+    {
+      "Nom": "Géranium vivace Rozanne",
+      "N. scientifique ": "Geranium 'Rozanne'",
+      "Synonymes ": "Geranium 'Gerwat' Rozanne, Geranium 'Jolly Bee'",
+      "Famille ": "Géraniacées",
+      "Origine ": "Turquie, Arménie, Caucase",
+      "Floraison": "de juin jusqu'aux gelées",
+      "Fleurs ": [
+        "     ",
+        "   bleu clair "
+      ],
+      "Type": "plante à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "30 à 50 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -28°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, potée",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Géranium vivace psilostemon",
+      "N. scientifique ": "Geranium psilostemon",
+      "Famille ": "Géraniacées",
+      "Origine ": "Turquie, Arménie, Caucase",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "60 à 80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -20°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "neutre à basique, aime le calcaire",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, potée",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Géranium vivace de l'Himalaya",
+      "N. scientifique ": "Geranium himalayense",
+      "Synonyme ": "Geranium grandiflorum",
+      "Famille ": "Géraniacées",
+      "Origine ": "Asie",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "ornementale pour le feuillage et les fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "45 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre, ensoleillée en évitant les endroits trop chaud "
+      ],
+      "Sol": "tolérant, fertile et assez drainant",
+      "Acidité ": "acide à basique",
+      "Humidité ": "normal sans dessécher ou frais",
+      "Utilisation": "massif, prairie fleurie, couvre-sol",
+      "Plantation": "printemps, automne",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Géranium vivace à feuilles de crêpe, Géranium vivace de Renard, Géranium du Caucase, Géranium nain",
+      "N. scientifique ": "Geranium renardii",
+      "Famille ": "Géraniacées",
+      "Origine ": "Caucase",
+      "Floraison": "mai à juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanc strié de mauve "
+      ],
+      "Type": "plante à feuillage texturé, couvre-sol",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "15 à 30 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, rocaille, potée, bordure",
+      "Plantation": "printemps, automne",
+      "Multiplication": "divisions, boutures, semis"
+    },
+    {
+      "Nom": "Géranium oxoniamum",
+      "N. scientifique ": "Geranium x oxonianum",
+      "Synonyme ": "Geranium versicolor x Geranium endressii",
+      "Famille ": "Géraniacées",
+      "Origine ": "hybride horticole",
+      "Floraison": "mai à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   rose, blanc "
+      ],
+      "Type": "plante herbacée",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "40 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -30 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "massif",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division"
+    },
+    {
+      "Nom": "Géranium noueux",
+      "N. scientifique ": "Geranium nodosum",
+      "Famille ": "Géraniacées",
+      "Origine ": "Sud de l'Europe",
+      "Floraison": "mai à septembre",
+      "Fleurs ": [
+        "     ",
+        "   lilas "
+      ],
+      "Type": "ornementale pour le feuillage et les fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "20 à 50 cm",
+      "Rusticité ": "   rustique, jusqu'à -17 °C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre, ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "sec à frais",
+      "Utilisation": "massif, couvre-sol, bas des haies",
+      "Plantation": "printemps, automne",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Géranium livide, Géranium brun",
+      "N. scientifique ": "Geranium phaeum",
+      "Famille ": "Géraniacées",
+      "Origine ": "Europe méridionale",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   violet sombre, presque noir "
+      ],
+      "Type": "fleurs et feuillage ornementaux",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "50 à 80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -28 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "très tolérant",
+      "Acidité ": "acide à alcalin",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, potée",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Géranium herbe-à-Robert, Bec de grue, Herbe rouge",
+      "N. scientifique ": "Geranium robertianum",
+      "Famille ": "Géraniacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "mai à septembre",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "ornementale, médicinale, plante de remplissage, couvre-sol, plante indigène",
+      "Végétation": "annuelle à vivace de vie brève",
+      "Feuillage ": "caduc",
+      "Hauteur": "10 à 50 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -26 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, potager, espace sauvageon, permaculture",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Géranium des Pyrénées",
+      "N. scientifique ": "Geranium pyrenaicum",
+      "Famille ": "Géraniacées",
+      "Origine ": "Europe, sud-ouest de l'Asie, Afrique du nord",
+      "Floraison": "avril à septembre",
+      "Fleurs ": [
+        "     ",
+        "   violet "
+      ],
+      "Type": "plante de remplissage, couvre-sol, plante indigène",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "20 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -26 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal à un peu sec",
+      "Utilisation": "massif, potager, prairie au naturel, permaculture",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Géranium des prés",
+      "N. scientifique ": "Geranium pratense",
+      "Famille ": "Géraniacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "juin, juillet avec parfois une remontée en août/septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   bleu clair, blanc, mauve "
+      ],
+      "Type": "très ornementale",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "50 à 100 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  au soleil ou à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, potée, talus",
+      "Plantation": "printemps, automne",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Géranium à grosses racines, Géranium rhizomateux",
+      "N. scientifique ": "Geranium macrorrhizum",
+      "Synonyme ": "Geranium armenum",
+      "Famille ": "Géraniacées",
+      "Origine ": "Europe",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "vivace à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "30 à 40 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -20°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, bas des haies, bordure",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Gazon d'Espagne, Oeillet de mer",
+      "N. scientifique ": "Armeria maritima",
+      "Famille ": "Plumbaginacées",
+      "Origine ": "Europe, Nord de l'Afrique, côte Pacifique des États-Unis",
+      "Floraison": "avril à juillet",
+      "Fleurs ": "        blanc, rose, rouge ",
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "pauvre et drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "rocaille, bordure, couvre-sol, muret",
+      "Plantation": "printemps",
+      "Multiplication": "semis en avril, division de la touffe au printemps",
+      "Taille": "Rabattez après la floraison pour conserver un port compact"
+    },
+    {
+      "Nom": "Gaura de Lindheimer",
+      "N. scientifique ": "Gaura lindheimeri",
+      "Famille ": "Onagracées",
+      "Origine ": "Etats-Unis",
+      "Floraison": "de juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "   blanc, rose "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 1 à 1,50 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "drainant, pauvre à rocailleux",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps, division de la touffe au printemps, bouturage en été ou à l'automne",
+      "Taille": "au printemps, au démarrage de la végétation, taillez vos gauras pour les remettre en forme et supprimer les tiges mortes",
+      "Sensibilité ": "résistant aux maladies et aux insectes"
+    },
+    {
+      "Nom": "Gaillarde vivace à grandes fleurs",
+      "N. scientifique ": "Gaillardia x grandiflora",
+      "Synonyme ": "Gaillardia aristata x Gaillardia  pulchella",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Amérique du Nord et horticole",
+      "Floraison": "juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   jaune, orange, rouge, bordeaux, bicolore... "
+      ],
+      "Type": "vivace",
+      "Végétation": "herbacées",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "30 à 100 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -19 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "léger et drainant",
+      "Acidité ": "légèrement acide à alcalin",
+      "Humidité ": "normal à très sec",
+      "Utilisation": "massif, prairie fleurie, conteneur, rocaille, fleurs coupées",
+      "Plantation": "printemps",
+      "Multiplication": "division"
+    },
+    {
+      "Nom": "Gaillarde aristée, Gaillarde à feuilles lancéolées, Gaillarde commune",
+      "N. scientifique ": "Gaillardia aristata",
+      "Synonymes ": "Gaillardia bicolor, Gaillardia perennis Gaillardia ridcharsonii",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   jaune et rouge "
+      ],
+      "Type": "vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 à 90 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -39 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "léger et drainant",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, prairie fleurie, conteneur",
+      "Plantation": "printemps",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Gaillarde",
+      "N. scientifique ": "Gaillardia",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "États-Unis (centre et Sud) et Amérique du Sud",
+      "Floraison": "de juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   jaune, orange, rouge "
+      ],
+      "Type": "fleur",
+      "Végétation": "annuelle, vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 20 cm jusqu'à 90 cm selon les espèces",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "bien drainé, ordinaire, même pauvre",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "bordure, massif, rocaille, fleur coupée",
+      "Plantation": "printemps",
+      "Multiplication": "semis sur couche chaude au printemps, division des touffes, boutures de racines.",
+      "Sensibilité ": "les limaces pour les jeunes plants, oïdum"
+    },
+    {
+      "Nom": "Fuchsia de Californie",
+      "N. scientifique ": "Epilobium canum",
+      "Synonyme ": "Zauschneria californica",
+      "Famille ": "Onagracées",
+      "Origine ": "Californie et Mexique",
+      "Floraison": "juin à fin octobre",
+      "Fleurs ": [
+        "     ",
+        "   rouge "
+      ],
+      "Type": "plante xérophyte",
+      "Végétation": "sous-arbrisseau",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "léger",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "talus, rocaille, massif sec",
+      "Plantation": "printemps",
+      "Multiplication": "bouture, semis, rejet de souche"
+    },
+    {
+      "Nom": "Faux mouron des savanes, Lindernie à grandes fleurs, Larmes d'ange, Nummulaire bleue",
+      "N. scientifique ": "Lindernia grandiflora",
+      "Synonymes ": "Ilisanthes grandiflora, Ilisanthes floribunda",
+      "Famille ": "Scrophulariacées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   bleu et blanc "
+      ],
+      "Type": "plante vivace couvre-sol",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "5 à 10 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  -15 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre à ombre claire "
+      ],
+      "Sol": "tourbeux ou argileux ou humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à humide, voire immergée",
+      "Utilisation": "bassin, tourbière, massif, balcon",
+      "Plantation": "printemps, fin d'été",
+      "Multiplication": "semis, division"
+    },
+    {
+      "Nom": "Faux aloès, Tritoma, Tritome, Tison de satan",
+      "N. scientifique ": "Kniphofia",
+      "Famille ": "Liliacées",
+      "Origine ": "Afrique du sud, Madagascar",
+      "Floraison": "de mai à octobre selon les variétés",
+      "Fleurs ": [
+        "     ",
+        "   rouge-orange "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1,20 m",
+      "Rusticité ": [
+        "  ",
+        "  moyennement rustique, protéger le pied dans les régions froides en posant un voile d'hivernage autour du pied ou un paillage "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche, léger, sableux",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, fleurs coupées",
+      "Plantation": "automne, assurez un bon drainage à la plantation",
+      "Multiplication": "semis au printemps, division de la touffe en mai",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "attention à la pourriture l'hiver si le sol n'est pas bien drainé"
+    },
+    {
+      "Nom": "Etoile du Texas, Ketmie écarlate",
+      "N. scientifique ": "Hibiscus coccineus",
+      "Synonyme ": "Hibiscus semilobatus",
+      "Famille ": "Malvacées",
+      "Origine ": "Sud-est des États-Unis, Floride, Géorgie",
+      "Floraison": "juillet jusqu'aux gelées",
+      "Fleurs ": [
+        "     ",
+        "   rouge "
+      ],
+      "Type": "plante de zone humide",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,20 à 3 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, jusqu'à - 19°C, le feuillage disparaît avec les gelées "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, ombre légère "
+      ],
+      "Sol": "terreau, terre argileuse",
+      "Acidité ": "neutre",
+      "Humidité ": "frais à humide",
+      "Utilisation": "conteneur, bord de bassin, zone marécageuse, fossé, tourbière",
+      "Plantation": "printemps",
+      "Multiplication": "semis sous serre chaude, bouture, division",
+      "Taille": "Couper la partie aérienne aux premières gelées en laissant 10 cm qui serviront de repérage",
+      "Sensibilité ": "pucerons, cochenille, aleurodes"
+    },
+    {
+      "Nom": "Etoile du sud",
+      "N. scientifique ": "Tweedia caerulea",
+      "Synonyme ": "Oxypetalum cearuleum",
+      "Famille ": "Asclépiadacées",
+      "Origine ": "Brésil, Uruguay",
+      "Floraison": "mai à septembre",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "sous-arbrisseau rampant ou semi-grimpant",
+      "Végétation": "plante vivace",
+      "Feuillage ": "persistante",
+      "Hauteur": "50 cm à 1m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu’à -10°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "moyennement pauvre et drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, conteneur",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis, boutures"
+    },
+    {
+      "Nom": "Ephémère de virginie",
+      "N. scientifique ": "Tradescantia x andersoniana",
+      "Synonyme ": "Tradescantia virginiana",
+      "Famille ": "Commelinacées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   bleu, rose, blanc "
+      ],
+      "Type": "plante herbacée à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -34°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "argileux ou sablonneux, mais assez riche",
+      "Acidité ": "acide à légèrement basique",
+      "Humidité ": "normal à humide",
+      "Utilisation": "massif",
+      "Plantation": "printemps, fin d’été",
+      "Multiplication": "semis, divisions"
+    },
+    {
+      "Nom": "Edelweiss, Etoile d'argent",
+      "N. scientifique ": "Leontopodium alpinum",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Montagnes d'Europe",
+      "Floraison": "d'avril à juillet",
+      "Fleurs ": [
+        "     ",
+        "   Blanc "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 20 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "bien drainé, mélange de terreau et de graviers",
+      "Acidité ": "neutre à alcalin",
+      "Humidité ": "normal",
+      "Utilisation": "rocaille, pot, jardinière, balcon",
+      "Plantation": "printemps",
+      "Multiplication": "semis sous chassis froid à l'obtention des graines",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "escargots, limaces, pucerons"
+    },
+    {
+      "Nom": "Echinacée pourpre, Rudbeckie pourpre",
+      "N. scientifique ": "Rudbeckia purpurea, Echinacea purpurea ",
+      "Synonyme ": " Echinacea purpurea ",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Etats-Unis",
+      "Floraison": "de juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   rose, blanc "
+      ],
+      "Type": "vivace",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 100 à 150 cm",
+      "Toxicité": "Utilisée dans certaines pharmacopées contre le rhume",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "normal, drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif, fleurs coupées",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis au printemps, division de la touffe au printemps",
+      "Sensibilité ": "très résistante"
+    },
+    {
+      "Nom": "Dentelaire de Lady Larpent, Dentelaire bleue",
+      "N. scientifique ": "Ceratostigma plumbaginoides",
+      "Synonymes ": "Plumbago larpentae, Valoradia plumbaginoides",
+      "Famille ": "Plumbaginacées",
+      "Origine ": "Ouest de la Chine",
+      "Floraison": "En fin d'été, d'août à octobre",
+      "Fleurs ": [
+        "     ",
+        "   Bleu profond, bleu azur "
+      ],
+      "Type": "Vivace à souche ligneuse ou arbuste semi-ligneux",
+      "Végétation": "Herbacée à semi-ligneuse",
+      "Feuillage ": "Caduc",
+      "Hauteur": "Entre 15 et 40cm",
+      "Rusticité ": [
+        "  ",
+        "  Un peu juste dans les régions septentrionales de France, il supporte toutefois bien les températures négatives. -10°C voire moins sur de courtes périodes "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  Le plein soleil est idéal, mais il supporte la mi-ombre "
+      ],
+      "Sol": "Peu importe mais pas trop lourd, plutôt humifère et fertile",
+      "Acidité ": "Neutre à calcaire ; il réussit mieux plus le pH est élevé",
+      "Humidité ": "De préférence plutôt sec ; un sol frais convient aussi si le sol est bien drainé",
+      "Utilisation": "En massif avec d'autres vivaces automnales robustes, au pied d'arbustes ou dans une grande rocaille",
+      "Plantation": "Toutes les périodes mis à part de juin à août",
+      "Multiplication": "Division ou prélèvement des rejets à l'automne et au printemps. Le bouturage se fait sur les jeunes pousses sortant de terre à la fin du printemps",
+      "Taille": "Aucune taille nécessaire. On peut supprimer les parties fanées après la floraison",
+      "Sensibilité ": "Juste de l'oïdium"
+    },
+    {
+      "Nom": "Crucianelle, Lilas de terre",
+      "N. scientifique ": "Phuopsis stylosa",
+      "Synonyme ": "Crucianella stylosa",
+      "Famille ": "Rubiacées",
+      "Origine ": "ouest de l'Asie",
+      "Floraison": "juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   rose à mauve "
+      ],
+      "Type": "plante couvre-sol",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "15 à 30 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -28 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre légère "
+      ],
+      "Sol": "ordinaire",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "tolérant, préfère un sol frais",
+      "Utilisation": "massif, bordure, pente, rocaille, potée",
+      "Plantation": "printemps",
+      "Multiplication": "division, semis"
+    },
+    {
+      "Nom": "Croix de Malte",
+      "N. scientifique ": "Lychnis x arkwrightii",
+      "Famille ": "Caryophyllacées",
+      "Origine ": "Hybride horticole",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   pourpre "
+      ],
+      "Type": "plante ornementale",
+      "Végétation": "vivace à vie brève",
+      "Feuillage ": "persistant",
+      "Hauteur": "45 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -34°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre partielle "
+      ],
+      "Sol": "pauvre et caillouteux, mais tolérant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, bouquet",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Croix de Jérusalem, Croix de Malte",
+      "N. scientifique ": "Lychnis chalcedonica",
+      "Famille ": "Caryophyllacées",
+      "Origine ": "Asie",
+      "Floraison": "mai à juillet",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   rouge, rose, blanc "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "90 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "ordinaire, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "bordure, massif",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis en avril et repiquage à l'automne",
+      "Taille": "Rabattez complétement les tiges après la floraison"
+    },
+    {
+      "Nom": "Cornouiller du Canada, Quatre-temps",
+      "N. scientifique ": "Cornus canadensis",
+      "Famille ": "Cornacées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   bractées blanches "
+      ],
+      "Type": "couvre-sol",
+      "Végétation": "vivace herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "7 à 20cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -40°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "sol riche, humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais à humide",
+      "Utilisation": "sous-bois, bas de haie, massif ombragé",
+      "Plantation": "à l’automne ou au printemps",
+      "Multiplication": "semis, division"
+    },
+    {
+      "Nom": "Coréopsis verticillé, Coréopsis à feuilles en aiguille",
+      "N. scientifique ": "Coreopsis verticillata",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Est des États-Unis",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune, rouge "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "35 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -29 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "relativement drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "sec à normal",
+      "Utilisation": "massif, talus, rocaille sèche",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, division, semis"
+    },
+    {
+      "Nom": "Coréopsis à feuilles lancéolées, Coréopsis des sables",
+      "N. scientifique ": "Coreopsis lanceolata",
+      "Synonymes ": "Coreopsis crassifolia, Coreopsis heterogynaidae",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Sud-Est des États-Unis",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   jaune ou jaune et rouge "
+      ],
+      "Type": "fleur de massif",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "35 à 60 cm",
+      "Rusticité ": "   rustique, jusqu'à -15 °C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "sablonneux, limono-argileux, calcaire",
+      "Acidité ": "acide à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, talus, rocaille sèche",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, division, semis"
+    },
+    {
+      "Nom": "Coréopsis",
+      "N. scientifique ": "Coreopsis",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Etat-Unis, Méxique",
+      "Floraison": "de mai à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   jaune, orangé, rouge, brun "
+      ],
+      "Type": "fleur",
+      "Végétation": "annuelle, vivace selon les espèces",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 20 cm à 1m20 selon les espèces",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très bonne "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "bien drainé, ordinaire, sablonneux",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "prairies fleuries, rocailles, massifs, fleurs coupées",
+      "Plantation": "printemps",
+      "Multiplication": "semis en place au printemps, division des touffes en mars.",
+      "Taille": "rabattez la touffe en septembre après la floraison pour lui conserver son port compact",
+      "Sensibilité ": "limaces et escargots"
+    },
+    {
+      "Nom": "Cirse des ruisseaux pourpre",
+      "N. scientifique ": "Cirsium rivulare 'Atropurpureum'",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   rouge à pourpre "
+      ],
+      "Type": "herbacée",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "jusqu'à 1,20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "tolérant, aime les sols argileux",
+      "Acidité ": "acide ou basique",
+      "Humidité ": "normal",
+      "Utilisation": "massif ensoleillé, zone humide, plante de berge",
+      "Plantation": "printemps, été",
+      "Multiplication": "semis, division"
+    },
+    {
+      "Nom": "Cierge d’argent, Cimicaire",
+      "N. scientifique ": "Actaea matsumurae",
+      "Synonymes ": "Cimicifuga matsumurae, Actaea simplex",
+      "Famille ": "Renonculacées",
+      "Origine ": "Chine, Japon",
+      "Espèces proches": "septembre à octobre",
+      "Floraison": "septembre à octobre",
+      "Fleurs ": [
+        "     ",
+        "   blanche "
+      ],
+      "Type": "plante à fleur pour massif d’ombre",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1 à 1,50 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -27°C minimum "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "riche et argileux",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "frais",
+      "Utilisation": "fond de massif",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division de touffes, semis"
+    },
+    {
+      "Nom": "Chardon bleu, Boule azurée",
+      "N. scientifique ": "Echinops ritro",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Bassin méditerranéen",
+      "Floraison": "de juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   bleu à violet "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 120 cm",
+      "Toxicité": "gare aux épines",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "léger, drainé",
+      "Acidité ": "neutre à calcaire",
+      "Humidité ": "sec",
+      "Utilisation": "massif, bouquets séchés",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division de la touffe, semis",
+      "Taille": "l'échinops peut devenir envahissant",
+      "Sensibilité ": "attention à la pourriture"
+    },
+    {
+      "Nom": "Campanule laiteuse",
+      "N. scientifique ": "Campanula lactiflora",
+      "Synonymes ": "Campanula biserrata, Campanula celtidifolia, Campanula hispida",
+      "Famille ": "Campanulacées",
+      "Origine ": "Caucase, Turquie, Iran",
+      "Floraison": "juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   bleu, lavande, blanc, rose "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "50 à 150 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -28 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "sol riche et humifère",
+      "Acidité ": "neutre à moyennement basique",
+      "Humidité ": "normal à humide, mais relativement drainant",
+      "Utilisation": "ornementale pour massif, plante mellifère, plante comestible",
+      "Plantation": "semis, division",
+      "Multiplication": "automne, printemps"
+    },
+    {
+      "Nom": "Chardon africain pourpre, Verkheya pourpre",
+      "N. scientifique ": "Berkheya purpurea",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Afrique du Sud",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanc-rose et pourpre "
+      ],
+      "Type": "plante herbacée, chardon ornemental",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,60 à 0,90 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -15 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "normal à sec, résistant à la sécheresse",
+      "Utilisation": "rocaille, talus, jardin sec",
+      "Plantation": "printemps",
+      "Multiplication": "semis "
+    },
+    {
+      "Nom": "Centaurée des montagnes, Bleuet vivace",
+      "N. scientifique ": "Centaurea montana",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Europe",
+      "Floraison": "d'avril à août",
+      "Fleurs ": "        bleues, blanches, jaunes, roses, violettes, noires ",
+      "Type": "fleur",
+      "Végétation": "vivace, il existe des espèces annuelles",
+      "Feuillage ": "caduc",
+      "Hauteur": "40 à 60 cm",
+      "Toxicité": "Les fleurs contiennent des substances digestives et diurétiques",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "ordinaire à pauvre, bien drainé",
+      "Acidité ": "neutre, calcaire accepté",
+      "Humidité ": "frais",
+      "Utilisation": "massif, bordure, fleurs coupées, fleurs séchées",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps et mise en place à l'automne, division de la touffe",
+      "Sensibilité ": "le mildiou, la rouille, les pucerons"
+    },
+    {
+      "Nom": "Centaurée de Fischer, Centaurée blanche",
+      "N. scientifique ": "Centaurea fischeri",
+      "Synonymes ": "Cyanus  fischeri, Centaurea cheiranthifolia",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Caucase",
+      "Floraison": "de fin juillet à août",
+      "Fleurs ": [
+        "     ",
+        "   blanc, parfois rose "
+      ],
+      "Type": "vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "40 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique jusqu'à -29 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, rocaille",
+      "Plantation": "semis, division",
+      "Multiplication": "automne, printemps"
+    },
+    {
+      "Nom": "Carpette argentée, Mouton végétal",
+      "N. scientifique ": "Raoulia hookeri",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Nouvelle-Zélande",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante alpine",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "5 à 10 cm",
+      "Rusticité ": "   rustique jusqu'à -17°C ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "minéral et drainant",
+      "Acidité ": "moyennement acide à neutre",
+      "Humidité ": "frais à sec",
+      "Utilisation": "rocaille, potée",
+      "Plantation": "automne, printemps",
+      "Multiplication": "division, semis"
+    },
+    {
+      "Nom": "Carpette argentée, Mouton végétal",
+      "N. scientifique ": "Raoulia australis",
+      "Synonyme ": "Raoulia lutescens",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Nouvelle-Zélande",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante alpine",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 2 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique jusqu’à - 15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "minéral et drainant",
+      "Acidité ": "moyennement acide à neutre",
+      "Humidité ": "frais",
+      "Utilisation": "rocaille, potée",
+      "Plantation": "divisions, semis",
+      "Multiplication": "automne, printemps"
+    },
+    {
+      "Nom": "Campanule pyramidale",
+      "N. scientifique ": "Campanula pyramidalis",
+      "Synonyme ": "Campanula umbellulifera",
+      "Famille ": "Campanulacées",
+      "Origine ": "Europe du Sud-Est",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "plante vivace, parfois bisannuelle",
+      "Végétation": "herbacée",
+      "Feuillage ": "persistant",
+      "Hauteur": "100 à 200 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -15 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "drainant et assez riche",
+      "Acidité ": "moyennement acide à neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "en massif, contre un mur, en grand conteneur, jardin de gravier...",
+      "Plantation": "semis",
+      "Multiplication": "automne, printemps"
+    },
+    {
+      "Nom": "Campanule ponctuée",
+      "N. scientifique ": "Campanula punctata",
+      "Synonyme ": "Campanula takesimana",
+      "Famille ": "Campanulacées",
+      "Origine ": "Asie de l'Est",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   blanc rose, pourpre, bleuté… "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "60 à 90 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -35°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "tolérant à tout  sauf au sol trop lourd",
+      "Acidité ": "acide à basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, salade",
+      "Plantation": "semis, division",
+      "Multiplication": "automne, printemps"
+    },
+    {
+      "Nom": "Campanule gantelée, Campanule à feuilles d'ortie",
+      "N. scientifique ": "Campanula trachelium",
+      "Famille ": "Campanulacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   bleu violacée, blanche "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "persistant",
+      "Hauteur": "50 à 100 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à  -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "tolérant, supporte même la terre lourde",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "normal",
+      "Utilisation": "massif, jardin informel",
+      "Plantation": "semis, division",
+      "Multiplication": "automne, printemps"
+    },
+    {
+      "Nom": "Campanule fausse-raiponce",
+      "N. scientifique ": "Campanula rapunculoides",
+      "Famille ": "Campanulacées",
+      "Origine ": "Europe, ouest de l'Asie",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   bleu violacée "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "persistant",
+      "Hauteur": "80 à 100 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre, soleil "
+      ],
+      "Sol": "tolérante, mais préfère un sol drainant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "assez sec à frais",
+      "Utilisation": "jardin naturel, zone semi-sauvage, mellifère, légume",
+      "Plantation": "automne, printemps",
+      "Multiplication": "semis, division"
+    },
+    {
+      "Nom": "Campanule des murailles, Campanule de Dalmatie",
+      "N. scientifique ": "Campanula portenschlagiana",
+      "Synonyme ": "Campanula muralis",
+      "Famille ": "Campanulacées",
+      "Origine ": "Montagnes de Croatie, Serbie, Monténégro, Bosnie-Herzégovine",
+      "Floraison": "Juin et juillet, refleurit plus discrètement jusqu’en septembre",
+      "Fleurs ": [
+        "     ",
+        "   Violet "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "15 à 25 cm de haut",
+      "Toxicité": "Non toxique",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  Aucun problème de rusticité, -20°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  Soleil, supporte bien la mi-ombre "
+      ],
+      "Sol": "Elle pousse partout, même lorsqu'il y a très peu de terre",
+      "Acidité ": "Neutre à calcaire",
+      "Humidité ": "Pas gorgé d'eau, drainé ou non, s'accommode bien des sols secs",
+      "Utilisation": "En rocaille, dans un muret ou en premier plan d'un massif",
+      "Plantation": "De l'automne au printemps, même en été avec un suivi en arrosage",
+      "Multiplication": "Par bouturage principalement",
+      "Sensibilité ": "Parfois mangée par les limaces et escargots, ses feuilles un peu coriaces découragent les attaques trop importantes"
+    },
+    {
+      "Nom": "Campanule des Carpates",
+      "N. scientifique ": "Campanula carpatica",
+      "Famille ": "Campanulacées",
+      "Origine ": "Europe centrale",
+      "Floraison": "fin du printemps, été",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   bleu, blanc, rose "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "20 à 30 cm",
+      "Toxicité": "plante comestible",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -35 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "tolérant à tout sauf aux sols trop lourds",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, salade",
+      "Plantation": "semis, division",
+      "Multiplication": "automne, printemps"
+    },
+    {
+      "Nom": "Campanule agglomérée, Campanule à bouquet, Campanule à fleurs agglomérées",
+      "N. scientifique ": "Campanula glomerata",
+      "Synonymes ": "Campanula aggregata  Campanula conglomerata, Campanula cephalantha, Campanula congesta, Campanula ortleppi",
+      "Famille ": "Campanulacées",
+      "Origine ": "Europe",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   bleu, violet, blanc "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 70 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "sol sablonneux à limoneux, pas trop lourd",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à frais, mais relativement drainant",
+      "Utilisation": "ornementale pour massif, plante mellifère, plante comestible, fleurs coupées",
+      "Plantation": "semis, division",
+      "Multiplication": "automne, printemps"
+    },
+    {
+      "Nom": "Campanule à grandes fleurs, Platycodon à grandes fleurs, Fleur ballon",
+      "N. scientifique ": "Platycodon grandiflorus",
+      "Synonymes ": "Campanula glauca, Platycodon glaucus",
+      "Famille ": "Campanulacées",
+      "Origine ": "Asie",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   bleu "
+      ],
+      "Type": "plante vivace à fleurs",
+      "Végétation": "vivace herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "60 à 90 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -35°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "argileux, limoneux",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif",
+      "Plantation": "automne, printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Campanule à feuilles rondes",
+      "N. scientifique ": "Campanula rotundifolia",
+      "Famille ": "Campanulacées",
+      "Origine ": "Amérique du Nord, Europe et Asie",
+      "Floraison": "juin à novembre",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 à 40 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -27 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "drainant et pas trop riche",
+      "Acidité ": "neutre à alcalin",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, rocaille, muret, auge",
+      "Plantation": "semis",
+      "Multiplication": "automne, printemps"
+    },
+    {
+      "Nom": "Campanule à feuilles de pêcher",
+      "N. scientifique ": "Campanula persicifolia",
+      "Famille ": "Campanulacées",
+      "Origine ": "Centre et sud de l'Europe",
+      "Floraison": "En juin-juillet. Remonte jusqu'en septembre si on taille les inflorescences",
+      "Fleurs ": [
+        "     ",
+        "   Bleu violet à blanc "
+      ],
+      "Type": "Fleur",
+      "Végétation": "Vivace",
+      "Feuillage ": "Caduc",
+      "Hauteur": "80cm environ, parfois plus dans un sol bien travaillé et riche",
+      "Toxicité": "aucune",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -15°C et même plus bas "
+      ],
+      "Exposition ": [
+        "  ",
+        "  Plein soleil pour une belle floraison ; la mi-ombre convient très bien aussi "
+      ],
+      "Sol": "Pousse dans tous les sols",
+      "Acidité ": "Neutre à calcaire",
+      "Humidité ": "Peu importe tant que l'on évite les extrêmes ; un manque d'eau prolongé détériorerait quelque peu la floraison",
+      "Utilisation": "En massif",
+      "Plantation": "A l'automne ou au printemps",
+      "Multiplication": "Le semis est l'arme la plus adaptée, cette plante se ressemant avec une extrême facilité. Si l'on possède des sujets bleus et des sujets blancs, on aura toutefois vite fait de les mélanger. Pour éviter cela, on choisira la division des touffes au printemps qui se fait sans aucun souci.",
+      "Taille": "Taille des hampes florales une fois fanées pour les inciter à repartir",
+      "Sensibilité ": "Les feuilles assez coriaces n'intéressent pas les gastéropodes que seul l'oïdium vient parfois enlaidir"
+    },
+    {
+      "Nom": "Buglosse d’Italie, Buglosse azurée",
+      "N. scientifique ": "Anchusa azurea",
+      "Synonyme ": "Anchusa italica",
+      "Famille ": "Boraginacées, Borraginacées, Boragacées",
+      "Origine ": "Europe, Asie occidentale, Afrique",
+      "Floraison": "mai à septembre",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "plante herbacée à fleurs",
+      "Végétation": "plante vivace à vie brève",
+      "Feuillage ": "caduc",
+      "Hauteur": "50 cm à 1,80 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -35°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif",
+      "Plantation": "printemps, septembre"
+    },
+    {
+      "Nom": "Boule d'or, Trolle d'Europe, Trolle des montagnes",
+      "N. scientifique ": "Trollius europaeus",
+      "Famille ": "Renonculacées",
+      "Origine ": "Europe",
+      "Floraison": "mai à août",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante ornementale, plante indigène",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,50 à 1,20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -20 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "sols lourds et riches",
+      "Acidité ": "acide à légèrement basique",
+      "Humidité ": "frais à humide",
+      "Utilisation": "massif, berge, zone humide",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis, divisions",
+      "Sensibilité ": "limaces/escargots"
+    },
+    {
+      "Nom": "Bouclier persan rustique",
+      "N. scientifique ": "Strobilanthes atropurpureus",
+      "Synonyme ": "Ruellia atropurpurea",
+      "Famille ": "Acanthacées",
+      "Origine ": "Himalaya",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   bleu foncé "
+      ],
+      "Type": "plante sous-arbustive",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "90 à120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -17 °C, voire plus "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre claire, mi-ombre "
+      ],
+      "Sol": "humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "toujours frais sans excès",
+      "Utilisation": "massif d'ombre",
+      "Plantation": "printemps",
+      "Multiplication": "division, semis"
+    },
+    {
+      "Nom": "Boltonia faux aster, Aster étoilé, Boltonia fausse camomille",
+      "N. scientifique ": "Boltonia asteroides",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "août, septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanc, rose "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacées",
+      "Feuillage ": "caduc",
+      "Hauteur": "150 à 200 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique jusqu'à - 34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais à normal",
+      "Utilisation": "fond massif, bouquet",
+      "Plantation": "automne, printemps",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Benoîte coccinelle",
+      "N. scientifique ": "Geum coccineum",
+      "Famille ": "Rosacées",
+      "Origine ": "Europe",
+      "Floraison": "mai à juillet",
+      "Fleurs ": "        rouge, orange, jaune ",
+      "Type": "plante ornementale",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "30 à 70 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, - 20°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "ph moyennement acide à neutre",
+      "Humidité ": "frais à normal",
+      "Utilisation": "parterre, massif",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division, semis"
+    },
+    {
+      "Nom": "Bégonia ‘Silver Splendor’",
+      "N. scientifique ": "Begonia x ‘Silver Splendor’",
+      "Famille ": "Bégoniacées",
+      "Origine ": "horticole",
+      "Floraison": "août à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "ornementale par son feuillage",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "50 cm",
+      "Rusticité ": "   moyennenement rustique, -8°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "sous-bois, potée",
+      "Plantation": "printemps, été",
+      "Multiplication": "boutures, divisions"
+    },
+    {
+      "Nom": "Bégonia vivace de Madame Evans, Bégonia rustique",
+      "N. scientifique ": "Begonia grandis ssp. evansiana",
+      "Synonymes ": "Begonia evansiana, Begonia grandis, Begonia discolor",
+      "Famille ": "Bégoniacées",
+      "Origine ": "Asie",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "ornementale herbacée",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "50 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -18°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre  à mi-ombre "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "sous-bois, potée, couvre-sol",
+      "Plantation": "printemps, été",
+      "Multiplication": "boutures, divisions, bulbilles"
+    },
+    {
+      "Nom": "Azorelle, Coussin des Andes",
+      "N. scientifique ": "Azorella trifurcata",
+      "Synonymes ": "Bolax  gummifera, Bolax glebaria",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Amérique du sud",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante de rocaille, couvre-sol, aromatique",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "5 à 15 cm",
+      "Rusticité ": "   très rustique, -25°C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "très drainant, pauvre et graveleux",
+      "Acidité ": "acide à alcalin",
+      "Humidité ": "normal à sec",
+      "Utilisation": "rocaille, talus, couvre-sol",
+      "Plantation": "automne",
+      "Multiplication": "semis, division, bouturage"
+    },
+    {
+      "Nom": "Astilbe",
+      "N. scientifique ": "Astilbe",
+      "Famille ": "Saxifragacées",
+      "Origine ": "Dans les milieux humides en altitude de l'Asie et de l'Amérique du Nord",
+      "Floraison": "juillet",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   rose, rouge, blanc "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 30 à 120 cm selon les espèces",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre, ombre "
+      ],
+      "Sol": "riche en humus, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": " frais",
+      "Utilisation": "bordure de mare, bassin, marécage, massif, sous-bois",
+      "Plantation": "printemps, automne",
+      "Multiplication": "Division de touffe tous les deux ou 3 ans. A réaliser au printemps.",
+      "Taille": "taillez au printemps la végétation sèche",
+      "Sensibilité ": "Oïdium et le dessèchement des feuilles"
+    },
+    {
+      "Nom": "Aster japonais",
+      "N. scientifique ": "Kalimeris pinnatifida",
+      "Synonymes ": "Asteromoea mongolica, Asteromoea pinnatifida, Kalimeris mongolica, Aster cantoniensis, Boltonia cantoniensis",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Japon",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   blanc crème "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "0.60 à 1,20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -34°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "très acide à légèrement acide",
+      "Humidité ": "normal à sec",
+      "Utilisation": "fond de massif",
+      "Plantation": "automne, printemps",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Aster des Pyrénées Lutetia",
+      "N. scientifique ": "Aster pyrenaeus 'Lutetia'",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": "        bleu, rose, mauve, blanc ",
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "40 à 80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique jusqu'à -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "caillouteux, calcaire",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif",
+      "Plantation": "automne, printemps",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Aster de Chine, Bleuet de Stoke, Bleuet d'Amérique",
+      "N. scientifique ": "Stokesia laevis",
+      "Synonymes ": "Stokesia  cyanea, Carthamus laevis",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Chine",
+      "Floraison": "août à octobre",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "persistant",
+      "Hauteur": "30 à 50 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique jusqu'à -28 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal",
+      "Utilisation": "massif, fleur coupée",
+      "Plantation": "printemps",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Aster datschii",
+      "N. scientifique ": "Aster x datschii",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Amérique du Nord, probable hybride",
+      "Floraison": "août à septembre",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu’à -19°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "indifférent",
+      "Humidité ": "normal à sec",
+      "Utilisation": "fond de massif",
+      "Plantation": "automne, printemps",
+      "Multiplication": "divisions"
+    },
+    {
+      "Nom": "Armoise",
+      "N. scientifique ": "Artemisia",
+      "Famille ": "Astéracées, Composées",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "feuillage décoratif",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 100 cm",
+      "Rusticité ": [
+        "  ",
+        "  selon les espèces "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "ordinaire, léger",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "bordure, massif",
+      "Plantation": "printemps",
+      "Multiplication": "bouturage au printemps, en été"
+    },
+    {
+      "Nom": "Anémone du Japon",
+      "N. scientifique ": "Anemone hupehensis var. Japonica",
+      "Synonymes ": "Anemone japonica, Anemone x hybrida",
+      "Famille ": "Renonculacées",
+      "Origine ": "Chine",
+      "Floraison": "août à fin octobre",
+      "Fleurs ": [
+        "     ",
+        "   blanche, rose "
+      ],
+      "Type": "plante à fleur pour massif d'ombre",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 1 à 1,30m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, -21°C minimum "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "frais",
+      "Utilisation": "massif, bas des haies",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division de touffes"
+    },
+    {
+      "Nom": "Amsonie bleue, Etoile bleue, Amsonie à larges feuilles",
+      "N. scientifique ": "Amsonia tabernaemontana",
+      "Famille ": "Apocynacées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "mai à juillet",
+      "Fleurs ": [
+        "     ",
+        "   bleu clair "
+      ],
+      "Type": "plante herbacée à fleurs",
+      "Végétation": "plante vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "60 à 90 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -24 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "ordinaire à sablonneux, assez drainant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "frais à humide",
+      "Utilisation": "massif, potée",
+      "Plantation": "printemps, septembre",
+      "Multiplication": "semis, division"
+    },
+    {
+      "Nom": "Amarantine du Rio Grande, Gomphréna écarlate",
+      "N. scientifique ": "Gomphrena haageana",
+      "Famille ": "Amaranthacées",
+      "Origine ": "Amérique centrale",
+      "Floraison": "de juin jusqu'à l'automne",
+      "Fleurs ": [
+        "     ",
+        "   rouge orangé "
+      ],
+      "Type": "plante ornementale à fleurs",
+      "Végétation": "plante vivace cultivée en annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,30 à 50 cm",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, jusqu'à -7 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "moyen et drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal, résiste à la sécheresse",
+      "Utilisation": "massif, bordure, prairie fleurie",
+      "Plantation": "avril, mai, juin",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Alchémille mollis, Manteau de notre dame",
+      "N. scientifique ": "Alchemilla mollis",
+      "Famille ": "Rosacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "juin",
+      "Fleurs ": [
+        "     ",
+        "   vert chartreuse "
+      ],
+      "Type": "plante ornementale",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "0.30 à 0,45 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -39°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "plutôt lourd",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à frais, voire humide",
+      "Utilisation": "bordure, massif, potée",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division, semis"
+    },
+    {
+      "Nom": "Alcalthéa",
+      "N. scientifique ": "Alcalthaea suffrutescens",
+      "Synonyme ": "X Alcalthaea suffrutescens",
+      "Famille ": "Malvacées",
+      "Origine ": "horticole",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanc saumoné, rose clair, rose soutenu "
+      ],
+      "Type": "plante semi-arbustive",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,50 à 3 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -15 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "assez léger et drainant, mais tolérant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "ornementale, mellifère",
+      "Plantation": "printemps",
+      "Multiplication": "bouturage"
+    },
+    {
+      "Nom": "Agératum sauvage, Eupatoire à fleurs d'agératum",
+      "N. scientifique ": "Conoclinium coelestinum",
+      "Synonyme ": "Eupatorium coelestinum",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "juillet à novembre",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "50 à 80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique jusqu'à -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  plein soleil à mi-ombre "
+      ],
+      "Sol": "tolérant, argileux à limoneux",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "moyennement sec à frais",
+      "Utilisation": "milieu ou fond de massif, maintien des berges",
+      "Plantation": "printemps, automne, en toute saison avec arrosages",
+      "Multiplication": "bouture, semis, division"
+    },
+    {
+      "Nom": "Agastache fenouil, Grande hysope, Hysope anisée",
+      "N. scientifique ": "Agastache foeniculum",
+      "Synonyme ": "Agastache anethiodora",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   rose à mauve "
+      ],
+      "Type": "plante condimentaire, ornementale",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "60 à 100 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "sec à normal",
+      "Utilisation": "massif, rocaille chaude, potée",
+      "Plantation": "printemps",
+      "Multiplication": "boutures, semis"
+    },
+    {
+      "Nom": "Aconit de Carmichael, Aconit chinois, Casque de Jupiter",
+      "N. scientifique ": "Aconitum carmichaelii",
+      "Synonyme ": "Aconitum fischeri",
+      "Famille ": "Renonculacées",
+      "Origine ": "Asie",
+      "Floraison": "août à septembre",
+      "Fleurs ": [
+        "     ",
+        "   bleu-violet "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "caduc",
+      "Hauteur": "1m à 1m80",
+      "Toxicité": "toutes les parties sont toxiques",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -28°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "profond et fertile",
+      "Acidité ": "tolérant",
+      "Humidité ": "normal à humide",
+      "Utilisation": "en massif",
+      "Plantation": "printemps, fin d'été",
+      "Multiplication": "semis, division",
+      "Sensibilité ": "peu sensibles aux maladies"
+    },
+    {
+      "Nom": "Achillée millefeuille, Herbe aux charpentiers",
+      "N. scientifique ": "Achillea millefolium",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Europe, Asie du nord",
+      "Floraison": "août à septembre",
+      "Fleurs ": [
+        "     ",
+        "   blanc rosé "
+      ],
+      "Type": "herbacées",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "30 à 75 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -29°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, plante médicinale, fleurs coupées",
+      "Plantation": "automne, printemps",
+      "Multiplication": "divisions"
+    },
+    {
+      "Nom": "Achillée jaune, Achillée Eupatoire",
+      "N. scientifique ": "Achillea filipendulina",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Caucase, Asie du Sud-ouest",
+      "Floraison": "juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "herbacée",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "90 à 150 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -39 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "drainant, fertile à pauvre",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, fleurs coupées, adaptée au terrain sec et pauvre",
+      "Plantation": "automne, printemps",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Achillée",
+      "N. scientifique ": "Achillea",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "régions tempérées de l'hémisphère Nord",
+      "Floraison": "de juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   blanc, jaune, rose, rouge "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 0,50 à 1,20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  excellente "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "frais à sec selon les espèces, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, bordure, rocaille",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps, division de la touffe au printemps",
+      "Taille": "coupez les premières fleurs fanées pour encourager l'apparition de nouvelles tiges",
+      "Sensibilité ": "l'oïdium, les pucerons"
+    },
+    {
+      "Nom": "Plante corail",
+      "N. scientifique ": "Berberidopsis corallina",
+      "Famille ": "Berberidopsidacées",
+      "Origine ": "Chili",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   magenta ou rouge corail "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "2 à 8 m de longueur",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -12 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre à ombre totale "
+      ],
+      "Sol": "de type terre de bruyère, humifère ou limoneuse",
+      "Acidité ": "très acide à neutre",
+      "Humidité ": "normal à frais, mais drainant",
+      "Utilisation": "palissée ou maintenu en arbuste, grand conteneur possible",
+      "Plantation": "au printemps",
+      "Multiplication": "marcottages, semis"
+    },
+    {
+      "Nom": "Passiflore bleue",
+      "N. scientifique ": "Passiflora caerulea",
+      "Famille ": "Passifloracées",
+      "Origine ": "Amérique du sud, Brésil ",
+      "Floraison": "de mai à octobre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   bleu et blanc "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "vivace",
+      "Feuillage ": "semi persistant à persistant selon la température",
+      "Hauteur": "5 à 10m",
+      "Toxicité": "fruits comestibles",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -15°C, à planter à l'abri du froid et à protéger par paillage ou un voile d'hivernage dans les régions les plus au nord "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "tout type de sol, privilégié un sol léger et drainant",
+      "Acidité ": "neutre",
+      "Humidité ": "éviter les sol trop humides en dehors des periodes de grandes chaleurs",
+      "Utilisation": "muret, pergola, treillage, bac",
+      "Plantation": "au printemps",
+      "Multiplication": "semis au chaud, bouturage en juillet-août",
+      "Taille": "on peut tailler durant l'été pour limiter son expansion, une bonne taille à 20 à 30 cm du pied en fin de saison ou au début du printemps avant la reprise de la végétation, revigore la plante et améliore la floraison ",
+      "Sensibilité ": "cochenilles en période trop humide et accariens araignées rouges en periode sèche ou en intérieur"
+    },
+    {
+      "Nom": "Muehlenbeckie",
+      "N. scientifique ": "Muehlenbeckia complexa",
+      "Synonyme ": "Muehlenbeckia microphylla",
+      "Famille ": "Polygonacées",
+      "Origine ": "Nouvelle -Zélande",
+      "Floraison": "août à septembre",
+      "Fleurs ": [
+        "     ",
+        "   blanchâtre "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "plante rampante et grimpante",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 4 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -12 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "légèrement acide à légèrement neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "pergola, treillage, clôture, grand mur, couvre-sol",
+      "Plantation": "division, bouture, marcottage",
+      "Multiplication": "printemps, automne"
+    },
+    {
+      "Nom": "Jasmin de Virginie, Jasmin trompette, Bignone",
+      "N. scientifique ": "Campsis",
+      "Famille ": "Bignoniacées",
+      "Origine ": "Amérique du nord, Chine et Japon",
+      "Floraison": "de juillet à septembre, à partir d'août au nord de la Loire",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   jaune, orange, rouge, parfois bicolore "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "persistant",
+      "Feuillage ": "caduc",
+      "Hauteur": "elle peut atteindre plus de 10 m à l'age adulte, croissance d'un mètre par an environ",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -10°C, elle est sensible aux grands froids, à placer à l'abri des vents -20°C pour Campsis radicans "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "humifère, frais, profond, bien drainé",
+      "Acidité ": "neutre, calcaire supporté",
+      "Humidité ": "normal",
+      "Utilisation": "mur au sud, façade, pergola, cloture, tronc d'arbre, couvre-sol, grand bac pour le balcon",
+      "Plantation": "printemps",
+      "Multiplication": "bouturage",
+      "Taille": "tailler la bignone fin février",
+      "Sensibilité ": "les pucerons, les araignées rouges. Traitez-les avec des acaricides spécifiques à base de dicofol (produits araignées rouges du commerce)."
+    },
+    {
+      "Nom": "Jasmin blanc, Jasmin officinal",
+      "N. scientifique ": "Jasminum officinalis",
+      "Famille ": "Oléacées",
+      "Origine ": "Asie",
+      "Floraison": "de juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante grimpante à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "3 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -12°C, à protéger dans les régions aux hivers très froid "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "ordinaire",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "mur, tonnelle, vieux tronc, pergola, palissade",
+      "Plantation": "automne, printemps",
+      "Multiplication": "boutures en août, marcottage, semis"
+    },
+    {
+      "Nom": "Hydrangéa grimpant du Pérou",
+      "N. scientifique ": "Hydrangea peruviana",
+      "Synonymes ": "Hydrangea peruviana var oerstediana, Hydrangea seemannii",
+      "Famille ": "Hydrangeacées, Philadelphacées",
+      "Origine ": "Costa Rica, panama, Equateur, Pérou",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   rose à rouge sombre "
+      ],
+      "Type": "arbuste d'ornement ou plante grimpante",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "6 à 20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "humifère et drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "frais à normal",
+      "Utilisation": "appuyé sur un arbre, un mur ou un treillage, en buisson",
+      "Plantation": "printemps, automne",
+      "Multiplication": "marcottage"
+    },
+    {
+      "Nom": "Hortensia grimpant",
+      "N. scientifique ": "Hydrangea petiolaris",
+      "Synonyme ": "Hydrangea scandens",
+      "Famille ": "Hydrangeacées, Philadelphacées",
+      "Origine ": "Ile russe Sakhaline, de Corée et du Japon",
+      "Floraison": "de mai à juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "15 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  il se montre extrêmement tolérant au froid, supportant des températures jusqu'à - 25 °C et sans doute moins. "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ombre, nord "
+      ],
+      "Sol": "riche",
+      "Acidité ": "neutre, supporte le calcaire",
+      "Humidité ": "frais",
+      "Utilisation": "couvre-sol, talus, tonnelle",
+      "Plantation": "printemps",
+      "Multiplication": "bouturage en septembre, marcottage",
+      "Taille": "Aucune taille précise n'est nécessaire. Supprimez les inflorescences fanées, lorsque le feuillage commence à tomber en automne. Coupez aussi les branches qui poussent perpendiculairement à l'axe du mur ou les rameaux mal placés. Surveillez la croissance des plantes adultes pour qu'elles n'abîment pas la toiture ou les gouttières.",
+      "Sensibilité ": "les limaces qui adorent ses feuilles tendres"
+    },
+    {
+      "Nom": "Haricot d'Espagne, Haricot écarlate",
+      "N. scientifique ": "Phaseolus coccineus",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Mexique",
+      "Floraison": "juin-juillet et septembre",
+      "Fleurs ": [
+        "     ",
+        "   rouge écarlate "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "3 à 4 m",
+      "Rusticité ": "   peu rustique, -3°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "drainant et riche",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal",
+      "Utilisation": "massif, conteneur, palissée sur un support",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Glycine persistante, Glycine d'été",
+      "N. scientifique ": "Millettia japonica 'Satsuma'",
+      "Synonymes ": "Wisteria taiwanensis 'Pinot Noir', Milletia reticulata",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Asie",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   bleu violacée à rose "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "arbustive",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "5 m de hauteur",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -7°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "sol riche et drainant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à humide",
+      "Utilisation": "palissée sur un mur, une pergola",
+      "Plantation": "à l'automne ou au printemps",
+      "Multiplication": "marcottages, boutures, semis",
+      "Taille": "après la floraison, et éventuellement en hiver"
+    },
+    {
+      "Nom": "Fuchsia royal Reitzii, Fuschia grimpant rustique",
+      "N. scientifique ": "Fuchsia regia ssp. Reitzii",
+      "Famille ": "Onagracées",
+      "Origine ": "Brésil",
+      "Floraison": "juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rouge et mauve "
+      ],
+      "Type": "plante semi-grimpante",
+      "Végétation": "plante vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "3 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -18°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais",
+      "Utilisation": "potée, pleine terre",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division, bouturage, semis"
+    },
+    {
+      "Nom": "Fuchsia royal",
+      "N. scientifique ": "Fuchsia regia",
+      "Famille ": "Onagracées",
+      "Origine ": "Brésil",
+      "Floraison": "juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rouge et mauve "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "3 m",
+      "Toxicité": "fruit comestible",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu’à -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais",
+      "Utilisation": "potée, pleine terre",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division, bouturage, semis"
+    },
+    {
+      "Nom": "Dicentra grimpant, Larmes d'or",
+      "N. scientifique ": "Dactylocapnos scandens",
+      "Synonymes ": "Dicentra thalictrifolia, Dactylicapnos trifolia, Dicentra scandens",
+      "Famille ": "Papavéracées",
+      "Origine ": "Himalaya",
+      "Floraison": "juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "   jaune à crème "
+      ],
+      "Type": "plante ornementale d'ombre",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "2 à 3 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -16°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre  à mi-ombre "
+      ],
+      "Sol": "humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais",
+      "Utilisation": "palissée sur un mur, un grillage, appuyée sur d'autres plantes grimpantes",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Cobée vivace de Pringle",
+      "N. scientifique ": "Cobaea pringlei",
+      "Synonyme ": "Cobaea foetidissima",
+      "Famille ": "Polémoniacées",
+      "Origine ": "Amérique centrale",
+      "Floraison": "avril à août",
+      "Fleurs ": [
+        "     ",
+        "   blanche "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "plante vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "2 à 5 m",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, -6 ° à -10 °C, voire -15 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à frais, voire humide",
+      "Utilisation": "clôture, haie, pergola, treillage, jardin d'hiver",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Chèvrefeuille grimpant",
+      "N. scientifique ": "Lonicera",
+      "Famille ": "Caprifoliacées",
+      "Origine ": "Asie, Europe",
+      "Floraison": "juin, juillet",
+      "Fleurs ": "        blanc, jaune, rose, rouge ",
+      "Type": "plante grimpante volubile",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant, persistant",
+      "Hauteur": "de 3 à 6 m",
+      "Toxicité": "fruits toxiques",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique à moyennement rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "ordinaire",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "plante grimpante, couvre-sol, treillage",
+      "Plantation": "printemps",
+      "Multiplication": "marcottage",
+      "Taille": "taillez les après la floraison pour limiter son développement",
+      "Sensibilité ": "l'oïdium, les pucerons"
+    },
+    {
+      "Nom": "Bignone, Jasmin de Virginie, Jasmin trompette",
+      "N. scientifique ": "Campsis radicans",
+      "Synonymes ": "Bignonia radicans, Tecoma radicans",
+      "Famille ": "Bignoniacées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "août à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rouge "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "5 à 10 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -25°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à basique",
+      "Humidité ": "drainant, résiste à la sécheresse une fois bien enracinée",
+      "Utilisation": "mur, pergola,  tonnelle, clôture",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, greffage, semis"
+    },
+    {
+      "Nom": "Bignone Madame Galen",
+      "N. scientifique ": "Campsis x tagliabuana 'Madame Galen'",
+      "Synonyme ": "Campsis x hybrida 'Madame Galen'",
+      "Famille ": "Bignoniacées",
+      "Origine ": "horticole",
+      "Floraison": "juin ou juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   orange "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "3 à 6 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -18°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "drainant, résiste à la sécheresse une fois bien enracinée",
+      "Utilisation": "mur, pergola,  tonnelle, clôture",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, greffage"
+    },
+    {
+      "Nom": "Bignone jaune",
+      "N. scientifique ": "Campsis radicans 'Flava'",
+      "Synonymes ": "Campsis radicans 'Yellow Trompette', Bigninia radicans, Tecoma radicans",
+      "Famille ": "Bignoniacées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "juin ou juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   doré "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "5 à 10 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -25°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à basique",
+      "Humidité ": "drainant, résiste à la sécheresse une fois bien enracinée",
+      "Utilisation": "mur, pergola,  tonnelle, clôture",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, greffage, semis"
+    }
+  ]
+}

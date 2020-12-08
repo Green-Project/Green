@@ -1,0 +1,451 @@
+{
+  "category": "Plantes de haie",
+  "data": [
+    {
+      "Nom": "Citronnier épineux",
+      "N. scientifique ": "Poncirus trifoliata",
+      "Famille ": "Rutacées",
+      "Origine ": "Corée, nord de la Chine",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "agrume",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "3m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -20°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "riche",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais et drainé",
+      "Utilisation": "porte-greffe, isolé, haie, bonsaï",
+      "Plantation": "printemps",
+      "Multiplication": "bouture, semis",
+      "Sensibilité ": "cochenilles, maladies cryptogamiques"
+    },
+    {
+      "Nom": "Raphiolépide de l'Inde",
+      "N. scientifique ": "Rhaphiolepis indica",
+      "Synonyme ": "Raphiolepis indica",
+      "Famille ": "Rosacées",
+      "Origine ": "Chine",
+      "Floraison": "mai à juin",
+      "Fleurs ": [
+        "     ",
+        "   blanc rosé "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "1m 20 à 2 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "sablonneux, rocheux",
+      "Acidité ": "légèrement acide",
+      "Humidité ": "sec à normal",
+      "Utilisation": "en isolé ou en massif, talus",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Pittospore du Japon",
+      "N. scientifique ": "Pittosporum tobira",
+      "Famille ": "Pittosporacées",
+      "Origine ": "Chine, Corée, Japon",
+      "Floraison": "mai",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 1 à 10 m selon les variétés",
+      "Rusticité ": [
+        "  ",
+        "  moyennement rustique, à protéger des vents froids, à privilégier aux régions au climat doux "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "haie libre, haie taillée, isolé, pot pour les régions au climat rigoureux, serre froide",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouturage semi-ligneux en été, marcottage",
+      "Sensibilité ": "les araignées rouges en serre"
+    },
+    {
+      "Nom": "Filaire à feuilles étroites",
+      "N. scientifique ": "Phillyrea angustifolia",
+      "Famille ": "Apocynacées",
+      "Origine ": "Europe du sud et nord de l'Afrique",
+      "Floraison": "mars à mai",
+      "Fleurs ": [
+        "     ",
+        "   blanches "
+      ],
+      "Type": "plante méditerranéenne",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 4 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "léger et drainant",
+      "Acidité ": "tolérant",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, potée",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouturage"
+    },
+    {
+      "Nom": "Arbousier (Arbouse), Arbre aux fraises",
+      "N. scientifique ": "Arbutus unedo",
+      "Famille ": "Ericacées",
+      "Origine ": "Bassin méditerranéen",
+      "Floraison": "août à septembre",
+      "Fleurs ": [
+        "     ",
+        "   fleurs blanches ou roses en forme de clochettes regroupées en panicules "
+      ],
+      "Type": "arbuste fruitier et ornemental",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "5 m",
+      "Toxicité": "fruits comestibles, les feuilles sont utilisées en décoction.",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, à planter près d'un mur "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche et bien drainé",
+      "Acidité ": "neutre à légèrement acide",
+      "Humidité ": "normal à sec",
+      "Utilisation": "haie libre, isolé, bac",
+      "Plantation": "automne, printemps",
+      "Multiplication": "semis, bouturage en août, marcottage en août septembre ",
+      "Sensibilité ": "résistant aux maladies"
+    },
+    {
+      "Nom": "Laurier rose",
+      "N. scientifique ": "Nerium oleander",
+      "Famille ": "Apocynacées",
+      "Origine ": "Afrique du nord",
+      "Floraison": "tout l'été",
+      "Fleurs ": "        blanc, rose, rouge, saumon, jaune, fuchsia ",
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 4m",
+      "Toxicité": "C'est une des plante les plus dangereuses de nos régions. Feuilles, fleurs, écorce et bois, frais ou séchés, sont toxiques à très faible dose. On considère quune seule feuille peut être mortelle pour lhomme.",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -6°C, jusqu'à -10°C pour les variétés les plus rustiques "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "léger et drainant",
+      "Acidité ": "neutre à légèrement acide",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, haie libre, en bac en dehors d'un climat méditerranéen",
+      "Plantation": "printemps",
+      "Multiplication": "bouturage en eau ou en terre en prélevant une pousse d'une dizaine de centimètres non fleurie en juillet ou en août",
+      "Taille": "Après la floraison, rabattez de moitié les rameaux ayant fleuris. Ça lui redonnera une forme plus dense. Une année sur deux, taillez une branche sur cinq à 40 cm du sol pour que la base soit toujours garnie. La floraison est moindre après une taille sévère qui aura lieu de préférence à la fin de l'hiver si nécessaire",
+      "Sensibilité ": "la pourriture, le chancre, la galle bactérienne (boursouflures grises), l'Ascochita, le puceron noir et jaune, le thrips et les cochenilles"
+    },
+    {
+      "Nom": "Plante du pêcheur, Diosmè hirsute, Buchu",
+      "N. scientifique ": "Diosma",
+      "Synonymes ": "Diosma hirsuta, Diosma rubra",
+      "Famille ": "Rutacées",
+      "Origine ": "Afrique du sud, Australie, Asie",
+      "Floraison": "mars à juin",
+      "Fleurs ": [
+        "     ",
+        "   blanc, puis rosé "
+      ],
+      "Type": "arbrisseau d'ornement",
+      "Végétation": "persistant",
+      "Feuillage ": "persistant",
+      "Hauteur": "0,50 à 1 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rusticité moyenne, -6°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "bonne terre, bien drainée",
+      "Acidité ": "acide à légèrement alcalin",
+      "Humidité ": "frais",
+      "Utilisation": "en isolé, en pot, en massif",
+      "Plantation": "toute l'année pour les plantes en container",
+      "Multiplication": "bouturage",
+      "Taille": "fin de printemps, après la floraison",
+      "Sensibilité ": "pas de maladie"
+    },
+    {
+      "Nom": "Lantanier, Mille fleurs, Corbeille d'or",
+      "N. scientifique ": "Lantana camara",
+      "Famille ": "Verbénacées",
+      "Origine ": "Régions tropicales d'Amérique Centrale, Amérique du Sud et d'Afrique",
+      "Floraison": "de juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   blanc, jaune, rose, orange, rouge "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace souvent cultivée comme une annuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 1 m",
+      "Toxicité": "plante toxique",
+      "Rusticité ": [
+        "  ",
+        "  5°C, semi rustique à réserver aux régions aux climats doux, en bac ou pot ailleurs "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche, drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif, pot, bac",
+      "Plantation": "printemps",
+      "Multiplication": "semis en avril, bouturage en août",
+      "Taille": "en mars",
+      "Sensibilité ": "la mouche blanche en intérieur"
+    },
+    {
+      "Nom": "Thuya géant",
+      "N. scientifique ": "Thuja plicata",
+      "Synonyme ": "Thuya gigantea",
+      "Famille ": "Cupressacées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "mars à avril",
+      "Fleurs ": "        cônes bruns ",
+      "Type": "conifère",
+      "Végétation": "arborée",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 60 m pour l'espèce type",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -25 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil, mi-ombre lorsqu'il est jeune "
+      ],
+      "Sol": "tolérant, argileux, limoneux",
+      "Acidité ": "tolérant",
+      "Humidité ": "frais à humide",
+      "Utilisation": "arbre isolé, haie",
+      "Plantation": "mi-septembre à mi-novembre",
+      "Multiplication": "semis, marcotte, bouture"
+    },
+    {
+      "Nom": "Thuya d'Occident, Thuya du Canada, Cèdre blanc",
+      "N. scientifique ": "Thuja occidentalis",
+      "Famille ": "Cupressacées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "mars à avril",
+      "Fleurs ": "        cônes bruns ",
+      "Type": "conifère",
+      "Végétation": "arborée",
+      "Feuillage ": "persistant",
+      "Hauteur": "15 à 30 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -25 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil, mi-ombre lorsqu'il est jeune "
+      ],
+      "Sol": "tolérant, argileux, limoneux",
+      "Acidité ": "tolérant",
+      "Humidité ": "frais à humide",
+      "Utilisation": "arbre isolé, haie",
+      "Plantation": "mi-septembre à mi-novembre",
+      "Multiplication": "semis, marcotte, bouture"
+    },
+    {
+      "Nom": "If commun",
+      "N. scientifique ": "Taxus baccata",
+      "Famille ": "Taxacées",
+      "Origine ": "Europe, Afrique du nord, Proche Orient",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "conifère",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 10 jusqu'à 15 m, croissance lente",
+      "Toxicité": " les graines et les feuilles sont mortelles, elles entrainent des troubles cardiaques.",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche en humus",
+      "Acidité ": "légèrement acide à légèrement calcaire",
+      "Humidité ": "frais à humide",
+      "Utilisation": "isolée, haie taillée, couvre-sol pour certaines variétés",
+      "Plantation": "Au début de l'automne ou au début du printemps, comme pour tous les persistants. Octobre et avril sont donc les deux mois les plus favorables à une bonne reprise de l'if.",
+      "Multiplication": "semis, bouturage",
+      "Taille": "Attendez que l'if ait atteint la taille désirée pour le tailler en hauteur. En effet, tailler la flèche a pour conséquence de ralentir sa croissance. L'if a la particularité de repercer sur le vieux bois, il supporte donc sans broncher des tailles sévères.",
+      "Sensibilité ": "la galle des bourgeons, la tordeuse (aiguilles mangées par des chenilles), les cochenilles"
+    },
+    {
+      "Nom": "Cyprès de Leyland",
+      "N. scientifique ": "X Cupressus leylandii",
+      "Synonyme ": "X Cupressocyparis leylandii",
+      "Famille ": "Cupressacées",
+      "Origine ": "Amérique du Nord, hybride naturel",
+      "Floraison": "mars à avril",
+      "Fleurs ": [
+        "     ",
+        "   vert "
+      ],
+      "Type": "conifère",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 30 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique jusqu'à -21°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "tolérant",
+      "Humidité ": "frais à sec",
+      "Utilisation": "en isolé, haie",
+      "Plantation": "mi-septembre à mi-novembre, mars-avril"
+    },
+    {
+      "Nom": "Vigne de l'Oregon",
+      "N. scientifique ": "Mahonia x media",
+      "Famille ": "Berbéridacées",
+      "Origine ": "Asie, Amérique du nord",
+      "Floraison": "automne, hiver, printemps",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 2 à 4 m",
+      "Toxicité": " Des troubles digestifs : diarrhées, vomissements, douleurs abdominales peuvent être observés après l'absorption par de jeunes enfants d'au moins une dizaine de baies. Les effets sont en général sans conséquence.",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -10°C adulte, une protection, hivernale chez les jeunes sujets "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre, ombre, soleil en climat tempéré "
+      ],
+      "Sol": "terre plutôt sableuse, enrichie en humus",
+      "Acidité ": "neutre à acide, calcaire accepté",
+      "Humidité ": "normal",
+      "Utilisation": "isolé, haie libre, rocaille, massif, bac",
+      "Plantation": "Effectuez la plantation de préférence entre octobre et mars/avril",
+      "Multiplication": "semis, bouturage en août, drageonnage",
+      "Taille": "Les jeunes mahonias doivent obligatoirement être taillés après la floraison, afin d'encourager la plante à se ramifier : pincez le bouquet de feuilles terminales. Adulte le Mahonia ne nécessite pratiquement aucune taille. Contentez-vous d'éliminer les rameaux abîmés ou desséchés et de supprimer les hampes florales fanées.",
+      "Sensibilité ": "la rouille, le mildiou"
+    },
+    {
+      "Nom": "Argousier, Bourdaine marine, Epine luisante, Griset, Faux-nerprun",
+      "N. scientifique ": "Hippophae rhamnoides",
+      "Famille ": "Éléagnacée",
+      "Origine ": "Europe, Asie, Amérique",
+      "Floraison": "mars à mai",
+      "Fleurs ": [
+        "     ",
+        "   verdâtre "
+      ],
+      "Type": "Arbuste fruitier",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1 à 3 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -40°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "minéral et assez pauvre",
+      "Acidité ": "basique",
+      "Humidité ": "normal",
+      "Utilisation": "maintien des dunes, ornemental, fruitier",
+      "Plantation": "automne jusqu'à mars",
+      "Multiplication": "boutures, semis, rejets"
+    }
+  ]
+}
