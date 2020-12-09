@@ -1,0 +1,3378 @@
+{
+  "category": "Légumes du potager",
+  "data": [
+    {
+      "Nom": "Topinambour, Hélianthe tubéreux, Artichaut de Jérusalem",
+      "N. scientifique ": "Helianthus tuberosus",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante potagère",
+      "Végétation": "vivace par ses tubercules",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 2,50 m",
+      "Toxicité": "tubercules comestibles",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "bonne terre de jardin",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager, massif pour les fleurs",
+      "Plantation": "printemps",
+      "Multiplication": "division des tubercules au printemps",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "oïdium"
+    },
+    {
+      "Nom": "Souchet comestible, Amande de terre",
+      "N. scientifique ": "Cyperus esculentus",
+      "Famille ": "Cypéracées",
+      "Origine ": "pourtour méditerranéen",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "légume-racine",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 30 à 50 cm",
+      "Toxicité": "tubercules comestibles",
+      "Rusticité ": "   gélif ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche en humus, léger",
+      "Acidité ": "neutre",
+      "Humidité ": "frais, humide",
+      "Utilisation": "bordure d'eau",
+      "Plantation": "printemps pour une récolte en automne",
+      "Multiplication": "division des rhizomes au printemps",
+      "Taille": "50 cm",
+      "Sensibilité ": "les pucerons"
+    },
+    {
+      "Nom": "Pomme de terre Vitelotte noire, Négresse, Truffe de Chine",
+      "N. scientifique ": "Solanum tuberosum 'Vitelotte'",
+      "Famille ": "Solanacées",
+      "Origine ": "Amérique du Sud, horticole",
+      "Floraison": "juin",
+      "Fleurs ": [
+        "     ",
+        "   mauve "
+      ],
+      "Type": "variété potagère ancienne",
+      "Végétation": "plante vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "60 cm environ",
+      "Rusticité ": "   non rustique, 0 °C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "humifère, meuble et drainant",
+      "Acidité ": "acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "légume",
+      "Plantation": "printemps, souvent en avril",
+      "Multiplication": "tubercule"
+    },
+    {
+      "Nom": "Pomme de terre Bleue d'Artois",
+      "N. scientifique ": "Solanum tuberosum 'Bleue d'Artois'",
+      "Synonymes ": "Solanum tuberosum 'Bleue de la Manche', Solanum tuberosum 'Valfi'",
+      "Famille ": "Solanacées",
+      "Origine ": "Amérique du sud, horticole",
+      "Floraison": "juin",
+      "Fleurs ": [
+        "     ",
+        "   bleuté "
+      ],
+      "Type": "variété potagère",
+      "Végétation": "plante vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "60 cm environ",
+      "Rusticité ": "   non rustique, 0°C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée  "
+      ],
+      "Sol": "humifère, meuble et drainant",
+      "Acidité ": "acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "légume",
+      "Plantation": "printemps",
+      "Multiplication": "tubercule"
+    },
+    {
+      "Nom": "Pomme de terre",
+      "N. scientifique ": "Solanum tuberosum",
+      "Famille ": "Solanacées",
+      "Origine ": "Andes",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume",
+      "Végétation": "bulbe",
+      "Feuillage ": "caduc",
+      "Hauteur": "1 m",
+      "Toxicité": " feuillage toxique, tubercules verts et germés toxiques",
+      "Rusticité ": "   annuel ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "léger, riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "mai",
+      "Multiplication": "tubercule",
+      "Sensibilité ": "le doryphore, les taupins, la teigne de la pomme de terre, le mildiou"
+    },
+    {
+      "Nom": "Patate douce",
+      "N. scientifique ": "Ipomoea batatas",
+      "Famille ": "Convolvulacées",
+      "Origine ": "Amérique centrale, Amérique du sud",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanche, violette "
+      ],
+      "Type": "légume",
+      "Végétation": "vivace cultivée comme une annuelle au potager",
+      "Feuillage ": "persistant",
+      "Hauteur": "tige rampante pouvant atteindre plus de 5 mètres",
+      "Toxicité": "tubercules et feuilles comestibles",
+      "Rusticité ": "   non rustique ",
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager, pot, bac",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps, bouturage, division des tubercules",
+      "Sensibilité ": "l'oïdium, les araignées rouges, les aleurodes"
+    },
+    {
+      "Nom": "Oca du Pérou, Truffette acide",
+      "N. scientifique ": "Oxalis crenata, Oxalis tuberosa",
+      "Synonyme ": " Oxalis tuberosa",
+      "Famille ": "Oxalidacées",
+      "Origine ": "Pérou, Bolivie",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume racine",
+      "Végétation": "vivace rampante, culture annuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 1m20 au sol, 50 cm en hauteur",
+      "Toxicité": "feuilles et tubercules sont comestibles",
+      "Rusticité ": "   non rustique ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "léger, riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "potager",
+      "Plantation": "plantation au printemps pour une récolte en novembre",
+      "Multiplication": "division des tubercules",
+      "Sensibilité ": "les limaces"
+    },
+    {
+      "Nom": "Noix de terre, Châtaigne de terre, Marron de terre, Bunium à châtaigne",
+      "N. scientifique ": "Bunium bulbocastanum",
+      "Synonymes ": "Carum bulbocastanum, Bulbocastanum linnaei",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Europe, Asie",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante herbacée",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,70 à 1,50 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -24 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "sol riche et drainant",
+      "Acidité ": "légèrement acide à moyennement basique",
+      "Humidité ": "ordinaire à un peu sec",
+      "Utilisation": "plante sauvage comestible, légume ancien",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis, division"
+    },
+    {
+      "Nom": "Hélianthus scrofuleux, hélianthis, Salsifis d'Amérique",
+      "N. scientifique ": "Helianthus strumosus",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "de juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume ancien",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1 à 1,80 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -25 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre claire "
+      ],
+      "Sol": "tolérant, profond et riche",
+      "Acidité ": "neutre à alcalin",
+      "Humidité ": "frais à sec",
+      "Utilisation": "légume, fleur coupée",
+      "Plantation": "printemps",
+      "Multiplication": "semis, divisions",
+      "Sensibilité ": "l'oïdium, les limaces lorsque les plants sont jeunes"
+    },
+    {
+      "Nom": "Glycine tubéreuse, Haricot-pomme de terre",
+      "N. scientifique ": "Apios americana",
+      "Synonyme ": "Apios tuberosa",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Amérique du Nord, Mexique",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   rose à brune "
+      ],
+      "Type": "plante grimpante, légume",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "3 à 4 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -24 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "très acide à légèrement basique",
+      "Humidité ": "normal à très humide",
+      "Utilisation": "potager, grillage, permaculture",
+      "Plantation": "semis, tubercules",
+      "Multiplication": "printemps, automne"
+    },
+    {
+      "Nom": "Gesse tubéreuse, Pois tubéreux, Châtaigne de terre",
+      "N. scientifique ": "Lathyrus tuberosus",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   rose, violet "
+      ],
+      "Type": "plante herbacée à tubercule, légume oublié",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,70 à 1,20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -24 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "sol calcaire à très argileux",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "ordinaire à un peu humide",
+      "Utilisation": "plante sauvage comestible, légume ancien, permaculture",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis, division tubercules"
+    },
+    {
+      "Nom": "Crosne du Japon",
+      "N. scientifique ": "Stachys affinis",
+      "Synonyme ": "Stachys tuberifera",
+      "Famille ": "Labiacées, Lamiacées, Labiées",
+      "Origine ": "Chine, Japon",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "légume",
+      "Végétation": "cultivée en annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 40 à 60 cm",
+      "Rusticité ": "   cultivée en annuelle ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "léger, bien drainé, riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "mars, avril",
+      "Multiplication": "division des tubercules",
+      "Sensibilité ": "le ver des crosnes, le pourridié, les limaces lorsque les jeunes pousses se développent"
+    },
+    {
+      "Nom": "Chayote, Christophine, Cho-cho",
+      "N. scientifique ": "Sechium edule",
+      "Famille ": "Cucurbitacées",
+      "Origine ": "Amérique centrale",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   blanc crème "
+      ],
+      "Type": "herbacée grimpante ou coureuse, légume",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "2-3 m",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, -3 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "riche et profond",
+      "Acidité ": "moyennement acide à légèrement basique",
+      "Humidité ": "normal à un peu frais",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "été, automne"
+    },
+    {
+      "Nom": "Capucine tubéreuse",
+      "N. scientifique ": "Tropaeolum tuberosum",
+      "Famille ": "Acanthacées",
+      "Origine ": "Pérou, Bolivie, Équateur",
+      "Floraison": "fin septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   rouge et jaune "
+      ],
+      "Type": "plante grimpante à bulbe",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "2 à 4 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -10 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "drainant et léger",
+      "Acidité ": "moyennement acide à neutre",
+      "Humidité ": "frais à humide",
+      "Utilisation": "potager, massif, treillage",
+      "Plantation": "mars, avril",
+      "Multiplication": "semis, division des tubercules"
+    },
+    {
+      "Nom": "Rhubarbe comestible",
+      "N. scientifique ": "Rheum rhabarbarum",
+      "Famille ": "Polygonacées",
+      "Origine ": "Asie centrale",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,5 m",
+      "Toxicité": "les feuilles sont toxiques ; elles contiennent de l'acide oxalique (oxalates). Leur ingestion peut provoquer des spasmes musculaires, des problèmes rénaux et même le coma. Les tiges peuvent être consommées sans danger. ",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche en humus, profond",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "potager",
+      "Plantation": "au printemps",
+      "Multiplication": "semis au printemps, division de la souche en mars ou à l'automne en tranchant à l'aide d'une bêche des éclats avec 1 ou 2 bourgeons",
+      "Sensibilité ": "résistante aux maladies, les limaces"
+    },
+    {
+      "Nom": "Chou rave, Colrave, Kohlrabi",
+      "N. scientifique ": "Brassica oleracea var. Gongylodes",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "horticole",
+      "Floraison": "juin",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante potagère",
+      "Végétation": "bisannuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "40 à 70 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -19°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "riche et frais",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "semis",
+      "Multiplication": "printemps"
+    },
+    {
+      "Nom": "Céleri branche, Céleri à côtes",
+      "N. scientifique ": "Apium graveolens var dulce",
+      "Synonyme ": "Apium lusitanicum",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Europe, Asie, variétés horticoles",
+      "Floraison": "juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume, plante potagère",
+      "Végétation": "bisannuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "50 à 100 cm",
+      "Toxicité": "on utilise les feuilles, les tiges (ou côtes), les racines et les graines",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  -12 °C, le céleri-branche est plus sensible aux gelées que le céleri-rave "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "limono-argileux",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "frais à humide",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps sous chassis ou en plein air",
+      "Sensibilité ": "la mouche du céleri"
+    },
+    {
+      "Nom": "Cardon, Carde",
+      "N. scientifique ": "Cynara cardunculus",
+      "Synonymes ": "Cynara cardunculus var. altilis, Cynara cardunculus subsp. cardunculus",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Bassin méditerranéen",
+      "Floraison": "de juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "   pourpre violacée "
+      ],
+      "Type": "légume ancien, plante décorative",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1,20 à 2 m",
+      "Toxicité": "Gare aux épines pour certaines variétés",
+      "Rusticité ": [
+        "  ",
+        "  protéger le pied en le buttant et en liant les feuilles ensembles pour protéger le coeur, jusqu'à -10°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant, même en sol lourd",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "alimentaire, ornementale, médicinale",
+      "Plantation": "automne, printemps, en avril en incorporant du compost dans le fond du trou",
+      "Multiplication": "semis sous chassis fin mars, oeilletonnage en avril",
+      "Taille": "pas de taille",
+      "Sensibilité ": "taches foliaires, pucerons, limaces"
+    },
+    {
+      "Nom": "Bette à cardes, Blette, Poirée",
+      "N. scientifique ": "Beta vulgaris var  sicla",
+      "Famille ": "Chénopodiacées",
+      "Origine ": "sélection potagère",
+      "Floraison": "en juin, la seconde année de culture",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante potagère, parfois ornementale en feuillage décoratif",
+      "Végétation": "bisannuel",
+      "Feuillage ": "persistant",
+      "Hauteur": "40 à 80 cm pour les feuilles, 2 m en fleur",
+      "Toxicité": "feuilles comestibles",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à 19 C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "riche et frais",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à humide",
+      "Utilisation": "potager, massif, bordure",
+      "Plantation": "printemps",
+      "Multiplication": "semis",
+      "Sensibilité ": "les pucerons"
+    },
+    {
+      "Nom": "Asperge",
+      "N. scientifique ": "Asparagus officinalis",
+      "Famille ": "Liliacées",
+      "Origine ": "Bassin méditerranéen",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "120 cm",
+      "Toxicité": "consommer avec précaution, peut-être irritante pour le système urinaire",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "léger, sableux, profond",
+      "Acidité ": "neutre",
+      "Humidité ": "frais à humide",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "division du rhizome ou griffe",
+      "Sensibilité ": "rhizoctone violet, rouille, criocère et la mouche de l'asperge"
+    },
+    {
+      "Nom": "Salsifis cultivé, Salsifis à feuilles de poireau, Salsifis blanc",
+      "N. scientifique ": "Tragopogon porrifolius",
+      "Synonyme ": "Tragopogon sinuatus",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Europe, Afrique septentrionale",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   rose violacée "
+      ],
+      "Type": "bisannuelle",
+      "Végétation": "plante bisannuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique jusqu'à -24 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "profond et meuble",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "potager, plante ornementale",
+      "Plantation": "printemps",
+      "Multiplication": "automne, hiver"
+    },
+    {
+      "Nom": "Rutabaga, Chou-navet",
+      "N. scientifique ": "Brassica napus var Napobrassica",
+      "Synonymes ": "Brassica napus subsp Rapifera, Brassica napobrassica",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "variété cultivée provenant de l'Europe du nord",
+      "Floraison": "juin",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante potagère, légume",
+      "Végétation": "bisannuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "30 à 50 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -19 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "riche",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "potager",
+      "Plantation": "printemps, été",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Raiponce légume, Campanule raiponce, Rave sauvage, Bâton de Saint-Jacques",
+      "N. scientifique ": "Campanula rapunculus",
+      "Synonymes ": "Campanula calycina, Campanula glandulosa, Campanula castellena, Campanula verruculosa, Campanula elatior",
+      "Famille ": "Campanulacées",
+      "Origine ": "Europe Asie de l'Est, nord de l'Afrique",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   bleu clair "
+      ],
+      "Type": "plante vivace à vie brève ou bisannuelle",
+      "Végétation": "herbacée",
+      "Feuillage ": "persistant",
+      "Hauteur": "90 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre, ensoleillée "
+      ],
+      "Sol": "tolérante, mais préfère un sol riche",
+      "Acidité ": "moyennement acide à basique",
+      "Humidité ": "sec à frais",
+      "Utilisation": "massif, potager",
+      "Plantation": "automne, printemps",
+      "Multiplication": "semis, boutures"
+    },
+    {
+      "Nom": "Radis rose",
+      "N. scientifique ": "Raphanus sativus",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "Asie occidentale",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume",
+      "Végétation": "annuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 20 cm à plus d'un mètre pour le radis serpent",
+      "Rusticité ": "   gélif ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "léger, riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "rien à signaler dans de bonnes conditions de culture"
+    },
+    {
+      "Nom": "Radis noir, Radis d'Espagne, Radis d'hiver",
+      "N. scientifique ": "Raphanus sativus var. niger",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "incertaine, en Asie",
+      "Floraison": "mai",
+      "Fleurs ": [
+        "     ",
+        "   blanche "
+      ],
+      "Type": "légume racine",
+      "Végétation": "bisannuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "30 cm à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "limoneux, riche en nutriment",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal",
+      "Utilisation": "potager, plante médicinale",
+      "Plantation": "juin à août, voire septembre",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Poire de terre, Cochet, Yacon",
+      "N. scientifique ": "Smallanthus sonchifolius",
+      "Synonyme ": "Polymnia edulis",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Amérique du Sud",
+      "Floraison": "octobre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume racine",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "60 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, jusqu'à -5°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à basique",
+      "Humidité ": "assez frais",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "division, semis"
+    },
+    {
+      "Nom": "Persil tubéreux, Persil de Hambourg",
+      "N. scientifique ": "Petroselinum crispum var. tuberosum",
+      "Synonyme ": "Petroselinum sativum",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Asie occidentale",
+      "Floraison": "été",
+      "Fleurs ": "        blanc ",
+      "Type": "plante potagère",
+      "Végétation": "annuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "30 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "frais, léger, riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager, pot, jardinière",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Panais, Pastenade",
+      "N. scientifique ": "Pastinaca sativa",
+      "Synonyme ": "Peucedanum sativum",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Europe",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune d'or "
+      ],
+      "Type": "légume racine ancien",
+      "Végétation": "bisannuel",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 1 m",
+      "Toxicité": "racine comestible",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "ordinaire, riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis de mars à juin, ou à l'automne",
+      "Sensibilité ": "la rouille, l'oïdium"
+    },
+    {
+      "Nom": "Onagre bisannuelle, Oenothère bisannuelle, Jambon du jardinier, Herbes aux ânes",
+      "N. scientifique ": "Oenothera biennis",
+      "Famille ": "Onagracées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante ornementale, comestible, médicinale",
+      "Végétation": "bisannuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusquà 1 m 50",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "sablonneux",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, potager",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division, semis"
+    },
+    {
+      "Nom": "Navet",
+      "N. scientifique ": "Brassica napus",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "pourtout méditerranéen",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "vivace",
+      "Végétation": "bisannuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 50 à 150 cm",
+      "Toxicité": "racine charnue et feuillage comestible",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche en humus, léger",
+      "Acidité ": "normal",
+      "Humidité ": "frais",
+      "Utilisation": "potager en plein terre ou sous tunnel",
+      "Plantation": "semis au printemps ou en été",
+      "Multiplication": "semis",
+      "Taille": "pas de taille",
+      "Sensibilité ": "la mouche du navet, les limaces, le mildiou"
+    },
+    {
+      "Nom": "Guimauve, Mauve officinale",
+      "N. scientifique ": "Althaea officinalis",
+      "Synonyme ": "Malva officinalis",
+      "Famille ": "Malvacées",
+      "Floraison": "Europe, Asie occidentale",
+      "Fleurs ": [
+        "     ",
+        "   blanc rosé "
+      ],
+      "Type": "plante herbacée à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "argileux et humifère",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "ornementale et médicinale, comestible",
+      "Plantation": "printemps, automne",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Céleri rave, Céleri navet",
+      "N. scientifique ": "Apium graveolens var rapaceum",
+      "Synonyme ": "Apium lusitanicum",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Europe, Asie, variétés horticoles",
+      "Floraison": "juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume, plante potagère",
+      "Végétation": "bisanuuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "40 à 80 cm",
+      "Toxicité": "on utilise les feuilles, les tiges (ou côtes), les racines et les graines",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique jusqu'à -26 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "limono-argileux",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "frais à humide",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps sous chassis ou en plein air",
+      "Sensibilité ": "la mouche du céleri"
+    },
+    {
+      "Nom": "Carotte",
+      "N. scientifique ": "Daucus carota",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Bassin méditerranéen",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume",
+      "Végétation": "bisannuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 cm",
+      "Toxicité": "racine comestible",
+      "Rusticité ": "   gélive ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "profond, léger, riche en humus, frais",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis",
+      "Sensibilité ": "La mouche de la carotte, mildiou, ver blanc, les araignées rouges, les pucerons"
+    },
+    {
+      "Nom": "Betterave rouge",
+      "N. scientifique ": "Beta vulgaris var. rubra",
+      "Famille ": "Chénopodiacées",
+      "Origine ": "Europe du sud",
+      "Floraison": "juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume, feuillage décoratif",
+      "Végétation": "bisannuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "40 à 80 cm",
+      "Toxicité": "racine comestible crue ou cuite",
+      "Rusticité ": [
+        "  ",
+        "  -10°C, plante peu rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "argilo-sablonneux, drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal",
+      "Utilisation": "légume, plante potagère, colorant naturel",
+      "Plantation": "printemps",
+      "Multiplication": "semis en avril",
+      "Sensibilité ": "les pucerons, les vers blancs, les mouches de la betterave, le mildiou et la rouille"
+    },
+    {
+      "Nom": "Tournesol, Soleil",
+      "N. scientifique ": "Helianthus annuus",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "de juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   jaune, orange, rouge "
+      ],
+      "Type": "herbacée",
+      "Végétation": "annuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,80 à 2,5 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "ordinaire, profond, riche",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "frais à sec",
+      "Utilisation": "massif, fleur coupée, graines",
+      "Plantation": "printemps",
+      "Multiplication": "semis de mars à juin",
+      "Sensibilité ": "l'oïdium, le mildiou, les limaces"
+    },
+    {
+      "Nom": "Soja",
+      "N. scientifique ": "Glycine max",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Asie",
+      "Floraison": "août à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanc/rose "
+      ],
+      "Type": "herbacée",
+      "Végétation": "annuelle",
+      "Hauteur": "50 à 70 cm",
+      "Rusticité ": "   gélif ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "tolérant, supporte même la salinité",
+      "Acidité ": "tolérant",
+      "Humidité ": "normal",
+      "Utilisation": "légume sec ou frais, fourrage, biocarburant, huile,…",
+      "Plantation": "printemps",
+      "Multiplication": "semis",
+      "Taille": "limaces, mildiou"
+    },
+    {
+      "Nom": "Pois cultivé, Pois mange-tout, Pois gourmand",
+      "N. scientifique ": "Pisum sativum",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanche à violacée "
+      ],
+      "Type": "légume",
+      "Végétation": "annuel",
+      "Feuillage ": "persistant",
+      "Hauteur": "60 cm à 1,20 m",
+      "Toxicité": "graines comestibles",
+      "Rusticité ": "   rustique, -25 °C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "riche en humus, léger",
+      "Acidité ": "moyennement acide à très basique",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "février à avril",
+      "Multiplication": "semis",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "mildiou, rouille, oïdium, tordeuse du pois"
+    },
+    {
+      "Nom": "Pois chiche",
+      "N. scientifique ": "Pois chiche, Cicer arietinum",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "inconnu à l'état sauvage",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanche à violacée "
+      ],
+      "Type": "légume frais ou sec",
+      "Végétation": "annuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "60 cm à 1 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique jusqu'à - 25°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "graveleux, pauvre",
+      "Acidité ": "moyennement acide à très basique",
+      "Humidité ": "normal",
+      "Utilisation": "alimentation",
+      "Plantation": "printemps"
+    },
+    {
+      "Nom": "Pois asperge, Lotier pourpre",
+      "N. scientifique ": "Lotus tetragonolubus",
+      "Synonyme ": "Tetragonolobus purpureus",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Europe, Afrique du nord",
+      "Floraison": "avril à juin",
+      "Fleurs ": [
+        "     ",
+        "   rouge "
+      ],
+      "Type": "légume frais",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "40 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -9°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "limoneux, assez riche",
+      "Acidité ": "neutre à légèrement basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "alimentation",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Moutarde noire, Sénevé noir",
+      "N. scientifique ": "Brassica nigra",
+      "Synonyme ": "Synapis nigra",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "bassin méditerranéen",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume, condimentaire, médicinale, engrais vert",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "80 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -10°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "argilo-limoneux à sablonneux",
+      "Acidité ": "acide à légèrement basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "potager, plante médicinale",
+      "Plantation": "semis en avril, août, septembre",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Maïs",
+      "N. scientifique ": "Zea mays",
+      "Famille ": "Poacées, Graminées",
+      "Origine ": "Amérique centrale",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   gris "
+      ],
+      "Type": "légume",
+      "Végétation": "annuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 2,50 m",
+      "Rusticité ": "   gélif ",
+      "Exposition ": [
+        "  ",
+        "  plain soleil "
+      ],
+      "Sol": "très riche, profond, sableux",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis en mai",
+      "Sensibilité ": "la mouche du maïs, le charbon du maïs"
+    },
+    {
+      "Nom": "Lupin jaune, Faux-café",
+      "N. scientifique ": "Lupinus luteus",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Espagne, Portugal, Iles méditerranéennes, Afrique du nord",
+      "Floraison": "juin à juillet",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante utile  et ornementale",
+      "Végétation": "annuelle",
+      "Feuillage ": "sans objet",
+      "Hauteur": "30 à 80 cm",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, jusqu'à -4 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "argileux, limoneux ou sablonneux",
+      "Acidité ": "très acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "potager, prairie fleurie, sol pauvre, engrais vert, légume sec,  jardin parfumé",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Lupin blanc",
+      "N. scientifique ": "Lupinus albus",
+      "Synonymes ": "Lupinus sativus, Lupinus termis",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Europe du Sud, Asie",
+      "Floraison": "juin à juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante utile, un peu ornementale",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,90 à 1,20 m",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, jusqu'à -4 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "argileux, limoneux ou sablonneux",
+      "Acidité ": "très acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "potager, prairie fleurie, sol pauvre, engrais vert, légume sec, plante médicinale",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Lentille",
+      "N. scientifique ": "Lens culinaris",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "pourtour méditerranéen",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanche, bleutée "
+      ],
+      "Type": "plante potagère",
+      "Végétation": "vivace cultivée en annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 30 à 70 cm",
+      "Rusticité ": "   peu rustique, -5 °c ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "Léger à tendance calcaire",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis au chaud au printemps"
+    },
+    {
+      "Nom": "Haricot de Lima, Haricot du Cap, Pois du Cap",
+      "N. scientifique ": "Phaseolus lunatus",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Amérique du Sud",
+      "Floraison": "été, automne",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante grimpante, ou buissonnante naine",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "3 à 4 m",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, -2 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "drainant et pauvre en azote",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Haricot commun",
+      "N. scientifique ": "Phaseolus vulgaris",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Amérique du sud",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume",
+      "Végétation": "annuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 50 cm à 3 m selon les variétés",
+      "Rusticité ": "   non rustique ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "léger, sableux, riche en humus",
+      "Acidité ": "neutre, pas calcaire",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis en avril-mai",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "la rouille, le botrytis, l'anthracnose, les pucerons, la bruche, les acariens"
+    },
+    {
+      "Nom": "Fève",
+      "N. scientifique ": "Vicia faba",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Asie et du Moyen-Orient",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume frais ou sec",
+      "Végétation": "annuelle",
+      "Feuillage ": "semi grimpant caduc",
+      "Hauteur": "50 à 70 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "tolérant, supporte la salinité",
+      "Acidité ": "tolérant",
+      "Humidité ": "normal",
+      "Utilisation": "potager, alimentation, fourrage",
+      "Plantation": "automne ou printemps",
+      "Multiplication": "semis",
+      "Sensibilité ": "pucerons"
+    },
+    {
+      "Nom": "Tomate en arbre, Tamarillo",
+      "N. scientifique ": "Solanum betaceum",
+      "Synonyme ": "Cyphomandra betacea",
+      "Famille ": "Solanacées",
+      "Origine ": "Amérique Centrale",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 4 à 5 m",
+      "Toxicité": "fruits immatures et feuillage toxiques",
+      "Rusticité ": "   gélive à -3,0 °C ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche en humus, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "serre froide, véranda, pot",
+      "Plantation": "printemps",
+      "Multiplication": "semis, bouturage "
+    },
+    {
+      "Nom": "Tomate",
+      "N. scientifique ": "Solanum lycopersicum",
+      "Synonymes ": "Lycopersicon esculentum, Lycopersicon pomumamoris, Lycopersicon lycopersicum",
+      "Famille ": "Solanacées",
+      "Origine ": "Pérou",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume",
+      "Végétation": "annuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 2,5 m",
+      "Toxicité": "feuillage toxique",
+      "Rusticité ": "   gélif ",
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis, bouturage au printemps",
+      "Sensibilité ": "le mildiou, les pucerons, les doryphores"
+    },
+    {
+      "Nom": "Potiron, Potimarron",
+      "N. scientifique ": "Cucurbita maxima",
+      "Famille ": "Cucurbitacées",
+      "Origine ": "Amérique du sud",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   orange à rouge "
+      ],
+      "Type": "légume",
+      "Végétation": "annuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "hauteur 50 cm, mais rampe de 5 à 8 m",
+      "Toxicité": "fruits comestibles",
+      "Rusticité ": "   non rustique, 2 °C ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "très riche en humus, culture sur fumier possible",
+      "Acidité ": "tolérant",
+      "Humidité ": "normal à frais",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis en mars-avril sous abri ou en avril-mai en place",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "l'oïdium"
+    },
+    {
+      "Nom": "Poivron, Piment",
+      "N. scientifique ": "Capsicum annuum",
+      "Famille ": "Solanacées",
+      "Origine ": "Amérique centrale",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume",
+      "Végétation": "annuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "80 cm",
+      "Toxicité": "Gare aux piments forts",
+      "Rusticité ": "   gélive ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis en mars",
+      "Sensibilité ": "le mildiou, les pucerons, les acariens"
+    },
+    {
+      "Nom": "Pâtisson, Bonnet de prêtre",
+      "N. scientifique ": "Cucurbita maxima var. ovifera",
+      "Famille ": "Cucurbitacées",
+      "Origine ": "Amérique du sud",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume",
+      "Végétation": "annuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "peu rampante",
+      "Toxicité": "fruits comestibles",
+      "Rusticité ": "   non rustique ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "très riche en humus, culture sur fumier possible",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis en mars-avril sous abri ou en avril-mai en place",
+      "Sensibilité ": "l'oïdium, les limaces"
+    },
+    {
+      "Nom": "Pastèque, Melon d'eau",
+      "N. scientifique ": "Citrullus lanatus",
+      "Synonymes ": "Cucumis citrullus, Citrullus vulgaris, Colocynthis citrullus",
+      "Famille ": "Cucurbitacées",
+      "Origine ": "Sud de l'afrique",
+      "Floraison": "mai, juin",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "fruit",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "développement horizontal sur plusieurs mètres",
+      "Rusticité ": "   non rustique, plante annuelle ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "très riche en humus, bien drainé",
+      "Acidité ": "normal",
+      "Humidité ": "normal à frais",
+      "Utilisation": "potager",
+      "Plantation": "au printemps",
+      "Multiplication": "semis au chaud à 20°C au printemps",
+      "Sensibilité ": "aleurodes, pucerons"
+    },
+    {
+      "Nom": "Okra, Gombo",
+      "N. scientifique ": "Abelmoschus esculentus",
+      "Synonymes ": "Hibiscus praecox, Hibiscus esculentus",
+      "Famille ": "Malvacées",
+      "Origine ": "Afrique de l'Ouest",
+      "Floraison": "juillet, août, septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante potagère cultivée pour ses fruits, ses graines, ses pousses",
+      "Végétation": "annuelle",
+      "Feuillage ": "sans objet",
+      "Hauteur": "1,50 à 3 m ",
+      "Rusticité ": "   non rustique, 2 °C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "riche et profond",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "potager, serre",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Melon amer, Margose, Pomme de merveille",
+      "N. scientifique ": "Momordica charantia",
+      "Famille ": "Cucurbitacées",
+      "Origine ": "Afrique",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "herbacée grimpante ou coureuse",
+      "Végétation": "annuelle ou bisannuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "1 à 4 m",
+      "Rusticité ": "   non rustique, 2 °C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "drainant, riche et profond",
+      "Acidité ": "moyennement acide à légèrement basique",
+      "Humidité ": "normal, pas trop humide",
+      "Utilisation": "légume aux vertus thérapeutiques",
+      "Plantation": "printemps"
+    },
+    {
+      "Nom": "Melon",
+      "N. scientifique ": "Cucumis melo",
+      "Famille ": "Cucurbitacées",
+      "Origine ": "Inde",
+      "Floraison": "de juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume",
+      "Végétation": "annuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "20 cm",
+      "Toxicité": "fruits comestibles",
+      "Rusticité ": "   gélif ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche en humus, culture sur fumier",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "avril à l'abri",
+      "Multiplication": "semis a 20°C",
+      "Sensibilité ": "oïdium (ne mouillez pas le feuillage lors des arrosages)"
+    },
+    {
+      "Nom": "Gigérine, Pastèque à confiture, Citre, Courge Barbarine",
+      "N. scientifique ": "Citrullus lanatus var. citroides",
+      "Synonymes ": "Citrullus amarus, Citrullus caffer",
+      "Famille ": "Cucurbitacées",
+      "Origine ": "Afrique",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume-fruit",
+      "Végétation": "herbacée grimpante ou coureuse, annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "espacer de 1 m",
+      "Rusticité ": "   non rustique, 2 °C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "drainant, riche et profond",
+      "Acidité ": "moyennement acide à légèrement basique",
+      "Humidité ": "normal",
+      "Utilisation": "confiture, gelée, fruits confits",
+      "Plantation": "printemps"
+    },
+    {
+      "Nom": "Cyclanthère, Achocha",
+      "N. scientifique ": "Cyclanthera pedata",
+      "Famille ": "Cucurbitacées",
+      "Origine ": "Amérique centrale et du Sud",
+      "Floraison": "fin juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "annuelle",
+      "Feuillage ": "sans objet",
+      "Hauteur": "2 à 5 m",
+      "Rusticité ": "   2 °C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "riche",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "légume",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Courge, Courgette",
+      "N. scientifique ": "Cucurbita pepo",
+      "Famille ": "Cucurbitacées",
+      "Origine ": "Amérique du nord et centrale",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune d'or "
+      ],
+      "Type": "légume",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "hauteur 50 cm, mais rampe de 5 à 8 m",
+      "Toxicité": "fruits comestibles",
+      "Rusticité ": "   gélive ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "profond, riche et meuble",
+      "Acidité ": "tolérant",
+      "Humidité ": "frais",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis en mars-avril sous abri ou en place en mai",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "oïdium (fongicide à base de souffre)"
+    },
+    {
+      "Nom": "Courge musquée",
+      "N. scientifique ": "Cucurbita moschata",
+      "Famille ": "Cucurbitacées",
+      "Origine ": "Amérique du nord,  centrale, du sud",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "rampe ou grimpe sur 5 m",
+      "Rusticité ": "   2°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "riche et profond",
+      "Acidité ": "acide",
+      "Humidité ": "normal à frais",
+      "Utilisation": "potager",
+      "Plantation": "printemps"
+    },
+    {
+      "Nom": "Concombre, Cornichon",
+      "N. scientifique ": "Cucumis sativus",
+      "Famille ": "Cucurbitacées",
+      "Origine ": "Asie",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume",
+      "Végétation": "annuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "20 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  10°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche en humus, culture sur fumier",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis",
+      "Sensibilité ": "oïdium, araignées rouges"
+    },
+    {
+      "Nom": "Concombre à confire, Cucamelon",
+      "N. scientifique ": "Melothria scabra",
+      "Famille ": "Cucurbitacées",
+      "Origine ": "Amérique centrale",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "herbacée grimpante ou coureuse, légume",
+      "Végétation": "vivace cultivée en annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "2,50 m",
+      "Rusticité ": "   non rustique, 2°C mini ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "riche et profond",
+      "Acidité ": "moyennement acide à légèrement basique",
+      "Humidité ": "normal à un peu frais",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Citrouille",
+      "N. scientifique ": "Cucurbita pepo ssp.pepo",
+      "Famille ": "Cucurbitacées",
+      "Origine ": "Amérique du nord et centrale",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "hauteur 50 cm, mais rampe de 5 à 8 m",
+      "Rusticité ": "   non rustique, 2 °C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "profond et meuble",
+      "Acidité ": "tolérant",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps, récolte en été, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Avocatier (Avocat)",
+      "N. scientifique ": "Persea americana",
+      "Synonymes ": "Laurus perseu, Persea rubigena",
+      "Famille ": "Lauracées",
+      "Origine ": "Amérique centrale",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   jaune-vert "
+      ],
+      "Type": "arbre fruitier subtropical",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "7 à 20 m",
+      "Toxicité": "fruit comestible riche en matières grasses et en vitamines C, E et B",
+      "Rusticité ": "   4°C minimum ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "bien drainé",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal",
+      "Utilisation": "pleine terre dans le Midi de la France et en Corse, serre, véranda, plante d'intérieur",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps, le greffage pratiqué par les professionnels"
+    },
+    {
+      "Nom": "Aubergine plante à oeuf",
+      "N. scientifique ": "Solanum melongena 'Blanche Ronde à oeuf'",
+      "Famille ": "Solanacées",
+      "Origine ": "Afrique du Nord",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   violette "
+      ],
+      "Type": "plante potagère horticole",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "50 à 120 cm",
+      "Rusticité ": "   non rustique, 2°C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "humifère, riche ",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal",
+      "Utilisation": "légume",
+      "Plantation": "semis"
+    },
+    {
+      "Nom": "Aubergine africaine, Aubergine écarlate, Tomate amère",
+      "N. scientifique ": "Solanum aethiopicum",
+      "Synonymes ": "Solanum gilo, Solanum incanum",
+      "Famille ": "Solanacées",
+      "Origine ": "Afrique",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   violette, blanche, rose "
+      ],
+      "Type": "plante potagère horticole",
+      "Végétation": "plante vivace cultivée comme une annuelle",
+      "Feuillage ": "persistant en climat doux",
+      "Hauteur": "120 à 200 cm",
+      "Rusticité ": "   non rustique, 2°C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "humifère, riche",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal sans excès",
+      "Utilisation": "légume fruit et feuille, plante médicinale",
+      "Plantation": "printemps",
+      "Multiplication": "semis, bouture"
+    },
+    {
+      "Nom": "Aubergine",
+      "N. scientifique ": "Solanum melongena",
+      "Famille ": "Solanacées",
+      "Origine ": "Inde, Afrique du nord",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   blanc violacé "
+      ],
+      "Type": "légume",
+      "Végétation": "vivace cultivée en annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 80 cm à 1.50 m",
+      "Toxicité": " feuillage toxique, fruits comestibles",
+      "Rusticité ": "   gélive, 2°C ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "frais, profond, riche en humus",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis en mars à l'abri en godet",
+      "Taille": "pas de taille",
+      "Sensibilité ": "le mildiou, l'oïdium, les doryphores, les pucerons, les araignées rouges"
+    },
+    {
+      "Nom": "Ornithogale des Pyrénées, Aspergette comestible",
+      "N. scientifique ": "Ornithogalum pyrenaicum",
+      "Synonyme ": "Loncomelos pyrenaicus",
+      "Famille ": "Asparagacées",
+      "Origine ": "France, Europe de l'Ouest",
+      "Floraison": "mai à juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanc ou jaunâtre "
+      ],
+      "Type": "plante à bulbe",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "40 à 100  cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -19 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre ou ombre "
+      ],
+      "Sol": "riche, limon ou argile",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "frais",
+      "Utilisation": "sous-bois, zone semi-ombragée, espèce sauvage comestible",
+      "Plantation": "automne",
+      "Multiplication": "division, semis"
+    },
+    {
+      "Nom": "Hémérocalle Buttercup Palace, Lis d'un jour comestible",
+      "N. scientifique ": "Hemerocallis 'Buttercup Palace'",
+      "Famille ": "Liliacées",
+      "Origine ": "horticole",
+      "Floraison": "juin à juillet",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "vivace rhizomateuse",
+      "Feuillage ": "caduc",
+      "Hauteur": "40 cm à 60 cm",
+      "Rusticité ": "   très rustique, -29 °C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "riche",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "massif, plante comestible, permaculture",
+      "Sensibilité ": "cécidomyies"
+    },
+    {
+      "Nom": "Chou pommé",
+      "N. scientifique ": "Brassica oleracea var. botrytis",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "Belgique",
+      "Floraison": "été",
+      "Fleurs ": "        blanc à vert ",
+      "Type": "légume",
+      "Végétation": "bisannuel",
+      "Feuillage ": "persistant",
+      "Hauteur": "60 cm",
+      "Toxicité": "les petites pommes sont comestibles",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche en humus, argilo-calcaire",
+      "Acidité ": "neutre à légèrement acide",
+      "Humidité ": "frais",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis de février à juin",
+      "Sensibilité ": "la hernie du chou, la piéride, l'altise, la rouille, le mildiou"
+    },
+    {
+      "Nom": "Chou de Bruxelles",
+      "N. scientifique ": "Brassica oleracea var. gemmifera",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "Belgique",
+      "Floraison": "été",
+      "Fleurs ": "        vert ",
+      "Type": "légume",
+      "Végétation": "bisannuel",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 1,20 m",
+      "Toxicité": "les petites pommes sont comestibles",
+      "Rusticité ": "   rustique ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche en humus, argilo-calcaire",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis de mars à juin",
+      "Sensibilité ": "la hernie du chou, la piéride, l'altise, la rouille, le mildiou"
+    },
+    {
+      "Nom": "Chou",
+      "N. scientifique ": "Brassica oleracea",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "Europe",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume, feuillage décoratif",
+      "Végétation": "bisannuel",
+      "Feuillage ": "persistant",
+      "Hauteur": "variable en fonction des variétés",
+      "Toxicité": "tout se mange dans le chou",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche en humus, argileux",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "légume, feuillage décoratif",
+      "Plantation": "printemps, été, automne",
+      "Multiplication": "semis",
+      "Sensibilité ": "Altises, piérides du chou, hernies du chou"
+    },
+    {
+      "Nom": "Artichaut",
+      "N. scientifique ": "Cynara scolymus",
+      "Synonyme ": "Cynara cardunculus var scolymus",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "n'existe pas à l'état naturel, variante de Cynara cardunculus, horticole",
+      "Floraison": "août à septembre",
+      "Fleurs ": [
+        "     ",
+        "   pourpre violacée "
+      ],
+      "Type": "légume ancien",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1,20 à 2 m",
+      "Toxicité": "les capitules sont comestibles, les feuilles peuvent être utilisées en infusion",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -10 °C à -12 °C, plante de climat doux qui doit être protégée en buttant le pied et en liant les feuilles ensembles pour protéger le coeur "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "tolérant, même en sol lourd",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "alimentaire, ornementale, médicinale",
+      "Plantation": "automne, printemps",
+      "Multiplication": "semis (donne bien souvent des plantes épineuses), oeilletonnage en avril",
+      "Sensibilité ": "taches foliaires, pucerons, limaces"
+    },
+    {
+      "Nom": "Tétragone cornue, Epinard de Nouvelle-Zélande",
+      "N. scientifique ": "Tetragonia tetragonioides",
+      "Synonymes ": "Demidovia tetragonioides, Tetragonia expansa",
+      "Famille ": "Aizoacées",
+      "Origine ": "Nouvelle-Zélande, Japon, Australie",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume",
+      "Végétation": "annuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "40 à 60 cm",
+      "Toxicité": "feuilles comestibles",
+      "Rusticité ": "   gélive ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "normal, drainant",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis",
+      "Sensibilité ": "limaces au démarrage du semis, pourriture"
+    },
+    {
+      "Nom": "Roquette",
+      "N. scientifique ": "Eruca sativa",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "Europe, Asie, Afrique, Méditerranée",
+      "Floraison": "mai à août",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "50 à 80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillé à mi-ombre "
+      ],
+      "Sol": "normal à riche",
+      "Acidité ": "basique",
+      "Humidité ": "normal",
+      "Utilisation": "salade, mesclun, condiment",
+      "Plantation": "printemps",
+      "Multiplication": "par les graines uniquement"
+    },
+    {
+      "Nom": "Pourpier potager",
+      "N. scientifique ": "Portulaca oleracea",
+      "Famille ": "Portulacacées",
+      "Origine ": "toute région au climat tempéré chaud",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante comestible, plante médicinale",
+      "Végétation": "annuelle",
+      "Feuillage ": "feuilles succulentes",
+      "Hauteur": "10 à 30 cm",
+      "Rusticité ": "   non rustique, mini de 0°C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "drainant, sablonneux",
+      "Acidité ": "tolérant",
+      "Humidité ": "frais à normal",
+      "Utilisation": "potager, jardinière",
+      "Plantation": "printemps",
+      "Multiplication": "semis",
+      "Sensibilité ": "pucerons"
+    },
+    {
+      "Nom": "Poireau perpétuel, Poireau vivace",
+      "N. scientifique ": "Allium ampeloprasum",
+      "Famille ": "Amaryllidacées",
+      "Origine ": "Europe méridionale, Afrique du Nord",
+      "Floraison": "printemps",
+      "Type": "bulbe",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 50 à 100 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -25°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "plutôt riche, meuble et bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "de la mi-aout à la fin du mois de septembre",
+      "Multiplication": "séparation des bulbilles, semis"
+    },
+    {
+      "Nom": "Poireau",
+      "N. scientifique ": "Allium porrum",
+      "Famille ": "Amaryllidacées",
+      "Origine ": "Asie centrale",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume",
+      "Végétation": "annuel",
+      "Feuillage ": "persistant",
+      "Hauteur": "80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique pour les poireaux d'hiver "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "meuble, frais, riche en humus bien décomposé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis en février-mars",
+      "Sensibilité ": "la rouille, le mildiou, la teigne ou ver du poireau, la mouche de l'oignon, la mouche mineuse du poireau"
+    },
+    {
+      "Nom": "Pissenlit, Dent de Lion",
+      "N. scientifique ": "Taraxacum officinale, Taraxacum dens leonis",
+      "Synonyme ": " Taraxacum dens leonis",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Europe du nord",
+      "Floraison": "de mars à novembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "mauvaise herbe, adventice",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 50 cm",
+      "Toxicité": "tout est comestible",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "frais, normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis s'effectue de mars à fin juin",
+      "Taille": "coupez les fleurs",
+      "Sensibilité ": "l'oïdium"
+    },
+    {
+      "Nom": "Patience, Oseille épinard, Epinard perpétuel",
+      "N. scientifique ": "Rumex patienta",
+      "Famille ": "Polygonacées",
+      "Origine ": "Europe",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   vert-rouge "
+      ],
+      "Type": "légume feuille",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 40 cm",
+      "Toxicité": "feuilles consommables",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "ordinaire, lourd, argileux, riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis ou division de la touffe au printemps",
+      "Taille": "pas de taille",
+      "Sensibilité ": "les limaces"
+    },
+    {
+      "Nom": "Oseille commune",
+      "N. scientifique ": "Rumex acetosa",
+      "Famille ": "Polygonacées",
+      "Origine ": "Europe",
+      "Floraison": "été",
+      "Fleurs ": "        vert-rouge ",
+      "Type": "légume feuille",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 20 cm",
+      "Toxicité": "feuilles consommables",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "ordinaire, lourd, argileux, riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis ou division de la touffe au printemps",
+      "Taille": "pas de taille",
+      "Sensibilité ": "les limaces"
+    },
+    {
+      "Nom": "Ortie dioïque, Grande ortie",
+      "N. scientifique ": "Urtica dioica",
+      "Famille ": "Urticacées",
+      "Origine ": "Europe",
+      "Floraison": "printemps et automne",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "mauvaise herbe",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "juqu'à 120 cm",
+      "Toxicité": "comestible",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "ordinaire, apprécie tout particulièrement les sols azotés",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "adventice",
+      "Plantation": "automne, printemps",
+      "Multiplication": "division du rhizome",
+      "Taille": "l'ortie est très envahissante et très difficile à éliminer",
+      "Sensibilité ": "la cuscute d'Europe, les chenilles"
+    },
+    {
+      "Nom": "Mertensie maritime, Huître potagère, Huître végétale, Sanguine de mer",
+      "N. scientifique ": "Mertensia maritima",
+      "Synonyme ": "Mertensia pulmanarioides",
+      "Famille ": "Boraginacées, Borraginacées, Boragacées",
+      "Origine ": "Europe",
+      "Floraison": "mai",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "herbacées",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "40 à 60 cm",
+      "Toxicité": "fleurs et feuilles comestibles",
+      "Rusticité ": "   très rustique, -34°C ",
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "sol sablonneux",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "frais mais drainé",
+      "Utilisation": "potée",
+      "Plantation": "printemps",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Mâche, Doucette",
+      "N. scientifique ": "Valerianella locusta",
+      "Synonyme ": "Valeriana locusta var. olitoria",
+      "Famille ": "Valérianacées",
+      "Origine ": "Hémisphère nord",
+      "Floraison": "printemps",
+      "Fleurs ": "        blanc ",
+      "Type": "légume",
+      "Végétation": "annuel",
+      "Feuillage ": "persistant",
+      "Hauteur": "10 cm",
+      "Toxicité": "comestible",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "ordinaire, légèrement argileux",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "potager",
+      "Plantation": "semis en août pour une récolte en automne",
+      "Multiplication": "semis",
+      "Taille": "pas de taille",
+      "Sensibilité ": "l'oïdium, le mildiou"
+    },
+    {
+      "Nom": "Maceron, Gros persil de Macédoine",
+      "N. scientifique ": "Smyrnium olusatrum",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Europe méridionale, Asie, Afrique du nord",
+      "Floraison": "mai à juillet",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   jaune-vert "
+      ],
+      "Type": "plante herbacée",
+      "Végétation": "bisannuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "60 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "pas trop compact",
+      "Acidité ": "neutre à  basique",
+      "Humidité ": "assez frais",
+      "Utilisation": "légume ancien, plante potagère",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Maceron perfolié, Maceron de Crêtes",
+      "N. scientifique ": "Smyrnium perfoliatum",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Europe méridionale",
+      "Floraison": "mai à juillet",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   jaune-vert "
+      ],
+      "Type": " plante herbacée",
+      "Végétation": "bisannuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "30 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "pas trop compact",
+      "Acidité ": "neutre à  basique",
+      "Humidité ": "assez frais",
+      "Utilisation": "légume ancien, plante potagère, espèce indigène",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Laitue",
+      "N. scientifique ": "Lactuca sativa",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "plante cultivée",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume",
+      "Végétation": "annuelle ou bisannuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "50 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  plus ou moins rustiques selon les variétés "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "moyen, riche et drainant",
+      "Acidité ": "un peu acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "potager, légume-feuille, légume-tige salade, parfois évadée des jardins sur les friches, bords des chemin",
+      "Plantation": "printemps",
+      "Multiplication": "semis",
+      "Sensibilité ": "la fonte des semis, le mildiou, le botrytis, les limaces, les pucerons"
+    },
+    {
+      "Nom": "Grand cerfeuil sauvage, Cerfeuil musqué, Cerfeuil perpétuel, Myrrhis odorante, Fougère musquée",
+      "N. scientifique ": "Myrrhis odorata",
+      "Synonyme ": "Chaerophylum odoratum",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Europe",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "50 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -19 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "sol riche, limoneux, argileux ou graveleux",
+      "Acidité ": "neutre à légèrement basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "plante aromatique condimentaire, médicinale, potagère",
+      "Plantation": "printemps, été",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Fenouil commun",
+      "N. scientifique ": "Foeniculum vulgare",
+      "Synonyme ": "Foeniculum officinale",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Europe du sud",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "légume, aromate",
+      "Végétation": "vivace, bisannuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 2,50 m",
+      "Toxicité": "bulbe, graines, tiges et feuilles sont comestibles et ont un goût anisé",
+      "Rusticité ": "   non rustique ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche en humus, léger, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "potager, massif",
+      "Plantation": "printemps",
+      "Multiplication": "semis en place d'avril à juin",
+      "Sensibilité ": "la mouche de la carotte, les limaces"
+    },
+    {
+      "Nom": "Épinard vivace grimpant, Épinard du Caucase",
+      "N. scientifique ": "Hablitzia tamnoides",
+      "Famille ": "Amaranthacées",
+      "Origine ": "Caucase",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   vert-jaune "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "2 à 4 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -39°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre à ombre claire "
+      ],
+      "Sol": "riche et  humifère",
+      "Acidité ": "acide à légèrement basique",
+      "Humidité ": "normal",
+      "Utilisation": "légume ancien, feuillage ornemental, permaculture",
+      "Plantation": "printemps",
+      "Multiplication": "semis, bouture de racine, marcotte"
+    },
+    {
+      "Nom": "Epinard fraise",
+      "N. scientifique ": "Chenopodium capitatum",
+      "Synonyme ": "Blitis capitata",
+      "Famille ": "Chénopodiacées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanchâtre "
+      ],
+      "Type": "plante herbacée",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 100 cm",
+      "Rusticité ": "   croissance en dehors des périodes de gel ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "normal",
+      "Utilisation": "plante potagère, fruits, colorant naturel",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps"
+    },
+    {
+      "Nom": "Epinard",
+      "N. scientifique ": "Spinacia oleracea",
+      "Famille ": "Chénopodiacées",
+      "Origine ": "Iran",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "légume",
+      "Végétation": "annuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  selon les variétés "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche, à tendance argileuse",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps ou en septembre",
+      "Sensibilité ": "le mildiou, la pourriture"
+    },
+    {
+      "Nom": "Endive, Chicorée de Bruxelles, Chicon",
+      "N. scientifique ": "Chichorium intybus",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "obtention",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   bleu clair "
+      ],
+      "Type": "plante potagère",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "30 cm",
+      "Toxicité": "feuilles comestibles",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis d'avril à juin",
+      "Taille": "pas de taille",
+      "Sensibilité ": "la mouche de l'endive"
+    },
+    {
+      "Nom": "Cresson de fontaine",
+      "N. scientifique ": "Nasturtium officinale",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "Europe",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "50 cm",
+      "Toxicité": "comestible, évitez toutefois de récolter du cresson sauvage surtout lorsqu'il provient d'eaux stagnantes. Le cresson est parasité par un parasite qui provoque le dérèglements du foie.",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "riche",
+      "Acidité ": "neutre",
+      "Humidité ": "humide",
+      "Utilisation": "cressonnière",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps",
+      "Sensibilité ": "résistant aux maladies"
+    },
+    {
+      "Nom": "Cresson alénois, Cressonette, Passerage cultivée",
+      "N. scientifique ": "Lepidium sativum",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "Asie, Afrique du nord",
+      "Floraison": "juillet, août",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "20 à 50 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -12 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "normal à riche",
+      "Acidité ": "basique",
+      "Humidité ": "normal",
+      "Utilisation": "salade, mesclun, graines germées",
+      "Plantation": "semis de mars à octobre",
+      "Multiplication": "par les graines uniquement"
+    },
+    {
+      "Nom": "Consoude officinale, Grande consoude, Herbe à la coupure",
+      "N. scientifique ": "Symphytum officinale",
+      "Famille ": "Boraginacées, Borraginacées, Boragacées",
+      "Origine ": "Europe, Sibérie orientale",
+      "Floraison": "mai à août",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   rose, violet, blanc, bleu, jaune "
+      ],
+      "Type": "légume",
+      "Végétation": "vivace herbacées",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 120 cm",
+      "Toxicité": " Certains magazine indiquent que les feuilles \"seraient\" comestibles, cependant certains organismes nationaux recommande de ne pas la consommer. Donc dans le doute, s'abstenir.",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -34°C, très rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre à plein soleil "
+      ],
+      "Sol": "sol riche, argileux à sablonneux",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "frais à humide",
+      "Utilisation": "potager, zones humides ensoleillées, bas des haies, sous-bois",
+      "Plantation": "printemps, automne",
+      "Multiplication": "divisions, semis, boutures de racines",
+      "Taille": "pas de taille nécessaire"
+    },
+    {
+      "Nom": "Claytone de Cuba, Pourpier d'hiver, Claytonia perfoliée",
+      "N. scientifique ": "Claytonia perfoliata",
+      "Synonyme ": "Montia perfoliata",
+      "Famille ": "Portulacacées",
+      "Origine ": "Amérique du nord, Amérique centrale",
+      "Floraison": "de juillet à décembre",
+      "Fleurs ": [
+        "     ",
+        "   blanc à rose "
+      ],
+      "Type": "herbacée",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "10 à 40 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique jusqu'à -28 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "riche à assez pauvre",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "frais à humide",
+      "Utilisation": "plante comestible, salade, légume",
+      "Plantation": "printemps, été, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Chou pommé, Chou cabus",
+      "N. scientifique ": "Brassica oleracea var. capitata",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "Europe",
+      "Floraison": "été",
+      "Fleurs ": "        vert ",
+      "Type": "légume",
+      "Végétation": "bisannuel",
+      "Feuillage ": "persistant",
+      "Hauteur": "60 cm",
+      "Toxicité": "les feuilles sont comestibles",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche en humus, argilo-calcaire",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis de mars à novembre",
+      "Sensibilité ": "la hernie du chou, la piéride, l'altise, la rouille, le mildiou"
+    },
+    {
+      "Nom": "Chou marin, Crambe maritime",
+      "N. scientifique ": "Crambe maritima",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "littoral de la Baltique, de la Manche et de l'Atlantique",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "légume",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 70cm",
+      "Toxicité": "toutes les parties sont comestibles",
+      "Rusticité ": "   rustique, -20°C ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "léger, bien drainé",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à sec",
+      "Plantation": "printemps",
+      "Multiplication": "semis, division de souches ou de racines"
+    },
+    {
+      "Nom": "Chou de Daubenton, Chou frisé perpétuel de Daubenton",
+      "N. scientifique ": "Brassica oleracea var ramosa 'Daubenton'",
+      "Famille ": "Brassicacées, Crucifères",
+      "Origine ": "horticole",
+      "Floraison": "floraison rare",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante potagère",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -15 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre légère "
+      ],
+      "Sol": "riche et frais",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal",
+      "Utilisation": "potager, massif",
+      "Plantation": "printemps",
+      "Multiplication": "bouture"
+    },
+    {
+      "Nom": "Chirorée endive, Chicorée frisée",
+      "N. scientifique ": "Cichorium endivia var. crispum",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Europe, Asie",
+      "Espèces proches": "Cichorium endivia",
+      "Floraison": "juillet",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "plante potagère",
+      "Végétation": "annuelle ou bisannuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 à 100 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -20°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à très basique",
+      "Humidité ": "normal",
+      "Utilisation": "salade d'été et d'automne",
+      "Multiplication": "par les graines uniquement"
+    },
+    {
+      "Nom": "Céleri feuille, Céleri asiatique, Céleri à couper",
+      "N. scientifique ": "Apium graveolens var secalinum",
+      "Synonyme ": "Apium lusitanicum",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Europe, Asie, variétés horticoles",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante herbacée",
+      "Végétation": "bisannuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "60 cm en fleur",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "limono-argileux",
+      "Acidité ": "très acide à très basique",
+      "Humidité ": "frais à humide",
+      "Utilisation": "légume, plante potagère",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Arroche des jardins, Epinard géant, Faux épinard",
+      "N. scientifique ": "Atriplex hortensis",
+      "Famille ": "Chénopodiacées",
+      "Origine ": "Asie",
+      "Floraison": "de juillet à décembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   verdâtre, rouge "
+      ],
+      "Type": "herbacée",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "entre 30 et 180 cm",
+      "Rusticité ": "   graines résistantes au froid jusqu'à -28 °C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "riche",
+      "Acidité ": "acide à moyennement basique",
+      "Humidité ": "frais à humide",
+      "Utilisation": "plante comestible et ornementale, permaculture",
+      "Plantation": "semis"
+    },
+    {
+      "Nom": "Amarante tête d'éléphant, Epinard chinois",
+      "N. scientifique ": "Amaranthus tricolor",
+      "Famille ": "Amaranthacées",
+      "Origine ": "Asie",
+      "Floraison": "de juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   panicules rouges "
+      ],
+      "Type": "fleurs, plante potagère",
+      "Végétation": "annuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 1 à 1,3 m",
+      "Toxicité": "les feuilles sont comestibles et consommées couramment en Chine",
+      "Rusticité ": "   plante gélive ",
+      "Exposition ": [
+        "  ",
+        "  plein soleil, à l'abri du vent "
+      ],
+      "Sol": "riche en humus, profond",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif, potager",
+      "Plantation": "printemps",
+      "Multiplication": "semis au chaud en avril et repiquage en mai",
+      "Taille": "pas de taille",
+      "Sensibilité ": "les pucerons"
+    },
+    {
+      "Nom": "Amarante blette, Amarante pourpre",
+      "N. scientifique ": "Amaranthus blitum",
+      "Synonymes ": "Amarantus blitum, Albersia blitum, Amaranthus lividus",
+      "Famille ": "Amaranthacées",
+      "Origine ": "Europe, Asie, Afrique",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   vert "
+      ],
+      "Type": "herbacée",
+      "Végétation": "annuelle",
+      "Feuillage ": "sans objet",
+      "Hauteur": "entre 30 et 80 cm",
+      "Rusticité ": "   graines résistantes aux hivers froids ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "meuble",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "plante comestible, permaculture, adventice",
+      "Plantation": "semis"
+    },
+    {
+      "Nom": "Vesce commune, Vesce cultivée",
+      "N. scientifique ": "Vicia sativa",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Europe méridionale, Asie, Afrique du Nord",
+      "Floraison": "avril à juillet",
+      "Fleurs ": [
+        "     ",
+        "   pourpre "
+      ],
+      "Type": "herbacée",
+      "Végétation": "annuelle à bisannuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 80 cm",
+      "Toxicité": "graines et feuilles comestibles",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, jusqu'à -6 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "fourrage, engrais vert, mellifère",
+      "Plantation": "automne ou printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Trèfle incarnat",
+      "N. scientifique ": "Trifolium incarnatum",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Europe méridionale",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   rouge, rose ou blanche "
+      ],
+      "Type": "herbacée",
+      "Végétation": "annuelle",
+      "Hauteur": "20 à 50 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -15 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "siliceux",
+      "Acidité ": "autour de neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "engrais vert, fourrage, mellifère, graines germées",
+      "Plantation": "été, automne"
+    },
+    {
+      "Nom": "Trèfle des prés, Trèfle violet",
+      "N. scientifique ": "Trifolium pratense",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Europe Asie, Afrique du Nord",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   violet, rose ou blanc "
+      ],
+      "Type": "herbacée",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "5 à 50 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -23 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "argileux, argilo-sableux, limoneux",
+      "Acidité ": "autour de neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "amélioration du sol, fourrage, graines germées, favorable à la biodiversité et aux auxiliaires des cultures",
+      "Plantation": "printemps, automne"
+    },
+    {
+      "Nom": "Trèfle blanc, Trèfle rampant",
+      "N. scientifique ": "Trifolium repens",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Europe",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "\"mauvaise herbe\" enhavissante",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "10 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "humifère et bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "engrais vert",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps, division des touffes ou séparation des rejets",
+      "Taille": "pas de taille",
+      "Sensibilité ": "résistant aux maladies et aux insectes"
+    },
+    {
+      "Nom": "Phacélie à feuilles de tanaisie",
+      "N. scientifique ": "Phacelia tanacetifolia",
+      "Famille ": "Boraginacées, Borraginacées, Boragacées",
+      "Origine ": "Amérique du Nord, Amérique centrale",
+      "Floraison": "de mai à octobre",
+      "Fleurs ": [
+        "     ",
+        "   bleu clair "
+      ],
+      "Type": "plante annuelle",
+      "Végétation": "herbacées",
+      "Feuillage ": "sans objet",
+      "Hauteur": "30 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -12 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "sol ordinaire et pas trop lourd",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal",
+      "Utilisation": "engrais vert, plante mellifère",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Moutarde blanche, Sénevé blanc",
+      "N. scientifique ": "Sinapis alba",
+      "Synonyme ": "Brassica alba",
+      "Famille ": "Brassicacées, Crucifères",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante potagère/parfois adventice",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "80 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "argilo-limoneux à sablonneux",
+      "Acidité ": "acide à légèrement basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "légume, plante médicinale, condimentaire, médicinale, engrais vert, graines germées",
+      "Plantation": "avril, août, septembre",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Cerfeuil tubéreux, Chérophylle bulbeux",
+      "N. scientifique ": "Chaerophyllum bulbosum",
+      "Famille ": "Apiacées, Ombellifères",
+      "Origine ": "Europe et asie centrale",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante potagère",
+      "Végétation": "bisannuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 2m",
+      "Toxicité": "feuillage toxique",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche et meuble",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "potager",
+      "Plantation": "semis à l'automne",
+      "Multiplication": "semis",
+      "Sensibilité ": "araignée rouge, la mouche de la carotte et les pucerons"
+    }
+  ]
+}

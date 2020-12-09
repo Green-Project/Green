@@ -1,0 +1,1237 @@
+{
+  "category": "Palmiers, bananiers et cycas",
+  "data": [
+    {
+      "Nom": "Palmier miniature de Chusan, Palmier moulin à vent nain",
+      "N. scientifique ": "Trachycarpus wagnerianus",
+      "Synonyme ": "Trachycarpus takil",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Asie",
+      "Floraison": "mai, juin",
+      "Fleurs ": [
+        "     ",
+        "   blanche "
+      ],
+      "Type": "palmier",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "5 à 8 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "riche et humifère, drainant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal",
+      "Utilisation": "conteneur, véranda, extérieur sous climat doux",
+      "Plantation": "printemps"
+    },
+    {
+      "Nom": "Palmier chanvre, Palmier de Chine, Palmier moulin",
+      "N. scientifique ": "Trachycarpus fortunei",
+      "Synonyme ": "Chamaerops excelsa",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Asie",
+      "Espèces proches": "Trachycarpus wagnerianus",
+      "Floraison": "mai, juin",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "palmier rustique",
+      "Végétation": "arborescente",
+      "Feuillage ": "persistant",
+      "Hauteur": "5 à 12 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -18°C, un des rares palmiers envisageable dans les régions nord "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre, à l'abri du vent froid qu'il craint "
+      ],
+      "Sol": "profond, riche, bien drainé",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal, drainant",
+      "Utilisation": "isolé en pleine terre ou en groupe de 3 sujets, conteneur",
+      "Plantation": "printemps",
+      "Multiplication": "semis facile au chaud au printemps (1 à 3 mois)",
+      "Sensibilité ": "le papillon palmivore, résistant aux maladies"
+    },
+    {
+      "Nom": "Latanier, Sabal nain",
+      "N. scientifique ": "Sabal minor",
+      "Synonymes ": "Sabal adansonii, Sabal louisiana, Sabal minima, Chamaerops louisiana",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Sud-est des États-Unis",
+      "Espèces proches": "Sabal etonia, Sabal miamiensis",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "palmier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "2 à 3 m",
+      "Rusticité ": "   rustique, -15°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre à ensoleillé "
+      ],
+      "Sol": "riche et humifère, fertile",
+      "Acidité ": "faiblement acide à neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "extérieur, véranda, serre, tissage des feuilles",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Palmiste marron, Palmier bouteille",
+      "N. scientifique ": "Hyophorbe verschaffeltii",
+      "Synonyme ": "Mascarena verschaffeltii",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Iles de Rodriguez, Maurice",
+      "Floraison": "mai, juin",
+      "Fleurs ": [
+        "     ",
+        "   blanchâtre "
+      ],
+      "Type": "plante tropicale",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "6 à 12 m",
+      "Rusticité ": "   non rustique, 2°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais et drainant",
+      "Utilisation": "conteneur, véranda",
+      "Plantation": "novembre à mars",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Palmier trièdre, Palmier triangle",
+      "N. scientifique ": "Dypsis decaryi",
+      "Synonymes ": "Dypsis cabadae, Dypsis lutescens, Dypsis cabadae, Dypsis madagascariensis, Dypsis leptocheilos",
+      "Famille ": "Aracées",
+      "Origine ": "Madagascar",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   crème, blanc "
+      ],
+      "Type": "palmier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "2 à 3 m en pot, 4 à 8 m en extérieur",
+      "Rusticité ": "   -2 °C minimum ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée à lumineux "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "faiblement acide à neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "conteneur, véranda, serre hors gel, extérieur sous climat non gélif",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Palmier royal",
+      "N. scientifique ": "Roystonea regia",
+      "Synonyme ": "Roystonea elata",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Amérique centrale",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "palmier, plante tropicale",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "30 m",
+      "Rusticité ": "   non rustique, 15°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "tolérant",
+      "Humidité ": "frais à humide",
+      "Utilisation": "conteneur, véranda, plante d’appartement",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Palmier nain, Palmier de montagne, Chamédorée",
+      "N. scientifique ": "Chamaedorea elegans",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Mexique et Guatemala",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "palmier",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 m 50",
+      "Rusticité ": "   peu rustique, -4°C, à réserver aux régions au climat très doux ",
+      "Exposition ": [
+        "  ",
+        "  ombragée "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "toujours frais",
+      "Utilisation": "plante d'intérieur",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Palmier cuillère",
+      "N. scientifique ": "Licuala grandis",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Océanie",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune vif "
+      ],
+      "Type": "palmier",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "2 à 3 m",
+      "Rusticité ": "   non rustique, 4°C minimum ",
+      "Exposition ": [
+        "  ",
+        "  ombre lumineuse "
+      ],
+      "Sol": "terre à agrumes",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais et drainant",
+      "Utilisation": "plante d'intérieur, serre chaude",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Palmier bonbonne",
+      "N. scientifique ": "Hyophorbe lagenicaulis",
+      "Synonyme ": "Mascarena lagenicaulis",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Maurice",
+      "Floraison": "mai, juin",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante tropicale",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "4 à 5 m",
+      "Rusticité ": "   non rustique, 10°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais et drainant",
+      "Utilisation": "conteneur, véranda",
+      "Plantation": "novembre à mars",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Palmier bambou du Costa Rica",
+      "N. scientifique ": "Chamaedorea costaricana",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Costa Rica, Honduras, Panama",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "palmier",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "2 à 4 m, voire 6 m",
+      "Rusticité ": "   peu rustique, -4°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "toujours frais",
+      "Utilisation": "intérieur",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Palmier à tronc rouge",
+      "N. scientifique ": "Cyrtostachys renda",
+      "Synonyme ": "Cyrtostachys lakka",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Malaisie, Indonésie",
+      "Floraison": "octobre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "palmier",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "4 à 6 m",
+      "Rusticité ": "   gélif, 16°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais",
+      "Utilisation": "véranda, serre chauffée",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Kentia",
+      "N. scientifique ": "Howea forsteriana",
+      "Synonyme ": "Kentia forsteriana",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Australie",
+      "Espèces proches": "Howea belmoreana",
+      "Floraison": "novembre à janvier",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "palmier",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "10 m à l’extérieur, 2 m 50 à 4 m maximum en plante d’intérieur",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, -3°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ombre claire, lumière filtrée "
+      ],
+      "Sol": "drainant et humifère",
+      "Acidité ": "légèrement acide",
+      "Humidité ": "normal à humide",
+      "Utilisation": "plante d’intérieur, plante dépolluante",
+      "Plantation": "fin de printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Dattier du Mékong, Palmier dattier nain",
+      "N. scientifique ": "Phoenix roebelenii",
+      "Synonyme ": "Phoenix farinosa",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Asie",
+      "Floraison": "novembre à janvier",
+      "Fleurs ": [
+        "     ",
+        "   blanche "
+      ],
+      "Type": "palmier",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 3 m",
+      "Rusticité ": "   0°C ",
+      "Exposition ": [
+        "  ",
+        "  très lumineuse "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "humide",
+      "Utilisation": "plante d’intérieur, extérieur en climat doux",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Cocotier",
+      "N. scientifique ": "Cocos nucifera",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Iles du Pacifique",
+      "Floraison": "Toute l'année",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "palmier",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu’à 30 m",
+      "Rusticité ": "   13 °C minimum ",
+      "Exposition ": [
+        "  ",
+        "  très ensoleillé "
+      ],
+      "Sol": "sablonneux, riche, humifère et drainant",
+      "Acidité ": "légèrement acide à alcalin",
+      "Humidité ": "frais",
+      "Utilisation": "intérieur, véranda",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Aréca, Palmier d'arec, Palmier doré",
+      "N. scientifique ": "Chrysalidocarpus lutescens",
+      "Synonymes ": "Dypsis lutescens, Areca flavescens",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Madagascar",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "palmier",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "3 à 9 m",
+      "Rusticité ": "   15°C minimum en hiver, 10 à 20°C toute l'année, -2 °C ponctuellement ",
+      "Exposition ": [
+        "  ",
+        "  ombragée, mais lumineuse "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "toujours légèrement frais",
+      "Utilisation": "à l'intérieur en bac, serre chaude, véranda",
+      "Plantation": "printemps",
+      "Multiplication": "semis au chaud au printemps",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "les araignées rouges en culture intérieure"
+    },
+    {
+      "Nom": "Palmiste de Cunningham, Palmier roi",
+      "N. scientifique ": "Archontophoenix cunninghamiana",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Sri Lanka, Inde",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   mauve "
+      ],
+      "Type": "palmier",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 m",
+      "Rusticité ": "   peu rustique, -4°C, à réserver aux régions sud en extérieur ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "serre, extérieur en climat doux",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Palmier trident",
+      "N. scientifique ": "Trithrinax campestris",
+      "Synonymes ": "Copernicia campestris, Chamaethrinax hookeriana",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Argentine, Uruguay",
+      "Floraison": "octobre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "palmier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "4 à 6 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "autour de neutre",
+      "Humidité ": "sec à frais",
+      "Utilisation": "conteneur, véranda, extérieur",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Palmier nain, Palmier de Méditerranée",
+      "N. scientifique ": "Chamaerops humilis",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Sud de l'Europe, bassin méditerranéen",
+      "Espèces proches": "Chamaerops cerifera",
+      "Floraison": "fin du printemps, début d'été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "palmier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "2-3 m. (très vieux sujets jusqu'à 8 m).",
+      "Toxicité": "Attention aux pointes des feuilles basses et pointues",
+      "Rusticité ": [
+        "  ",
+        "  -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "sol drainant (sableux, caillouteux)",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "isolé en massif ou dans une pelouse",
+      "Plantation": "printemps",
+      "Multiplication": "semis ou division de la touffe au printemps",
+      "Sensibilité ": "le papillon palmivore"
+    },
+    {
+      "Nom": "Palmier nain bleu",
+      "N. scientifique ": "Chamaerops humilis var cerifera",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Maroc",
+      "Floraison": "avril, mai",
+      "Fleurs ": [
+        "     ",
+        "   jaune vif "
+      ],
+      "Type": "palmier",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "2 à 5  m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "   -13 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "drainant",
+      "Utilisation": "conteneur, véranda, extérieur",
+      "Plantation": "printemps",
+      "Multiplication": "semis",
+      "Sensibilité ": "charançon rouge du palmier"
+    },
+    {
+      "Nom": "Palmier du Mexique",
+      "N. scientifique ": "Washingtonia robusta",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Mexique, Californie",
+      "Espèces proches": "Washingtonia filifera",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanc, crème "
+      ],
+      "Type": "palmier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "10 à 15 m, exceptionnellement 30 m",
+      "Rusticité ": [
+        "  ",
+        "  rustique jusqu'à -6 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil à l'extérieur, forte luminosité à l'intérieur "
+      ],
+      "Sol": "riche et humifère, drainant",
+      "Acidité ": "acide à très alcalin",
+      "Humidité ": "normal, supporte la sécheresse",
+      "Utilisation": "conteneur, véranda, extérieur sous climat doux",
+      "Plantation": "printemps",
+      "Multiplication": "semis au chaud au printemps puis repiquage",
+      "Taille": "coupez les feuilles basses séchées",
+      "Sensibilité ": "les araignées rouges et les cochenilles en culture intérieure"
+    },
+    {
+      "Nom": "Palmier de la reine, Cocotier plumeux, Cocotier de Romanzoff",
+      "N. scientifique ": "Syagrus romanzoffiana",
+      "Synonymes ": "Cocos romanzoffianum, Arecastrum romanzoffianum",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Amérique du sud",
+      "Floraison": "août, septembre",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "palmier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "12 m",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, -7°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "type terre à cactées",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais à humide",
+      "Utilisation": "conteneur, serre, véranda, extérieur en climat méditerranéen",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Palmier de Formose, Palmier de Taiwan, Palmier à sucre nain",
+      "N. scientifique ": "Arenga engleri",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Taiwan, Japon",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   orange "
+      ],
+      "Type": "palmier",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "2 à 5 m",
+      "Rusticité ": "   peu rustique, -7°C, à réserver en extérieur aux régions au climat très doux ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombragée à ensoleillée "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à légèrement basique",
+      "Humidité ": "toujours frais à humide",
+      "Utilisation": "intérieur, véranda, extérieur en zone climatique très douce",
+      "Plantation": "printemps",
+      "Multiplication": "semis, drageons"
+    },
+    {
+      "Nom": "Palmier de Bismarck",
+      "N. scientifique ": "Bismarckia nobilis",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Madagascar",
+      "Floraison": "printemps, été",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "palmier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 25 m",
+      "Rusticité ": [
+        "  ",
+        "  0°C, non rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "plutôt fertile, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "isolé",
+      "Plantation": "printemps",
+      "Multiplication": "par semis au chaud",
+      "Taille": "pas de taille"
+    },
+    {
+      "Nom": "Palmier dattier des Canaries, faux dattier, palmier Hyères",
+      "N. scientifique ": "Phoenix canariensis",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Iles Canaries",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "palmier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 15 à 20 m",
+      "Toxicité": "fruits non comestibles",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -10°C, climat doux "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "sableux, fertile, bien drainé enhiver",
+      "Acidité ": "normal",
+      "Humidité ": "frais",
+      "Utilisation": "isolé, bac",
+      "Plantation": "printemps",
+      "Multiplication": "semis au chaud au printemps (1 à 3 mois)",
+      "Taille": "coupez les feuilles basses sèches et abîmées",
+      "Sensibilité ": "le charancon rouge des palmeirs, le papillon palmivore, les cochenilles, les araignées rouges en culture d'intérieur"
+    },
+    {
+      "Nom": "Palmier dattier de montagne",
+      "N. scientifique ": "Phoenix loureiroi",
+      "Synonyme ": "Phoenix loureirii",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "sud de l’Asie",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "palmier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "4 m",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, -3 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "serre, extérieur en climat doux"
+    },
+    {
+      "Nom": "Palmier dattier de Ceylan",
+      "N. scientifique ": "Phoenix zeylanica",
+      "Synonymes ": "Phoenix zeylanica, Phoenix farinosa",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Skri Lanka, Inde",
+      "Floraison": "novembre à janvier",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "palmier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "3 à 6 m",
+      "Rusticité ": "   peu rustique, -3 °C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "serre, extérieur en climat doux",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Palmier bleu du Mexique",
+      "N. scientifique ": "Brahea armata",
+      "Synonymes ": "Brahea clara, Brahea roezlii, Erythea armata, Erythea elegans",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "nord-ouest du Mexique",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "palmier ",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 15m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "sableux, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "isolé dans le sud de la France, en bac ailleurs",
+      "Plantation": "printemps",
+      "Multiplication": "par semis de graines fraîches"
+    },
+    {
+      "Nom": "Palmier abricot, Arbre à laque",
+      "N. scientifique ": "Butia capitata",
+      "Synonyme ": "Cocos capitata",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Amérique du sud",
+      "Floraison": "mai, juin",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "palmier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "4 à 6 m",
+      "Toxicité": "La pulpe des fruits peut être consommée crue, en gelée, ou macérée dans l’alcool",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "sec à normal",
+      "Utilisation": "conteneur, extérieur",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Palmier à jupon, Palmier de Californie",
+      "N. scientifique ": "Washingtonia filifera",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Mexique, Californie, Arizona",
+      "Espèces proches": "Washingtonia robusta",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   crème, blanc "
+      ],
+      "Type": "palmier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu’à 20 m",
+      "Rusticité ": [
+        "  ",
+        "  rustique, -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "riche et humifère, drainant",
+      "Acidité ": "acide à très alcalin",
+      "Humidité ": "normal à frais",
+      "Utilisation": "conteneur, véranda, extérieur sous climat doux",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Encépharlatos d'Altenstein",
+      "N. scientifique ": "Encephalartos altensteinii",
+      "Famille ": "Zamiacées",
+      "Origine ": "Afrique du sud",
+      "Floraison": "mois chauds",
+      "Fleurs ": [
+        "     ",
+        "   roussâtre "
+      ],
+      "Type": "palmier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 6m dans son milieu naturel",
+      "Toxicité": "toute la plante est toxique",
+      "Rusticité ": "   -5°C, climat doux ",
+      "Exposition ": [
+        "  ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "sol minéral et drainant",
+      "Acidité ": "neutre à acide",
+      "Humidité ": "frais, mais drainant",
+      "Utilisation": "patio, véranda, extérieur dans les régions sud",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis, bouturage, greffe"
+    },
+    {
+      "Nom": "Cycas géant de kwango, Encéphalartos de Laurent",
+      "N. scientifique ": "Encephalartos laurentianus",
+      "Famille ": "Zamiacées",
+      "Origine ": "Angola, Congo",
+      "Floraison": "mois chauds",
+      "Fleurs ": [
+        "     ",
+        "   roussâtre "
+      ],
+      "Type": "palmier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 8m dans sa région d'origine",
+      "Rusticité ": "   peu rustique, -2 ° minimum ",
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "sol minéral",
+      "Acidité ": "neutre à acide",
+      "Humidité ": "frais, mais drainant",
+      "Utilisation": "patio, véranda, extérieur dans les régions sud",
+      "Plantation": "à l'automne ou au printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Cycas du Japon, Sagou du Japon, Sagoutier, Palmier de la paix",
+      "N. scientifique ": "Cycas revoluta",
+      "Famille ": "Cycadacées",
+      "Origine ": "Japon",
+      "Espèces proches": "Cycas circinalis",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   brun "
+      ],
+      "Type": "arbuste à feuillage décoratif",
+      "Végétation": "vivace",
+      "Feuillage ": "semi rustique",
+      "Hauteur": "de 1 à 3 m",
+      "Toxicité": "toutes les parties de la plantes sont toxiques",
+      "Rusticité ": "   10°C ",
+      "Exposition ": [
+        "  ",
+        "  lumière vive, soleil "
+      ],
+      "Sol": "terreau, léger",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "bac",
+      "Plantation": "rempotage au printemps tous les 2-3 ans",
+      "Multiplication": "semis au chaud au printemps, séparation des rejets",
+      "Sensibilité ": "les araignées rouges, les cochenilles farineuses"
+    },
+    {
+      "Nom": "Bananier rose, Bananier à fleurs roses",
+      "N. scientifique ": "Musa vetulina",
+      "Synonyme ": "Musa dasycarpa",
+      "Famille ": "Musacées",
+      "Origine ": "Nord de l'Inde",
+      "Floraison": "octobre",
+      "Fleurs ": [
+        "     ",
+        "   bractées roses "
+      ],
+      "Type": "bananier",
+      "Végétation": "herbacée vivace géante",
+      "Feuillage ": "persistant",
+      "Hauteur": "1,50 à 2 m",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, -8 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à ombre claire "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "humide",
+      "Utilisation": "maison, véranda, extérieur en climat doux",
+      "Plantation": "printemps",
+      "Multiplication": "semis, division de rejets"
+    },
+    {
+      "Nom": "Bananier nain d'Inde",
+      "N. scientifique ": "Musa mannii",
+      "Famille ": "Musacées",
+      "Origine ": "Inde, Assam",
+      "Floraison": "octobre",
+      "Fleurs ": [
+        "     ",
+        "   bractées roses "
+      ],
+      "Type": "bananier",
+      "Végétation": "herbacée vivace géante",
+      "Feuillage ": "persistant",
+      "Hauteur": "2 m",
+      "Rusticité ": "   gélive, 0°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "humide",
+      "Utilisation": "maison, véranda, extérieur en été",
+      "Plantation": "printemps",
+      "Multiplication": "semis, division de rejets"
+    },
+    {
+      "Nom": "Bananier nain chinois, Lotus d’or",
+      "N. scientifique ": "Musella lasiocarpa",
+      "Famille ": "Musacées",
+      "Origine ": "Chine, Vietnam, Laos",
+      "Floraison": "monocarpique",
+      "Fleurs ": [
+        "     ",
+        "   bractées jaunes "
+      ],
+      "Type": "bananier",
+      "Végétation": "herbacée vivace géante",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "1.50m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu’à -10°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais à humide",
+      "Utilisation": "potée ou pleine terre",
+      "Plantation": "printemps",
+      "Multiplication": "semis, division de rejets"
+    },
+    {
+      "Nom": "Bananier du Japon",
+      "N. scientifique ": "Musa basjoo",
+      "Synonyme ": "Musa japonica",
+      "Famille ": "Musacées",
+      "Origine ": "Chine",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc-jaune "
+      ],
+      "Type": "vivace décorative",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant, caduc en dehors des régions au climat doux",
+      "Hauteur": "de 4 à 5 m",
+      "Toxicité": " fruits peu comestibles, latex",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -15°C pour un pied bien installé. Les feuilles disparaissent sous 0°C. Protégez le tronc formé par les feuilles en hiver. "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil, à l'abri du vent qui dechire son feuillage "
+      ],
+      "Sol": "riche en humus, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "bac, véranda, isolé, massif",
+      "Plantation": "printemps",
+      "Multiplication": "semis, division des rejets sur Musa basjoo",
+      "Sensibilité ": "les cochenilles, les pucerons"
+    },
+    {
+      "Nom": "Bananier d'Abyssinie, Bananier rouge",
+      "N. scientifique ": "Ensete ventricosum",
+      "Synonymes ": "Musa ensete, Musa arnoldiana",
+      "Famille ": "Musacées",
+      "Origine ": "Afrique",
+      "Floraison": "octobre",
+      "Fleurs ": [
+        "     ",
+        "   bractées roses "
+      ],
+      "Type": "bananier",
+      "Végétation": "banaier",
+      "Feuillage ": "persistant",
+      "Hauteur": "5 m",
+      "Rusticité ": "   peu rustique, -3°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "humide",
+      "Utilisation": "maison, véranda, extérieur en été",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Arbre du voyageur",
+      "N. scientifique ": "Ravenala madagascariensis",
+      "Famille ": "Musacées",
+      "Origine ": "Madagascar",
+      "Floraison": "toute l'année",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbre tropical",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 10 à 30 m adulte",
+      "Toxicité": "les jeunes feuilles sont comestibles",
+      "Rusticité ": "   15°C minimum ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "mélange de terreau et de terre ordinaire",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "véranda, serre",
+      "Plantation": "printemps",
+      "Multiplication": "semis",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "résistant aux maladies"
+    },
+    {
+      "Nom": "Cycas de Moore",
+      "N. scientifique ": "Macrozamia moorei",
+      "Famille ": "Zamiacées",
+      "Origine ": "Australie",
+      "Floraison": "aléatoire",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   cônes verts à bruns "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "2 à 7  m",
+      "Rusticité ": [
+        "  ",
+        "  semi-rustique, jusqu'à -8/-4 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée  à mi-ombre "
+      ],
+      "Sol": "pauvre, drainant, sablonneux",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "jamais trop humide, à protéger de l'humidité hivernale, résistant à la sécheresse",
+      "Utilisation": "plante ornementale"
+    },
+    {
+      "Nom": "Cordyline australe",
+      "N. scientifique ": "Cordyline australis",
+      "Synonyme ": "Dracaena australis",
+      "Famille ": "Agavacées",
+      "Origine ": "Nouvelle-Zélande",
+      "Floraison": "mai, juin",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbre à feuillage terminal",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 10 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique dans les régions au climat doux, en pot ailleurs "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche en humus, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "isolé, pot, bac, serre froide",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps au chaud",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "les cochenilles, les araignées rouges"
+    },
+    {
+      "Nom": "Cordyline à feuilles larges",
+      "N. scientifique ": "Cordyline indivisa",
+      "Synonymes ": "Cordyline hectori, Cordyline hookeri, cordyline lineata, Dracaena indivisa",
+      "Famille ": "Agavacées",
+      "Origine ": "Nouvelle Zélande",
+      "Floraison": "printemps, été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "petit arbre tropical",
+      "Végétation": "plante vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "60 cm à 7 m",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, jusqu'à -5 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "acide à légèrement acide",
+      "Humidité ": "sol normal à sec",
+      "Utilisation": "plante en pot, serre, véranda",
+      "Plantation": "semis",
+      "Multiplication": "printemps, été"
+    },
+    {
+      "Nom": "Arbre aux herbes, Black boy",
+      "N. scientifique ": "Xanthorrhoea glauca",
+      "Famille ": "Xanthorrhoeacées",
+      "Origine ": "Australie",
+      "Floraison": "floraison aléatoire",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante vivace",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 4 m",
+      "Rusticité ": [
+        "  ",
+        "  semi-rustique, jusqu'à -10 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "pauvre, très drainant, sablonneux",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "jamais trop humide, à protéger de l'humidité hivernale",
+      "Utilisation": "plante ornementale"
+    }
+  ]
+}

@@ -1,0 +1,881 @@
+{
+  "category": "Fleurs d'hiver",
+  "data": [
+    {
+      "Nom": "Rose de Noël, Hellébore noire",
+      "N. scientifique ": "Helleborus niger",
+      "Synonyme ": "Helleborus nigra",
+      "Famille ": "Renonculacées",
+      "Origine ": "Europe centrale",
+      "Floraison": "janvier à mars",
+      "Fleurs ": [
+        "     ",
+        "   blanche "
+      ],
+      "Type": "plante herbacée à fleur",
+      "Végétation": "plante vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "30 cm",
+      "Toxicité": "plante très toxique, elle contient de l'helléborine qui paralyse le système nerveux et de l'helléboréine qui agit sur le coeur",
+      "Rusticité ": "   rustique, -26°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "riche, de type argileux",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à humide",
+      "Utilisation": "massif, fleurs coupées",
+      "Plantation": "printemps, fin d’été",
+      "Multiplication": "division, semis"
+    },
+    {
+      "Nom": "Rose de carême, Hellebore orientale",
+      "N. scientifique ": "Helleborus orientalis",
+      "Famille ": "Renonculacées",
+      "Origine ": "Caucase, Turquie et Grèce",
+      "Espèces proches": "Helleborus x hybride",
+      "Floraison": "février, mars",
+      "Fleurs ": [
+        "     ",
+        "   blanches à pourpres "
+      ],
+      "Type": "plante herbacée à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant à semi-persistant",
+      "Hauteur": "70 cm",
+      "Rusticité ": "   rustique, -19°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal",
+      "Utilisation": "massif, fleurs coupées",
+      "Plantation": "printemps, fin d’été",
+      "Multiplication": "division de la touffe, semis"
+    },
+    {
+      "Nom": "Primevère tapissante du Caucase",
+      "N. scientifique ": "Primula juliae",
+      "Famille ": "Primulacées",
+      "Origine ": "Caucase, Géorgie",
+      "Floraison": "fin d'hiver, printemps",
+      "Fleurs ": [
+        "     ",
+        "   pourpre "
+      ],
+      "Type": "plante ornementale",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc à semi-persistant",
+      "Hauteur": "10 à 15 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -39°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre à ombre légère "
+      ],
+      "Sol": "humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif, rocaille fraiche, sous-bois",
+      "Plantation": "printemps, fin d'été",
+      "Multiplication": "semis, division"
+    },
+    {
+      "Nom": "Pensée",
+      "N. scientifique ": "Viola",
+      "Famille ": "Violacées",
+      "Origine ": "Europe",
+      "Floraison": "printemps, automne, hiver",
+      "Fleurs ": "        variées ",
+      "Type": "fleur",
+      "Végétation": "vivace éphémère",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "léger, riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "bordure, massif, pot, jardinière",
+      "Plantation": "automne, printemps",
+      "Multiplication": "semis en février été sous chassis froid ou en été pour obtenir une floraison en hiver, division de la touffe au printemps",
+      "Taille": "éliminez les fleurs fânées au fur et à mesure",
+      "Sensibilité ": "le mildiou, la rouille, les limaces, les pucerons"
+    },
+    {
+      "Nom": "Hellébore, Ellébore, Herbe aux fous, Rose de Noël, Rose de Carème",
+      "N. scientifique ": "Helleborus",
+      "Famille ": "Renonculacées",
+      "Origine ": "régions méditerranéennes d'Europe et ouest de la Chine",
+      "Floraison": "de décembre à mai",
+      "Fleurs ": "        blanc-vert, rose, violet, pourpres ",
+      "Type": "plante vivace herbacée à souche rhizomateuse",
+      "Végétation": "vivace",
+      "Feuillage ": "feuillage persistant coriace",
+      "Hauteur": "de 40 à 70 cm selon les espèces et les variétés",
+      "Toxicité": "elle contient de l'helléborine qui paralyse le système nerveux et de l'helléboréine qui agit sur le coeur",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, la plupart des hellébores résistent sans problème à - 15 °C. Les hybrides sont parfois plus frileux. "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre ou ombre légère, éviter les expositions ventées qui les fait avorter. un emplacement sous des arbustes caducs est idéal "
+      ],
+      "Sol": "tous les types de sols, montrant toutefois une préférence pour les terres riches, lourdes (argileuses) et humifères, généreusement amendées en matière organique, pas de stagnation d'eau",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "rocaille, bordure, massif, couvre-sol, au pied d'un arbre, jardinière de 25cm de profondeur, fleurs coupées",
+      "Plantation": "plantation du début de l'automne au printemps",
+      "Multiplication": "séparation en septembre-octobre des jeunes pousses qui se sont développées à la périphérie de la souche. Helleborus foetidus et Helleborus argutifolius ne se prêtent pas à la division, multipliez-les par semis",
+      "Taille": "Supprimez les feuilles tachées ou abimées",
+      "Sensibilité ": "les pucerons, les limaces, traitez à la bouillie bordelaise en cas d'apparition de tâches noires sur les feuilles. Une hellébore dans une situation peu favorable sera plus sensible aux maladies, il peut-être indiqué de la déplacer à un meilleure endroit."
+    },
+    {
+      "Nom": "Hellébore de Corse",
+      "N. scientifique ": "Helleborus argutifolius",
+      "Synonymes ": "Helleborus lividus, Helleborus corsicus",
+      "Famille ": "Renonculacées",
+      "Origine ": "Corse, Sardaigne, Baléares",
+      "Floraison": "janvier à mars",
+      "Fleurs ": [
+        "     ",
+        "   vert acide à crème "
+      ],
+      "Type": "plante herbacée à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "80 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -19°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillé à mi-ombre   "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal",
+      "Utilisation": "massif, fleurs coupées",
+      "Plantation": "printemps, fin d'été",
+      "Multiplication": "semis, division"
+    },
+    {
+      "Nom": "Jasmin d'hiver",
+      "N. scientifique ": "Jasminum nudiflorum",
+      "Famille ": "Oléacées",
+      "Origine ": "Chine",
+      "Floraison": "décembre à avril",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante grimpante à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "3 à 5 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -15°C, rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre, à l'abri des vents froids "
+      ],
+      "Sol": "ordinaire, bien drainé",
+      "Acidité ": "neutre, calcaire toléré",
+      "Humidité ": "normal",
+      "Utilisation": "mur, tonnelle, vieux tronc, pergola, palissade, couvre-sol, bacs",
+      "Plantation": "automne, printemps",
+      "Multiplication": "boutures en août, marcottage ou semis",
+      "Taille": "Tailles les branches disgraçieuses après la floraison",
+      "Sensibilité ": "On ne connaît aucun ennemi au Jasminum nudiflorum"
+    },
+    {
+      "Nom": "Clématite de noël, Clématite fougère, Clématite à vrilles, Clématite cireuse",
+      "N. scientifique ": "Clematis cirrhosa",
+      "Famille ": "Renonculacées",
+      "Origine ": "Bassin méditerranéen, Asie Mineure",
+      "Floraison": "octobre à mars",
+      "Fleurs ": [
+        "     ",
+        "   blanche, crème, jaune pâle, mouchetée ou non "
+      ],
+      "Type": "plante grimpante",
+      "Végétation": "plante vivace",
+      "Feuillage ": "persistant ou semi persistant",
+      "Hauteur": "2 à 3,5 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "humifère et drainant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal",
+      "Utilisation": "massif, mur, treillage, pergola, pot",
+      "Plantation": "printemps, automne",
+      "Multiplication": "boutures",
+      "Sensibilité ": "limaces/escargots, dépérissement des branches (champignon)"
+    },
+    {
+      "Nom": "Perce-neige",
+      "N. scientifique ": "Galanthus nivalis",
+      "Famille ": "Amaryllidacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "janvier, février selon le temps",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "fleur",
+      "Végétation": "bulbe",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 10 à 15 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "frais, lourd, riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à légèrement humide",
+      "Utilisation": "sous-bois, rocailles, pelouse",
+      "Plantation": "automne, un bulbe tous les 5 cm à 5 cm de profondeur",
+      "Multiplication": "division de la touffe après la floraison"
+    },
+    {
+      "Nom": "Iris",
+      "N. scientifique ": "Iris histrioides",
+      "Famille ": "Iridacées",
+      "Origine ": "Caucase, Turquie, Irak, Iran",
+      "Floraison": "février, mars",
+      "Fleurs ": [
+        "     ",
+        "   bleu violet "
+      ],
+      "Type": "plante à bulbes",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "10 à 20 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée en hiver "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "neutre à alcalin",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, rocaille, potée",
+      "Plantation": "automne",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Cyclamen de l'île de Cos",
+      "N. scientifique ": "Cyclamen coum",
+      "Famille ": "Primulacées",
+      "Origine ": "Turquie, Balkans, Liban",
+      "Floraison": "janvier à avril",
+      "Fleurs ": [
+        "     ",
+        "   blanc à rose "
+      ],
+      "Type": "plante à bulbe",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "10 à 15 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -19°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre, ombre "
+      ],
+      "Sol": "sol riche et drainant",
+      "Acidité ": "neutre à légèrement alcalin",
+      "Humidité ": "frais en hiver, sec en été",
+      "Utilisation": "massif, sous-bois",
+      "Plantation": "hiver",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Crocus bleu du Chili",
+      "N. scientifique ": "Tecophilaea cyanocrocus",
+      "Famille ": "Técophilaeacées",
+      "Origine ": "Chili",
+      "Floraison": "fin d'hiver",
+      "Fleurs ": [
+        "     ",
+        "   bleu gentiane "
+      ],
+      "Type": "plante à bulbe",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "10 à 30 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -10 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil en hiver "
+      ],
+      "Sol": "très drainant",
+      "Acidité ": "ph acide à neutre",
+      "Humidité ": "normal ou sec, selon les saisons",
+      "Utilisation": "serre alpine, rocaille, culture en pot",
+      "Plantation": "pendant la saison de repos,  fin de printemps à la fin d'été",
+      "Multiplication": "semis, division"
+    },
+    {
+      "Nom": "Aconit d'hiver, Helléborine",
+      "N. scientifique ": "Eranthis hyemalis",
+      "Famille ": "Renonculacées",
+      "Origine ": "France, Espagne, centre de l'Europe",
+      "Floraison": "février-mars",
+      "Fleurs ": [
+        "     ",
+        "   jaune d'or "
+      ],
+      "Type": "plante à bulbe",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "5 à 15 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustiques, jusqu'à -20 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "humifère et drainant",
+      "Acidité ": "légèrement à très basique",
+      "Humidité ": "normal",
+      "Utilisation": "massif, pelouse, dessous des arbres, pot",
+      "Plantation": "fin d'été",
+      "Multiplication": "semis, divisions"
+    },
+    {
+      "Nom": "Viorne d'hiver, Viorne de Bodnant",
+      "N. scientifique ": "Viburnum x bodnantense",
+      "Famille ": "Caprifoliacées",
+      "Origine ": "horticole",
+      "Floraison": "de décembre à janvier",
+      "Fleurs ": [
+        "     ",
+        "   blanc plus ou moins rosé, fleurs parfumées "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "3 m, envergure de 2 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique (-10°C à ­15°C) "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  plein soleil, mi-ombre "
+      ],
+      "Sol": "Tous les types de sols, même un peu calcaires sont bien acceptés, à l'abri des vents froids et desséchants (de l'est)",
+      "Acidité ": "neutre, acide, alcalin",
+      "Humidité ": "frais",
+      "Utilisation": "haie libre, isolé",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouturage, marcottage",
+      "Taille": "laissez se développer les arbustes naturellement durant 4 à 5 ans après la plantation, sans intervenir. Ensuite, taillez les viornes d'hiver adultes après la floraison, en réduisant des 2/3 de leur longueur les rameaux qui ont fleuri et en équilibrant l'ensemble de la ramure",
+      "Sensibilité ": "résistants aux parasites, les diverses petites taches foliaires qui peuvent se former sur les feuilles sont dues à des champignons, mais elles n'affectent pas le développement de l'arbuste. "
+    },
+    {
+      "Nom": "Vigne de l'Oregon",
+      "N. scientifique ": "Mahonia x media",
+      "Famille ": "Berbéridacées",
+      "Origine ": "Asie, Amérique du nord",
+      "Floraison": "automne, hiver, printemps",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 2 à 4 m",
+      "Toxicité": " Des troubles digestifs : diarrhées, vomissements, douleurs abdominales peuvent être observés après l'absorption par de jeunes enfants d'au moins une dizaine de baies. Les effets sont en général sans conséquence.",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -10°C adulte, une protection, hivernale chez les jeunes sujets "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre, ombre, soleil en climat tempéré "
+      ],
+      "Sol": "terre plutôt sableuse, enrichie en humus",
+      "Acidité ": "neutre à acide, calcaire accepté",
+      "Humidité ": "normal",
+      "Utilisation": "isolé, haie libre, rocaille, massif, bac",
+      "Plantation": "Effectuez la plantation de préférence entre octobre et mars/avril",
+      "Multiplication": "semis, bouturage en août, drageonnage",
+      "Taille": "Les jeunes mahonias doivent obligatoirement être taillés après la floraison, afin d'encourager la plante à se ramifier : pincez le bouquet de feuilles terminales. Adulte le Mahonia ne nécessite pratiquement aucune taille. Contentez-vous d'éliminer les rameaux abîmés ou desséchés et de supprimer les hampes florales fanées.",
+      "Sensibilité ": "la rouille, le mildiou"
+    },
+    {
+      "Nom": "Sarcocoque à feuilles de ruscus",
+      "N. scientifique ": "Sarcococca ruscifolia",
+      "Famille ": "Buxacées",
+      "Origine ": "Chine",
+      "Floraison": "janvier, février",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste ornemental",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1m",
+      "Rusticité ": "   rustique, -19°C ",
+      "Exposition ": [
+        "  ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "acide à légèrement basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "isolé, haie, massif",
+      "Plantation": "automne, printemps",
+      "Multiplication": "séparation des rejets, semis, bouture"
+    },
+    {
+      "Nom": "Noisetier des sorcières",
+      "N. scientifique ": "Hamamelis",
+      "Famille ": "Hamamélidacées",
+      "Origine ": "Amérique du nord, Japon, Chine",
+      "Floraison": "hiver, dès que la température s'élève au-dessus de 0 °C",
+      "Fleurs ": "        jaune, orange, rouge ",
+      "Type": "arbre à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "De croissance assez lente, il atteindra 1,50 m de haut et 2 m de large, après cinq ans de plantation, 3 x 4 m après dix ans et 5 x 6 m après vingt ans",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  de l'ordre de - 20 °C, donc rustique mais leur épargner le Midi méditerranéen, car les hamamélis apprécient une certaine fraîcheur en été "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "   exposition ensoleillée le matin et plutôt mi-ombragée l'après-midi est idéale (est, nord-est). Evitez les expositions aux vents frais et desséchants. "
+      ],
+      "Sol": "riche",
+      "Acidité ": "neutre à acide",
+      "Humidité ": "normal à humide",
+      "Utilisation": "haie, isolé, bac",
+      "Plantation": "printemps, automne",
+      "Multiplication": "La plupart des hamamélis du commerce sont propagés par greffage sur Hamamelis virginiana",
+      "Taille": "La taille n'est pas nécessaire, excepté pour rééquilibrer la silhouette.",
+      "Sensibilité ": "Les hamamélis se montrent en général insensibles aux maladies et sont très peu attaqués par les insectes"
+    },
+    {
+      "Nom": "Noisetier d'hiver, Faux-noisetier, Corylopsis aux longs épis",
+      "N. scientifique ": "Corylopsis spicata",
+      "Famille ": "Hamamélidacées",
+      "Origine ": "Japon, Chine",
+      "Floraison": "février, mars",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "arbuste à floraison hivernale",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "inférieure à 2 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, -28 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillé à mi-ombre "
+      ],
+      "Sol": "humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal, drainant",
+      "Utilisation": "en isolé, en massif",
+      "Plantation": "automne et printemps",
+      "Multiplication": "boutures, marcottage, semis"
+    },
+    {
+      "Nom": "Loropétale de Chine",
+      "N. scientifique ": "Loropetalum chinense",
+      "Famille ": "Hamamélidacées",
+      "Origine ": "Japon et asie du sud-est",
+      "Floraison": "février, mars",
+      "Fleurs ": "        blanc, rose ",
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 2 à 3 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, à protéger dans les régions les plus froides "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "bien drainé, riche en humus",
+      "Acidité ": "acide",
+      "Humidité ": "frais",
+      "Utilisation": "massif, haie fleurie, bonsaï",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis au printemps, bouturage au printemps ou en été",
+      "Taille": "pas de taille nécessaire"
+    },
+    {
+      "Nom": "Laurier-tin",
+      "N. scientifique ": "Viburnum tinus",
+      "Famille ": "Adoxacée (anciennement Caprifoliacées)",
+      "Origine ": "Hémisphère nord",
+      "Floraison": "automne, hiver, printemps",
+      "Fleurs ": [
+        "     ",
+        "   blanc, blanc-rosé "
+      ],
+      "Type": "arbuste",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "4 m",
+      "Toxicité": "la consommation de fruits peut entrainer des troubles digestifs importants (vomissements).",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "ordinaire, frais",
+      "Acidité ": "neutre à légèrement acide",
+      "Humidité ": "frais",
+      "Utilisation": "haie libre fleurie, haie taillée, massifs, isolé, balcon",
+      "Plantation": "automne, printemps",
+      "Multiplication": "bouturage",
+      "Taille": "Si il doit être taillé, faites-le après la fructification.",
+      "Sensibilité ": "les araignées rouges"
+    },
+    {
+      "Nom": "Forsythia blanc de Corée, Abélie de Corée",
+      "N. scientifique ": "Osmanthus macrocarpus",
+      "Famille ": "Oléacées",
+      "Origine ": "Corée",
+      "Floraison": "février-mars",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste ornemental",
+      "Végétation": "arbustive",
+      "Feuillage ": "caduc",
+      "Hauteur": "1 à 1,50 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -21 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "riche, limono-argileux, limono-sableux",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "assez frais, mais drainant",
+      "Utilisation": "massif, conteneur, en plante palissée",
+      "Plantation": "automne, printemps",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Chimonanthe",
+      "N. scientifique ": "Chimonanthus praecox",
+      "Famille ": "Calycanthacées",
+      "Origine ": "Chine",
+      "Floraison": "hiver",
+      "Fleurs ": [
+        "     ",
+        "   jaune, fleurs parfumées "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "Hauteur de 2 m à 4 m (en moyenne 2,50 m dans nos jardins)",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique (- 15 °C) \t , il apprécie toutefois mieux les régions maritimes ou soumises à un climat océanique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  Plein soleil ou mi-ombre légère "
+      ],
+      "Sol": "tout bon sol fertile, bien drainé (argilo-siliceux par exemple), il supporte bien la présence de calcaire, à condition que la terre ne soit pas trop sèche",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "isolé, haie libre, pot, bac",
+      "Plantation": "de préférence au printemps",
+      "Multiplication": "Semis en godet ou en terrine sous châssis froid dès la maturité des graines en automne. Boutures herbacées en été à l’étouffée, en sol sableux. Les boutures herbacées en juin sont possibles, mais d’une reprise très difficile. Le marcottage par buttage au printemps donne aussi de bons résultats.",
+      "Taille": "Supprimez les tiges rebelles ou enchevêtrées pour conserver une silhouette équilibrée à l’arbuste et aérer la ramure, ce qui favorise une floraison plus abondante. Éliminez aussi le bois mort.",
+      "Sensibilité ": "aucun problème spécifique n’est à signaler"
+    },
+    {
+      "Nom": "Chèvrefeuille d'hiver",
+      "N. scientifique ": "Lonicera fragrantissima",
+      "Famille ": "Caprifoliacées",
+      "Origine ": "Chine",
+      "Floraison": "de décembre à mars",
+      "Fleurs ": [
+        "     ",
+        "   crème, fleurs parfumées "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "2 m",
+      "Toxicité": " les baies sont toxiques, elles font vomir",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  - 25 °C , très rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil, mi-ombre tolérée "
+      ],
+      "Sol": "bien travaillé, profond, meuble, enrichi en matière organique",
+      "Acidité ": "terre argilo-siliceuse idéale, sols pauvres et calcaires acceptés",
+      "Humidité ": "frais",
+      "Utilisation": "haie libre, bac",
+      "Plantation": "automne ou printemps",
+      "Multiplication": "bouturage demi-aoûté de fin juillet à début septembre",
+      "Taille": "Rabattez les tiges ayant fleuri de la moitié de leur longueur au début du printemps. Éliminez totalement les branches les plus âgées et les rameaux mal placés ou en surnombre.",
+      "Sensibilité ": "les pucerons noirs, l'oïdium"
+    },
+    {
+      "Nom": "Camélia",
+      "N. scientifique ": "Camellia",
+      "Famille ": "Théacées",
+      "Origine ": "Asie",
+      "Floraison": "hiver, début du printemps, variable selon les espèces et les variétés",
+      "Fleurs ": [
+        "     ",
+        "   rouge, rose "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 1,5 à 5 m selon les espèces",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  jusqu'à -20°C pour certaines variétés en pleine terre, -5°C en pot, les camélias à fleurs simple sont souvent plus résistant au gel "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre, orientation nord-ouest idéale, évitez les vents froids "
+      ],
+      "Sol": "terre de bruyère enrichie de compost bien décomposé, frais, bien drainé",
+      "Acidité ": "pas trop acide, non calcaire",
+      "Humidité ": "maintenir le sol frais toute l'année",
+      "Utilisation": "isolé, haie libre, massif, bac",
+      "Plantation": "automne, printemps",
+      "Multiplication": "bouturage",
+      "Taille": "Taille facultative après la floraison. Se pratique pour rajeunir un pied ou pour former un jeune pied.",
+      "Sensibilité ": "Les taches foliaires, les cochenilles"
+    },
+    {
+      "Nom": "Bruyère du Cap",
+      "N. scientifique ": "Erica x hiemalis",
+      "Famille ": "Ericacées",
+      "Origine ": "horticole",
+      "Floraison": "novembre à mars",
+      "Fleurs ": [
+        "     ",
+        "   blanche à rose "
+      ],
+      "Type": "arbuste",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "40 à 60 cm",
+      "Rusticité ": [
+        "  ",
+        "  moyennement rustique -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "limoneux et sableux, terre de bruyère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "méditerranéenne, intérieur, véranda",
+      "Plantation": "printemps, automne",
+      "Multiplication": "boutures"
+    },
+    {
+      "Nom": "Bruyère blanche, Bruyère en arbre",
+      "N. scientifique ": "Erica arborea",
+      "Famille ": "Ericacées",
+      "Origine ": "Europe occidentale, Afrique du nord, Asie",
+      "Floraison": "mars à mai",
+      "Fleurs ": [
+        "     ",
+        "   blanche, rosée "
+      ],
+      "Type": "arbuste",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 4 m",
+      "Rusticité ": "   moyennement rustique, -9°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "siliceux et léger, terre de bruyère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal, drainant",
+      "Utilisation": "massif, lisière",
+      "Plantation": "printemps",
+      "Multiplication": "boutures, semis"
+    },
+    {
+      "Nom": "Arbre de fer, Parrotie de Perse",
+      "N. scientifique ": "Parrotia persica",
+      "Famille ": "Hamamélidacées",
+      "Origine ": "Iran du nord",
+      "Floraison": "février-mars",
+      "Fleurs ": [
+        "     ",
+        "   fleurs rouges sans pétales "
+      ],
+      "Type": "arbuste",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 5 à 10 m de haut en 20 à 30 ans",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  Très rustique, -25°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "profond, riche en humus",
+      "Acidité ": "plutôt acide, survit dans un sol calcaire",
+      "Humidité ": "frais",
+      "Utilisation": "isolé, massif, bac",
+      "Plantation": "automne",
+      "Multiplication": "semis difficile et long, greffage, marcottage ou bouturage",
+      "Taille": "aucune taille, ni aucun traitement ne sont nécessaires",
+      "Sensibilité ": "Très résistant aux maladies et aux parasites"
+    },
+    {
+      "Nom": "Noisetier d'hiver parfumé, Faux noisetier, Corylopsis parfumé",
+      "N. scientifique ": "Corylopsis glabrescens",
+      "Famille ": "Hamamélidacées",
+      "Origine ": "Japon, Chine",
+      "Floraison": "février, mars",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "petit arbre à floraison hivernale",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 5 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, -28 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillé à mi-ombre "
+      ],
+      "Sol": "humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais et drainant",
+      "Utilisation": "en isolé, en massif",
+      "Plantation": "automne, printemps",
+      "Multiplication": "boutures, marcottage, semis"
+    }
+  ]
+}
