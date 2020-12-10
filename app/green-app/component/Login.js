@@ -28,7 +28,7 @@ class Login extends React.Component {
                         />
                 </View>
                 <View style={{marginTop: 20, flexDirection: 'row', justifyContent: 'center'}}>
-                    <TextInput
+                    <TextInput 
                     placeholder="  password"
                     caretHidden
                     style={{ width: "60%", borderWidth: 1, borderRadius: 15, padding: 5}}
