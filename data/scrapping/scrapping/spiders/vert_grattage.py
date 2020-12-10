@@ -44,13 +44,16 @@ class QuotesSpider(scrapy.Spider):
         for url in base_urls:
             yield scrapy.Request(url=url, callback=self.parseFromCategories, meta={'url_name': url.split('/')[-1][:-4]})
 
+    def parseDataFromTab(self, tab):
+        tab = [str(elem.extract()).strip() for elem in tab if str(elem.extract()).strip()]
+        return tab if (len(tab) > 1) else tab[0]
+
     def parseFromCategories(self, response):
         # Creates a dict with the plan type in it
         self.parent_dict = dict({
             'category': response.css('div#centercontentpage').xpath('./child::h1/text()')[0].extract(),
             'data': []
         })
-
         # File to fill
         fname = response.meta.get('url_name') + '.json'
         if (fname == '.json'): return
@@ -58,7 +61,6 @@ class QuotesSpider(scrapy.Spider):
             'category': response.css('div#centercontentpage').xpath('./child::h1/text()')[0].extract(),
             'data': []
         }, fname)
-
         # Get all links in the current page
         plant_links = response.css('ul.rubrique').xpath('./child::li/a/@href').extract()
         for l in plant_links:
@@ -68,8 +70,8 @@ class QuotesSpider(scrapy.Spider):
     def parseFromPlant(self, response):
         fname = response.meta.get('fname')
         parent_dict = json.loads(open(fname).read())
-
         article = response.css('article')
+
         d = dict({
             'Nom': article.xpath('./child::h1/text()')[0].extract(),
             'ImgUrl': article.xpath('./child::figure/picture/img/@src')[0].extract()
@@ -82,6 +84,6 @@ class QuotesSpider(scrapy.Spider):
                 tab = n.xpath('./following-sibling::span/text()')
                 if (len(tab) == 0):
                     tab = n.xpath('./following-sibling::span/*/text()')
-                d[str(n.xpath('./text()').extract()[0])] = tab.extract() if len(tab) > 1 else tab[0].extract()
+                d[str(n.xpath('./text()').extract()[0]).strip()] = self.parseDataFromTab(tab)
         parent_dict['data'].append(d)
         self.write_json_to_file(parent_dict, fname)
