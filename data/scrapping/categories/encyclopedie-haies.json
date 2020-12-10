@@ -2,40 +2,8 @@
   "category": "Plantes de haie",
   "data": [
     {
-      "Nom": "Noisetier (Noisette), Coudrier, Avelinier",
-      "N. scientifique ": "Corylus avellana",
-      "Famille ": "Bétulacées",
-      "Origine ": "Europe, Asie mineure, Algérie",
-      "Floraison": "les chatons apparaissent en plein hiver, quelques semaines avant les glomérules qui sont les fleurs femelles",
-      "Fleurs ": [
-        "     ",
-        "   chatons mâles jaunes "
-      ],
-      "Type": "arbuste de moyen développement",
-      "Végétation": "arbustive",
-      "Feuillage ": "caduc",
-      "Hauteur": "2 à 5 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique jusqu'à -18 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "très tolérant",
-      "Acidité ": "légèrement acide à basique",
-      "Humidité ": "normal",
-      "Utilisation": "en isolé, par paire, en haie, en bosquet, culture fruitière",
-      "Plantation": "automne jusqu'à mars",
-      "Multiplication": "bouturage en novembre, prélèvement de drageons, marcottage, semis mais les noisettes obtenues sont plus petites qu'une obtention par bouturage ou marcottage",
-      "Taille": "Un éclaircissage peut être pratiqué régulièrement pour aérer le pied. En fin d'automne, coupez les branches génantes.",
-      "Sensibilité ": "les larves du balanin ou ver des noisettes"
-    },
-    {
       "Nom": "Groseillier à maquereau (Groseille)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ribes-grossularia-600x450.jpg",
       "N. scientifique ": "Ribes grossularia",
       "Synonyme ": "Ribes uva crispa",
       "Famille ": "Grossulariacées",
@@ -71,6 +39,7 @@
     },
     {
       "Nom": "Groseillier à grappes (Groseille)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ribes-rubrum-fruit-600x450.jpg",
       "N. scientifique ": "Ribes rubrum",
       "Famille ": "Grossulariacées",
       "Origine ": "Europe, afrique du nord",
@@ -104,74 +73,8 @@
       "Sensibilité ": "les pucerons, l'oïdium, la tenthrède du groseillier qui est une chenille"
     },
     {
-      "Nom": "Grenadier (Grenade), Grenadier d'ornement",
-      "N. scientifique ": "Punica granatum",
-      "Famille ": "Punicacées",
-      "Origine ": "Asie, Iran, Inde",
-      "Floraison": "de mai à août",
-      "Fleurs ": [
-        "     ",
-        "   rouge "
-      ],
-      "Type": "arbuste à fruits",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "de 3 à 8 m selon les variétés",
-      "Toxicité": "les fruits sont comestibles pour certaines variétés",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  -12°C, rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil, à protéger des vents froids "
-      ],
-      "Sol": "drainé, frais",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "verger, haie libre, isolé, bac",
-      "Plantation": "février, mars ou à l'automne",
-      "Multiplication": "semis, bouturage en août",
-      "Taille": "supporte mal la taille"
-    },
-    {
-      "Nom": "Goyavier ananas, Goyavier du Brésil, Goyavier de Montevideo",
-      "N. scientifique ": "Feijoa sellowiana, Acca sellowiana",
-      "Synonyme ": "Acca sellowiana",
-      "Famille ": "Myrtacées",
-      "Origine ": "Uruguay, Paraguay, sud du Brésil, nord de l'Argentine",
-      "Floraison": "mai, juin",
-      "Fleurs ": [
-        "     ",
-        "   Fleur blanche aux étamines rouges "
-      ],
-      "Type": "arbuste fruitier",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 3 à 6 m",
-      "Toxicité": "fruits comestibles",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  -10°C, à protéger dans les régions aux hivers rigoureux ou à cultiver en bac "
-      ],
-      "Exposition ": [
-        "  ",
-        "  plein soleil "
-      ],
-      "Sol": "bien drainé, riche, argileux, léger",
-      "Acidité ": "neutre à acide, calcaire accepté",
-      "Humidité ": "normal",
-      "Utilisation": "isolé, haie libre, jardin fruitier, bac, bonsaï",
-      "Plantation": "printemps",
-      "Multiplication": "semis au printemps, bouturage en août, greffage",
-      "Taille": "en mars-avril, rabattez votre Feijoa pour conserver une touffe compacte. Pincez les jeunes plants pour obtenir une bonne ramification",
-      "Sensibilité ": "les cochenilles"
-    },
-    {
       "Nom": "Goji, Lyciet de chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lycium-chinense-600x450.jpg",
       "N. scientifique ": "Lycium chinense",
       "Synonyme ": "Lycium chinensis",
       "Famille ": "Solanacées",
@@ -200,6 +103,7 @@
     },
     {
       "Nom": "Goji, Lyciet de Barbarie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/lycium-barbarum-fruit-600x450.jpg",
       "N. scientifique ": "Lycium barbarum",
       "Synonyme ": "Lycium halimifolium",
       "Famille ": "Solanacées",
@@ -236,6 +140,7 @@
     },
     {
       "Nom": "Cornouiller mâle, Cornouille sauvage, Cormier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/cornus-mas-600x450.jpg",
       "N. scientifique ": "Cornus mas",
       "Famille ": "Cornacées",
       "Origine ": "Europe",
@@ -268,6 +173,7 @@
     },
     {
       "Nom": "Cassissier (Cassis)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ribes-nigrum-fruit-600x450.jpg",
       "N. scientifique ": "Ribes nigrum",
       "Famille ": "Grossulariacées",
       "Origine ": "Nord de l'Europe et de l'Asie",
@@ -300,39 +206,8 @@
       "Sensibilité ": "l'anthracnose, oïdium, la jaunisse, les pucerons."
     },
     {
-      "Nom": "Amélanchier à feuilles d'aulne, Amélanchier fruitier",
-      "N. scientifique ": "Amelanchier alnifolia",
-      "Famille ": "Rosacées",
-      "Origine ": "Amérique du Nord",
-      "Floraison": "avril, mai",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "arbuste décoratif à fruits comestibles",
-      "Végétation": "arborée",
-      "Feuillage ": "caduc",
-      "Hauteur": "4,5  m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -30 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "légèrement acide à neutre",
-      "Humidité ": "normal à légèrement humide",
-      "Utilisation": "isolé en petit arbre parasol ou multi-tronc, en haie, en fourré fruitier",
-      "Plantation": "printemps, automne",
-      "Multiplication": "bouture, semis"
-    },
-    {
       "Nom": "Sureau noir",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sambucus-nigra-600x450.jpg",
       "N. scientifique ": "Sambucus nigra",
       "Famille ": "Caprifoliacées",
       "Origine ": "Europe, Afrique du nord, Asie mineure",
@@ -362,6 +237,7 @@
     },
     {
       "Nom": "Citronnier épineux",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/poncirus-trifoliata-600x450.jpg",
       "N. scientifique ": "Poncirus trifoliata",
       "Famille ": "Rutacées",
       "Origine ": "Corée, nord de la Chine",
@@ -392,7 +268,64 @@
       "Sensibilité ": "cochenilles, maladies cryptogamiques"
     },
     {
+      "Nom": "Genévrier commun, Genièvre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/juniperus-communis-fruit-600x450.jpg",
+      "N. scientifique ": "Juniperus communis",
+      "Famille ": "Cupressacées",
+      "Origine ": "Europe, Amérique du nord, Asie",
+      "Floraison": "avril, mai",
+      "Fleurs ": "        insignifiante ",
+      "Type": "conifère",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "4m, rarement jusqu'à 10 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique jusqu'à -29°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à basique",
+      "Humidité ": "humide à sec",
+      "Utilisation": "massif, rocaille",
+      "Plantation": "automne",
+      "Multiplication": "bouture, marcottage, greffe, semis"
+    },
+    {
+      "Nom": "Cyprès de Lawson, Faux cyprès",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/chamaecyparis-lauwsoniana-cv-ellwoodii-600x450.jpg",
+      "N. scientifique ": "Chamaecyparis lawsoniana",
+      "Famille ": "Cupressacées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "mars à avril",
+      "Fleurs ": [
+        "     ",
+        "   vert "
+      ],
+      "Type": "conifère",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 30 m pour l'espèce type",
+      "Rusticité ": "   rustique, -21°C ",
+      "Exposition ": [
+        "  ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "tolérant",
+      "Humidité ": "frais à sec",
+      "Utilisation": "arbuste isolé, ou en massif, haie",
+      "Plantation": "mi-septembre à mi-novembre",
+      "Multiplication": "semis, bouturage "
+    },
+    {
       "Nom": "Raphiolépide de l'Inde",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/rhaphiolepis-indica-600x450.jpg",
       "N. scientifique ": "Rhaphiolepis indica",
       "Synonyme ": "Raphiolepis indica",
       "Famille ": "Rosacées",
@@ -425,6 +358,7 @@
     },
     {
       "Nom": "Pittospore du Japon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/pittosporum-tobira-fleur-600x450.jpg",
       "N. scientifique ": "Pittosporum tobira",
       "Famille ": "Pittosporacées",
       "Origine ": "Chine, Corée, Japon",
@@ -454,7 +388,40 @@
       "Sensibilité ": "les araignées rouges en serre"
     },
     {
+      "Nom": "Filaire à feuilles étroites",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/phillyrea-angustifolia-600x450.jpg",
+      "N. scientifique ": "Phillyrea angustifolia",
+      "Famille ": "Apocynacées",
+      "Origine ": "Europe du sud et nord de l'Afrique",
+      "Floraison": "mars à mai",
+      "Fleurs ": [
+        "     ",
+        "   blanches "
+      ],
+      "Type": "plante méditerranéenne",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 4 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "léger et drainant",
+      "Acidité ": "tolérant",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, potée",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouturage"
+    },
+    {
       "Nom": "Arbousier (Arbouse), Arbre aux fraises",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/arbutus-unedo-fruit-600x450.jpg",
       "N. scientifique ": "Arbutus unedo",
       "Famille ": "Ericacées",
       "Origine ": "Bassin méditerranéen",
@@ -486,7 +453,106 @@
       "Sensibilité ": "résistant aux maladies"
     },
     {
+      "Nom": "Viorne lantane, Viorne cotonneuse, Viorne mansienne",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/viburnum-lantana-600x450.jpg",
+      "N. scientifique ": "Viburnum lantana",
+      "Famille ": "Caprifoliacées",
+      "Origine ": "Europe, Asie de l'ouest",
+      "Floraison": "mai",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "4 à 5 m",
+      "Toxicité": "les baie sont toxiques",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "drainé, riche",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "haie libre, isolé",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis, bouturage en été",
+      "Taille": "coupez les fleurs fanées, taillez après la floraison pour lui conserver une forme compacte",
+      "Sensibilité ": "les taches noires, les pucerons, les charançons"
+    },
+    {
+      "Nom": "Laurier rose",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/nerium-oleander-fleur-600x450.jpg",
+      "N. scientifique ": "Nerium oleander",
+      "Famille ": "Apocynacées",
+      "Origine ": "Afrique du nord",
+      "Floraison": "tout l'été",
+      "Fleurs ": "        blanc, rose, rouge, saumon, jaune, fuchsia ",
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 4m",
+      "Toxicité": "C'est une des plante les plus dangereuses de nos régions. Feuilles, fleurs, écorce et bois, frais ou séchés, sont toxiques à très faible dose. On considère quune seule feuille peut être mortelle pour lhomme.",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -6°C, jusqu'à -10°C pour les variétés les plus rustiques "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "léger et drainant",
+      "Acidité ": "neutre à légèrement acide",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, haie libre, en bac en dehors d'un climat méditerranéen",
+      "Plantation": "printemps",
+      "Multiplication": "bouturage en eau ou en terre en prélevant une pousse d'une dizaine de centimètres non fleurie en juillet ou en août",
+      "Taille": "Après la floraison, rabattez de moitié les rameaux ayant fleuris. Ça lui redonnera une forme plus dense. Une année sur deux, taillez une branche sur cinq à 40 cm du sol pour que la base soit toujours garnie. La floraison est moindre après une taille sévère qui aura lieu de préférence à la fin de l'hiver si nécessaire",
+      "Sensibilité ": "la pourriture, le chancre, la galle bactérienne (boursouflures grises), l'Ascochita, le puceron noir et jaune, le thrips et les cochenilles"
+    },
+    {
+      "Nom": "Bambou noir",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/phyllostachys-nigra-600x450.jpg",
+      "N. scientifique ": "Phyllostachys nigra",
+      "Synonyme ": "Bambusa nigra",
+      "Famille ": "Poacées, Graminées",
+      "Origine ": "Chine",
+      "Floraison": "espèce monocarpique",
+      "Fleurs ": "        insignifiante ",
+      "Type": "bambou, graminée",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "6 à 7 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à - 20°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre légère "
+      ],
+      "Sol": "sol meuble",
+      "Acidité ": "acide à légèrement basique",
+      "Humidité ": "normal",
+      "Utilisation": "massif, haie",
+      "Plantation": "printemps, fin d'été, automne",
+      "Multiplication": "division, semis"
+    },
+    {
       "Nom": "Plante du pêcheur, Diosmè hirsute, Buchu",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/diosma-ericoides-cv-pink-fountain-600x450.jpg",
       "N. scientifique ": "Diosma",
       "Synonymes ": "Diosma hirsuta, Diosma rubra",
       "Famille ": "Rutacées",
@@ -520,6 +586,7 @@
     },
     {
       "Nom": "Lavande, Lavandin",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/lavandula-stoechas-fleur-600x450.jpg",
       "N. scientifique ": "Lavandula",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Bassin méditerranéen, îles Canaries, Afrique du nord, Inde, Asie du sud-est",
@@ -557,6 +624,7 @@
     },
     {
       "Nom": "Lantanier, Mille fleurs, Corbeille d'or",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/lantana-camara-fleur-600x450.jpg",
       "N. scientifique ": "Lantana camara",
       "Famille ": "Verbénacées",
       "Origine ": "Régions tropicales d'Amérique Centrale, Amérique du Sud et d'Afrique",
@@ -592,7 +660,144 @@
       "Sensibilité ": "la mouche blanche en intérieur"
     },
     {
+      "Nom": "Fusain du Japon, Fusain vert",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/euonymus-japonicus-cv-aurea-600x450.jpg",
+      "N. scientifique ": "Euonymus japonicus",
+      "Famille ": "Célastracées",
+      "Origine ": "Asie",
+      "Floraison": "mai à juin",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste ornemental",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "3 à 3,50 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "argilo-limoneux",
+      "Acidité ": "légèrement acide à neutre, voire alcalin",
+      "Humidité ": "normal à sec",
+      "Utilisation": "haie, massif, isolé",
+      "Plantation": "automne jusqu'à mars",
+      "Multiplication": "boutures, semis"
+    },
+    {
+      "Nom": "Cognassier du Japon, Cognassier à fleurs, Poirier du Japon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/chaenomeles-fleur-600x450.jpg",
+      "N. scientifique ": "Chaenomeles",
+      "Famille ": "Rosacées",
+      "Origine ": "Asie",
+      "Floraison": "de février à avril avant l'apparition du feuillage",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   blanc, rose, rouge "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 2 à 6 m",
+      "Toxicité": "des fruits décoratifs qui sont comestibles une fois cuit. Ils sont utilisés pour faire des confitures ou pour réaliser des liqueurs. On réalise également des parfums à partir du fruit qui est très odorant, c'est \"l'essence de Cananga\".",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  Parfaitement rustiques, ils supportent jusqu'à - 25 °C. Très résistants à la pollution atmosphérique, ils sont indiqués pour dans les jardins de ville et sur les balcons. "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre, de préférence à l'est "
+      ],
+      "Sol": "tout type de sol, bien drainé",
+      "Acidité ": "neutre, calcaire accepté",
+      "Humidité ": "normal",
+      "Utilisation": "haie libre, haie défensive, massif, bonsaï, bac",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis après avoir fait stratifier les graines, séparation des drageons, boutures à talon de 10 cm de long, prélevées sur des pousses latérales en août, utilisez de l'hormone de bouturage pour améliorer vos chances de succès, vous conserverez la bouture à l'intérieur",
+      "Taille": "La taille se pratique après la floraison en juin et en septembre, de façon à éliminer les rameaux en surnombre et pour dégager le centre de l'arbre.",
+      "Sensibilité ": "la tavelure, les pucerons, le feu bactérien, traitez préventivement à la bouillie bordelaise au printemps et en automne au moment de la chute des feuilles"
+    },
+    {
+      "Nom": "Chèvrefeuille arbustif à feuilles de buis, Chèvrefeuille brillant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lonicera-nitida-600x450.jpg",
+      "N. scientifique ": "Lonicera nitida",
+      "Famille ": "Caprifoliacées",
+      "Origine ": "Chine",
+      "Floraison": "printemps",
+      "Fleurs ": "        blanchâtre ",
+      "Type": "arbuste cultivé pour son  feuillage",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 2 m",
+      "Toxicité": "les fruits provoquent des désordres digestifs",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -17°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "moyennement acide à moyennement alcalin",
+      "Humidité ": "normal à humide",
+      "Utilisation": "couvre-sol, en haie, sur un grillage, art topiaire",
+      "Plantation": "automne",
+      "Multiplication": "bouturage très facile, semis",
+      "Sensibilité ": "pucerons"
+    },
+    {
+      "Nom": "Buis",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/buxus-sempervirens-boule-600x450.jpg",
+      "N. scientifique ": "Buxus sempervirens",
+      "Famille ": "Buxacées",
+      "Origine ": "Bassin méditerranéen",
+      "Floraison": "avril",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "arbuste",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 5 m, de croissance très lente",
+      "Toxicité": " le buis est toxique, il contient des alcaloïdes provoquant des vomissements, des nausées, des diarrhées et des tremblements",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "sols riches, bien drainés, de préférence argilo-siliceux",
+      "Acidité ": "normal, calcaire, légèrement acide",
+      "Humidité ": "normal, sec",
+      "Utilisation": "haie taillée, bordure",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouturage",
+      "Taille": "au moins une taille en été, utilisez des formes en fil de fer pour les petites scultures végétales",
+      "Sensibilité ": "la cécidomye"
+    },
+    {
       "Nom": "Thuya géant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/thuja-plicata-cv-zebrina-extra-gold-600x450.jpg",
       "N. scientifique ": "Thuja plicata",
       "Synonyme ": "Thuya gigantea",
       "Famille ": "Cupressacées",
@@ -622,6 +827,7 @@
     },
     {
       "Nom": "Thuya d'Occident, Thuya du Canada, Cèdre blanc",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/thuja-occidentalis-cv-aurea-nana-600x450.jpg",
       "N. scientifique ": "Thuja occidentalis",
       "Famille ": "Cupressacées",
       "Origine ": "Amérique du Nord",
@@ -649,7 +855,43 @@
       "Multiplication": "semis, marcotte, bouture"
     },
     {
+      "Nom": "Laurier cerise, Laurier palme, Laurier amande",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/prunus-laurocerasus-fleur-600x450.jpg",
+      "N. scientifique ": "Prunus laurocerasus",
+      "Famille ": "Rosacées",
+      "Origine ": "Europe",
+      "Floraison": "avril",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 6 à 8 m",
+      "Toxicité": "baies toxiques",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "ordinaire, riche en humus",
+      "Acidité ": "neutre à légèrement acide",
+      "Humidité ": "normal, frais",
+      "Utilisation": "haie taillée, isolé",
+      "Plantation": "automne",
+      "Multiplication": "bouturage",
+      "Taille": "Une taille au printemps et à l'automne, a l'aide de cisailles, sont préférables pour contenir la pousse vigoureuse",
+      "Sensibilité ": "les pucerons, les chenilles"
+    },
+    {
       "Nom": "If commun",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/taxus-baccata-topiaire-600x450.jpg",
       "N. scientifique ": "Taxus baccata",
       "Famille ": "Taxacées",
       "Origine ": "Europe, Afrique du nord, Proche Orient",
@@ -684,6 +926,7 @@
     },
     {
       "Nom": "Cyprès de Leyland",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/x-cupressocyparis-leylandii-600x450.jpg",
       "N. scientifique ": "X Cupressus leylandii",
       "Synonyme ": "X Cupressocyparis leylandii",
       "Famille ": "Cupressacées",
@@ -715,7 +958,437 @@
       "Plantation": "mi-septembre à mi-novembre, mars-avril"
     },
     {
+      "Nom": "Bambou",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/fargesia-angustissima-600x450.jpg",
+      "N. scientifique ": "Fargesia angustissima",
+      "Famille ": "Poacées, Graminées",
+      "Origine ": "Chine",
+      "Floraison": "été",
+      "Fleurs ": "        insignifiante ",
+      "Type": "bambou, graminée",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "4 à 7 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée à ombre légère "
+      ],
+      "Sol": "de sableux à argileux",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal",
+      "Utilisation": "massif, haie",
+      "Plantation": "printemps"
+    },
+    {
+      "Nom": "Troène du Texas",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/ligustrum-texanum-600x450.jpg",
+      "N. scientifique ": "Ligustrum japonicum 'Texanum'",
+      "Synonyme ": "Ligustrum texanum",
+      "Famille ": "Oléacées",
+      "Origine ": "horticole",
+      "Floraison": "juin",
+      "Fleurs ": [
+        "     ",
+        "   beige rosé "
+      ],
+      "Type": "arbuste ornemental",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "3,50 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -17°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        " ",
+        "  ensoleillée à ombre "
+      ],
+      "Sol": "sol lourd argileux, très tolérant",
+      "Acidité ": "indifférent",
+      "Humidité ": "sec à frais",
+      "Utilisation": "haie, arbuste isolé, art topiaire",
+      "Plantation": "automne jusqu'à mars",
+      "Multiplication": "bouturage"
+    },
+    {
+      "Nom": "Troène de Californie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ligustrum-ovalifolium-cv-aureum-600x450.jpg",
+      "N. scientifique ": "Ligustrum ovalifolium",
+      "Famille ": "Oléacées",
+      "Origine ": "Japon",
+      "Floraison": "juillet",
+      "Fleurs ": [
+        "     ",
+        "   beige rosé "
+      ],
+      "Type": "arbuste ornemental",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant à semi-persistant",
+      "Hauteur": "3,50 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre "
+      ],
+      "Sol": "sol lourd argileux, très tolérant",
+      "Acidité ": "indifférent",
+      "Humidité ": "sec à frais",
+      "Utilisation": "haie, arbre isolé",
+      "Plantation": "automne jusqu'à mars",
+      "Multiplication": "bouturage"
+    },
+    {
+      "Nom": "Symphorine rose, Arbre à perles roses, Symphorine de Doorenbos",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/symphoricarpos-x-doorenbosii-cv-mother-of-pearl-600x450.jpg",
+      "N. scientifique ": "Symphoricarpos x doorenbosii 'Mother of Pearl'",
+      "Famille ": "Caprifoliacées",
+      "Origine ": "horticole",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanc et rose "
+      ],
+      "Type": "arbuste ornemental pour ses fruits",
+      "Végétation": "arbustive",
+      "Feuillage ": "caduc",
+      "Hauteur": "90 cm à 1,80 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -25 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombragée "
+      ],
+      "Sol": "très tolérant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "massif, haie, maintien des pentes, couvre-sol haut",
+      "Plantation": "automne, printemps",
+      "Multiplication": "bouture, semis, drageon"
+    },
+    {
+      "Nom": "Symphorine blanche, Symphorine commune, Arbre aux perles",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/symphoricarpos-albus-600x450.jpg",
+      "N. scientifique ": "Symphoricarpos albus",
+      "Synonymes ": "Symphoricarpos racemosus, Symphoricarpos rivularis",
+      "Famille ": "Caprifoliacées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   blanc rosé "
+      ],
+      "Type": "arbuste ornemental pour ses fruits",
+      "Végétation": "arbustive",
+      "Feuillage ": "caduc",
+      "Hauteur": "90 cm à 1,80 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -39 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        " ",
+        "  ensoleillée à ombragée "
+      ],
+      "Sol": "très tolérant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "massif, haie, maintien des pentes, haut couvre-sol",
+      "Plantation": "automne, printemps",
+      "Multiplication": "bouture, semis, drageon"
+    },
+    {
+      "Nom": "Houx",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ilex-600x450.jpg",
+      "N. scientifique ": "Ilex",
+      "Famille ": "Aquifoliacées",
+      "Origine ": "Europe, Amérique du nord",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 2 à 8 m de hauteur selon les expèces, croissance assez lente",
+      "Toxicité": " fruits toxiques",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "ordinaire, léger",
+      "Acidité ": "de préférence acide à neutre, calcaire accepté",
+      "Humidité ": "normal",
+      "Utilisation": "isolée, haie, haie libre, bac, pot, massif",
+      "Plantation": "automne dans les régions au climat doux, printemps dans les autres régions",
+      "Multiplication": "bouturage en hiver",
+      "Taille": "Vous pouvez le rabattre au sécateur pour lui donner une forme élégante en juin et en septembre",
+      "Sensibilité ": "résistant aux maladies et aux insectes"
+    },
+    {
+      "Nom": "Fusain d'Europe",
+      "ImgUrl": "https://static.aujardin.info/cache/th/adb/euonymus-europaeus-600x450.jpg",
+      "N. scientifique ": "Euonymus europaeus",
+      "Famille ": "Célastracées",
+      "Origine ": "France, Europe, Sibérie",
+      "Floraison": "avril à mai",
+      "Fleurs ": [
+        "     ",
+        "   verdâtre "
+      ],
+      "Type": "arbuste indigène",
+      "Végétation": "arbustive",
+      "Feuillage ": "caduc",
+      "Hauteur": "2 à 6 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -25 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "un peu drainant, argileux à très calcaire",
+      "Acidité ": "légèrement acide a très basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "haie, massif, en isolé, bois pour fabriquer de petits outils, produit le fusain des dessinateurs",
+      "Plantation": "automne jusqu'à mars",
+      "Multiplication": "boutures, semis"
+    },
+    {
+      "Nom": "Eglantier, Rosier des chiens",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/rosa-canina-600x450.jpg",
+      "N. scientifique ": "Rosa canina",
+      "Famille ": "Rosacées",
+      "Origine ": "Europe, Asie et afrique du nord",
+      "Floraison": "d'avril à juillet",
+      "Fleurs ": "        roses ou blanches parfumées ",
+      "Type": "arbuste à fleurs et aux fruits décoratifs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 1 à 3 m",
+      "Toxicité": "fruit comestible et très riche en vitamines C",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "tout type de sol, plutôt riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "haie, isolé, massif",
+      "Plantation": "automne, printemps",
+      "Multiplication": "semis ou bouturage",
+      "Taille": "tailler au printemps si besoin",
+      "Sensibilité ": "résistant aux maladies"
+    },
+    {
+      "Nom": "Cotonéastre de Franchet, Cotonéaster de Franchet",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/cotoneaster-franchetii-600x450.jpg",
+      "N. scientifique ": "Cotoneaster franchetii",
+      "Synonyme ": "Cotoneaster amoenus",
+      "Famille ": "Rosacées",
+      "Origine ": "Chine, Tibet",
+      "Floraison": "avril, mai",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "arbuste à fructification ornementale",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "2 à 5 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -20 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant, riche ou pauvre",
+      "Acidité ": "indifférent, acide ou calcaire",
+      "Humidité ": "normal",
+      "Utilisation": "en isolé, haie, massif buissonnant, couvre-sol",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Cotonéaster de Parney, Cotonéastre laiteux",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/cotoneaster-lacteus-600x450.jpg",
+      "N. scientifique ": "Cotoneaster lacteus",
+      "Famille ": "Rosacées",
+      "Origine ": "Chine",
+      "Floraison": "avril, mai",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "arbuste décoratif à baies",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "2 à 4 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -17 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "indifférent",
+      "Humidité ": "normal",
+      "Utilisation": "en isolé, haie, massif buissonnant",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Cotonéaster à feuilles de saule",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/cotoneaster-salicifolius-600x450.jpg",
+      "N. scientifique ": "Cotoneaster salicifolius",
+      "Famille ": "Rosacées",
+      "Origine ": "Chine",
+      "Floraison": "juin",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "arbuste décoratif à baies",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "2 à 5 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -23 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "indifférent",
+      "Humidité ": "normal",
+      "Utilisation": "en isolé, haie, massif buissonnant, couvre-sol",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Buisson ardent",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/pyracantha-600x450.jpg",
+      "N. scientifique ": "Pyracantha",
+      "Famille ": "Rosacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "juin",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "5-6 m",
+      "Toxicité": " baies colorées oranges, jaunes ou rouges toxiques",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  -15 à -20 °C, selon les cultivars "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche en humus, bien drainé",
+      "Acidité ": "neutre, calcaire accepté",
+      "Humidité ": "normal",
+      "Utilisation": "haie taillée, haie défensive, arbuste palissé, topiaire",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis à l'automne sous chassis froid, bouturage en été",
+      "Taille": "supprimez les grappes de fruits au printemps. Taillez-le après sa floraison sévèrement pour une bonne ramification.",
+      "Sensibilité ": "feu bactérien, tavelure"
+    },
+    {
+      "Nom": "Boule de neige, Viorne obier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/viburnum-opulus-600x450.jpg",
+      "N. scientifique ": "Viburnum opulus",
+      "Famille ": "Caprifoliacées",
+      "Origine ": "Asie, Europe",
+      "Floraison": "mai, juin",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "4 m",
+      "Toxicité": "les baies rouges sont toxiques",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "haie libre, fond de massif, isolé",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis, bouturage, marcottage de printemps, prélèvement de drageons",
+      "Sensibilité ": "les pucerons noirs"
+    },
+    {
       "Nom": "Argousier, Bourdaine marine, Epine luisante, Griset, Faux-nerprun",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/hippophae-rhamnoides-600x450.jpg",
       "N. scientifique ": "Hippophae rhamnoides",
       "Famille ": "Éléagnacée",
       "Origine ": "Europe, Asie, Amérique",
@@ -744,6 +1417,40 @@
       "Utilisation": "maintien des dunes, ornemental, fruitier",
       "Plantation": "automne jusqu'à mars",
       "Multiplication": "boutures, semis, rejets"
+    },
+    {
+      "Nom": "Amélanchier de Lamarck",
+      "ImgUrl": "https://static.aujardin.info/cache/th/adb/amelanchier-lamarckii-600x450.jpg",
+      "N. scientifique ": "Amelanchier lamarckii",
+      "Synonymes ": "Amelanchier confusa, Amelanchier grandiflora",
+      "Famille ": "Rosacées",
+      "Origine ": "Amérique du Nord ou hybride",
+      "Floraison": "avril, mai",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste décoratif à fruits comestibles",
+      "Végétation": "arborée",
+      "Feuillage ": "caduc",
+      "Hauteur": "5 à 8 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -30 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "normal à légèrement humide",
+      "Utilisation": "isolé en petit arbre parasol ou multi-tronc",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, semis"
     }
   ]
 }

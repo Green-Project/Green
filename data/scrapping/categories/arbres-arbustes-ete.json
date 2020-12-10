@@ -2,412 +2,35 @@
   "category": "Arbres et arbustes d'été",
   "data": [
     {
-      "Nom": "Abélia Edouard Goucher",
-      "N. scientifique ": "Abelia x 'Edouard Goucher'",
-      "Famille ": "Caprifoliacées",
-      "Origine ": "horticole",
-      "Floraison": "fin de l'été",
+      "Nom": "Arbre de Franklin",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/franklinia-alatamaha-600x450.jpg",
+      "N. scientifique ": "Franklinia alatamaha",
+      "Famille ": "Théacées",
+      "Origine ": "Géorgie",
+      "Floraison": "fin de l’été",
       "Fleurs ": [
         "     ",
-        "   blanc rosé "
-      ],
-      "Type": "arbuste ornemental",
-      "Végétation": "arbustive",
-      "Feuillage ": "persistant",
-      "Hauteur": "1,80 m à 2,40 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique jusqu'à -18°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "légèrement acide à légèrement alcalin",
-      "Humidité ": "normal",
-      "Utilisation": "isolé, fond de massif, haie",
-      "Plantation": "automne, printemps",
-      "Multiplication": "bouturage"
-    },
-    {
-      "Nom": "Abélia de Chine",
-      "N. scientifique ": "Abelia chinensis",
-      "Synonymes ": "Abelia aschersoniana, A. cavaleriei,  A. chinensis var ionandra",
-      "Famille ": "Caprifoliacées",
-      "Origine ": "Chine",
-      "Floraison": "août à septembre",
-      "Fleurs ": [
-        "     ",
-        "   blanc, parfois rosé "
-      ],
-      "Type": "arbuste ornemental",
-      "Végétation": "arbustive",
-      "Feuillage ": "caduc à semi-persistant",
-      "Hauteur": "1 m à 2 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique jusqu'à -12°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "légèrement acide à légèrement alcalin",
-      "Humidité ": "normal",
-      "Utilisation": "isolé, fond de massif, haie",
-      "Plantation": "automne, printemps",
-      "Multiplication": "bouture, semis"
-    },
-    {
-      "Nom": "Abélia",
-      "N. scientifique ": "Abelia",
-      "Famille ": "Caprifoliacées",
-      "Origine ": "Asie",
-      "Floraison": "de mai aux gelées",
-      "Fleurs ": [
-        "     ",
-        "   rosée "
-      ],
-      "Type": "arbuste à fleurs",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "2 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "ordinaire, léger",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "haie taillée, haie libre, isolé",
-      "Plantation": "printemps, automne",
-      "Multiplication": "bouturage en juillet",
-      "Sensibilité ": "résistants aux ravageurs et aux maladies"
-    },
-    {
-      "Nom": "Tulipier de Virginie, Arbre aux lis",
-      "N. scientifique ": "Liriodendron tulipifera",
-      "Famille ": "Magnoliacées",
-      "Origine ": "sud et de est des États-Unis",
-      "Floraison": "juillet à août",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
+        "   blanche "
       ],
       "Type": "arbre à fleur",
       "Végétation": "vivace",
       "Feuillage ": "caduc",
-      "Hauteur": "30 à 40 m",
-      "Rusticité ": "   très rustique, -34°C ",
+      "Hauteur": "4 à 6 m",
+      "Rusticité ": "   rustique, -19°C ",
       "Exposition ": [
         "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
+        "  ensoleillée "
       ],
-      "Sol": "profond et fertile",
-      "Acidité ": "légèrement acide à basique",
-      "Humidité ": "sol normal à frais",
+      "Sol": "drainant, profond et fertile",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal, craint l’humidité",
       "Utilisation": "arbre isolé",
       "Plantation": "automne",
       "Multiplication": "semis, marcottage"
     },
     {
-      "Nom": "Robinier faux acacia, Carouge, Cassie",
-      "N. scientifique ": "Robinia pseudoacacia",
-      "Famille ": "Légumineuses, Fabacées, Papilionacées",
-      "Origine ": "Amérique du nord",
-      "Floraison": "mai à juillet",
-      "Fleurs ": [
-        "     ",
-        "   blanche, rouge pour certaines variétés "
-      ],
-      "Type": "arbre",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "10 à 25 m",
-      "Toxicité": "en dehors des fleurs, toutes les parties sont toxiques",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, -24°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "acide à basique",
-      "Humidité ": "normal",
-      "Utilisation": "ornementale, fleurs médicinales et comestibles, bois de qualité",
-      "Plantation": "printemps",
-      "Multiplication": "semis, rejets de souche, greffe"
-    },
-    {
-      "Nom": "Rhododendron auriculé",
-      "N. scientifique ": "Rhododendron auriculatum",
-      "Famille ": "Ericacées",
-      "Origine ": "Chine",
-      "Floraison": "juillet",
-      "Fleurs ": [
-        "     ",
-        "   blanche, parfois rosée "
-      ],
-      "Type": "petit arbre à fleurs",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 10 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -21 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "humifère",
-      "Acidité ": "légèrement acide à acide",
-      "Humidité ": "normal à frais",
-      "Utilisation": "en isolé, en massif",
-      "Plantation": "automne et printemps",
-      "Multiplication": "boutures, marcottage, semis"
-    },
-    {
-      "Nom": "Pavier blanc, Marronnier nain",
-      "N. scientifique ": "Aesculus parviflora",
-      "Synonyme ": "Aesculus macrostachya",
-      "Famille ": "Hippocastanacées",
-      "Origine ": "Etats-Unis",
-      "Floraison": "juillet",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "arbuste, petit arbre",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "3 à 5 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, -19°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "limono argileux, riche",
-      "Acidité ": "moyennement acide à moyennement basique",
-      "Humidité ": "frais",
-      "Utilisation": "massif, lisière, arbre isolé",
-      "Plantation": "printemps",
-      "Multiplication": "boutures, semis"
-    },
-    {
-      "Nom": "Magnolia d'été, Magnolia à grandes fleurs",
-      "N. scientifique ": "Magnolia grandiflora",
-      "Famille ": "Magnoliacées",
-      "Origine ": "Amérique du nord",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "   blanc-crème "
-      ],
-      "Type": "arbre",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 30 m selon les variétés",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  rustique, de -25°C à -30°C selon les variétés "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "riche en humus",
-      "Acidité ": "acide, pas de terre de bruyère pure car pauvre",
-      "Humidité ": "bien frais",
-      "Utilisation": "isolé",
-      "Plantation": "printemps",
-      "Multiplication": "semis, bouturage en septembre, marcottage",
-      "Taille": "Pas de taille nécessaire. Si une taille doit être faite, pratiquez-la après la floraison.",
-      "Sensibilité ": "résistant aux parasites et aux maladies"
-    },
-    {
-      "Nom": "Heptacodion de Chine, Arbre à 7 fleurs",
-      "N. scientifique ": "Heptacodium jasminoides",
-      "Synonyme ": "Heptacodium miconioides",
-      "Famille ": "Caprifoliacées",
-      "Origine ": "Chine",
-      "Floraison": "fin d'été",
-      "Fleurs ": [
-        "     ",
-        "   blanc rosé "
-      ],
-      "Type": "petit arbre ornemental",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "4 à 5 m, rarement 8",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique jusqu'à -34 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "à tendance argileuse ou sablonneuse",
-      "Acidité ": "acide à légèrement alcalin",
-      "Humidité ": "normal",
-      "Utilisation": "isolé, en  massif",
-      "Plantation": "automne, printemps",
-      "Multiplication": "bouture, semis"
-    },
-    {
-      "Nom": "Hortensia, Hydrangéa",
-      "N. scientifique ": "Hydrangea",
-      "Famille ": "Hydrangeacées, Philadelphacées",
-      "Origine ": "Amérique du nord, Japon",
-      "Floraison": "de juillet à septembre",
-      "Fleurs ": "        rose, rouge, bleu, blanc ",
-      "Type": "arbuste à fleurs",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "2 m",
-      "Toxicité": " toxique",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "   rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre, orientation nord-ouest idéale "
-      ],
-      "Sol": " riche en humus, 1/3 de terre de jardin avec 2/3 de terre pour plantes de terre de bruyère",
-      "Acidité ": "acide pour les variétés à fleurs bleues, neutre, non calcaire",
-      "Humidité ": "frais",
-      "Utilisation": "isolé, haie libre, isolé, massif, bac",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis en mars, bouturage de juillet à septembre",
-      "Taille": "Après les froids de mars enlevez les fleurs fanées. Vous pouvez rajeunir ou maîtriser la densité de vos hortensias en taillant vos plantes au printemps en rabattant au raz du sol les plus vieux rameaux. ",
-      "Sensibilité ": "les cochenilles, les acariens, l'oïdium, l'ascochyta ( taches noires sur les feuilles ), la pourriture grise ( feuilles et tiges couvertes d'un duvet gris )"
-    },
-    {
-      "Nom": "Hortensia YOU and ME 'Perfection'",
-      "N. scientifique ": "Hydrangea macrophylla YOU and ME 'Perfection'",
-      "Famille ": "Hydrangeacées, Philadelphacées",
-      "Origine ": "Japon",
-      "Floraison": "juillet à octobre",
-      "Fleurs ": [
-        "     ",
-        "   rose, bleu "
-      ],
-      "Type": "arbuste d'ornement",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "0,90 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, -30°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "humifère",
-      "Acidité ": "fortement acide à neutre",
-      "Humidité ": "frais à humide",
-      "Utilisation": "massif, lisière mi-ombre, bouquet",
-      "Plantation": "printemps",
-      "Multiplication": "bouture"
-    },
-    {
-      "Nom": "Hortensia velu, Hydrangéa velu",
-      "N. scientifique ": "Hydrangea villosa",
-      "Synonyme ": "Hydrangea aspera subsp villosa",
-      "Famille ": "Hydrangeacées, Philadelphacées",
-      "Origine ": "Asie",
-      "Floraison": "juin à août",
-      "Fleurs ": [
-        "     ",
-        "   violacée "
-      ],
-      "Type": "arbuste d'ornement",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "2 à 3 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, -24 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "humifère",
-      "Acidité ": "moyennement acide à légèrement basique",
-      "Humidité ": "frais à humide",
-      "Utilisation": "massif, lisière",
-      "Plantation": "printemps, fin d'été",
-      "Multiplication": "bouture, marcottage"
-    },
-    {
-      "Nom": "Hortensia nain",
-      "N. scientifique ": "Hydrangea involucrata",
-      "Famille ": "Hydrangeacées, Philadelphacées",
-      "Origine ": "Japon",
-      "Floraison": "juillet à octobre",
-      "Fleurs ": [
-        "     ",
-        "   bleutée "
-      ],
-      "Type": "arbuste d’ornement",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "0,80 à 1,20 m",
-      "Rusticité ": "   très rustique, -24°C ",
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "humifère",
-      "Acidité ": "moyennement acide à moyennement basique",
-      "Humidité ": "frais à humide",
-      "Utilisation": "massif, lisière mi-ombre",
-      "Plantation": "printemps, fin d’été",
-      "Multiplication": "bouture, marcottage"
-    },
-    {
       "Nom": "Tamaris d'été",
+      "ImgUrl": "https://static.aujardin.info/cache/th/adb/tamarix-ramosissima-600x450.jpg",
       "N. scientifique ": "Tamarix ramosissima",
       "Synonymes ": "Tamarix aestivali, Tamarix odessana",
       "Famille ": "Tamaricacées",
@@ -442,6 +65,7 @@
     },
     {
       "Nom": "Tamaris",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/tamarix-600x450.jpg",
       "N. scientifique ": "Tamarix",
       "Famille ": "Tamaricacées",
       "Origine ": "Asie, Europe",
@@ -474,6 +98,7 @@
     },
     {
       "Nom": "Spirée du Japon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/spiraea-x-bumalda-600x450.jpg",
       "N. scientifique ": "Spiraea japonica",
       "Famille ": "Rosacées",
       "Origine ": "Japon, Chine",
@@ -504,6 +129,7 @@
     },
     {
       "Nom": "Spirée bleue, Barbe bleue",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/caryopteris-600x450.jpg",
       "N. scientifique ": "Caryopteris",
       "Famille ": "Verbénacées",
       "Origine ": "Asie",
@@ -537,6 +163,7 @@
     },
     {
       "Nom": "Sorbier fausse spirée, Sorbaire à feuilles de sorbier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/sorbaria-sorbifolia-600x450.jpg",
       "N. scientifique ": "Sorbaria sorbifolia",
       "Synonymes ": "Schizonotus sorbifolius,  Spiraea sorbifolia",
       "Famille ": "Rosacées",
@@ -569,6 +196,7 @@
     },
     {
       "Nom": "Sauge germandrée, Sauge bleue du Mexique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/salvia-chamaedryoides-cv-silver-leaves-600x450.jpg",
       "N. scientifique ": "Salvia chamaedryoïdes",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Mexique et Texas",
@@ -599,6 +227,7 @@
     },
     {
       "Nom": "Sauge d’automne, Sauge de Gregg, Sauge du Texas",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/salvia-greggii-600x450.jpg",
       "N. scientifique ": "Salvia greggii",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Mexique et Texas",
@@ -627,6 +256,7 @@
     },
     {
       "Nom": "Sauge de Graham Hot Lips",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/salvia-microphylla-cv-hot-lips-600x450.jpg",
       "N. scientifique ": "Salvia microphylla 'Hot Lips'",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Mexique",
@@ -657,6 +287,7 @@
     },
     {
       "Nom": "Sauge de Graham",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/salvia-microphylla-fleur-600x450.jpg",
       "N. scientifique ": "Salvia microphylla",
       "Synonyme ": "Salvia grahamii",
       "Famille ": "Labiacées, Lamiacées, Labiées",
@@ -687,6 +318,7 @@
     },
     {
       "Nom": "Sauge à feuilles de serpolet, Sauge  de Graham violette",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/salvia-serpylifolia-600x450.jpg",
       "N. scientifique ": "Salvia serpyllifolia",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Mexique",
@@ -717,6 +349,7 @@
     },
     {
       "Nom": "Santoline petit-cyprès",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/santolina-chamaecyparissus-600x450.jpg",
       "N. scientifique ": "Santolina chamaecyparissus",
       "Famille ": "Astéracées, Composées",
       "Origine ": "bassin méditerranéen",
@@ -743,6 +376,7 @@
     },
     {
       "Nom": "Rosier rugueux, Rosier du Japon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/rosa-rugosa-fleur-600x450.jpg",
       "N. scientifique ": "Rosa rugosa",
       "Famille ": "Rosacées",
       "Origine ": "Chine, Japon, Corée",
@@ -777,6 +411,7 @@
     },
     {
       "Nom": "Rosier pimprenelle",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/rosa-pimpinellifolia-600x450.jpg",
       "N. scientifique ": "Rosa pimpinellifolia",
       "Synonyme ": "Rosa spinosissima",
       "Famille ": "Rosacées",
@@ -810,6 +445,7 @@
     },
     {
       "Nom": "Rosier paysager 'Vesuvia'",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/rosier-decorosier-vesuvia-600x450.jpg",
       "N. scientifique ": "Rosa x Décorosiers® 'VESUVIA'",
       "Synonyme ": "Rosa x 'Noare'",
       "Famille ": "Rosacées",
@@ -842,6 +478,7 @@
     },
     {
       "Nom": "Rosier musqué, Rose musquée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/rosa-moschata-600x450.jpg",
       "N. scientifique ": "Rosa moschata",
       "Synonymes ": "Rosa moschata var. nastarana, Rosa pissartii",
       "Famille ": "Rosacées",
@@ -874,6 +511,7 @@
     },
     {
       "Nom": "Rosier multiflore",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/rosa-multiflora-600x450.jpg",
       "N. scientifique ": "Rosa multiflora",
       "Famille ": "Rosacées",
       "Origine ": "Asie",
@@ -906,6 +544,7 @@
     },
     {
       "Nom": "Rosier du père Hugo, Rosier jaune de Chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/rosa-hugonis-600x450.jpg",
       "N. scientifique ": "Rosa hugonis",
       "Synonyme ": "Rosa Xanthina",
       "Famille ": "Rosacées",
@@ -939,6 +578,7 @@
     },
     {
       "Nom": "Rosier de Wichura",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/rosa-wichuraiana-600x450.jpg",
       "N. scientifique ": "Rosa wichuraiana",
       "Synonyme ": "Rosa luciae var wichuraiana",
       "Famille ": "Rosacées",
@@ -972,6 +612,7 @@
     },
     {
       "Nom": "Rosier de France",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/rosa-gallica-var-officinalis-600x450.jpg",
       "N. scientifique ": "Rosa gallica",
       "Famille ": "Rosacées",
       "Origine ": "Europe méridionale, Europe centrale et Asie",
@@ -1004,6 +645,7 @@
     },
     {
       "Nom": "Rosier de Chine changeant, Rose papillon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/rosa-chinensis-cv-mutabilis-600x450.jpg",
       "N. scientifique ": "Rosa chinensis 'Mutabilis'",
       "Synonymes ": "Rosa indica, Rosa chinensis var spontanea",
       "Famille ": "Rosacées",
@@ -1038,6 +680,7 @@
     },
     {
       "Nom": "Rosier de chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/rosa-chinensis-600x450.jpg",
       "N. scientifique ": "Rosa chinensis",
       "Synonymes ": "Rosa indica, Rosa chinensis var spontanea",
       "Famille ": "Rosacées",
@@ -1070,6 +713,7 @@
     },
     {
       "Nom": "Rosier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/rosa-fleur-600x450.jpg",
       "N. scientifique ": "Rosa",
       "Famille ": "Rosacées",
       "Origine ": "Asie",
@@ -1110,6 +754,7 @@
     },
     {
       "Nom": "Potentille arbustive",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/potentilla-fruticosa-fleur-600x450.jpg",
       "N. scientifique ": "Potentilla fruticosa",
       "Famille ": "Rosacées",
       "Origine ": "Hémisphère nord",
@@ -1141,6 +786,7 @@
     },
     {
       "Nom": "Poivre de Tasmanie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/drimys-aromatica-600x450.jpg",
       "N. scientifique ": "Tasmannia lanceolata",
       "Synonymes ": "Drimys lanceolata, Winterania lanceolata, Drimys aromatica",
       "Famille ": "Wintéracées",
@@ -1171,6 +817,7 @@
     },
     {
       "Nom": "Physocarpe, Bois aux sept écorces",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/physocarpus-opulifolius-fleur-600x450.jpg",
       "N. scientifique ": "Physocarpus",
       "Famille ": "Rosacées",
       "Origine ": "Asie de l'est, Amérique du nord",
@@ -1205,6 +852,7 @@
     },
     {
       "Nom": "Millepertuis inodore",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/hypercium-x-inodorum-cv-magical-beauty-600x450.jpg",
       "N. scientifique ": "Hypericum x inodorum",
       "Famille ": "Clusiacées, Guttifères",
       "Origine ": "hybride d'origine indéterminée",
@@ -1232,6 +880,7 @@
     },
     {
       "Nom": "Millepertuis",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/hypericum-arbustif-600x450.jpg",
       "N. scientifique ": "Hypericum",
       "Famille ": "Clusiacées, Guttifères",
       "Origine ": "Hémisphère nord",
@@ -1265,6 +914,7 @@
     },
     {
       "Nom": "Lilas de Perse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/syringa-x-persica-600x450.jpg",
       "N. scientifique ": "Syringa x persica",
       "Famille ": "Oléacées",
       "Origine ": "horticole",
@@ -1296,226 +946,8 @@
       "Multiplication": "boutures, semis, division de rejet"
     },
     {
-      "Nom": "Lespedeza de Thunberg",
-      "N. scientifique ": "Lespedeza thunbergii",
-      "Synonyme ": "Desmodium penduliflorum",
-      "Famille ": "Légumineuses, Fabacées, Papilionacées",
-      "Origine ": "Asie",
-      "Floraison": "d’août jusqu’aux gelées",
-      "Fleurs ": [
-        "     ",
-        "   pourpre "
-      ],
-      "Type": "plante semi-arbustive",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "1 à 2m",
-      "Rusticité ": "   rustique - 15°C ",
-      "Exposition ": [
-        "  ",
-        "  ensoleillée "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "normal",
-      "Utilisation": "massif, talus",
-      "Plantation": "printemps",
-      "Multiplication": "séparation des rejets, semis",
-      "Sensibilité ": "résistant aux maladies et peu sensible aux insectes"
-    },
-    {
-      "Nom": "Lavatère en arbre, Mauve en arbre",
-      "N. scientifique ": "Lavatera x",
-      "Famille ": "Malvacées",
-      "Origine ": "Bassin méditerranéen",
-      "Floraison": "été, automne",
-      "Fleurs ": [
-        "     ",
-        "   blanc, rose "
-      ],
-      "Type": "arbuste à fleurs, ou annuelle au port arbustif",
-      "Végétation": "vivace, annuelle, bisannuelle",
-      "Feuillage ": "caduc",
-      "Hauteur": "de 1,5 à 3 m ",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  -15°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "riche, léger, bien drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "normal, n'apprécie pas l'humidité",
-      "Utilisation": "isolé, haie libre, bac",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis à partir des graines récoltées, bouturage fin août, bouturage de rejet en juin",
-      "Taille": "Rabattre au printemps, en laissant deux ou trois yeux ou à environ 50 cm du sol.",
-      "Sensibilité ": "pourriture de la souche en hiver, rouille"
-    },
-    {
-      "Nom": "Laurier rose 'Villa Romaine'",
-      "N. scientifique ": "Nerium oleander 'Villa Romaine'",
-      "Famille ": "Apocynacées",
-      "Origine ": "Afrique du nord",
-      "Floraison": "tout l’été",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "plante méditerranéenne",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "150 à 250 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique jusqu’à -15°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "léger et drainant",
-      "Acidité ": "tolérant",
-      "Humidité ": "normal à sec",
-      "Utilisation": "massif, potée",
-      "Plantation": "printemps",
-      "Multiplication": "bouturage"
-    },
-    {
-      "Nom": "Laurier d'Amérique, Laurier de montagnes",
-      "N. scientifique ": "Kalmia latifolia",
-      "Famille ": "Ericacées",
-      "Origine ": "Amérique du nord",
-      "Floraison": "juin, juillet",
-      "Fleurs ": [
-        "     ",
-        "   blanche à rose "
-      ],
-      "Type": "arbuste d'ornement",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1m",
-      "Toxicité": "toute les parties de la plante sont toxiques",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique jusqu'à - 27°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "riche et drainant",
-      "Acidité ": "acide",
-      "Humidité ": "frais",
-      "Utilisation": "massif, pourtour de bassin, sous-bois",
-      "Plantation": "printemps, automne",
-      "Multiplication": "bouture, marcottage, semis"
-    },
-    {
-      "Nom": "Indigotier, Indigo rose, Indigo de Chine",
-      "N. scientifique ": "Indigofera amblyantha",
-      "Famille ": "Légumineuses, Fabacées, Papilionacées",
-      "Floraison": "juillet à octobre",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "arbuste à fleurs",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "1,50 à 2 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, -19°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "tolérant",
-      "Humidité ": "normal",
-      "Utilisation": "massif",
-      "Plantation": "automne, printemps",
-      "Multiplication": "rejets, semis"
-    },
-    {
-      "Nom": "Hypericum Hidcote, Millepertuis arbustif, Millepertuis doré",
-      "N. scientifique ": "Hypericum patulum 'Hidcote'",
-      "Synonymes ": "Eremanthe pathula, Comana pathula, Hypericum argyi",
-      "Famille ": "Clusiacées, Guttifères",
-      "Origine ": "Est de l'Asie",
-      "Floraison": "juillet à septembre",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "arbuste ornemental",
-      "Végétation": "arbustive",
-      "Feuillage ": "tout à fait persistant jusqu'à -5 °C",
-      "Hauteur": "0.90 à 1 m 50",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -20 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée, mi-ombre, ombre claire "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "moyennement acide à moyennement basique",
-      "Humidité ": "un peu frais",
-      "Utilisation": "en isolé, en haie, ou large bordure",
-      "Plantation": "automne jusqu'en avril",
-      "Multiplication": "boutures, semis"
-    },
-    {
-      "Nom": "Hydrangée arborescent, Hortensia de Virginie",
-      "N. scientifique ": "Hydrangea arborescens",
-      "Famille ": "Hydrangeacées, Philadelphacées",
-      "Origine ": "sud-est des Etats-Unis",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "arbuste à fleurs",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "de 1,5 à 2 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre, orientation nord-ouest idéale "
-      ],
-      "Sol": "bien drainé, moyennement riche en humus",
-      "Acidité ": "normal",
-      "Humidité ": "frais",
-      "Utilisation": "massif, isolé, haie libre",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis en mars, bouturage de juillet à septembre",
-      "Taille": "Après les froids d'avril enlevez les fleurs fanées. Vous pouvez rajeunir ou maîtriser la densité de vos hortensias en taillant vos plantes au printemps en rabattant au raz du sol les plus vieux rameaux.",
-      "Sensibilité ": "les cochenilles, les acariens, l'oïdium, l'ascochyta ( taches noires sur les feuilles ), la pourriture grise ( feuilles et tiges couvertes d'un duvet gris )"
-    },
-    {
       "Nom": "Lilas commun",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/syringa-vulgaris-fleur-600x450.jpg",
       "N. scientifique ": "Syringa vulgaris",
       "Famille ": "Oléacées",
       "Origine ": "Sud est de l'Europe, Asie",
@@ -1551,7 +983,234 @@
       "Sensibilité ": "la bactériose du lilas (taches noirâtres sur les feuilles), l'oïdium, la teigne du lilas (chenille verte), l'otiorrhynque (feuilles decoupées sur le bord), le cantharide (feuilles dévorées par un insecte vert)"
     },
     {
+      "Nom": "Lespedeza de Thunberg",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lespedeza-thunbergii-600x450.jpg",
+      "N. scientifique ": "Lespedeza thunbergii",
+      "Synonyme ": "Desmodium penduliflorum",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Asie",
+      "Floraison": "d’août jusqu’aux gelées",
+      "Fleurs ": [
+        "     ",
+        "   pourpre "
+      ],
+      "Type": "plante semi-arbustive",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1 à 2m",
+      "Rusticité ": "   rustique - 15°C ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal",
+      "Utilisation": "massif, talus",
+      "Plantation": "printemps",
+      "Multiplication": "séparation des rejets, semis",
+      "Sensibilité ": "résistant aux maladies et peu sensible aux insectes"
+    },
+    {
+      "Nom": "Lavatère en arbre, Mauve en arbre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lavatera-cv-bredon-springs-600x450.jpg",
+      "N. scientifique ": "Lavatera x",
+      "Famille ": "Malvacées",
+      "Origine ": "Bassin méditerranéen",
+      "Floraison": "été, automne",
+      "Fleurs ": [
+        "     ",
+        "   blanc, rose "
+      ],
+      "Type": "arbuste à fleurs, ou annuelle au port arbustif",
+      "Végétation": "vivace, annuelle, bisannuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 1,5 à 3 m ",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche, léger, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal, n'apprécie pas l'humidité",
+      "Utilisation": "isolé, haie libre, bac",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis à partir des graines récoltées, bouturage fin août, bouturage de rejet en juin",
+      "Taille": "Rabattre au printemps, en laissant deux ou trois yeux ou à environ 50 cm du sol.",
+      "Sensibilité ": "pourriture de la souche en hiver, rouille"
+    },
+    {
+      "Nom": "Laurier rose 'Villa Romaine'",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/nerium-oleander-600x450.jpg",
+      "N. scientifique ": "Nerium oleander 'Villa Romaine'",
+      "Famille ": "Apocynacées",
+      "Origine ": "Afrique du nord",
+      "Floraison": "tout l’été",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "plante méditerranéenne",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "150 à 250 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu’à -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "léger et drainant",
+      "Acidité ": "tolérant",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, potée",
+      "Plantation": "printemps",
+      "Multiplication": "bouturage"
+    },
+    {
+      "Nom": "Laurier d'Amérique, Laurier de montagnes",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/kalmia-latifolia-cv-minuet-600x450.jpg",
+      "N. scientifique ": "Kalmia latifolia",
+      "Famille ": "Ericacées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanche à rose "
+      ],
+      "Type": "arbuste d'ornement",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1m",
+      "Toxicité": "toute les parties de la plante sont toxiques",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à - 27°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "acide",
+      "Humidité ": "frais",
+      "Utilisation": "massif, pourtour de bassin, sous-bois",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, marcottage, semis"
+    },
+    {
+      "Nom": "Indigotier, Indigo rose, Indigo de Chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/indigofera-amblyantha-600x450.jpg",
+      "N. scientifique ": "Indigofera amblyantha",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,50 à 2 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -19°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "tolérant",
+      "Humidité ": "normal",
+      "Utilisation": "massif",
+      "Plantation": "automne, printemps",
+      "Multiplication": "rejets, semis"
+    },
+    {
+      "Nom": "Hypericum Hidcote, Millepertuis arbustif, Millepertuis doré",
+      "ImgUrl": "https://static.aujardin.info/cache/th/adb/hypericum-patulum-cv-hidcote-600x450.jpg",
+      "N. scientifique ": "Hypericum patulum 'Hidcote'",
+      "Synonymes ": "Eremanthe pathula, Comana pathula, Hypericum argyi",
+      "Famille ": "Clusiacées, Guttifères",
+      "Origine ": "Est de l'Asie",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "arbuste ornemental",
+      "Végétation": "arbustive",
+      "Feuillage ": "tout à fait persistant jusqu'à -5 °C",
+      "Hauteur": "0.90 à 1 m 50",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -20 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée, mi-ombre, ombre claire "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "un peu frais",
+      "Utilisation": "en isolé, en haie, ou large bordure",
+      "Plantation": "automne jusqu'en avril",
+      "Multiplication": "boutures, semis"
+    },
+    {
+      "Nom": "Hydrangée arborescent, Hortensia de Virginie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/hydrangea-arborescens-fleur-600x450.jpg",
+      "N. scientifique ": "Hydrangea arborescens",
+      "Famille ": "Hydrangeacées, Philadelphacées",
+      "Origine ": "sud-est des Etats-Unis",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 1,5 à 2 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre, orientation nord-ouest idéale "
+      ],
+      "Sol": "bien drainé, moyennement riche en humus",
+      "Acidité ": "normal",
+      "Humidité ": "frais",
+      "Utilisation": "massif, isolé, haie libre",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis en mars, bouturage de juillet à septembre",
+      "Taille": "Après les froids d'avril enlevez les fleurs fanées. Vous pouvez rajeunir ou maîtriser la densité de vos hortensias en taillant vos plantes au printemps en rabattant au raz du sol les plus vieux rameaux.",
+      "Sensibilité ": "les cochenilles, les acariens, l'oïdium, l'ascochyta ( taches noires sur les feuilles ), la pourriture grise ( feuilles et tiges couvertes d'un duvet gris )"
+    },
+    {
       "Nom": "Hydrangea velu, hydrangea rugueux, Hortensia rugueux",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/hydrangea-aspera-cv-taiwan-pink-600x450.jpg",
       "N. scientifique ": "Hydrangea aspera",
       "Famille ": "Hydrangeacées, Philadelphacées",
       "Origine ": "Asie, Himalaya",
@@ -1581,38 +1240,8 @@
       "Multiplication": "bouture, marcottage"
     },
     {
-      "Nom": "Hortensia à grandes feuilles",
-      "N. scientifique ": "Hydrangea macrophylla",
-      "Famille ": "Hydrangeacées, Philadelphacées",
-      "Origine ": "Japon",
-      "Floraison": "juillet à octobre",
-      "Fleurs ": [
-        "     ",
-        "   rose, bleu "
-      ],
-      "Type": "arbuste d'ornement",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "0,90 à 2 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, -30°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "humifère",
-      "Acidité ": "fortement acide à neutre",
-      "Humidité ": "frais à humide",
-      "Utilisation": "massif, lisière mi-ombre, bouquet",
-      "Plantation": "printemps, fin d'été",
-      "Multiplication": "bouture, marcottage"
-    },
-    {
       "Nom": "Hydrangéa velu",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/hydrangea-aspera-subsp-sargentiana-600x450.jpg",
       "N. scientifique ": "Hydrangea sargentiana",
       "Synonyme ": "Hydrangea aspera subsp. sargentiana",
       "Famille ": "Hydrangeacées, Philadelphacées",
@@ -1645,6 +1274,7 @@
     },
     {
       "Nom": "Hydrangéa paniculé",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/hydrangea-paniculata-v-unique-600x450.jpg",
       "N. scientifique ": "Hydrangea paniculata",
       "Famille ": "Hydrangeacées, Philadelphacées",
       "Origine ": "Chine, Japon",
@@ -1678,6 +1308,7 @@
     },
     {
       "Nom": "Hydrangéa de l'Himalaya",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/hydrangea-heteromalla-cv-snowcap-600x450.jpg",
       "N. scientifique ": "Hydrangea heteromalla",
       "Synonyme ": "Hydrangea bretschneideri",
       "Famille ": "Hydrangeacées, Philadelphacées",
@@ -1711,6 +1342,7 @@
     },
     {
       "Nom": "Hydrangéa à bonnets de dentelle Blue Bird",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/hydrangea-serrata-cv-blue-bird-600x450.jpg",
       "N. scientifique ": "Hydrangea serrata 'Blue Bird'",
       "Famille ": "Hydrangeacées, Philadelphacées",
       "Origine ": "Horticole, Japon",
@@ -1741,7 +1373,132 @@
       "Multiplication": "bouture, marcottage"
     },
     {
+      "Nom": "Hortensia, Hydrangéa",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/hydrangea-macrophylla-mirai-fleur-600x450.jpg",
+      "N. scientifique ": "Hydrangea",
+      "Famille ": "Hydrangeacées, Philadelphacées",
+      "Origine ": "Amérique du nord, Japon",
+      "Floraison": "de juillet à septembre",
+      "Fleurs ": "        rose, rouge, bleu, blanc ",
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "2 m",
+      "Toxicité": " toxique",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "   rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre, orientation nord-ouest idéale "
+      ],
+      "Sol": " riche en humus, 1/3 de terre de jardin avec 2/3 de terre pour plantes de terre de bruyère",
+      "Acidité ": "acide pour les variétés à fleurs bleues, neutre, non calcaire",
+      "Humidité ": "frais",
+      "Utilisation": "isolé, haie libre, isolé, massif, bac",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis en mars, bouturage de juillet à septembre",
+      "Taille": "Après les froids de mars enlevez les fleurs fanées. Vous pouvez rajeunir ou maîtriser la densité de vos hortensias en taillant vos plantes au printemps en rabattant au raz du sol les plus vieux rameaux. ",
+      "Sensibilité ": "les cochenilles, les acariens, l'oïdium, l'ascochyta ( taches noires sur les feuilles ), la pourriture grise ( feuilles et tiges couvertes d'un duvet gris )"
+    },
+    {
+      "Nom": "Hortensia YOU and ME 'Perfection'",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/hydrangea-macrophylla-cv-you-me-perfection-600x450.jpg",
+      "N. scientifique ": "Hydrangea macrophylla YOU and ME 'Perfection'",
+      "Famille ": "Hydrangeacées, Philadelphacées",
+      "Origine ": "Japon",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rose, bleu "
+      ],
+      "Type": "arbuste d'ornement",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,90 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -30°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "humifère",
+      "Acidité ": "fortement acide à neutre",
+      "Humidité ": "frais à humide",
+      "Utilisation": "massif, lisière mi-ombre, bouquet",
+      "Plantation": "printemps",
+      "Multiplication": "bouture"
+    },
+    {
+      "Nom": "Hortensia velu, Hydrangéa velu",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/hydrangea-aspera-subsp-villosa-600x450.jpg",
+      "N. scientifique ": "Hydrangea villosa",
+      "Synonyme ": "Hydrangea aspera subsp villosa",
+      "Famille ": "Hydrangeacées, Philadelphacées",
+      "Origine ": "Asie",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   violacée "
+      ],
+      "Type": "arbuste d'ornement",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "2 à 3 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -24 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "humifère",
+      "Acidité ": "moyennement acide à légèrement basique",
+      "Humidité ": "frais à humide",
+      "Utilisation": "massif, lisière",
+      "Plantation": "printemps, fin d'été",
+      "Multiplication": "bouture, marcottage"
+    },
+    {
+      "Nom": "Hortensia nain",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/hydrangea-involucrata-600x450.jpg",
+      "N. scientifique ": "Hydrangea involucrata",
+      "Famille ": "Hydrangeacées, Philadelphacées",
+      "Origine ": "Japon",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   bleutée "
+      ],
+      "Type": "arbuste d’ornement",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,80 à 1,20 m",
+      "Rusticité ": "   très rustique, -24°C ",
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "humifère",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "frais à humide",
+      "Utilisation": "massif, lisière mi-ombre",
+      "Plantation": "printemps, fin d’été",
+      "Multiplication": "bouture, marcottage"
+    },
+    {
       "Nom": "Hortensia japonais, Hortensia à bonnets de dentelle",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/hydrangea-serrata-cv-blue-deckle-600x450.jpg",
       "N. scientifique ": "Hydrangea serrata",
       "Famille ": "Hydrangeacées, Philadelphacées",
       "Origine ": "Japon",
@@ -1770,6 +1527,7 @@
     },
     {
       "Nom": "Hortensia guirlande blanc, Hortensia guirlande de la mariée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/hydrangea-cv-runaway-bride-600x450.jpg",
       "N. scientifique ": "Hydrangea 'Runaway Bride'",
       "Synonyme ": "Hydrangea 'Runaway Bride Snow White' (USHYD0405)",
       "Famille ": "Hydrangeacées, Philadelphacées",
@@ -1801,7 +1559,40 @@
       "Plantation": "printemps, fin d'été"
     },
     {
+      "Nom": "Hortensia à grandes feuilles",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/hydrangea-macrophylla-cv-renate-steiniger-600x450.jpg",
+      "N. scientifique ": "Hydrangea macrophylla",
+      "Famille ": "Hydrangeacées, Philadelphacées",
+      "Origine ": "Japon",
+      "Floraison": "juillet à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rose, bleu "
+      ],
+      "Type": "arbuste d'ornement",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,90 à 2 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -30°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "humifère",
+      "Acidité ": "fortement acide à neutre",
+      "Humidité ": "frais à humide",
+      "Utilisation": "massif, lisière mi-ombre, bouquet",
+      "Plantation": "printemps, fin d'été",
+      "Multiplication": "bouture, marcottage"
+    },
+    {
       "Nom": "Hortensia à feuilles de chêne",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/hydrangea-quercifolia-600x450.jpg",
       "N. scientifique ": "Hydrangea quercifolia ",
       "Famille ": "Hydrangeacées, Philadelphacées",
       "Origine ": "Sud-est des Etats-Unis",
@@ -1834,6 +1625,7 @@
     },
     {
       "Nom": "Hibiscus en arbre de Chine, Hibiscus de jardin",
+      "ImgUrl": "https://static.aujardin.info/cache/th/adb/hibiscus-sinosyriacus-cv-lilac-queen-600x450.jpg",
       "N. scientifique ": "Hibiscus sinosyriacus",
       "Famille ": "Malvacées",
       "Origine ": "Asie",
@@ -1867,6 +1659,7 @@
     },
     {
       "Nom": "Hébé, Véronique arbustive",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/hebe-cv-addenda-600x450.jpg",
       "N. scientifique ": "Hebe",
       "Famille ": "Scrophulariacées",
       "Origine ": "Nouvelle Zélande, Australie, Nouvelle-Guinée, Amérique du sud",
@@ -1903,6 +1696,7 @@
     },
     {
       "Nom": "Genêt à balais",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/cytisus-scoparius-cv-lena-600x450.jpg",
       "N. scientifique ": "Cytisus scoparius",
       "Synonyme ": "Sarothamnus scoparius",
       "Famille ": "Légumineuses, Fabacées, Papilionacées",
@@ -1932,6 +1726,7 @@
     },
     {
       "Nom": "Gattilier, Agneau-chaste, Poivre de moine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/vitex-agnus-castus-600x450.jpg",
       "N. scientifique ": "Vitex agnus-castus",
       "Famille ": "Verbénacées",
       "Origine ": "bassin méditerranéen et asie centrale",
@@ -1965,6 +1760,7 @@
     },
     {
       "Nom": "Fuchsia du Cap",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/phygelius-aequalis-cv-new-sensation-600x450.jpg",
       "N. scientifique ": "Phygelius aequalis",
       "Famille ": "Scrophulariacées",
       "Origine ": "Afrique du Sud",
@@ -1997,6 +1793,7 @@
     },
     {
       "Nom": "Fuchsia de Magellan, Fuschia rustique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/fuchsia-magellanica-600x450.jpg",
       "N. scientifique ": "Fuchsia magellanica",
       "Famille ": "Onagracées",
       "Origine ": "Chili, Argentine",
@@ -2033,6 +1830,7 @@
     },
     {
       "Nom": "Eucryphie Rostrevor",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/eucryphia-x-intermedia-cv-rostrevor-600x450.jpg",
       "N. scientifique ": "Eucryphia x intermedia 'Rostrevor'",
       "Synonyme ": "Eucryphia glutinosa x Eucryphia lucida",
       "Famille ": "Cunoniacées",
@@ -2065,6 +1863,7 @@
     },
     {
       "Nom": "Eucryphia du Chili",
+      "ImgUrl": "https://static.aujardin.info/cache/th/adb/eucryphia-glutinosa-600x450.jpg",
       "N. scientifique ": "Eucryphia glutinosa",
       "Synonyme ": "Eucryphia pinnatifolia",
       "Famille ": "Cunoniacées",
@@ -2097,6 +1896,7 @@
     },
     {
       "Nom": "Escallonia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/escallonia-fleur-600x450.jpg",
       "N. scientifique ": "Escallonia",
       "Famille ": "Escalloniacées",
       "Origine ": "Amérique du Sud",
@@ -2129,6 +1929,7 @@
     },
     {
       "Nom": "Clérodendron fétide",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/clerodendron-bungei-600x450.jpg",
       "N. scientifique ": "Clerodendron bungei",
       "Famille ": "Verbénacées",
       "Origine ": "Chine",
@@ -2161,6 +1962,7 @@
     },
     {
       "Nom": "Camélia du japon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/camellia-japonica-cv-lipstick-600x450.jpg",
       "N. scientifique ": "Camelia japonica",
       "Synonyme ": "Thea japonicum",
       "Famille ": "Théacées",
@@ -2192,6 +1994,7 @@
     },
     {
       "Nom": "Calycanthe, Arbre aux anémones, Arbre Pompadour",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/calycanthus-floridus-cv-glaucus-fleur-600x450.jpg",
       "N. scientifique ": "Calycanthus floridus",
       "Famille ": "Calycanthacées",
       "Origine ": "sud-est des Etats-Unis",
@@ -2221,6 +2024,7 @@
     },
     {
       "Nom": "Buddleia globuleux, Arbre aux papillons globuleux, Matico",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/buddleja-globosa-600x450.jpg",
       "N. scientifique ": "Buddleja globosa",
       "Synonymes ": "Buddleja globifera, Buddleia globosa",
       "Famille ": "Scrophulariacées",
@@ -2252,6 +2056,7 @@
     },
     {
       "Nom": "Bruyère d'Irlande, Bruyère de Saint-Daboec",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/daboecia-cantabrica-cv-walley-s-red-600x450.jpg",
       "N. scientifique ": "Daboetia cantabrica",
       "Synonymes ": "Daboetia polyfolia, Vaccinium cantabricum, Bryanthus polifolius",
       "Famille ": "Ericacées",
@@ -2286,6 +2091,7 @@
     },
     {
       "Nom": "Barbe bleue, Caryopteris de Clandon, Spirée bleue",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/caryopteris-x-clandonensis-cv-thetis-600x450.jpg",
       "N. scientifique ": "Caryoteris x clandonensis",
       "Famille ": "Verbénacées",
       "Origine ": "horticole",
@@ -2317,6 +2123,7 @@
     },
     {
       "Nom": "Bambou sacré",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/nandina-domestica-cv-firepower-fruit-600x450.jpg",
       "N. scientifique ": "Nandina domestica",
       "Famille ": "Berbéridacées",
       "Origine ": "Inde, Chine, Japon",
@@ -2351,6 +2158,7 @@
     },
     {
       "Nom": "Arbre aux papillons, Buddléia du père David",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/buddleia-600x450.jpg",
       "N. scientifique ": "Buddleia davidii",
       "Synonyme ": "Buddleja davidii",
       "Famille ": "Scrophulariacées",
@@ -2387,6 +2195,7 @@
     },
     {
       "Nom": "Arbre aux lanternes du Chili",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/crinodendron-hookerianum-600x450.jpg",
       "N. scientifique ": "Crinodendron hookerianum",
       "Synonyme ": "Tricuspidaria lanceolata",
       "Famille ": "Éléocarpacées",
@@ -2419,6 +2228,7 @@
     },
     {
       "Nom": "Arbre aux faisans",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/leycesteria-formosa-fleur-600x450.jpg",
       "N. scientifique ": "Leycesteria formosa",
       "Famille ": "Caprifoliacées",
       "Origine ": "Himalaya, Chine de l'ouest",
@@ -2453,6 +2263,7 @@
     },
     {
       "Nom": "Arbre au clergé, Clérodendron",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/clerodendrum-trichotomum-600x450.jpg",
       "N. scientifique ": "Clerodendrum trichotomum",
       "Synonyme ": "Siphonanthus trichotomus",
       "Famille ": "Verbénacées",
@@ -2485,6 +2296,7 @@
     },
     {
       "Nom": "Amicie à fleurs jaunes",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/amicia-zygomeris-600x450.jpg",
       "N. scientifique ": "Amicia zygomeris",
       "Famille ": "Légumineuses, Fabacées, Papilionacées",
       "Origine ": "Amérique centrale, Amérique du Sud",
@@ -2516,6 +2328,7 @@
     },
     {
       "Nom": "Althéa, Ketmie, Mauve en arbre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/hibiscus-syriacus-fleur-double-600x450.jpg",
       "N. scientifique ": "Hibiscus syriacus",
       "Famille ": "Malvacées",
       "Origine ": "Inde, Chine",
@@ -2552,6 +2365,7 @@
     },
     {
       "Nom": "Ajonc d'Europe",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ulex-europaeus-600x450.jpg",
       "N. scientifique ": "Ulex europaeus",
       "Famille ": "Légumineuses, Fabacées, Papilionacées",
       "Origine ": "Europe de l'ouest",
@@ -2585,6 +2399,7 @@
     },
     {
       "Nom": "Abélie à grandes fleurs",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/abelia-x-grandiflora-cv-confetti-600x450.jpg",
       "N. scientifique ": "Abelia x grandiflora",
       "Famille ": "Caprifoliacées",
       "Origine ": "horticole",
@@ -2615,7 +2430,302 @@
       "Multiplication": "bouture"
     },
     {
+      "Nom": "Abélia Edouard Goucher",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/abelia-cv-edward-goucher-600x450.jpg",
+      "N. scientifique ": "Abelia x 'Edouard Goucher'",
+      "Famille ": "Caprifoliacées",
+      "Origine ": "horticole",
+      "Floraison": "fin de l'été",
+      "Fleurs ": [
+        "     ",
+        "   blanc rosé "
+      ],
+      "Type": "arbuste ornemental",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "1,80 m à 2,40 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -18°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "normal",
+      "Utilisation": "isolé, fond de massif, haie",
+      "Plantation": "automne, printemps",
+      "Multiplication": "bouturage"
+    },
+    {
+      "Nom": "Abélia de Chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/abelia-chinensis-600x450.jpg",
+      "N. scientifique ": "Abelia chinensis",
+      "Synonymes ": "Abelia aschersoniana, A. cavaleriei,  A. chinensis var ionandra",
+      "Famille ": "Caprifoliacées",
+      "Origine ": "Chine",
+      "Floraison": "août à septembre",
+      "Fleurs ": [
+        "     ",
+        "   blanc, parfois rosé "
+      ],
+      "Type": "arbuste ornemental",
+      "Végétation": "arbustive",
+      "Feuillage ": "caduc à semi-persistant",
+      "Hauteur": "1 m à 2 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "normal",
+      "Utilisation": "isolé, fond de massif, haie",
+      "Plantation": "automne, printemps",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Abélia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/abelia-600x450.jpg",
+      "N. scientifique ": "Abelia",
+      "Famille ": "Caprifoliacées",
+      "Origine ": "Asie",
+      "Floraison": "de mai aux gelées",
+      "Fleurs ": [
+        "     ",
+        "   rosée "
+      ],
+      "Type": "arbuste à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "2 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "ordinaire, léger",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "haie taillée, haie libre, isolé",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouturage en juillet",
+      "Sensibilité ": "résistants aux ravageurs et aux maladies"
+    },
+    {
+      "Nom": "Tulipier de Virginie, Arbre aux lis",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/liriodendron-tulipifera-600x450.jpg",
+      "N. scientifique ": "Liriodendron tulipifera",
+      "Famille ": "Magnoliacées",
+      "Origine ": "sud et de est des États-Unis",
+      "Floraison": "juillet à août",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "arbre à fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 40 m",
+      "Rusticité ": "   très rustique, -34°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "profond et fertile",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "sol normal à frais",
+      "Utilisation": "arbre isolé",
+      "Plantation": "automne",
+      "Multiplication": "semis, marcottage"
+    },
+    {
+      "Nom": "Robinier faux acacia, Carouge, Cassie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/robinia-pseudoacacia-cv-casque-rouge-600x450.jpg",
+      "N. scientifique ": "Robinia pseudoacacia",
+      "Famille ": "Légumineuses, Fabacées, Papilionacées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "mai à juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanche, rouge pour certaines variétés "
+      ],
+      "Type": "arbre",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "10 à 25 m",
+      "Toxicité": "en dehors des fleurs, toutes les parties sont toxiques",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "ornementale, fleurs médicinales et comestibles, bois de qualité",
+      "Plantation": "printemps",
+      "Multiplication": "semis, rejets de souche, greffe"
+    },
+    {
+      "Nom": "Rhododendron auriculé",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/rhododendron-auriculatum-600x450.jpg",
+      "N. scientifique ": "Rhododendron auriculatum",
+      "Famille ": "Ericacées",
+      "Origine ": "Chine",
+      "Floraison": "juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanche, parfois rosée "
+      ],
+      "Type": "petit arbre à fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 10 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -21 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "humifère",
+      "Acidité ": "légèrement acide à acide",
+      "Humidité ": "normal à frais",
+      "Utilisation": "en isolé, en massif",
+      "Plantation": "automne et printemps",
+      "Multiplication": "boutures, marcottage, semis"
+    },
+    {
+      "Nom": "Pavier blanc, Marronnier nain",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aesculus-parviflora-600x450.jpg",
+      "N. scientifique ": "Aesculus parviflora",
+      "Synonyme ": "Aesculus macrostachya",
+      "Famille ": "Hippocastanacées",
+      "Origine ": "Etats-Unis",
+      "Floraison": "juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste, petit arbre",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "3 à 5 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -19°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "limono argileux, riche",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "frais",
+      "Utilisation": "massif, lisière, arbre isolé",
+      "Plantation": "printemps",
+      "Multiplication": "boutures, semis"
+    },
+    {
+      "Nom": "Magnolia d'été, Magnolia à grandes fleurs",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/magnolia-grandiflora-fleur-600x450.jpg",
+      "N. scientifique ": "Magnolia grandiflora",
+      "Famille ": "Magnoliacées",
+      "Origine ": "Amérique du nord",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc-crème "
+      ],
+      "Type": "arbre",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 30 m selon les variétés",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, de -25°C à -30°C selon les variétés "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche en humus",
+      "Acidité ": "acide, pas de terre de bruyère pure car pauvre",
+      "Humidité ": "bien frais",
+      "Utilisation": "isolé",
+      "Plantation": "printemps",
+      "Multiplication": "semis, bouturage en septembre, marcottage",
+      "Taille": "Pas de taille nécessaire. Si une taille doit être faite, pratiquez-la après la floraison.",
+      "Sensibilité ": "résistant aux parasites et aux maladies"
+    },
+    {
+      "Nom": "Heptacodion de Chine, Arbre à 7 fleurs",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/heptacodium-jasminoides-600x450.jpg",
+      "N. scientifique ": "Heptacodium jasminoides",
+      "Synonyme ": "Heptacodium miconioides",
+      "Famille ": "Caprifoliacées",
+      "Origine ": "Chine",
+      "Floraison": "fin d'été",
+      "Fleurs ": [
+        "     ",
+        "   blanc rosé "
+      ],
+      "Type": "petit arbre ornemental",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "4 à 5 m, rarement 8",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique jusqu'à -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "à tendance argileuse ou sablonneuse",
+      "Acidité ": "acide à légèrement alcalin",
+      "Humidité ": "normal",
+      "Utilisation": "isolé, en  massif",
+      "Plantation": "automne, printemps",
+      "Multiplication": "bouture, semis"
+    },
+    {
       "Nom": "Eucryphia ulmo",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/eucryphia-cordifolia-600x450.jpg",
       "N. scientifique ": "Eucryphia cordifolia",
       "Synonymes ": "Eucryphia billardieri, Eucryphia patagonica, Pellinia chilensis Pellinia cordifolia",
       "Famille ": "Cunoniacées",
@@ -2647,6 +2757,7 @@
     },
     {
       "Nom": "Catalpa commun",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/catalpa-bignonioides-600x450.jpg",
       "N. scientifique ": "Catalpa bignonioides",
       "Famille ": "Bignoniacées",
       "Origine ": "sud-est des États-Unis",
@@ -2679,6 +2790,7 @@
     },
     {
       "Nom": "Bois rose, Eucryphia luisant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/eucryphia-lucida-600x450.jpg",
       "N. scientifique ": "Eucryphia lucida",
       "Synonyme ": "Eucryphia billardieri",
       "Famille ": "Cunoniacées",
@@ -2712,6 +2824,7 @@
     },
     {
       "Nom": "Aubépine Splendens",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/crataegus-prunifolia-cv-splendens-600x450.jpg",
       "N. scientifique ": "Crataegus x prunifolia 'Splendens'",
       "Synonymes ": "Crataegus persimilis 'MacLeod', Crataegus persimilis 'Prunifolia Splendens'",
       "Famille ": "Rosacées",
@@ -2743,32 +2856,6 @@
       "Plantation": "novembre à mars",
       "Multiplication": "bouturage",
       "Sensibilité ": "plante hôte du feu bactérien"
-    },
-    {
-      "Nom": "Arbre de Franklin",
-      "N. scientifique ": "Franklinia alatamaha",
-      "Famille ": "Théacées",
-      "Origine ": "Géorgie",
-      "Floraison": "fin de l’été",
-      "Fleurs ": [
-        "     ",
-        "   blanche "
-      ],
-      "Type": "arbre à fleur",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "4 à 6 m",
-      "Rusticité ": "   rustique, -19°C ",
-      "Exposition ": [
-        "  ",
-        "  ensoleillée "
-      ],
-      "Sol": "drainant, profond et fertile",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "normal, craint l’humidité",
-      "Utilisation": "arbre isolé",
-      "Plantation": "automne",
-      "Multiplication": "semis, marcottage"
     }
   ]
 }

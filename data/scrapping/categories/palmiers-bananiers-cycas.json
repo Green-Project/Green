@@ -3,6 +3,7 @@
   "data": [
     {
       "Nom": "Palmier miniature de Chusan, Palmier moulin à vent nain",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/trachycarpus-wagnerianus-600x450.jpg",
       "N. scientifique ": "Trachycarpus wagnerianus",
       "Synonyme ": "Trachycarpus takil",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -33,6 +34,7 @@
     },
     {
       "Nom": "Palmier chanvre, Palmier de Chine, Palmier moulin",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/trachycarpus-fortunei-600x450.jpg",
       "N. scientifique ": "Trachycarpus fortunei",
       "Synonyme ": "Chamaerops excelsa",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -67,6 +69,7 @@
     },
     {
       "Nom": "Latanier, Sabal nain",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/sabal-minor-600x450.jpg",
       "N. scientifique ": "Sabal minor",
       "Synonymes ": "Sabal adansonii, Sabal louisiana, Sabal minima, Chamaerops louisiana",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -96,6 +99,7 @@
     },
     {
       "Nom": "Palmiste marron, Palmier bouteille",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/hyophorbe-verschaffelti-600x450.jpg",
       "N. scientifique ": "Hyophorbe verschaffeltii",
       "Synonyme ": "Mascarena verschaffeltii",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -124,6 +128,7 @@
     },
     {
       "Nom": "Palmier trièdre, Palmier triangle",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/dypsis-decaryi-600x450.jpg",
       "N. scientifique ": "Dypsis decaryi",
       "Synonymes ": "Dypsis cabadae, Dypsis lutescens, Dypsis cabadae, Dypsis madagascariensis, Dypsis leptocheilos",
       "Famille ": "Aracées",
@@ -151,6 +156,7 @@
     },
     {
       "Nom": "Palmier royal",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/roystonea-regia-600x450.jpg",
       "N. scientifique ": "Roystonea regia",
       "Synonyme ": "Roystonea elata",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -179,6 +185,7 @@
     },
     {
       "Nom": "Palmier nain, Palmier de montagne, Chamédorée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/chamaedorea-elegans-600x450.jpg",
       "N. scientifique ": "Chamaedorea elegans",
       "Famille ": "Arécacées, Palmacées, Palmiers",
       "Origine ": "Mexique et Guatemala",
@@ -205,6 +212,7 @@
     },
     {
       "Nom": "Palmier cuillère",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/licuala-grandis-600x450.jpg",
       "N. scientifique ": "Licuala grandis",
       "Famille ": "Arécacées, Palmacées, Palmiers",
       "Origine ": "Océanie",
@@ -231,6 +239,7 @@
     },
     {
       "Nom": "Palmier bonbonne",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/hyophorbe-lagenicaulis-600x450.jpg",
       "N. scientifique ": "Hyophorbe lagenicaulis",
       "Synonyme ": "Mascarena lagenicaulis",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -259,6 +268,7 @@
     },
     {
       "Nom": "Palmier bambou du Costa Rica",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/chamaedorea-costaricana-600x450.jpg",
       "N. scientifique ": "Chamaedorea costaricana",
       "Famille ": "Arécacées, Palmacées, Palmiers",
       "Origine ": "Costa Rica, Honduras, Panama",
@@ -286,6 +296,7 @@
     },
     {
       "Nom": "Palmier à tronc rouge",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cyrtostachys-renda-600x450.jpg",
       "N. scientifique ": "Cyrtostachys renda",
       "Synonyme ": "Cyrtostachys lakka",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -314,6 +325,7 @@
     },
     {
       "Nom": "Kentia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/howea-forsteriana-600x450.jpg",
       "N. scientifique ": "Howea forsteriana",
       "Synonyme ": "Kentia forsteriana",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -345,6 +357,7 @@
     },
     {
       "Nom": "Dattier du Mékong, Palmier dattier nain",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/phoenix-roebelenii-600x450.jpg",
       "N. scientifique ": "Phoenix roebelenii",
       "Synonyme ": "Phoenix farinosa",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -371,7 +384,40 @@
       "Multiplication": "semis"
     },
     {
+      "Nom": "Cocotier du Chili",
+      "ImgUrl": "https://static.aujardin.info/cache/th/adb/jubaea-chilensis-600x450.jpg",
+      "N. scientifique ": "Jubaea chilensis",
+      "Famille ": "Arécacées, Palmacées, Palmiers",
+      "Origine ": "Chili",
+      "Floraison": "avril, mai",
+      "Fleurs ": [
+        "     ",
+        "   jaune orangé "
+      ],
+      "Type": "palmier",
+      "Végétation": "arborée",
+      "Feuillage ": "persistant",
+      "Hauteur": "25 m avec une croissance lente",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -15 °C minimum "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "acide à légèrement basique",
+      "Humidité ": "ordinaire, résistant à la sécheresse en été",
+      "Utilisation": "palmier de pleine terre",
+      "Plantation": "printemps",
+      "Multiplication": "semis uniquement",
+      "Sensibilité ": "papillon tueur de palmier, charançon rouge des palmiers"
+    },
+    {
       "Nom": "Cocotier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cocos-nucifera-600x450.jpg",
       "N. scientifique ": "Cocos nucifera",
       "Famille ": "Arécacées, Palmacées, Palmiers",
       "Origine ": "Iles du Pacifique",
@@ -398,6 +444,7 @@
     },
     {
       "Nom": "Aréca, Palmier d'arec, Palmier doré",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/chrysalidocarpus-lutescens-600x450.jpg",
       "N. scientifique ": "Chrysalidocarpus lutescens",
       "Synonymes ": "Dypsis lutescens, Areca flavescens",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -427,6 +474,7 @@
     },
     {
       "Nom": "Palmiste de Cunningham, Palmier roi",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/archontophoenix-cunninghamiana-600x450.jpg",
       "N. scientifique ": "Archontophoenix cunninghamiana",
       "Famille ": "Arécacées, Palmacées, Palmiers",
       "Origine ": "Sri Lanka, Inde",
@@ -454,6 +502,7 @@
     },
     {
       "Nom": "Palmier trident",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/trithrinax-campestris-600x450.jpg",
       "N. scientifique ": "Trithrinax campestris",
       "Synonymes ": "Copernicia campestris, Chamaethrinax hookeriana",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -485,6 +534,7 @@
     },
     {
       "Nom": "Palmier nain, Palmier de Méditerranée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/chamaerops-humilis-600x450.jpg",
       "N. scientifique ": "Chamaerops humilis",
       "Famille ": "Arécacées, Palmacées, Palmiers",
       "Origine ": "Sud de l'Europe, bassin méditerranéen",
@@ -518,6 +568,7 @@
     },
     {
       "Nom": "Palmier nain bleu",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/chamaerops-humilis-var-cerifera-600x450.jpg",
       "N. scientifique ": "Chamaerops humilis var cerifera",
       "Famille ": "Arécacées, Palmacées, Palmiers",
       "Origine ": "Maroc",
@@ -550,6 +601,7 @@
     },
     {
       "Nom": "Palmier du Mexique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/washingtonia-robusta-600x450.jpg",
       "N. scientifique ": "Washingtonia robusta",
       "Famille ": "Arécacées, Palmacées, Palmiers",
       "Origine ": "Mexique, Californie",
@@ -583,6 +635,7 @@
     },
     {
       "Nom": "Palmier de la reine, Cocotier plumeux, Cocotier de Romanzoff",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/syagrus-romanzoffiana-600x450.jpg",
       "N. scientifique ": "Syagrus romanzoffiana",
       "Synonymes ": "Cocos romanzoffianum, Arecastrum romanzoffianum",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -613,6 +666,7 @@
     },
     {
       "Nom": "Palmier de Formose, Palmier de Taiwan, Palmier à sucre nain",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/arenga-engleri-600x450.jpg",
       "N. scientifique ": "Arenga engleri",
       "Famille ": "Arécacées, Palmacées, Palmiers",
       "Origine ": "Taiwan, Japon",
@@ -640,6 +694,7 @@
     },
     {
       "Nom": "Palmier de Bismarck",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/bismarckia-nobilis-600x450.jpg",
       "N. scientifique ": "Bismarckia nobilis",
       "Famille ": "Arécacées, Palmacées, Palmiers",
       "Origine ": "Madagascar",
@@ -670,6 +725,7 @@
     },
     {
       "Nom": "Palmier dattier des Canaries, faux dattier, palmier Hyères",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/phoenix-canariensis-600x450.jpg",
       "N. scientifique ": "Phoenix canariensis",
       "Famille ": "Arécacées, Palmacées, Palmiers",
       "Origine ": "Iles Canaries",
@@ -704,6 +760,7 @@
     },
     {
       "Nom": "Palmier dattier de montagne",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/phoenix-loureiroi-600x450.jpg",
       "N. scientifique ": "Phoenix loureiroi",
       "Synonyme ": "Phoenix loureirii",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -733,6 +790,7 @@
     },
     {
       "Nom": "Palmier dattier de Ceylan",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/phoenix-zeylanica-600x450.jpg",
       "N. scientifique ": "Phoenix zeylanica",
       "Synonymes ": "Phoenix zeylanica, Phoenix farinosa",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -761,6 +819,7 @@
     },
     {
       "Nom": "Palmier bleu du Mexique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/brahea-armata-600x450.jpg",
       "N. scientifique ": "Brahea armata",
       "Synonymes ": "Brahea clara, Brahea roezlii, Erythea armata, Erythea elegans",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -792,6 +851,7 @@
     },
     {
       "Nom": "Palmier abricot, Arbre à laque",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/butia-capitata-600x450.jpg",
       "N. scientifique ": "Butia capitata",
       "Synonyme ": "Cocos capitata",
       "Famille ": "Arécacées, Palmacées, Palmiers",
@@ -824,6 +884,7 @@
     },
     {
       "Nom": "Palmier à jupon, Palmier de Californie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/washingtonia-filifera-600x450.jpg",
       "N. scientifique ": "Washingtonia filifera",
       "Famille ": "Arécacées, Palmacées, Palmiers",
       "Origine ": "Mexique, Californie, Arizona",
@@ -854,6 +915,7 @@
     },
     {
       "Nom": "Encépharlatos d'Altenstein",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/encephalartos-altensteinii-600x450.jpg",
       "N. scientifique ": "Encephalartos altensteinii",
       "Famille ": "Zamiacées",
       "Origine ": "Afrique du sud",
@@ -881,6 +943,7 @@
     },
     {
       "Nom": "Cycas géant de kwango, Encéphalartos de Laurent",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/encephalartos-laurentianus-600x450.jpg",
       "N. scientifique ": "Encephalartos laurentianus",
       "Famille ": "Zamiacées",
       "Origine ": "Angola, Congo",
@@ -907,6 +970,7 @@
     },
     {
       "Nom": "Cycas du Japon, Sagou du Japon, Sagoutier, Palmier de la paix",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cycas-revoluta-male-600x450.jpg",
       "N. scientifique ": "Cycas revoluta",
       "Famille ": "Cycadacées",
       "Origine ": "Japon",
@@ -936,6 +1000,7 @@
     },
     {
       "Nom": "Bananier rose, Bananier à fleurs roses",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/musa-vetulina-600x450.jpg",
       "N. scientifique ": "Musa vetulina",
       "Synonyme ": "Musa dasycarpa",
       "Famille ": "Musacées",
@@ -967,6 +1032,7 @@
     },
     {
       "Nom": "Bananier nain d'Inde",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/musa-manii-600x450.jpg",
       "N. scientifique ": "Musa mannii",
       "Famille ": "Musacées",
       "Origine ": "Inde, Assam",
@@ -994,6 +1060,7 @@
     },
     {
       "Nom": "Bananier nain chinois, Lotus d’or",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/musella-lasiocarpa-600x450.jpg",
       "N. scientifique ": "Musella lasiocarpa",
       "Famille ": "Musacées",
       "Origine ": "Chine, Vietnam, Laos",
@@ -1024,6 +1091,7 @@
     },
     {
       "Nom": "Bananier du Japon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/musa-basjoo-600x450.jpg",
       "N. scientifique ": "Musa basjoo",
       "Synonyme ": "Musa japonica",
       "Famille ": "Musacées",
@@ -1058,6 +1126,7 @@
     },
     {
       "Nom": "Bananier d'Abyssinie, Bananier rouge",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/musa-ensete-600x450.jpg",
       "N. scientifique ": "Ensete ventricosum",
       "Synonymes ": "Musa ensete, Musa arnoldiana",
       "Famille ": "Musacées",
@@ -1086,6 +1155,7 @@
     },
     {
       "Nom": "Arbre du voyageur",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/ravenala-madagascariensis-600x450.jpg",
       "N. scientifique ": "Ravenala madagascariensis",
       "Famille ": "Musacées",
       "Origine ": "Madagascar",
@@ -1115,6 +1185,7 @@
     },
     {
       "Nom": "Cycas de Moore",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/macrozamia-moorei-600x450.jpg",
       "N. scientifique ": "Macrozamia moorei",
       "Famille ": "Zamiacées",
       "Origine ": "Australie",
@@ -1144,6 +1215,7 @@
     },
     {
       "Nom": "Cordyline australe",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cordyline-australis-600x450.jpg",
       "N. scientifique ": "Cordyline australis",
       "Synonyme ": "Dracaena australis",
       "Famille ": "Agavacées",
@@ -1178,6 +1250,7 @@
     },
     {
       "Nom": "Cordyline à feuilles larges",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/cordyline-indivisa-600x450.jpg",
       "N. scientifique ": "Cordyline indivisa",
       "Synonymes ": "Cordyline hectori, Cordyline hookeri, cordyline lineata, Dracaena indivisa",
       "Famille ": "Agavacées",
@@ -1208,6 +1281,7 @@
     },
     {
       "Nom": "Arbre aux herbes, Black boy",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/xanthorrhoea-glauca-600x450.jpg",
       "N. scientifique ": "Xanthorrhoea glauca",
       "Famille ": "Xanthorrhoeacées",
       "Origine ": "Australie",

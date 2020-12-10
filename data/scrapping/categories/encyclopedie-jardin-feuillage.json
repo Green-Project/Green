@@ -2,36 +2,8 @@
   "category": "Feuillages décoratifs",
   "data": [
     {
-      "Nom": "Bouclier persan",
-      "N. scientifique ": "Strobilanthes dyerianus",
-      "Famille ": "Acanthacées",
-      "Origine ": "Birmanie",
-      "Floraison": "automne, hiver",
-      "Fleurs ": [
-        "     ",
-        "   bleu "
-      ],
-      "Type": "plante d'intérieur, pour l'extérieur en été et hivernée hors gel, ou cultivée en annuelle",
-      "Végétation": "vivace",
-      "Feuillage ": "plus ou moins persistant",
-      "Hauteur": "35 à 120 cm",
-      "Rusticité ": [
-        "  ",
-        "  peu rustique, jusqu'à -5 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ombre claire "
-      ],
-      "Sol": "humifère",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "toujours frais, mais sans excès",
-      "Utilisation": "massif, potée",
-      "Plantation": "printemps",
-      "Multiplication": "division, semis"
-    },
-    {
       "Nom": "Zoysia du Japon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/zoysia-japonica-600x450.jpg",
       "N. scientifique ": "Zoysia japonica",
       "Famille ": "Poacées, Graminées",
       "Origine ": "Asie",
@@ -63,6 +35,7 @@
     },
     {
       "Nom": "Tolmie de Menzies, La poule et ses poussins",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/tolmiea-menziesii-cv-cool-gold-600x450.jpg",
       "N. scientifique ": "Tolmiea menziesii",
       "Synonyme ": "Tiarella menzierii",
       "Famille ": "Saxifragacées",
@@ -94,6 +67,7 @@
     },
     {
       "Nom": "Tanaisie argentée, Tanaisie de Turquie ou de Syrie, Dentelle d'argent",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/tanacetum-haradjanii-600x450.jpg",
       "N. scientifique ": "Tanacetum haradjanii",
       "Synonyme ": "Chrysanthemum haradjanii",
       "Famille ": "Astéracées, Composées",
@@ -126,6 +100,7 @@
     },
     {
       "Nom": "Scléranthe",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/scleranthus-uniflorus-600x450.jpg",
       "N. scientifique ": "Scleranthus uniflorus ",
       "Famille ": "Caryophyllacées",
       "Origine ": "Nouvelle Zélande",
@@ -159,6 +134,7 @@
     },
     {
       "Nom": "Sagine subulée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sagina-subulata-600x450.jpg",
       "N. scientifique ": "Sagina subulata",
       "Famille ": "Caryophyllacées",
       "Origine ": "Europe de l'ouest",
@@ -192,7 +168,73 @@
       "Sensibilité ": "les pucerons"
     },
     {
+      "Nom": "Muhly à poils longs, Muhlenbergie capillaire herbe, Muhly rose, Herbe à cheveux rose",
+      "ImgUrl": "https://static.aujardin.info/cache/th/adb/muhlenbergia-capillaris-600x450.jpg",
+      "N. scientifique ": "Muhlenbergia capillaris",
+      "Famille ": "Poacées, Graminées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "septembre, octobre",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "graminée",
+      "Végétation": "plante vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "90 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -15 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "drainant : sablonneux, caillouteux, calcaire",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "utilisation paysagère pour large zone ouverte sur sol graveleux",
+      "Multiplication": "division, semis"
+    },
+    {
+      "Nom": "Lysimaque nummulaire, Herbe aux écus",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lysimachia-nummularia-600x450.jpg",
+      "N. scientifique ": "Lysimachia nummularia",
+      "Famille ": "Primulacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante herbacée couvre-sol",
+      "Végétation": "plante vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "0,50 à 0,90 cm de longueur",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        " ",
+        "  soleil à ombre claire "
+      ],
+      "Sol": "humifère à argileux, même lourd",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "frais, humide à submerger ponctuellement",
+      "Utilisation": "couvre-sol en massif ou au bord du bassin, jardinière, plante d'aquarium, plante médicinale",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division"
+    },
+    {
       "Nom": "Ruban de bergère, Phalaris faux-roseau, Ruban de bergère, Baldingère faux roseau",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/phalaris-arundinacea-cv-strawberries-and-cream-600x450.jpg",
       "N. scientifique ": "Phalaris arundinacea",
       "Synonyme ": "Baldingera arundinacea",
       "Famille ": "Poacées, Graminées",
@@ -226,6 +268,7 @@
     },
     {
       "Nom": "Restio",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/thamnochortus-insignis-600x450.jpg",
       "N. scientifique ": "Thamnochortus insignis",
       "Famille ": "Restionacées",
       "Origine ": "Afrique, le Cap",
@@ -256,6 +299,7 @@
     },
     {
       "Nom": "Paris polyphylla",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/paris-polyphylla-600x450.jpg",
       "N. scientifique ": "Paris polyphylla",
       "Famille ": "Liliacées",
       "Origine ": "Ouest des États-Unis",
@@ -288,6 +332,7 @@
     },
     {
       "Nom": "Osmonde royale, Fougère royale, Fougère fleurie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/osmunda-regalis-cv-urpurascens-feuille-600x450.jpg",
       "N. scientifique ": "Osmunda regalis",
       "Famille ": "Osmondacées",
       "Origine ": "Régions tempérées et subtropicales",
@@ -322,6 +367,7 @@
     },
     {
       "Nom": "Ophiopogon noir, Barbe de serpent noire, Barbe de dragon noire",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/ophiopogon-planiscapus-cv-nigrescens-600x450.jpg",
       "N. scientifique ": "Ophiopogon planiscapus 'Nigrescens'",
       "Synonyme ": "Mondo planiscapum",
       "Famille ": "Liliacées",
@@ -354,6 +400,7 @@
     },
     {
       "Nom": "Ophiopogon, Barbe de serpent, Barbe de dragon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/ophiopogon-planiscapus-600x450.jpg",
       "N. scientifique ": "Ophiopogon planiscapus",
       "Synonyme ": "Mondo planiscapum",
       "Famille ": "Liliacées",
@@ -385,129 +432,8 @@
       "Multiplication": "semis, division"
     },
     {
-      "Nom": "Muhly à poils longs, Muhlenbergie capillaire herbe, Muhly rose, Herbe à cheveux rose",
-      "N. scientifique ": "Muhlenbergia capillaris",
-      "Famille ": "Poacées, Graminées",
-      "Origine ": "Amérique du Nord",
-      "Floraison": "septembre, octobre",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "graminée",
-      "Végétation": "plante vivace",
-      "Feuillage ": "semi-persistant",
-      "Hauteur": "90 à 120 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, jusqu'à -15 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "drainant : sablonneux, caillouteux, calcaire",
-      "Acidité ": "légèrement acide à basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "utilisation paysagère pour large zone ouverte sur sol graveleux",
-      "Multiplication": "division, semis"
-    },
-    {
-      "Nom": "Lysimaque nummulaire, Herbe aux écus",
-      "N. scientifique ": "Lysimachia nummularia",
-      "Famille ": "Primulacées",
-      "Origine ": "Europe, Asie",
-      "Floraison": "juin à septembre",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "plante herbacée couvre-sol",
-      "Végétation": "plante vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "0,50 à 0,90 cm de longueur",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -34 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        " ",
-        "  soleil à ombre claire "
-      ],
-      "Sol": "humifère à argileux, même lourd",
-      "Acidité ": "légèrement acide à légèrement basique",
-      "Humidité ": "frais, humide à submerger ponctuellement",
-      "Utilisation": "couvre-sol en massif ou au bord du bassin, jardinière, plante d'aquarium, plante médicinale",
-      "Plantation": "printemps, automne",
-      "Multiplication": "division"
-    },
-    {
-      "Nom": "Lin des montagnes, Phormium des Montagnes, Phormium de Cook",
-      "N. scientifique ": "Phormium cookianum",
-      "Synonyme ": "Phormium colensoi",
-      "Famille ": "Asphodélacées",
-      "Origine ": "Nouvelle-Zélande",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "plante  en forme de grande graminée",
-      "Végétation": "plante vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1m à 1,50 m",
-      "Rusticité ": "   feuillage -7°C, souche -15 °C ",
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "riche, humifère",
-      "Acidité ": "légèrement acide à légèrement alcalin",
-      "Humidité ": "sol normal à frais",
-      "Utilisation": "massif",
-      "Plantation": "printemps",
-      "Multiplication": "semis, division"
-    },
-    {
-      "Nom": "Lin de Nouvelle-Zélande, Chanvre de Nouvelle-Zélande",
-      "N. scientifique ": "Phormium tenax",
-      "Famille ": "Liliacées",
-      "Origine ": "Nouvelle Zélande",
-      "Floraison": "juillet",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "feuillage décoratif",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 1,5 à 3 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  -5°C, moyennement rustique, à privilégier dans les régions au climat doux, ailleurs mettre en place un paillis "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "sableux, drainé, riche en humus",
-      "Acidité ": "neutre",
-      "Humidité ": "frais",
-      "Utilisation": "massif, isolée, pot, bac",
-      "Plantation": "printemps",
-      "Multiplication": "semis au printemps, division de la touffe en automne",
-      "Taille": "retirez les hampes florales après la floraison",
-      "Sensibilité ": "les cochenilles farineuses"
-    },
-    {
       "Nom": "Lampourde pourpre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/acaena-inermis-cv-purpurea-600x450.jpg",
       "N. scientifique ": "Acaena inermis 'Purpurea'",
       "Synonyme ": "Acaena microphylla",
       "Famille ": "Rosacées",
@@ -537,6 +463,7 @@
     },
     {
       "Nom": "Laiche de Chine, Carex de Chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/carex-scaposa-600x450.jpg",
       "N. scientifique ": "Carex scaposa",
       "Famille ": "Cypéracées",
       "Origine ": "Chine",
@@ -568,6 +495,7 @@
     },
     {
       "Nom": "L'herbe du Japon, Herbe d'Hakone",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/hakonechloa-macra-cv-aureola-600x450.jpg",
       "N. scientifique ": "Hakonechloa macra",
       "Famille ": "Poacées, Graminées",
       "Origine ": "Japon",
@@ -600,6 +528,7 @@
     },
     {
       "Nom": "Heucherelle",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/x-heucherella-cv-kimono-600x450.jpg",
       "N. scientifique ": "x Heucherella",
       "Famille ": "Saxifragacées",
       "Origine ": "horticole",
@@ -631,6 +560,7 @@
     },
     {
       "Nom": "Herbe queues de lapins rouges, Herbe aux écouvillons",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/pennisetum-messiacum-cv-red-buttons-600x450.jpg",
       "N. scientifique ": "Pennisetum messiacum",
       "Synonyme ": "Cenchrus massaicus",
       "Famille ": "Poacées, Graminées",
@@ -661,6 +591,7 @@
     },
     {
       "Nom": "Herbe aux goutteux panachée, Egopode podagraire",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aegopodium-podagraria-600x450.jpg",
       "N. scientifique ": "Aegopodium podagraria 'Variegatum'",
       "Famille ": "Apiacées, Ombellifères",
       "Origine ": "Europe et Asie occidentale",
@@ -694,7 +625,69 @@
       "Sensibilité ": "résistant aux maladies et aux insectes"
     },
     {
+      "Nom": "Lin des montagnes, Phormium des Montagnes, Phormium de Cook",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/phormium-cookianum-600x450.jpg",
+      "N. scientifique ": "Phormium cookianum",
+      "Synonyme ": "Phormium colensoi",
+      "Famille ": "Asphodélacées",
+      "Origine ": "Nouvelle-Zélande",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante  en forme de grande graminée",
+      "Végétation": "plante vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1m à 1,50 m",
+      "Rusticité ": "   feuillage -7°C, souche -15 °C ",
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "riche, humifère",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "sol normal à frais",
+      "Utilisation": "massif",
+      "Plantation": "printemps",
+      "Multiplication": "semis, division"
+    },
+    {
+      "Nom": "Lin de Nouvelle-Zélande, Chanvre de Nouvelle-Zélande",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/phormium-tenax-cv-variegatum-600x450.jpg",
+      "N. scientifique ": "Phormium tenax",
+      "Famille ": "Liliacées",
+      "Origine ": "Nouvelle Zélande",
+      "Floraison": "juillet",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "feuillage décoratif",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 1,5 à 3 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  -5°C, moyennement rustique, à privilégier dans les régions au climat doux, ailleurs mettre en place un paillis "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "sableux, drainé, riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif, isolée, pot, bac",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps, division de la touffe en automne",
+      "Taille": "retirez les hampes florales après la floraison",
+      "Sensibilité ": "les cochenilles farineuses"
+    },
+    {
       "Nom": "Herbe aux écouvillons",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/pennisetum-villosum-cv-de-wild-600x450.jpg",
       "N. scientifique ": "Pennisetum villosum",
       "Synonyme ": "Pennisetum longistylum",
       "Famille ": "Poacées, Graminées",
@@ -725,6 +718,7 @@
     },
     {
       "Nom": "Helxine, Soleirole de soleir, Larmes d’anges",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/soleirolia-soleirolii-600x450.jpg",
       "N. scientifique ": "Soleirolia soleirolii",
       "Famille ": "Urticacées",
       "Origine ": "Europe",
@@ -753,6 +747,7 @@
     },
     {
       "Nom": "Gui, Bois de Sainte Croix",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/viscum-album-600x450.jpg",
       "N. scientifique ": "Viscum album",
       "Famille ": "Viscacées",
       "Origine ": "Europe",
@@ -787,6 +782,7 @@
     },
     {
       "Nom": "Gazon kikuyu",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/pennisetum-clandestinum-600x450.jpg",
       "N. scientifique ": "Pennisetum clandestinum",
       "Synonyme ": "Pennisetum longistylum",
       "Famille ": "Poacées, Graminées",
@@ -817,6 +813,7 @@
     },
     {
       "Nom": "Gazon des Mascareignes",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/zoysia-tenuifolia-600x450.jpg",
       "N. scientifique ": "Zoysia tenuifolia",
       "Famille ": "Poacées, Graminées",
       "Origine ": "Asie et Mascareignes",
@@ -848,6 +845,7 @@
     },
     {
       "Nom": "Fraisier des Indes, Fraisier de Duchesne, Faux-fraisier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/duchesnea-indica-fruit-600x450.jpg",
       "N. scientifique ": "Duchesnea indica",
       "Synonymes ": "Fragaria indica, Potentilla indica",
       "Famille ": "Rosacées",
@@ -881,6 +879,7 @@
     },
     {
       "Nom": "Ficinia tronqué Ice Crystal,   Ficinia givré",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ficinia-truncata-cv-ice-crystal-600x450.jpg",
       "N. scientifique ": "Ficinia truncata 'Ice Crystal'",
       "Famille ": "Cypéracées",
       "Origine ": "Afrique du Sud",
@@ -911,6 +910,7 @@
     },
     {
       "Nom": "Fétuque bleue, Fétuque glauque",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/festuca-glauca-600x450.jpg",
       "N. scientifique ": "Festuca glauca",
       "Famille ": "Poacées, Graminées",
       "Origine ": "Europe",
@@ -938,6 +938,7 @@
     },
     {
       "Nom": "Echelle de Jacob panachée, Echelle de Jacob Brise d'Anjou, Polémonium bleu Brise d'Anjou",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/polemonium-caeruleum-cv-brize-anjou-600x450.jpg",
       "N. scientifique ": "Polemonium caeruleum 'Brise d'Anjou'",
       "Synonyme ": "Polemonium caeruleum 'Banjou'",
       "Famille ": "Polémoniacées",
@@ -971,6 +972,7 @@
     },
     {
       "Nom": "Creek mat-rush, Mat-rush vert",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/lomadra-hystrix-600x450.jpg",
       "N. scientifique ": "Lomandra hystrix",
       "Synonymes ": "Xerotes hystrix, Lomandra longifolia subsp Hystrix",
       "Famille ": "Asparagacées",
@@ -1002,6 +1004,7 @@
     },
     {
       "Nom": "Cloche des fées du Japon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/disporum-sessile-600x450.jpg",
       "N. scientifique ": "Disporum sessile",
       "Synonyme ": "Disporum nantouense",
       "Famille ": "Liliacées",
@@ -1036,6 +1039,7 @@
     },
     {
       "Nom": "Cheveux d'ange",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/stipa-tenuissima-600x450.jpg",
       "N. scientifique ": "Stipa tenuissima",
       "Synonymes ": "Stipa tenuifolia, Nassella tenuissima",
       "Famille ": "Poacées, Graminées",
@@ -1067,6 +1071,7 @@
     },
     {
       "Nom": "Carex d'Oshima, Laîche d'Oshima, Laîche japonaise",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/carex-oshimensis-cv-everillo-600x450.jpg",
       "N. scientifique ": "Carex oshimensis",
       "Synonymes ": "Carex hachijoensis, Carex marrowii",
       "Famille ": "Cypéracées",
@@ -1100,6 +1105,7 @@
     },
     {
       "Nom": "Aspidistra élevé",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/aspidistra-elatior-600x450.jpg",
       "N. scientifique ": "Aspidistra elatior",
       "Famille ": "Liliacées",
       "Origine ": "Japon",
@@ -1130,6 +1136,7 @@
     },
     {
       "Nom": "Vigne vierge de Delavay, Vigne vierge trifide, Baies de porcelaine de Delavay",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ampelopsis-delavayana-600x450.jpg",
       "N. scientifique ": "Ampelopsis delavayana",
       "Synonyme ": "Ampelopsis heterophylla var. delavayana",
       "Famille ": "Vitacées",
@@ -1162,6 +1169,7 @@
     },
     {
       "Nom": "Vigne vierge",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/parthenocissus-600x450.jpg",
       "N. scientifique ": "Parthenocissus",
       "Famille ": "Vitacées",
       "Origine ": "Europe",
@@ -1189,65 +1197,41 @@
       "Taille": "Taillez en mars avant le démarrage de la végétation et dégagez tuiles et gouttières"
     },
     {
-      "Nom": "Fougère laineuse",
-      "N. scientifique ": "Cheilanthes lanosa",
-      "Synonymes ": "Myriopteris lanosa, Allosorus lanosus, Hemionitis lanosa",
-      "Famille ": "Pteridacées",
-      "Origine ": "Amérique du Nord",
-      "Floraison": "été à automne",
-      "Fleurs ": "        plante sans fleurs ",
-      "Type": "fougère, plante cultivée pour feuillage, plante xérophyte",
+      "Nom": "Lierre du Caucase, Lierre de Perse, Lierre de Colchide",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/hedera-colchica-cv-arborescens-600x450.jpg",
+      "N. scientifique ": "Hedera colchica",
+      "Famille ": "Araliacées",
+      "Origine ": "Turquie, Asie mineure",
+      "Floraison": "septembre",
+      "Fleurs ": [
+        "     ",
+        "   verdâtre "
+      ],
+      "Type": "plante grimpante",
       "Végétation": "vivace",
       "Feuillage ": "persistant",
-      "Hauteur": "15 à 30 cm",
+      "Hauteur": "peut dépasser les 10 m",
       "Rusticité ": [
         "  ",
         " ",
-        " ",
-        "  très rustique, jusqu'à -28 °C "
+        "  rustique, jusqu'à -18 °C "
       ],
       "Exposition ": [
         "  ",
         " ",
-        "  plein soleil, mi-ombre, ombre légère "
+        " ",
+        "  ombre à plein soleil "
       ],
-      "Sol": "sol graveleux ou pierreux",
-      "Acidité ": "acide à légèrement basique",
-      "Humidité ": "résistante à la sécheresse",
-      "Utilisation": "jardin de gravier, muret, rocaille, pot",
+      "Sol": "riche et humifère",
+      "Acidité ": "tolérant",
+      "Humidité ": "frais",
+      "Utilisation": "sous-bois, couvre-sol, clôture, mur",
       "Plantation": "printemps, automne",
-      "Multiplication": "semis de spores, division"
-    },
-    {
-      "Nom": "Fougère femelle",
-      "N. scientifique ": "Athyrium filix-femina",
-      "Famille ": "Athyriacées, Dryoptéridacées",
-      "Origine ": "Hémisphère nord",
-      "Type": "feuillage décoratif",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "jusqu'à 1,20 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  -30°C, très rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  mi-ombre, ombre "
-      ],
-      "Sol": "riche en humus",
-      "Acidité ": "neutre, acide",
-      "Humidité ": "normal",
-      "Utilisation": "sous-bois, massif",
-      "Plantation": "printemps",
-      "Multiplication": "semis de spores au chaud, division de la touffe au printemps",
-      "Sensibilité ": "résistant aux maladies et aux insectes"
+      "Multiplication": "bouture, marcotte"
     },
     {
       "Nom": "Lierre commun",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/hedera-panache-600x450.jpg",
       "N. scientifique ": "Hedera helix",
       "Famille ": "Araliacées",
       "Origine ": "Europe",
@@ -1281,39 +1265,8 @@
       "Sensibilité ": "résistant aux parasites et aux maladies"
     },
     {
-      "Nom": "Lierre du Caucase, Lierre de Perse, Lierre de Colchide",
-      "N. scientifique ": "Hedera colchica",
-      "Famille ": "Araliacées",
-      "Origine ": "Turquie, Asie mineure",
-      "Floraison": "septembre",
-      "Fleurs ": [
-        "     ",
-        "   verdâtre "
-      ],
-      "Type": "plante grimpante",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "peut dépasser les 10 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, jusqu'à -18 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        " ",
-        "  ombre à plein soleil "
-      ],
-      "Sol": "riche et humifère",
-      "Acidité ": "tolérant",
-      "Humidité ": "frais",
-      "Utilisation": "sous-bois, couvre-sol, clôture, mur",
-      "Plantation": "printemps, automne",
-      "Multiplication": "bouture, marcotte"
-    },
-    {
       "Nom": "Houblon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/humulus-lupulus-600x450.jpg",
       "N. scientifique ": "Humulus lupulus",
       "Famille ": "Cannabinacées, Cannabacées",
       "Origine ": "Hémisphère nord, Europe, Amérique",
@@ -1348,6 +1301,7 @@
     },
     {
       "Nom": "Polypode commun, réglisse des bois",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/polypodium-vulgare-600x450.jpg",
       "N. scientifique ": "Polypodium vulgare",
       "Famille ": "Polypodiacées",
       "Origine ": "Europe, Afrique, Est de l'Asie et plus généralement dans les régions septentrionales et montagneuses",
@@ -1382,6 +1336,7 @@
     },
     {
       "Nom": "Fougère trompe d'éléphant, Dryoptéris noir",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/dryopteris-atrata-600x450.jpg",
       "N. scientifique ": "Dryopteris atrata",
       "Synonyme ": "Dryopteris cycadina",
       "Famille ": "Athyriacées, Dryoptéridacées",
@@ -1412,6 +1367,7 @@
     },
     {
       "Nom": "Fougère scolopendre, Langue de cerf, Langue de bœuf, Herbe à la rate, Herbe hépatique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/asplenium-scolopendrium-600x450.jpg",
       "N. scientifique ": "Asplenium scolopendrium",
       "Synonymes ": "Phyllitis scolopendrium, Scolopendrium vulgare",
       "Famille ": "Aspleniacées",
@@ -1442,6 +1398,7 @@
     },
     {
       "Nom": "Fougère plume d'autruche, Fougère allemande",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/matteuccia-struthiopteris-600x450.jpg",
       "N. scientifique ": "Matteuccia struthiopteris",
       "Famille ": "Athyriacées, Dryoptéridacées",
       "Origine ": "Est de l'Amérique du nord, Asie, Scandinavie, Alpes et Allemagne",
@@ -1475,34 +1432,68 @@
       "Sensibilité ": "résistante aux maladies et aux insectes"
     },
     {
-      "Nom": "Fougère arborescente du Mexique",
-      "N. scientifique ": "Cibotium schiedei",
-      "Synonyme ": "Dryopteris cristatum",
-      "Famille ": "Dicksoniacées, Cynthéacées",
-      "Origine ": "Mexique",
-      "Floraison": "spores de septembre à novembre",
+      "Nom": "Fougère laineuse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cheilanthes-lanosa-600x450.jpg",
+      "N. scientifique ": "Cheilanthes lanosa",
+      "Synonymes ": "Myriopteris lanosa, Allosorus lanosus, Hemionitis lanosa",
+      "Famille ": "Pteridacées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "été à automne",
       "Fleurs ": "        plante sans fleurs ",
-      "Type": "fougère arborescente",
+      "Type": "fougère, plante cultivée pour feuillage, plante xérophyte",
       "Végétation": "vivace",
       "Feuillage ": "persistant",
-      "Hauteur": "3 à 5 m",
+      "Hauteur": "15 à 30 cm",
       "Rusticité ": [
         "  ",
-        "  peu rustique, -2 °C minimum "
+        " ",
+        " ",
+        "  très rustique, jusqu'à -28 °C "
       ],
       "Exposition ": [
         "  ",
-        "  mi-ombre, ombre claire "
+        " ",
+        "  plein soleil, mi-ombre, ombre légère "
       ],
-      "Sol": "drainant",
+      "Sol": "sol graveleux ou pierreux",
       "Acidité ": "acide à légèrement basique",
-      "Humidité ": "toujours frais",
-      "Utilisation": "sous-bois, jardin d'ombre, tourbière, bord de bassin",
+      "Humidité ": "résistante à la sécheresse",
+      "Utilisation": "jardin de gravier, muret, rocaille, pot",
       "Plantation": "printemps, automne",
-      "Multiplication": "semis"
+      "Multiplication": "semis de spores, division"
+    },
+    {
+      "Nom": "Fougère femelle",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/athyrium-filix-femina-600x450.jpg",
+      "N. scientifique ": "Athyrium filix-femina",
+      "Famille ": "Athyriacées, Dryoptéridacées",
+      "Origine ": "Hémisphère nord",
+      "Type": "feuillage décoratif",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 1,20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -30°C, très rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre, ombre "
+      ],
+      "Sol": "riche en humus",
+      "Acidité ": "neutre, acide",
+      "Humidité ": "normal",
+      "Utilisation": "sous-bois, massif",
+      "Plantation": "printemps",
+      "Multiplication": "semis de spores au chaud, division de la touffe au printemps",
+      "Sensibilité ": "résistant aux maladies et aux insectes"
     },
     {
       "Nom": "Fougère Bambou, Coniogramme du Mont Emei",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/coniogramme-emeiensis-600x450.jpg",
       "N. scientifique ": "Coniogramme emeiensis",
       "Synonyme ": "Coniogramme crenatoserrata",
       "Famille ": "Pteridacées",
@@ -1530,7 +1521,36 @@
       "Multiplication": "semis de spores, division"
     },
     {
+      "Nom": "Fougère arborescente du Mexique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cibotium-schiedei-600x450.jpg",
+      "N. scientifique ": "Cibotium schiedei",
+      "Synonyme ": "Dryopteris cristatum",
+      "Famille ": "Dicksoniacées, Cynthéacées",
+      "Origine ": "Mexique",
+      "Floraison": "spores de septembre à novembre",
+      "Fleurs ": "        plante sans fleurs ",
+      "Type": "fougère arborescente",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "3 à 5 m",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, -2 °C minimum "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre, ombre claire "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "acide à légèrement basique",
+      "Humidité ": "toujours frais",
+      "Utilisation": "sous-bois, jardin d'ombre, tourbière, bord de bassin",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
       "Nom": "Fougère arborescente de Cooper",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/cyathea-cooperi-600x450.jpg",
       "N. scientifique ": "Cyathea cooperi",
       "Synonymes ": "Sphaeropteris cooperi, Alsophila cooperi",
       "Famille ": "Dicksoniacées, Cynthéacées",
@@ -1558,6 +1578,7 @@
     },
     {
       "Nom": "Fougère arborescente",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/dicksonia-antartica-600x450.jpg",
       "N. scientifique ": "Dicksonia antarctica",
       "Famille ": "Dicksoniacées, Cynthéacées",
       "Origine ": "Tasmanie",
@@ -1588,6 +1609,7 @@
     },
     {
       "Nom": "Fausse fougère mâle Cristata The king, Dryoptéris écailleux cristé",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/dryopteris-affinis-cv-cristata-the-king-600x450.jpg",
       "N. scientifique ": "Dryopteris affinis 'Cristata The King'",
       "Famille ": "Athyriacées, Dryoptéridacées",
       "Origine ": "Europe",
@@ -1616,6 +1638,7 @@
     },
     {
       "Nom": "Fausse capilaire, Doradille",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/asplenium-trichomanes-600x450.jpg",
       "N. scientifique ": "Asplenium trichomanes",
       "Famille ": "Aspleniacées",
       "Origine ": "Régions tempérées et subarctiques",
@@ -1649,66 +1672,8 @@
       "Sensibilité ": "Elle ne risque rien, si ce n'est parfois quelques cochenilles mais cela reste très rare."
     },
     {
-      "Nom": "Dryoptéris Sunset Fern",
-      "N. scientifique ": "Dryotperis lepidopoda",
-      "Synonyme ": "Dryopteris filix-mas subsp. khasiana",
-      "Famille ": "Athyriacées, Dryoptéridacées",
-      "Origine ": "Himalaya, Chine, Taiwan",
-      "Floraison": "mai à octobre",
-      "Fleurs ": "        plante sans fleur ",
-      "Type": "fougère",
-      "Végétation": "vivace",
-      "Feuillage ": "semi-persistant",
-      "Hauteur": "60 à 70 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, -23 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ombre à mi-ombre "
-      ],
-      "Sol": "sol riche et humifère",
-      "Acidité ": "légèrement acide à neutre",
-      "Humidité ": "normal à frais",
-      "Utilisation": "sous-bois, jardin d'ombre",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis de spores"
-    },
-    {
-      "Nom": "Dryoptéris à crêtes",
-      "N. scientifique ": "Dryopteris cristata",
-      "Synonyme ": "Dryopteris cristatum",
-      "Famille ": "Athyriacées, Dryoptéridacées",
-      "Origine ": "Europe",
-      "Floraison": "septembre à novembre",
-      "Fleurs ": "        plante sans fleur ",
-      "Type": "fougère, plante aquatique, plante de bassin",
-      "Végétation": "vivace",
-      "Feuillage ": "semi-persistant",
-      "Hauteur": "40 à 70 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique jusqu'à -24°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "sol tourbeux",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "très humide",
-      "Utilisation": "sous-bois, jardin d'ombre, tourbière, bord de bassin",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis, division"
-    },
-    {
       "Nom": "Thuya",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/thuya-600x450.jpg",
       "N. scientifique ": "Thuja",
       "Famille ": "Cupressacées",
       "Origine ": "Amérique du nord, Chine",
@@ -1743,6 +1708,7 @@
     },
     {
       "Nom": "Séquoia géant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sequoiadendron-giganteum-600x450.jpg",
       "N. scientifique ": "Sequoïadendron giganteum",
       "Famille ": "Taxodiacées",
       "Origine ": "Californie",
@@ -1770,7 +1736,104 @@
       "Sensibilité ": "Pourridié"
     },
     {
+      "Nom": "Sapin",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/abies-pinsapo-cv-horstmann-600x450.jpg",
+      "N. scientifique ": "Abies",
+      "Famille ": "Pinacées",
+      "Origine ": "Zones tempérées",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "conifère",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 10 à 30 m selon les espèces, il existe des variétés naines ne dépassant guère les 2m.",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche en humus, bien drainé",
+      "Acidité ": "neutre à légèrement acide",
+      "Humidité ": "frais",
+      "Utilisation": "isolé, rocaille",
+      "Plantation": "automne",
+      "Multiplication": "semis en février, greffage",
+      "Sensibilité ": "l'armillaire"
+    },
+    {
+      "Nom": "Pin sylvestre, Pin d'Écosse, Pin du nord",
+      "ImgUrl": "https://static.aujardin.info/cache/th/adb/pinus-sylvestris-600x450.jpg",
+      "N. scientifique ": "Pinus sylvestris",
+      "Synonyme ": "Pinus sativa",
+      "Famille ": "Pinacées",
+      "Origine ": "Europe",
+      "Floraison": "avril",
+      "Fleurs ": "        cônes ",
+      "Type": "conifère",
+      "Végétation": "arbre de haut jet",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 à 30 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  rustique, jusqu'à -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "drainant, siliceux",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "en isolé, en bosquet, en bonsaï",
+      "Plantation": "novembre à mars",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Pin parasol, Pin pignon, Pinier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/pinus-pinea-600x450.jpg",
+      "N. scientifique ": "Pinus pinea",
+      "Synonyme ": "Pinus sativa",
+      "Famille ": "Pinacées",
+      "Origine ": "pourtour de la Méditerranée",
+      "Floraison": "avril",
+      "Fleurs ": [
+        "     ",
+        "   cônes "
+      ],
+      "Type": "conifère",
+      "Végétation": "arbre de haut jet",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 à 30 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -12°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "drainant, siliceux",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "en isolé, en bosquet, en bonsaï",
+      "Plantation": "novembre à mars",
+      "Multiplication": "semis",
+      "Sensibilité ": "le charançon du pin, la chenille processionnaire"
+    },
+    {
       "Nom": "Sapin d’Espagne, Sapin d’Andalousie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/abies-pinsapo-cv-horstmann-600x450.jpg",
       "N. scientifique ": "Abies pinsapo",
       "Famille ": "Pinacées",
       "Origine ": "Espagne, Maroc",
@@ -1799,6 +1862,7 @@
     },
     {
       "Nom": "Sapin du Colorado",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/abies-concolor-var-concolor-600x450.jpg",
       "N. scientifique ": "Abies concolor",
       "Famille ": "Pinacées",
       "Origine ": "Etats-Unis",
@@ -1830,6 +1894,7 @@
     },
     {
       "Nom": "Sapin de Delavay, sapin du Yunnan",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/abies-delavayi-600x450.jpg",
       "N. scientifique ": "Abies delavayi",
       "Famille ": "Pinacées",
       "Origine ": "Inde, Myanmar, Yunnan, Tibet, sud-ouest de la Chine",
@@ -1863,6 +1928,7 @@
     },
     {
       "Nom": "Sapin de Corée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/abies-koreana-600x450.jpg",
       "N. scientifique ": "Abies koreana",
       "Famille ": "Pinacées",
       "Origine ": "Corée du Sud",
@@ -1893,100 +1959,8 @@
       "Multiplication": "automne jusqu'à mars"
     },
     {
-      "Nom": "Sapin",
-      "N. scientifique ": "Abies",
-      "Famille ": "Pinacées",
-      "Origine ": "Zones tempérées",
-      "Floraison": "printemps",
-      "Fleurs ": [
-        "     ",
-        "   bleu "
-      ],
-      "Type": "conifère",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 10 à 30 m selon les espèces, il existe des variétés naines ne dépassant guère les 2m.",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "riche en humus, bien drainé",
-      "Acidité ": "neutre à légèrement acide",
-      "Humidité ": "frais",
-      "Utilisation": "isolé, rocaille",
-      "Plantation": "automne",
-      "Multiplication": "semis en février, greffage",
-      "Sensibilité ": "l'armillaire"
-    },
-    {
-      "Nom": "Pin sylvestre, Pin d'Écosse, Pin du nord",
-      "N. scientifique ": "Pinus sylvestris",
-      "Synonyme ": "Pinus sativa",
-      "Famille ": "Pinacées",
-      "Origine ": "Europe",
-      "Floraison": "avril",
-      "Fleurs ": "        cônes ",
-      "Type": "conifère",
-      "Végétation": "arbre de haut jet",
-      "Feuillage ": "persistant",
-      "Hauteur": "20 à 30 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  rustique, jusqu'à -34 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ensoleillée "
-      ],
-      "Sol": "drainant, siliceux",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "en isolé, en bosquet, en bonsaï",
-      "Plantation": "novembre à mars",
-      "Multiplication": "semis"
-    },
-    {
-      "Nom": "Pin parasol, Pin pignon, Pinier",
-      "N. scientifique ": "Pinus pinea",
-      "Synonyme ": "Pinus sativa",
-      "Famille ": "Pinacées",
-      "Origine ": "pourtour de la Méditerranée",
-      "Floraison": "avril",
-      "Fleurs ": [
-        "     ",
-        "   cônes "
-      ],
-      "Type": "conifère",
-      "Végétation": "arbre de haut jet",
-      "Feuillage ": "persistant",
-      "Hauteur": "20 à 30 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique jusqu'à -12°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ensoleillée "
-      ],
-      "Sol": "drainant, siliceux",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "en isolé, en bosquet, en bonsaï",
-      "Plantation": "novembre à mars",
-      "Multiplication": "semis",
-      "Sensibilité ": "le charançon du pin, la chenille processionnaire"
-    },
-    {
       "Nom": "Pin parasol japonais, Koyamaki",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/sciadopitys-verticillata-600x450.jpg",
       "N. scientifique ": "Sciadopitys verticillata",
       "Synonyme ": "Taxus verticillata",
       "Famille ": "Sciadopityacées",
@@ -2016,7 +1990,69 @@
       "Multiplication": "semis, boutures"
     },
     {
+      "Nom": "Dryoptéris Sunset Fern",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/dryopteris-lepidopoda-600x450.jpg",
+      "N. scientifique ": "Dryotperis lepidopoda",
+      "Synonyme ": "Dryopteris filix-mas subsp. khasiana",
+      "Famille ": "Athyriacées, Dryoptéridacées",
+      "Origine ": "Himalaya, Chine, Taiwan",
+      "Floraison": "mai à octobre",
+      "Fleurs ": "        plante sans fleur ",
+      "Type": "fougère",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "60 à 70 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -23 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre à mi-ombre "
+      ],
+      "Sol": "sol riche et humifère",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "normal à frais",
+      "Utilisation": "sous-bois, jardin d'ombre",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis de spores"
+    },
+    {
+      "Nom": "Dryoptéris à crêtes",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/dryopteris-cristata-600x450.jpg",
+      "N. scientifique ": "Dryopteris cristata",
+      "Synonyme ": "Dryopteris cristatum",
+      "Famille ": "Athyriacées, Dryoptéridacées",
+      "Origine ": "Europe",
+      "Floraison": "septembre à novembre",
+      "Fleurs ": "        plante sans fleur ",
+      "Type": "fougère, plante aquatique, plante de bassin",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "40 à 70 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique jusqu'à -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "sol tourbeux",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "très humide",
+      "Utilisation": "sous-bois, jardin d'ombre, tourbière, bord de bassin",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis, division"
+    },
+    {
       "Nom": "Pin maritime, Pin des Landes",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/pinus-pinaster-600x450.jpg",
       "N. scientifique ": "Pinus pinaster",
       "Famille ": "Pinacées",
       "Origine ": "Sud-ouest de l'europe",
@@ -2049,6 +2085,7 @@
     },
     {
       "Nom": "Pin de Wollemi",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/wollemia-nobilis-600x450.jpg",
       "N. scientifique ": "Wollemia nobilis",
       "Famille ": "Araucariacées",
       "Origine ": "Australie",
@@ -2080,6 +2117,7 @@
     },
     {
       "Nom": "Mélèze du Japon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/larix-kaempferi-600x450.jpg",
       "N. scientifique ": "Larix kaempferi",
       "Famille ": "Pinacées",
       "Origine ": "Japon",
@@ -2109,6 +2147,7 @@
     },
     {
       "Nom": "Mélèze d'Europe, Pin de Briançon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/larix-decidua-600x450.jpg",
       "N. scientifique ": "Larix decidua",
       "Synonyme ": "Larix  europea",
       "Famille ": "Pinacées",
@@ -2139,6 +2178,7 @@
     },
     {
       "Nom": "Mélèze d'Amérique, Mélèze laricin, Tamarack",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/larix-laricina-600x450.jpg",
       "N. scientifique ": "Larix laricina",
       "Synonymes ": "Larix americana, Pinus laricina",
       "Famille ": "Pinacées",
@@ -2172,6 +2212,7 @@
     },
     {
       "Nom": "Genévrier sabine, Sabinier, Genévrier fétide",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/juniperus-sabina-600x450.jpg",
       "N. scientifique ": "Juniperus sabina",
       "Synonyme ": "Juniperus recurva",
       "Famille ": "Cupressacées",
@@ -2203,6 +2244,7 @@
     },
     {
       "Nom": "Genévrier rampant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/juniperus-horizontalis-cv-mother-lode-600x450.jpg",
       "N. scientifique ": "Juniperus horizontalis",
       "Synonyme ": "Juniperus recurva",
       "Famille ": "Cupressacées",
@@ -2233,6 +2275,7 @@
     },
     {
       "Nom": "Genévrier écailleux",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/juniperus-squamata-cv-blue-carpet-600x450.jpg",
       "N. scientifique ": "Juniperus squamata",
       "Synonyme ": "Juniperus recurva",
       "Famille ": "Cupressacées",
@@ -2263,6 +2306,7 @@
     },
     {
       "Nom": "Genévrier de Chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/juniperus-chinensis-600x450.jpg",
       "N. scientifique ": "Juniperus chinensis",
       "Synonyme ": "Juniperus sinensis",
       "Famille ": "Cupressacées",
@@ -2292,35 +2336,8 @@
       "Sensibilité ": "Acarides d'araignée, araignées rouges et coléoptères, rouille, dépérissement physiologique, armillaires, chenilles de mineuse, cochenilles, pucerons."
     },
     {
-      "Nom": "Genévrier commun, Genièvre",
-      "N. scientifique ": "Juniperus communis",
-      "Famille ": "Cupressacées",
-      "Origine ": "Europe, Amérique du nord, Asie",
-      "Floraison": "avril, mai",
-      "Fleurs ": "        insignifiante ",
-      "Type": "conifère",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "4m, rarement jusqu'à 10 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  rustique jusqu'à -29°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "acide à basique",
-      "Humidité ": "humide à sec",
-      "Utilisation": "massif, rocaille",
-      "Plantation": "automne",
-      "Multiplication": "bouture, marcottage, greffe, semis"
-    },
-    {
       "Nom": "Faux cyprès Sawara",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/chamaecyparis-pisifera-cv-boulevard-600x450.jpg",
       "N. scientifique ": "Chamaecyparis pisifera",
       "Famille ": "Cupressacées",
       "Origine ": "Amérique du nord",
@@ -2352,6 +2369,7 @@
     },
     {
       "Nom": "Epicea glauque, Epinette blanche, Sapin du Canada",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/picea-glauca-cv-conica-blue-600x450.jpg",
       "N. scientifique ": "Picea glauca",
       "Famille ": "Pinacées",
       "Origine ": "Amérique du Nord",
@@ -2380,6 +2398,7 @@
     },
     {
       "Nom": "Epicéa du Colorado, Sapin bleu, Epinette bleue",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/picea-pungens-cv-hoopsii-600x450.jpg",
       "N. scientifique ": "Picea pungens",
       "Famille ": "Pinacées",
       "Origine ": "Amérique du nord",
@@ -2403,6 +2422,7 @@
     },
     {
       "Nom": "Désespoir des singes",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/araucaria-araucana-600x450.jpg",
       "N. scientifique ": "Araucaria araucana",
       "Famille ": "Araucariacées",
       "Origine ": "Chili",
@@ -2427,33 +2447,8 @@
       "Multiplication": "semis, bouturage"
     },
     {
-      "Nom": "Cyprès de Lawson, Faux cyprès",
-      "N. scientifique ": "Chamaecyparis lawsoniana",
-      "Famille ": "Cupressacées",
-      "Origine ": "Amérique du nord",
-      "Floraison": "mars à avril",
-      "Fleurs ": [
-        "     ",
-        "   vert "
-      ],
-      "Type": "conifère",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 30 m pour l'espèce type",
-      "Rusticité ": "   rustique, -21°C ",
-      "Exposition ": [
-        "  ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "tolérant",
-      "Humidité ": "frais à sec",
-      "Utilisation": "arbuste isolé, ou en massif, haie",
-      "Plantation": "mi-septembre à mi-novembre",
-      "Multiplication": "semis, bouturage "
-    },
-    {
       "Nom": "Cyprès de Lambert, Cyprès de Monterey, Cyprès à gros fruits",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/cupressus-macrocarpa-600x450.jpg",
       "N. scientifique ": "Cupressus macrocarpa",
       "Synonyme ": "Cupressus lambertiana",
       "Famille ": "Cupressacées",
@@ -2486,6 +2481,7 @@
     },
     {
       "Nom": "Cyprès de l'Arizona, Cyprès bleu, Cyprès glabre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/cupressus-arizonica-var-glabra-600x450.jpg",
       "N. scientifique ": "Cupressus arizonica",
       "Famille ": "Cupressacées",
       "Origine ": "Amérique du Nord",
@@ -2516,6 +2512,7 @@
     },
     {
       "Nom": "Cyprès commun, Cyprès de Provence, Cyprès d'Italie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/cupressus-sempervirens-600x450.jpg",
       "N. scientifique ": "Cupressus sempervirens ",
       "Famille ": "Cupressacées",
       "Origine ": "Est du Bassin Méditerranéen, Proche Orient",
@@ -2546,6 +2543,7 @@
     },
     {
       "Nom": "Cyprès chauve, Cyprès de Louisiane",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/taxodium-distichum-600x450.jpg",
       "N. scientifique ": "Taxodium distichum",
       "Famille ": "Taxodiacées",
       "Origine ": "Sud des Etats-Unis",
@@ -2578,6 +2576,7 @@
     },
     {
       "Nom": "Cèdre du Japon, Cryptoméria, Sufi",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cryptomeria-japonica-600x450.jpg",
       "N. scientifique ": "Cryptomeria japonica",
       "Famille ": "Taxodiacées",
       "Origine ": "forêts du Japon, naturalisé en Chine et à Taïwan",
@@ -2609,6 +2608,7 @@
     },
     {
       "Nom": "Cèdre de l’atlas",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cedrus-atlantica-cv-glauca-600x450.jpg",
       "N. scientifique ": "Cedrus atlantica ",
       "Famille ": "Pinacées",
       "Origine ": "montagnes d’Afrique du nord",
@@ -2638,6 +2638,7 @@
     },
     {
       "Nom": "Bambou ventre de Bouddha",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/bambusa-ventricosa-cv-mc-clure-600x450.jpg",
       "N. scientifique ": "Bambou ventre de Bouddha, Bambusa ventricosa",
       "Synonyme ": "Bambusa tuldoides 'Ventricosa'",
       "Famille ": "Poacées, Graminées",
@@ -2665,36 +2666,8 @@
       "Multiplication": "par division"
     },
     {
-      "Nom": "Bambou noir",
-      "N. scientifique ": "Phyllostachys nigra",
-      "Synonyme ": "Bambusa nigra",
-      "Famille ": "Poacées, Graminées",
-      "Origine ": "Chine",
-      "Floraison": "espèce monocarpique",
-      "Fleurs ": "        insignifiante ",
-      "Type": "bambou, graminée",
-      "Végétation": "arbustive",
-      "Feuillage ": "persistant",
-      "Hauteur": "6 à 7 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique jusqu'à - 20°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à ombre légère "
-      ],
-      "Sol": "sol meuble",
-      "Acidité ": "acide à légèrement basique",
-      "Humidité ": "normal",
-      "Utilisation": "massif, haie",
-      "Plantation": "printemps, fin d'été, automne",
-      "Multiplication": "division, semis"
-    },
-    {
       "Nom": "Bambou géant, Bambou asper",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/dendrocalamus-asper-600x450.jpg",
       "N. scientifique ": "Dendrocalamus asper",
       "Synonyme ": "Bambusa aspera",
       "Famille ": "Poacées, Graminées",
@@ -2720,6 +2693,7 @@
     },
     {
       "Nom": "Bambou géant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/phyllostachys-bambusoides-600x450.jpg",
       "N. scientifique ": "Phyllostachys bambusoides",
       "Famille ": "Poacées, Graminées",
       "Origine ": "Sud de la Chine, Nord de l'Inde",
@@ -2749,6 +2723,7 @@
     },
     {
       "Nom": "Bambou du Mexique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/otatea-acuminata-600x450.jpg",
       "N. scientifique ": "Otatea acuminata",
       "Synonymes ": "Arthrostylidium longifolium, Yushania aztecorum",
       "Famille ": "Poacées, Graminées",
@@ -2774,6 +2749,7 @@
     },
     {
       "Nom": "Bambou carré",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/chimonobambusa-quadrangularis-600x450.jpg",
       "N. scientifique ": "Chimonobambusa quadrangularis",
       "Famille ": "Poacées, Graminées",
       "Origine ": "Chine, introduit en Europe au 19ème siècle",
@@ -2803,6 +2779,7 @@
     },
     {
       "Nom": "Bambou",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/phyllostachys-sulphurea-600x450.jpg",
       "N. scientifique ": "Phyllostachys sulphurea",
       "Synonymes ": "Phyllostachys viridis, Phyllostachys sulphurea f. viridis, Phyllostachys mitis",
       "Famille ": "Poacées, Graminées",
@@ -2832,6 +2809,7 @@
     },
     {
       "Nom": "Bambou",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/fargesia-nitida-cv-jiuzhaigou-600x450.jpg",
       "N. scientifique ": "Fargesia nitida",
       "Famille ": "Poacées, Graminées",
       "Origine ": "Chine",
@@ -2856,32 +2834,7 @@
     },
     {
       "Nom": "Bambou",
-      "N. scientifique ": "Fargesia angustissima",
-      "Famille ": "Poacées, Graminées",
-      "Origine ": "Chine",
-      "Floraison": "été",
-      "Fleurs ": "        insignifiante ",
-      "Type": "bambou, graminée",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "4 à 7 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique jusqu'à -12°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ensoleillée à ombre légère "
-      ],
-      "Sol": "de sableux à argileux",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "normal",
-      "Utilisation": "massif, haie",
-      "Plantation": "printemps"
-    },
-    {
-      "Nom": "Bambou",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/bambusa-multiflex-cv-alphonse-kaar-600x450.jpg",
       "N. scientifique ": "Bambusa multiplex",
       "Synonyme ": "Bambusa glaucescens",
       "Famille ": "Poacées, Graminées",
@@ -2911,6 +2864,7 @@
     },
     {
       "Nom": "Bambou",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/bambous-600x450.jpg",
       "N. scientifique ": "Bambusa, Phyllostachys, Pleioblastus, Thamnocalamus, ...",
       "Synonymes ": " Phyllostachys, Pleioblastus, Thamnocalamus",
       "Famille ": "Poacées, Graminées",
@@ -2942,6 +2896,7 @@
     },
     {
       "Nom": "Symphorine, Arbre à perles",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/symphoricarpos-x-doorenbosii-cv-mother-of-pearl-600x450.jpg",
       "N. scientifique ": "Symphoricarpos",
       "Synonyme ": " Symphoricarpus",
       "Famille ": "Caprifoliacées",
@@ -2973,74 +2928,8 @@
       "Sensibilité ": "résistant aux insectes et aux maladies"
     },
     {
-      "Nom": "Symphorine rose, Arbre à perles roses, Symphorine de Doorenbos",
-      "N. scientifique ": "Symphoricarpos x doorenbosii 'Mother of Pearl'",
-      "Famille ": "Caprifoliacées",
-      "Origine ": "horticole",
-      "Floraison": "juillet à septembre",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "   blanc et rose "
-      ],
-      "Type": "arbuste ornemental pour ses fruits",
-      "Végétation": "arbustive",
-      "Feuillage ": "caduc",
-      "Hauteur": "90 cm à 1,80 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -25 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à ombragée "
-      ],
-      "Sol": "très tolérant",
-      "Acidité ": "légèrement acide à basique",
-      "Humidité ": "normal",
-      "Utilisation": "massif, haie, maintien des pentes, couvre-sol haut",
-      "Plantation": "automne, printemps",
-      "Multiplication": "bouture, semis, drageon"
-    },
-    {
-      "Nom": "Symphorine blanche, Symphorine commune, Arbre aux perles",
-      "N. scientifique ": "Symphoricarpos albus",
-      "Synonymes ": "Symphoricarpos racemosus, Symphoricarpos rivularis",
-      "Famille ": "Caprifoliacées",
-      "Origine ": "Amérique du Nord",
-      "Floraison": "juillet à septembre",
-      "Fleurs ": [
-        "     ",
-        "   blanc rosé "
-      ],
-      "Type": "arbuste ornemental pour ses fruits",
-      "Végétation": "arbustive",
-      "Feuillage ": "caduc",
-      "Hauteur": "90 cm à 1,80 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -39 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        " ",
-        "  ensoleillée à ombragée "
-      ],
-      "Sol": "très tolérant",
-      "Acidité ": "légèrement acide à basique",
-      "Humidité ": "normal",
-      "Utilisation": "massif, haie, maintien des pentes, haut couvre-sol",
-      "Plantation": "automne, printemps",
-      "Multiplication": "bouture, semis, drageon"
-    },
-    {
       "Nom": "Saule pourpre, Osier rouge, Osier des tonneliers",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/salix-purpurea-600x450.jpg",
       "N. scientifique ": "Salix purpurea",
       "Famille ": "Salicacées",
       "Origine ": "Europe, Afrique du Nord et Asie",
@@ -3072,6 +2961,7 @@
     },
     {
       "Nom": "Saule à feuilles étroites, Saule à feuilles de romarin",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/salix-rosmarinifolia-600x450.jpg",
       "N. scientifique ": "Salix rosmarinifolia",
       "Synonyme ": "Salix repens subsp rosmarinifolia",
       "Famille ": "Salicacées",
@@ -3105,6 +2995,7 @@
     },
     {
       "Nom": "Photinia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/photinia-x-fraseri-600x450.jpg",
       "N. scientifique ": "Photinia x fraseri ",
       "Famille ": "Rosacées",
       "Origine ": "(Horticole à partir de Photinia glabra et de Photinia serratifolia) Sud-Est de l'asie, Himalaya",
@@ -3138,6 +3029,7 @@
     },
     {
       "Nom": "Osmanthe à feuilles variables ou Osmanthe faux-houx Tricolor",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/osmanthus-heterophyllus-cv-tricolor-600x450.jpg",
       "N. scientifique ": "Osmanthus heterophyllus 'Tricolor'",
       "Synonymes ": "Osmanthus ilicifolius, Osmanthus aurifolius",
       "Famille ": "Oléacées",
@@ -3168,41 +3060,8 @@
       "Multiplication": "bouture"
     },
     {
-      "Nom": "Laurier cerise, Laurier palme, Laurier amande",
-      "N. scientifique ": "Prunus laurocerasus",
-      "Famille ": "Rosacées",
-      "Origine ": "Europe",
-      "Floraison": "avril",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "arbuste",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 6 à 8 m",
-      "Toxicité": "baies toxiques",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "ordinaire, riche en humus",
-      "Acidité ": "neutre à légèrement acide",
-      "Humidité ": "normal, frais",
-      "Utilisation": "haie taillée, isolé",
-      "Plantation": "automne",
-      "Multiplication": "bouturage",
-      "Taille": "Une taille au printemps et à l'automne, a l'aide de cisailles, sont préférables pour contenir la pousse vigoureuse",
-      "Sensibilité ": "les pucerons, les chenilles"
-    },
-    {
       "Nom": "Houx crénelé, Houx japonais",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ilex-crenata-600x450.jpg",
       "N. scientifique ": "Ilex crenata",
       "Famille ": "Aquifoliacées",
       "Origine ": "Extrême-Orient",
@@ -3229,41 +3088,8 @@
       "Taille": "taille de formation pour les jeunes sujets puis taille d'entretien"
     },
     {
-      "Nom": "Houx",
-      "N. scientifique ": "Ilex",
-      "Famille ": "Aquifoliacées",
-      "Origine ": "Europe, Amérique du nord",
-      "Floraison": "printemps",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "arbuste",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 2 à 8 m de hauteur selon les expèces, croissance assez lente",
-      "Toxicité": " fruits toxiques",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "ordinaire, léger",
-      "Acidité ": "de préférence acide à neutre, calcaire accepté",
-      "Humidité ": "normal",
-      "Utilisation": "isolée, haie, haie libre, bac, pot, massif",
-      "Plantation": "automne dans les régions au climat doux, printemps dans les autres régions",
-      "Multiplication": "bouturage en hiver",
-      "Taille": "Vous pouvez le rabattre au sécateur pour lui donner une forme élégante en juin et en septembre",
-      "Sensibilité ": "résistant aux maladies et aux insectes"
-    },
-    {
       "Nom": "Gaulthérie mucronée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/pernettya-mucronata-600x450.jpg",
       "N. scientifique ": "Gaultheria mucronata",
       "Synonyme ": "Pernettya mucronata",
       "Famille ": "Ericacées",
@@ -3296,6 +3122,7 @@
     },
     {
       "Nom": "Gaulthérie couchée, Thé du Canada, Alisier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/gaultheria-procumbens-600x450.jpg",
       "N. scientifique ": "Gaultheria procumbens",
       "Synonyme ": "Pernettya procumbens",
       "Famille ": "Ericacées",
@@ -3328,38 +3155,8 @@
       "Multiplication": "boutures, divisons, semis"
     },
     {
-      "Nom": "Fusain du Japon, Fusain vert",
-      "N. scientifique ": "Euonymus japonicus",
-      "Famille ": "Célastracées",
-      "Origine ": "Asie",
-      "Floraison": "mai à juin",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "arbuste ornemental",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "3 à 3,50 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, -12°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "argilo-limoneux",
-      "Acidité ": "légèrement acide à neutre, voire alcalin",
-      "Humidité ": "normal à sec",
-      "Utilisation": "haie, massif, isolé",
-      "Plantation": "automne jusqu'à mars",
-      "Multiplication": "boutures, semis"
-    },
-    {
       "Nom": "Fusain de Hamilton",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/euonymus-hamiltoniamus-cv-indian-summer-600x450.jpg",
       "N. scientifique ": "Euonymus hamiltonianus",
       "Famille ": "Célastracées",
       "Origine ": "Asie",
@@ -3387,6 +3184,7 @@
     },
     {
       "Nom": "Fusain de Corée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/euonymus-oxyphillus-600x450.jpg",
       "N. scientifique ": "Euonymus oxyphyllus",
       "Famille ": "Célastracées",
       "Origine ": "Japon, Corée",
@@ -3417,6 +3215,7 @@
     },
     {
       "Nom": "Fusain de Chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/euonymus-bungeanus-600x450.jpg",
       "N. scientifique ": "Euonymus bungeanus",
       "Famille ": "Célastracées",
       "Origine ": "Chine",
@@ -3443,6 +3242,7 @@
     },
     {
       "Nom": "Faux-ricin, Aralia du Japon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aralia-sieboldii-600x450.jpg",
       "N. scientifique ": "Fatsia japonica",
       "Synonymes ": "Aralia sieboldii, Fatsia sieboldii",
       "Famille ": "Araliacées",
@@ -3471,6 +3271,7 @@
     },
     {
       "Nom": "Fatsia de Taiwan, Fatsia polycarpe",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/fatsia-polycarpa-600x450.jpg",
       "N. scientifique ": "Fatsia polycarpa",
       "Synonyme ": "Diplofatsia polycarpa",
       "Famille ": "Araliacées",
@@ -3502,6 +3303,7 @@
     },
     {
       "Nom": "Eléagnus, Chalef",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/eleagnus-600x450.jpg",
       "N. scientifique ": "Elaeagnus",
       "Famille ": "Éléagnacée",
       "Floraison": "été",
@@ -3533,6 +3335,7 @@
     },
     {
       "Nom": "Eléagnus panaché Maculata Aurea, Chalef piquant panaché",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/elaeagnus-pungens-cv-maculata-aurea-600x450.jpg",
       "N. scientifique ": "Elaeagnus pungens 'Maculata Aurea'",
       "Synonyme ": "Elaeagnus pungens 'Maculata'",
       "Famille ": "Éléagnacée",
@@ -3564,40 +3367,8 @@
       "Multiplication": "bouture, semis"
     },
     {
-      "Nom": "Cotonéastre de Franchet, Cotonéaster de Franchet",
-      "N. scientifique ": "Cotoneaster franchetii",
-      "Synonyme ": "Cotoneaster amoenus",
-      "Famille ": "Rosacées",
-      "Origine ": "Chine, Tibet",
-      "Floraison": "avril, mai",
-      "Fleurs ": [
-        "     ",
-        "   crème "
-      ],
-      "Type": "arbuste à fructification ornementale",
-      "Végétation": "arbustive",
-      "Feuillage ": "persistant",
-      "Hauteur": "2 à 5 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -20 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant, riche ou pauvre",
-      "Acidité ": "indifférent, acide ou calcaire",
-      "Humidité ": "normal",
-      "Utilisation": "en isolé, haie, massif buissonnant, couvre-sol",
-      "Plantation": "printemps, automne",
-      "Multiplication": "bouture, semis"
-    },
-    {
       "Nom": "Cotonéaster rampant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cotoneaster-horizontalis-fruit-600x450.jpg",
       "N. scientifique ": "Cotoneaster horizontalis",
       "Famille ": "Rosacées",
       "Origine ": "Chine",
@@ -3625,38 +3396,8 @@
       "Sensibilité ": "feu bactérien, pourridié, pucerons, cochenilles et chenilles"
     },
     {
-      "Nom": "Cotonéaster de Parney, Cotonéastre laiteux",
-      "N. scientifique ": "Cotoneaster lacteus",
-      "Famille ": "Rosacées",
-      "Origine ": "Chine",
-      "Floraison": "avril, mai",
-      "Fleurs ": [
-        "     ",
-        "   crème "
-      ],
-      "Type": "arbuste décoratif à baies",
-      "Végétation": "arbustive",
-      "Feuillage ": "persistant",
-      "Hauteur": "2 à 4 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, jusqu'à -17 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "indifférent",
-      "Humidité ": "normal",
-      "Utilisation": "en isolé, haie, massif buissonnant",
-      "Plantation": "printemps, automne",
-      "Multiplication": "bouture, semis"
-    },
-    {
       "Nom": "Cotonéaster de Dammer",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/cotoneaster-dammeri-cv-lowfast-600x450.jpg",
       "N. scientifique ": "Cotoneaster dammeri",
       "Famille ": "Rosacées",
       "Origine ": "Chine centrale",
@@ -3688,39 +3429,8 @@
       "Multiplication": "bouture, semis"
     },
     {
-      "Nom": "Cotonéaster à feuilles de saule",
-      "N. scientifique ": "Cotoneaster salicifolius",
-      "Famille ": "Rosacées",
-      "Origine ": "Chine",
-      "Floraison": "juin",
-      "Fleurs ": [
-        "     ",
-        "   crème "
-      ],
-      "Type": "arbuste décoratif à baies",
-      "Végétation": "arbustive",
-      "Feuillage ": "persistant",
-      "Hauteur": "2 à 5 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -23 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "indifférent",
-      "Humidité ": "normal",
-      "Utilisation": "en isolé, haie, massif buissonnant, couvre-sol",
-      "Plantation": "printemps, automne",
-      "Multiplication": "bouture, semis"
-    },
-    {
       "Nom": "Cotonéaster",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cotoneaster-horizontalis-fruit-600x450.jpg",
       "N. scientifique ": "Cotoneaster",
       "Famille ": "Rosacées",
       "Origine ": "Hémisphère nord",
@@ -3758,6 +3468,7 @@
     },
     {
       "Nom": "Cornouiller sanguin, Olivier de Normandie, Bois puant, Cornouiller femelle",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/cornus-sanguinea-cv-wisley-form-600x450.jpg",
       "N. scientifique ": "Cornus sanguinea",
       "Famille ": "Cornacées",
       "Origine ": "Europe",
@@ -3790,6 +3501,7 @@
     },
     {
       "Nom": "Comptonie voyageuse, Fougère douce",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/comptonia-peregrina-600x450.jpg",
       "N. scientifique ": "Comptonia peregrina",
       "Synonyme ": "Myrica asplenifolia var tomentosa",
       "Famille ": "Myricacées",
@@ -3822,37 +3534,8 @@
       "Multiplication": "division de rejet"
     },
     {
-      "Nom": "Chèvrefeuille arbustif à feuilles de buis, Chèvrefeuille brillant",
-      "N. scientifique ": "Lonicera nitida",
-      "Famille ": "Caprifoliacées",
-      "Origine ": "Chine",
-      "Floraison": "printemps",
-      "Fleurs ": "        blanchâtre ",
-      "Type": "arbuste cultivé pour son  feuillage",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1 à 2 m",
-      "Toxicité": "les fruits provoquent des désordres digestifs",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, jusqu'à -17°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "moyennement acide à moyennement alcalin",
-      "Humidité ": "normal à humide",
-      "Utilisation": "couvre-sol, en haie, sur un grillage, art topiaire",
-      "Plantation": "automne",
-      "Multiplication": "bouturage très facile, semis",
-      "Sensibilité ": "pucerons"
-    },
-    {
       "Nom": "Chalef d'Ebbing, Eléagnus d'Ebbing",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/eleagnus-x-ebbingei-cv-limelight-600x450.jpg",
       "N. scientifique ": "Elaeagnus x ebbingei",
       "Famille ": "Éléagnacée",
       "Origine ": "horticole",
@@ -3880,6 +3563,7 @@
     },
     {
       "Nom": "Callicarpe de Bodinier, Arbuste aux bonbons",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/callicarpa-bodinieri-cv-profusion-600x450.jpg",
       "N. scientifique ": "Callicarpa bodinieri",
       "Famille ": "Verbénacées",
       "Origine ": "Asie",
@@ -3910,75 +3594,8 @@
       "Multiplication": "boutures, semis"
     },
     {
-      "Nom": "Buisson ardent",
-      "N. scientifique ": "Pyracantha",
-      "Famille ": "Rosacées",
-      "Origine ": "Europe, Asie",
-      "Floraison": "juin",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "arbuste",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "5-6 m",
-      "Toxicité": " baies colorées oranges, jaunes ou rouges toxiques",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  -15 à -20 °C, selon les cultivars "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "riche en humus, bien drainé",
-      "Acidité ": "neutre, calcaire accepté",
-      "Humidité ": "normal",
-      "Utilisation": "haie taillée, haie défensive, arbuste palissé, topiaire",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis à l'automne sous chassis froid, bouturage en été",
-      "Taille": "supprimez les grappes de fruits au printemps. Taillez-le après sa floraison sévèrement pour une bonne ramification.",
-      "Sensibilité ": "feu bactérien, tavelure"
-    },
-    {
-      "Nom": "Buis",
-      "N. scientifique ": "Buxus sempervirens",
-      "Famille ": "Buxacées",
-      "Origine ": "Bassin méditerranéen",
-      "Floraison": "avril",
-      "Fleurs ": [
-        "     ",
-        "   crème "
-      ],
-      "Type": "arbuste",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 5 m, de croissance très lente",
-      "Toxicité": " le buis est toxique, il contient des alcaloïdes provoquant des vomissements, des nausées, des diarrhées et des tremblements",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "sols riches, bien drainés, de préférence argilo-siliceux",
-      "Acidité ": "normal, calcaire, légèrement acide",
-      "Humidité ": "normal, sec",
-      "Utilisation": "haie taillée, bordure",
-      "Plantation": "printemps, automne",
-      "Multiplication": "bouturage",
-      "Taille": "au moins une taille en été, utilisez des formes en fil de fer pour les petites scultures végétales",
-      "Sensibilité ": "la cécidomye"
-    },
-    {
       "Nom": "Bourdaine à feuilles de fougères, Bourdaine à feuilles découpées",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/frangula-alnus-cv-asplenifolia-600x450.jpg",
       "N. scientifique ": "Rhamnus frangula 'Asplenifolia'",
       "Synonyme ": "Frangula alnus 'Asplenifolia'",
       "Famille ": "Rhamnacées",
@@ -4012,6 +3629,7 @@
     },
     {
       "Nom": "Aronie pourpre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aronia-prunifolia-cv-brilliant-600x450.jpg",
       "N. scientifique ": "Aronia x prunifolia",
       "Synonyme ": "Aronia melanocarpa x Aronia arbutifolia",
       "Famille ": "Rosacées",
@@ -4041,6 +3659,7 @@
     },
     {
       "Nom": "Arbuste aux bonbons violets",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/callicarpa-dichotoma-cv-issai-600x450.jpg",
       "N. scientifique ": "Callicarpa dichotoma",
       "Synonymes ": "Callicarpa gracilis, Callicarpa purpurea",
       "Famille ": "Verbénacées",
@@ -4074,6 +3693,7 @@
     },
     {
       "Nom": "Arbuste aux bonbons",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/callicarpa-bodinieri-v-profusion-600x450.jpg",
       "N. scientifique ": "Callicarpa",
       "Famille ": "Verbénacées",
       "Origine ": "USA, Chine, Corée, Japon",
@@ -4103,6 +3723,7 @@
     },
     {
       "Nom": "Arbre aux haricots bleus, Arbre aux saucisses bleues",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/decaisnea-fargesii-600x450.jpg",
       "N. scientifique ": "Decaisnea fargesii",
       "Famille ": "Lardizabalacées",
       "Origine ": "Asie, Chine, Himalaya",
@@ -4136,6 +3757,7 @@
     },
     {
       "Nom": "Arbre à perruques, Fustet",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cotinus-coggygria-cv-grace-600x450.jpg",
       "N. scientifique ": "Cotinus coggygria",
       "Synonyme ": " Rhus cotinus",
       "Famille ": "Anacardiacées",
@@ -4171,6 +3793,7 @@
     },
     {
       "Nom": "Angélique en arbre du Japon, Aralie japonaise",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aralia-elata-600x450.jpg",
       "N. scientifique ": "Aralia elata",
       "Famille ": "Araliacées",
       "Origine ": "Japon, nord de l'Asie",
@@ -4203,6 +3826,7 @@
     },
     {
       "Nom": "Zelkova de Chine, faux orme de Chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/zelkova-sinica-feuille-600x450.jpg",
       "N. scientifique ": "Zelkova sinica",
       "Famille ": "Ulmacées",
       "Origine ": "Centre et Est de la Chine",
@@ -4238,6 +3862,7 @@
     },
     {
       "Nom": "Vinaigrier, Sumac de Virginie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/rhus-typhina-600x450.jpg",
       "N. scientifique ": "Rhus typhina",
       "Famille ": "Anacardiacées",
       "Origine ": "Amérique du nord",
@@ -4269,6 +3894,7 @@
     },
     {
       "Nom": "Tremble",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/populus-tremula-600x450.jpg",
       "N. scientifique ": "Populus tremula",
       "Famille ": "Salicacées",
       "Origine ": "Europe et Asie",
@@ -4300,6 +3926,7 @@
     },
     {
       "Nom": "Tilleul à petites feuilles, Tilleul à feuilles cordées",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/tilia-cordata-600x450.jpg",
       "N. scientifique ": "Tilia cordata",
       "Synonymes ": "Tilia parviflora, Tilia ulmiflora, Tilia sylvestris",
       "Famille ": "Tiliacées",
@@ -4332,6 +3959,7 @@
     },
     {
       "Nom": "Tilleul à grandes feuilles, Tilleul de Hollande",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/tilia-platyphyllos-600x450.jpg",
       "N. scientifique ": "Tilia platyphyllos",
       "Synonyme ": "Tilia grandiflora",
       "Famille ": "Tiliacées",
@@ -4363,6 +3991,7 @@
     },
     {
       "Nom": "Sorbier des oiseleurs, Sorbier sauvage, Arbres à grives, Thymier, Cormier des chasseurs",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/sorbus-aucuparia-600x450.jpg",
       "N. scientifique ": "Sorbus aucuparia",
       "Famille ": "Rosacées",
       "Origine ": "Europe, Asie",
@@ -4394,6 +4023,7 @@
     },
     {
       "Nom": "Sophora du Japon, Arbre des pagodes",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sophora-japonica-cv-pendulum-dot-600x450.jpg",
       "N. scientifique ": "Sophora japonica",
       "Synonyme ": "Styphnolobium japonicum",
       "Famille ": "Légumineuses, Fabacées, Papilionacées",
@@ -4428,6 +4058,7 @@
     },
     {
       "Nom": "Savonnier occidental, Savonnier américain, Jaboncillo, Savonnier de Drummond",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/sapindus-saponaria-600x450.jpg",
       "N. scientifique ": "Sapindus saponaria",
       "Famille ": "Sapindacées",
       "Origine ": "Floride, Amérique centrale, Amérique du Sud, Caraïbe",
@@ -4459,6 +4090,7 @@
     },
     {
       "Nom": "Savonnier de Chine, Arbre à pluie d'or, Koelreutère",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/koelreuteria-paniculata-600x450.jpg",
       "N. scientifique ": "Koelreuteria paniculata",
       "Famille ": "Sapindacées",
       "Origine ": "Chine, Japon",
@@ -4491,6 +4123,7 @@
     },
     {
       "Nom": "Savonnier d'inde, Arbre à savon, Noix de lavage",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/sapindus-mukorossi-600x450.jpg?1",
       "N. scientifique ": "Sapindus mukorossi",
       "Famille ": "Sapindacées",
       "Origine ": "Chine, SW Inde, Bengale,  W. Pakistan, Japon",
@@ -4525,6 +4158,7 @@
     },
     {
       "Nom": "Saule pleureur",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/salix-babylonica-600x450.jpg",
       "N. scientifique ": "Salix babylonica",
       "Famille ": "Salicacées",
       "Origine ": "Europe",
@@ -4559,6 +4193,7 @@
     },
     {
       "Nom": "Saule de Pékin tortueux",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/salix-matsudana-cv-tortuosa-600x450.jpg",
       "N. scientifique ": "Salix matsudana 'Tortuosa'",
       "Synonyme ": "Salix babylonica var. pekinensis 'Tortuosa'",
       "Famille ": "Salicacées",
@@ -4589,6 +4224,7 @@
     },
     {
       "Nom": "Saule crevette",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/salix-integra-cv-hakuro-nishiki-600x450.jpg",
       "N. scientifique ": "Salix integra 'Hakuro Nishiki'",
       "Famille ": "Salicacées",
       "Origine ": "Japon, horticole",
@@ -4616,6 +4252,7 @@
     },
     {
       "Nom": "Platane d'Orient, platane oriental",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/platanus-orientalis-600x450.jpg",
       "N. scientifique ": "Platanus orientalis",
       "Famille ": "Platanacées",
       "Origine ": "Sud-est de l'Europe, ouest de l'Asie, Balkans, proche orient",
@@ -4647,6 +4284,7 @@
     },
     {
       "Nom": "Platane d'Occident, Platane occidental",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/platanus-occidentalis-feuille-600x450.jpg",
       "N. scientifique ": "Platanus occidentalis",
       "Famille ": "Platanacées",
       "Origine ": "Est et sud de l'Amérique du nord, Floride, Texas, nord-est du Mexique",
@@ -4678,6 +4316,7 @@
     },
     {
       "Nom": "Pin laricio de Corse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/pinus-nigra-var-corsicana-600x450.jpg",
       "N. scientifique ": "Pinus nigra var. corsicana",
       "Synonymes ": "Pinus nigra var. maritima, Pinus nigra ssp. laricio",
       "Famille ": "Pinacées",
@@ -4706,6 +4345,7 @@
     },
     {
       "Nom": "Peuplier noir, Peuplier d'Italie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/populus-nigra-600x450.jpg",
       "N. scientifique ": "Populus nigra",
       "Synonyme ": "Populus nigra var. Italicum",
       "Famille ": "Salicacées",
@@ -4740,6 +4380,7 @@
     },
     {
       "Nom": "Peuplier grisard, Blanc de Hollande, Peuplier picard",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/populus-canescens-600x450.jpg",
       "N. scientifique ": "Populus canescens",
       "Famille ": "Salicacées",
       "Origine ": "Europe et Asie",
@@ -4772,6 +4413,7 @@
     },
     {
       "Nom": "Peuplier blanc, Blanc de Hollande, Franc picard",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/populus-alba-600x450.jpg",
       "N. scientifique ": "Populus alba",
       "Famille ": "Salicacées",
       "Origine ": "Europe méridionale et Asie",
@@ -4799,6 +4441,7 @@
     },
     {
       "Nom": "Ostrya à feuilles de charme, Charme-houblon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/ostrya-carpinifolia-600x450.jpg",
       "N. scientifique ": "Ostrya carpinifolia",
       "Synonymes ": "Ostrya vulgaris, Carpinus virginiana",
       "Famille ": "Bétulacées",
@@ -4831,6 +4474,7 @@
     },
     {
       "Nom": "Orme de Chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ulmus-parvifolia-600x450.jpg",
       "N. scientifique ": "Ulmus Parviflora",
       "Synonyme ": "Ulmus chinensis",
       "Famille ": "Ulmacées",
@@ -4864,6 +4508,7 @@
     },
     {
       "Nom": "Orme champêtre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/ulmus-minor-600x450.jpg",
       "N. scientifique ": "Orme champêtre, Ulmus minor",
       "Synonymes ": "Ulmus vulgaris, Ulmus campestris",
       "Famille ": "Ulmacées",
@@ -4897,6 +4542,7 @@
     },
     {
       "Nom": "Oranger des Osages, Bois d'arc",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/maclura-pomifera-600x450.jpg",
       "N. scientifique ": "Maclura pomifera",
       "Famille ": "Moracées",
       "Origine ": "Amérique du Nord",
@@ -4930,6 +4576,7 @@
     },
     {
       "Nom": "Olivier de Bohême, Eléagnus, Chalef à feuilles étroites",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/eleagnus-angustifolia-600x450.jpg",
       "N. scientifique ": "Eleagnus angustifolia",
       "Synonyme ": "Elaeagnus pungens 'Maculata'",
       "Famille ": "Éléagnacée",
@@ -4965,6 +4612,7 @@
     },
     {
       "Nom": "Micocoulier de Virginie, Micocoulier occidental",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/celtis-occidentalis-600x450.jpg?3",
       "N. scientifique ": "Celtis occidentalis",
       "Synonyme ": "Ulmus chinensis",
       "Famille ": "Ulmacées",
@@ -4998,6 +4646,7 @@
     },
     {
       "Nom": "Meliosma pinnata var oldhamii",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/meliosma-pinnata-var-oldhamii-600x450.jpg",
       "N. scientifique ": "Meliosma pinnata var oldhamii",
       "Synonyme ": "Meliosma oldamii (Miq ex Maxim)",
       "Famille ": "Sabiacées, Méliosmacées",
@@ -5030,6 +4679,7 @@
     },
     {
       "Nom": "Houx de Highclere",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/ilex-x-altaclerensis-cv-maderensis-600x450.jpg",
       "N. scientifique ": "Ilex x altaclerensis",
       "Synonyme ": "Ilex aquifolium X Ilex perado",
       "Famille ": "Aquifoliacées",
@@ -5063,6 +4713,7 @@
     },
     {
       "Nom": "Hêtre commun, Fayard",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/fagus-sylvatica-600x450.jpg",
       "N. scientifique ": "Fagus sylvatica",
       "Famille ": "Fagacées",
       "Origine ": "Europe centrale jusqu'au Caucase",
@@ -5097,6 +4748,7 @@
     },
     {
       "Nom": "Gommier cidre, Gommier de Gunn",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/eucalyptus-gunnii-600x450.jpg",
       "N. scientifique ": "Eucalyptus gunnii",
       "Synonyme ": "Eucalyptus divaricata",
       "Famille ": "Myrtacées",
@@ -5128,6 +4780,7 @@
     },
     {
       "Nom": "Gommier à petites feuilles",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/eucalyptus-parvifolia-600x450.jpg",
       "N. scientifique ": "Eucalyptus parvula",
       "Synonyme ": "Eucalyptus parvifolia",
       "Famille ": "Myrtacées",
@@ -5156,6 +4809,7 @@
     },
     {
       "Nom": "Gommier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/eucalyptus-gunnii-600x450.jpg",
       "N. scientifique ": "Eucalyptus",
       "Famille ": "Myrtacées",
       "Origine ": "Australie, Tasmanie",
@@ -5181,6 +4835,7 @@
     },
     {
       "Nom": "Frêne commun, Frêne élevé",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/fraxinus-excelsior-600x450.jpg",
       "N. scientifique ": "Fraxinus excelsior",
       "Famille ": "Oléacées",
       "Origine ": "Europe",
@@ -5210,6 +4865,7 @@
     },
     {
       "Nom": "Frêne à feuilles étroites, Frêne bordeaux, Frêne du midi",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/fraxinus-angustifolia-oxycarpa-cv-raywood-600x450.jpg",
       "N. scientifique ": "Fraxinus angustifolia 'Raywood'",
       "Synonyme ": "Fraxinus angustifolia subsp. oxycarpa 'Flame' ou 'Wollastonii'",
       "Famille ": "Oléacées",
@@ -5242,6 +4898,7 @@
     },
     {
       "Nom": "Févier d'Amérique doré, Févier sans épine doré",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/gleditsia-triacanthos-cv-sunburst-600x450.jpg",
       "N. scientifique ": "Gleditsia triacanthos f. inermis 'Sunburst'",
       "Famille ": "Légumineuses, Fabacées, Papilionacées",
       "Origine ": "Amérique du nord",
@@ -5271,6 +4928,7 @@
     },
     {
       "Nom": "Érable sycomore",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/acer-pseudoplatanus-cv-brilliantissimum-600x450.jpg",
       "N. scientifique ": "Acer pseudoplatanus",
       "Famille ": "Aceracées",
       "Origine ": "Europe, Asie",
@@ -5302,6 +4960,7 @@
     },
     {
       "Nom": "Érable plane, Érable blanc, Faux sycomore, Érable de Norvège",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/acer-platanoides-600x450.jpg",
       "N. scientifique ": "Acer platanoïdes",
       "Famille ": "Aceracées",
       "Origine ": "Europe, Asie",
@@ -5335,6 +4994,7 @@
     },
     {
       "Nom": "Erable palmé, Erable japonais lisse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/acer-palmatum-v-dissectum-garnet-feuille-600x450.jpg",
       "N. scientifique ": "Acer palmatum",
       "Famille ": "Aceracées",
       "Origine ": "Japon, Chine, Corée",
@@ -5369,6 +5029,7 @@
     },
     {
       "Nom": "Erable gris, Erable à écorce de papier, Erable à cannelle",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/acer-griseum-feuilles-600x450.jpg",
       "N. scientifique ": "Acer griseum",
       "Famille ": "Aceracées",
       "Origine ": "Centre de la Chine",
@@ -5404,6 +5065,7 @@
     },
     {
       "Nom": "Erable du Japon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/acer-shirasawanum-cv-jordan-600x450.jpg",
       "N. scientifique ": "Acer shirasawanum",
       "Famille ": "Aceracées",
       "Origine ": "Japon",
@@ -5435,6 +5097,7 @@
     },
     {
       "Nom": "Erable de Crête",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/acer-sempervirens-feuille-600x450.jpg?3",
       "N. scientifique ": "Acer sempervirens",
       "Famille ": "Aceracées",
       "Origine ": "Liban, Turquie de l'ouest, Grèce, Crête",
@@ -5470,6 +5133,7 @@
     },
     {
       "Nom": "Érable champêtre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/acer-campestre-600x450.jpg",
       "N. scientifique ": "Érable champêtre, Acer campestre",
       "Famille ": "Aceracées",
       "Origine ": "Europe, Asie",
@@ -5502,6 +5166,7 @@
     },
     {
       "Nom": "Copalme d'amérique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/liquidambar-styraciflua-automne-600x450.jpg",
       "N. scientifique ": "Liquidambar styraciflua",
       "Famille ": "Hamamélidacées",
       "Origine ": "Sud-est des Etats-Unis, Mexique",
@@ -5534,6 +5199,7 @@
     },
     {
       "Nom": "Chêne sessile, Chêne rouvre, Chêne à trochets",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/quercus-petraea-600x450.jpg",
       "N. scientifique ": "Quercus petraea",
       "Famille ": "Fagacées",
       "Origine ": "Europe",
@@ -5560,6 +5226,7 @@
     },
     {
       "Nom": "Chêne pédonculé",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/quercus-robur-600x450.jpg?1",
       "N. scientifique ": "Quercus robur",
       "Synonyme ": "Quercus pedunculata",
       "Famille ": "Fagacées",
@@ -5593,6 +5260,7 @@
     },
     {
       "Nom": "Chêne des marais",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/quercus-palustris-600x450.jpg",
       "N. scientifique ": "Quercus palustris",
       "Famille ": "Fagacées",
       "Origine ": "Est des États-Unis",
@@ -5624,6 +5292,7 @@
     },
     {
       "Nom": "Charme commun, Charmille",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/carpinus-betulus-600x450.jpg",
       "N. scientifique ": "Carpinus betulus ",
       "Famille ": "Bétulacées",
       "Origine ": "Europe, Ukraine",
@@ -5657,6 +5326,7 @@
     },
     {
       "Nom": "Bouleau verruqueux",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/betula-pendula-600x450.jpg",
       "N. scientifique ": "Betula pendula",
       "Synonymes ": "Betula alba, Betula verrucosa",
       "Famille ": "Bétulacées",
@@ -5687,6 +5357,7 @@
     },
     {
       "Nom": "Bouleau de Mandchourie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/betula-costata-600x450.jpg",
       "N. scientifique ": "Betula costata",
       "Famille ": "Bétulacées",
       "Origine ": "Asie tempérée",
@@ -5712,6 +5383,7 @@
     },
     {
       "Nom": "Bouleau de l'Himalaya",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/betula-utilis-600x450.jpg",
       "N. scientifique ": "Betula utilis",
       "Famille ": "Bétulacées",
       "Origine ": "Chine, Himalaya, nord de l'Inde et Népal",
@@ -5747,6 +5419,7 @@
     },
     {
       "Nom": "Bouleau blanc de l'Himalaya",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/betula-utilis-var-jacquemontii-600x450.jpg",
       "N. scientifique ": "Betula utilis var. jacquemontii",
       "Synonyme ": "Betula jacquemontii",
       "Famille ": "Bétulacées",
@@ -5779,6 +5452,7 @@
     },
     {
       "Nom": "Aulne glutineux, Vergne",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/alnus-glutinosa-600x450.jpg",
       "N. scientifique ": "Alnus glutinosa",
       "Famille ": "Bétulacées",
       "Origine ": "Europe, Asie",
@@ -5811,6 +5485,7 @@
     },
     {
       "Nom": "Arbre aux pochettes, Arbre aux mouchoirs",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/davidia-involucrata-fleur-600x450.jpg",
       "N. scientifique ": "Davidia involucrata",
       "Famille ": "Nyssacées",
       "Origine ": "Chine, surtout le sud-ouest, dans les bois humides d’altitude",
@@ -5846,6 +5521,7 @@
     },
     {
       "Nom": "Arbre aux 40 écus",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/ginkgo-biloba-feuille-600x450.jpg",
       "N. scientifique ": "Ginkgo biloba",
       "Famille ": "Ginkgoacées",
       "Origine ": "sud-est de la Chine",
@@ -5880,6 +5556,7 @@
     },
     {
       "Nom": "Arbre au caramel, arbre pain d'épice, arbre à gâteaux, katsura",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/cercidiphyllum-japonicum-600x450.jpg",
       "N. scientifique ": "Cercidiphyllum japonicum",
       "Famille ": "Cercidiphyllacées",
       "Origine ": "Japon, Chine et Taïwan",
@@ -5913,6 +5590,7 @@
     },
     {
       "Nom": "Arbre à miel, Arbre aux abeilles, Arbre aux cent mille fleurs",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/tetradium-daniellii-600x450.jpg",
       "N. scientifique ": "Tetradium danielii",
       "Synonyme ": "Euodium danielli var hupehensis Xanthoxylum daniellii",
       "Famille ": "Rutacées",
@@ -5945,6 +5623,7 @@
     },
     {
       "Nom": "Ricin commun",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ricinus-communis-600x450.jpg",
       "N. scientifique ": "Ricinus communis",
       "Famille ": "Euphorbiacées",
       "Origine ": "Tropiques",
@@ -5971,6 +5650,7 @@
     },
     {
       "Nom": "Grande brize, Grande amourette",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/briza-maxima-600x450.jpg",
       "N. scientifique ": "Briza maxima",
       "Famille ": "Poacées, Graminées",
       "Origine ": "Sud de l'Europe, Nord de l'Afrique",
@@ -5998,6 +5678,7 @@
     },
     {
       "Nom": "Cyprès d'été, Kochie à balais",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/bassia-scoparia-600x450.jpg",
       "N. scientifique ": "Bassia scoparia",
       "Synonyme ": "Kochia scoparia",
       "Famille ": "Amaranthacées",
@@ -6022,6 +5703,7 @@
     },
     {
       "Nom": "Coloquinte",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/citrullus-colocynthis-600x450.jpg",
       "N. scientifique ": "Citrullus colocynthis",
       "Synonyme ": "Cucumis colocynthis",
       "Famille ": "Cucurbitacées",
@@ -6050,6 +5732,7 @@
     },
     {
       "Nom": "Chou d'ornement",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/chou-ornement-600x450.jpg",
       "N. scientifique ": "Brassica oleracea var acephala",
       "Synonyme ": "Brassica oleracea var viridis",
       "Famille ": "Brassicacées, Crucifères",
@@ -6079,6 +5762,36 @@
       "Plantation": "automne",
       "Multiplication": "semis en place au printemps",
       "Sensibilité ": "les limaces"
+    },
+    {
+      "Nom": "Bouclier persan",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/strobilanthes-dyerianus-600x450.jpg",
+      "N. scientifique ": "Strobilanthes dyerianus",
+      "Famille ": "Acanthacées",
+      "Origine ": "Birmanie",
+      "Floraison": "automne, hiver",
+      "Fleurs ": [
+        "     ",
+        "   bleu "
+      ],
+      "Type": "plante d'intérieur, pour l'extérieur en été et hivernée hors gel, ou cultivée en annuelle",
+      "Végétation": "vivace",
+      "Feuillage ": "plus ou moins persistant",
+      "Hauteur": "35 à 120 cm",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, jusqu'à -5 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ombre claire "
+      ],
+      "Sol": "humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "toujours frais, mais sans excès",
+      "Utilisation": "massif, potée",
+      "Plantation": "printemps",
+      "Multiplication": "division, semis"
     }
   ]
 }

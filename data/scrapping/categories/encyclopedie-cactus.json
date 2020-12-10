@@ -2,209 +2,133 @@
   "category": "Cactus et plantes grasses",
   "data": [
     {
-      "Nom": "Rose du désert, Faux baobab",
-      "N. scientifique ": "Adenium obesum",
-      "Synonymes ": "Adenium arabicum, Nerium obesum",
-      "Famille ": "Apocynacées",
-      "Origine ": "Afrique de l'est et du sud-ouest",
+      "Nom": "Adromischus",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/adromischus-cooperi-600x450.jpg",
+      "N. scientifique ": "Adromischus cooperi, Cotyledon cooperi",
+      "Synonyme ": " Cotyledon cooperi",
+      "Famille ": "Crassulacées",
+      "Origine ": "Afrique du sud",
       "Floraison": "été",
       "Fleurs ": [
         "     ",
         "     ",
-        "     ",
-        "   rose, blanc, rouge "
+        "   vert et rouge "
       ],
-      "Type": "fleur",
-      "Végétation": "vivace succulente",
+      "Type": "vivace succulente",
+      "Végétation": "vivace",
       "Feuillage ": "persistant",
-      "Hauteur": "1,50 m",
-      "Toxicité": "sève toxique",
-      "Rusticité ": "   15°C ",
+      "Hauteur": "10 cm",
+      "Rusticité ": "   10°C ",
       "Exposition ": [
         "  ",
         "  soleil "
       ],
-      "Sol": "terreau, léger",
+      "Sol": "mélange pour cactées, drainé",
       "Acidité ": "neutre",
-      "Humidité ": "sec",
-      "Utilisation": "pot",
+      "Humidité ": "normal",
+      "Utilisation": "pot, jardinière",
       "Plantation": "printemps",
-      "Multiplication": "semis au chaud à 20°C, bouturage de tiges en été",
-      "Sensibilité ": "les pucerons"
+      "Multiplication": "semis au chaud, bouturage de feuilles",
+      "Sensibilité ": "les pucerons, les cochenilles"
     },
     {
-      "Nom": "Plante tortue, Pied d'éléphant",
-      "N. scientifique ": "Dioscorea elephantipes",
-      "Synonyme ": "Testudinaria elephantipes",
-      "Famille ": "Dioscoréacées",
-      "Origine ": "Afrique du sud",
-      "Floraison": "variable : selon sa période de végétation",
+      "Nom": "Aloès panaché, Aloès plume de perdrix",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/aloe-variegata-600x450.jpg",
+      "N. scientifique ": "Aloe variegata",
+      "Famille ": "Asphodélacées",
+      "Origine ": "Afrique du Sud, Namibie",
+      "Floraison": "fin d'hiver, printemps",
       "Fleurs ": [
         "     ",
-        "   jaunes et petites "
-      ],
-      "Type": "plante à caudex, caudiciforme ou pachycaule",
-      "Végétation": "vivace",
-      "Feuillage ": "liane volubile qui disparaît en saison sèche",
-      "Hauteur": "tiges volubiles jusque 1m de long",
-      "Rusticité ": "   5° C minimum, supporte des températures très chaudes ",
-      "Exposition ": [
-        "  ",
-        "  lumineuse, derrière une fenêtre "
-      ],
-      "Sol": "sol drainant et profond : terre de jardin +sable",
-      "Acidité ": "neutre à basique, ne craint pas le calcaire",
-      "Humidité ": "sec, arrosage en fonction du cycle de la plante",
-      "Utilisation": "plante d'intérieur, véranda",
-      "Plantation": "en pot profond, avant la reprise de la végétation ",
-      "Multiplication": "semis uniquement"
-    },
-    {
-      "Nom": "Pied épais",
-      "N. scientifique ": "Pachypodium bispinosum",
-      "Famille ": "Apocynacées",
-      "Origine ": "Afrique du Sud",
-      "Floraison": "août à décembre",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "plante à caudex, pachycaule",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "60 cm",
-      "Toxicité": "produit un latex toxique",
-      "Rusticité ": "   peu rustique, -4°C, à réserver aux régions sud en extérieur ",
-      "Exposition ": [
-        "  ",
-        "  ensoleillée "
-      ],
-      "Sol": "très poreux",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "sec",
-      "Utilisation": "serre, véranda, bonsaï d'intérieur",
-      "Plantation": "printemps",
-      "Multiplication": "semis, greffe"
-    },
-    {
-      "Nom": "Palmier de Madagascar",
-      "N. scientifique ": "Pachypodium lamerei",
-      "Famille ": "Apocynacées",
-      "Origine ": "Madagascar",
-      "Floraison": "saison chaude",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "plante d'intérieur, plante à caudex, pachycaule, plante succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc à semi-persistant",
-      "Hauteur": "6 m dans son milieu, 1,50 m en culture",
-      "Rusticité ": [
-        "  ",
-        "  peu rustique, jusqu'à -4 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "très poreux",
-      "Acidité ": "légèrement acide à légèrement alcalin",
-      "Humidité ": "normal à sec",
-      "Utilisation": "serre, véranda, extérieur en climat très doux",
-      "Plantation": "printemps",
-      "Multiplication": "semis"
-    },
-    {
-      "Nom": "Oxalis bonsaï",
-      "N. scientifique ": "Oxalis megalorrhiza",
-      "Synonyme ": "Acetosella megalorrhiza",
-      "Famille ": "Oxalidacées",
-      "Origine ": "Chili, Pérou, Bolivie",
-      "Floraison": "de juin à septembre",
-      "Fleurs ": [
-        "     ",
-        "   jaune vif "
-      ],
-      "Type": "plante à caudex, caudiciforme, ou pachycaule",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "40 cm",
-      "Rusticité ": "   2°C minimum, supporte des températures très chaudes ",
-      "Exposition ": [
-        "  ",
-        "  lumineuse, derrière une fenêtre "
-      ],
-      "Sol": "sol drainant et profond : terre de jardin + sable",
-      "Acidité ": "neutre à basique, ne craint pas le calcaire",
-      "Humidité ": "sec, arrosage régulier pendant l’été",
-      "Utilisation": "plante d’intérieur, véranda",
-      "Plantation": "en pot profond, de mars à août",
-      "Multiplication": "semis"
-    },
-    {
-      "Nom": "Fockea edulis",
-      "N. scientifique ": "Fockea edulis",
-      "Synonymes ": "Fockea cylindrica, Fockea edulis v. capensis",
-      "Famille ": "Asclépiadacées",
-      "Origine ": "Afrique du sud",
-      "Floraison": "août à septembre",
-      "Fleurs ": [
-        "     ",
-        "   blanche et verte "
-      ],
-      "Type": "plante à caudex, caudiciforme, ou pachycaule",
-      "Végétation": "vivace",
-      "Feuillage ": "liane volubile qui disparaît en saison sèche",
-      "Hauteur": "tiges volubile jusque 0.80m de long voir 2m dans la nature",
-      "Rusticité ": "   non rustique, 4° C minimum ",
-      "Exposition ": [
-        "  ",
-        "  lumineuse, derrière une fenêtre "
-      ],
-      "Sol": "terre de jardin + sable",
-      "Acidité ": "neutre à basique, ne craint pas le calcaire",
-      "Humidité ": "sec, arrosage en fonction du cycle de la plante",
-      "Utilisation": "plante d’intérieur, véranda",
-      "Plantation": "en pot profond, avant la reprise de la végétation",
-      "Multiplication": "semis, bouture"
-    },
-    {
-      "Nom": "Euphorbe tête de méduse",
-      "N. scientifique ": "Euphorbia caput-medusae",
-      "Synonymes ": "Euphorbia tesselata, Euphorbia commelinii",
-      "Famille ": "Euphorbiacées",
-      "Origine ": "Afrique du Sud",
-      "Floraison": "juillet, août",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "   blanc,jaune "
+        "   orange à rose "
       ],
       "Type": "plante succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "presque inexistant",
-      "Hauteur": "5 à 15 cm",
-      "Rusticité ": "   non rustique, 2 °C minimum ",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 à 30 cm, 50 cm en fleur",
+      "Rusticité ": "   peu rustique, jusqu'à -3 °C ",
       "Exposition ": [
         "  ",
         " ",
-        "  ensoleillée, mi-ombre "
+        "  soleil à mi-ombre "
       ],
-      "Sol": "drainant, assez minéral",
-      "Acidité ": "moyennement acide à moyennement basique",
-      "Humidité ": "moyennement sec à sec",
-      "Utilisation": "pot, serre, véranda",
-      "Plantation": "printemps, été",
-      "Multiplication": "bouture, semis"
+      "Sol": "drainant, sablonneux",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "sec à normal",
+      "Utilisation": "serre, véranda, intérieur, extérieur pendant la belle saison",
+      "Plantation": "avril à septembre",
+      "Multiplication": "semis, rejets"
     },
     {
-      "Nom": "Euphorbe obèse, Euphorbe melon",
-      "N. scientifique ": "Euphorbia obesa",
-      "Famille ": "Euphorbiacées",
-      "Origine ": "Afrique du Sud (province du Cap)",
-      "Floraison": "avril, mai",
+      "Nom": "Aloès en arbre, Arbre carquois",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/aloidendron-dichotomum-600x450.jpg",
+      "N. scientifique ": "Aloidendron dichotomum",
+      "Synonyme ": "Aloe dichotoma",
+      "Famille ": "Asphodélacées",
+      "Origine ": "Afrique du Sud",
+      "Floraison": "hiver",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante succulente",
+      "Végétation": "arborée",
+      "Feuillage ": "persistante",
+      "Hauteur": "jusqu'à 7 m",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, jusqu'à -5 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "drainant, sablonneux",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "sec à normal",
+      "Utilisation": "serre, véranda, maison",
+      "Plantation": "avril à juin",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Aloès en arbre géant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/aloe-pillansii-600x450.jpg",
+      "N. scientifique ": "Aloe pilansii",
+      "Synonyme ": "Aloidendron pilansii",
+      "Famille ": "Asphodélacées",
+      "Origine ": "Afrique du sud",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante succulente",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 10 m",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, -3°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "drainant, sablonneux",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "sec à normal",
+      "Utilisation": "serre, véranda",
+      "Plantation": "avril à juin",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Aloès des Barbades",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aloe-vera-600x450.jpg",
+      "N. scientifique ": "Aloe vera",
+      "Synonyme ": "Aloe barbadensis",
+      "Famille ": "Aloacées, Aloéacées",
+      "Origine ": "Afrique",
+      "Floraison": "jaune",
       "Fleurs ": [
         "     ",
         "   jaune "
@@ -212,78 +136,371 @@
       "Type": "succulente",
       "Végétation": "vivace",
       "Feuillage ": "persistant",
-      "Hauteur": "15 cm",
-      "Toxicité": "toxique par ingestion et sève laiteuse irritante pour la peau",
-      "Rusticité ": "   minimum 10 ° au sec ",
+      "Hauteur": "60 cm",
+      "Toxicité": "plante médicinale utilisée très communément",
+      "Rusticité ": "   0°C, non rustique ",
       "Exposition ": [
         "  ",
-        "  pleine lumière sans soleil direct brûlant "
+        "  soleil "
       ],
-      "Sol": "drainé",
-      "Acidité ": "plutôt acide",
-      "Humidité ": "sécheresse totale en hiver",
-      "Utilisation": "serre",
+      "Sol": "riche mais drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "pas d’humidité stagnante",
+      "Utilisation": "rocaille, jardin méditerranéens, serres froides",
       "Plantation": "printemps",
-      "Multiplication": "semis",
+      "Multiplication": "semis, rejets",
       "Taille": "pas de taille",
-      "Sensibilité ": "cochenilles, pourriture grise, rouille"
+      "Sensibilité ": "cochenilles à boucliers"
     },
     {
-      "Nom": "Edelweiss du Brésil",
-      "N. scientifique ": "Sinningia leucotricha",
-      "Synonyme ": "Reichsteneria leucotricha",
-      "Famille ": "Gesnériacées",
-      "Origine ": "Brésil",
-      "Floraison": "mai",
+      "Nom": "Aloès de montagne",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aloe-marlothii-600x450.jpg",
+      "N. scientifique ": "Aloe marlothii",
+      "Synonyme ": "Aloe spectabilis",
+      "Famille ": "Asphodélacées",
+      "Origine ": "Afrique",
+      "Floraison": "fin d’hiver",
       "Fleurs ": [
         "     ",
-        "   orange vif "
+        "   orange à rouge "
       ],
-      "Type": "plante à caudex, caudiciforme , ou pachycaule",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "20 à 30 cm",
-      "Rusticité ": "   5° C minimum ",
+      "Type": "plante grasse",
+      "Végétation": "arborescente",
+      "Feuillage ": "persistante",
+      "Hauteur": "2 à 4 m",
+      "Rusticité ": "   peu rustique, -3 °C ",
       "Exposition ": [
         "  ",
-        "  lumineuse, derrière une fenêtre "
+        "  plein soleil "
       ],
-      "Sol": "sol drainant et profond : terre à cactée",
-      "Acidité ": "neutre à basique, ne craint pas le calcaire",
-      "Humidité ": "sec, arrosage en fonction du cycle de la plante",
-      "Utilisation": "plante d'intérieur, véranda",
-      "Plantation": "en pot profond, avant la reprise de la végétation",
-      "Multiplication": "semis",
-      "Sensibilité ": "la pourriture en cas d'excès d'arrosage"
+      "Sol": "drainant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "sec à normal",
+      "Utilisation": "plante de rocaille, serre, véranda, intérieur",
+      "Plantation": "d’avril à août",
+      "Multiplication": "semis"
     },
     {
-      "Nom": "Baobab nain, Plante bouteille, Médicinier",
-      "N. scientifique ": "Jatropha podagrica",
-      "Famille ": "Euphorbiacées",
-      "Origine ": "Amérique centrale",
-      "Floraison": "toute l'année",
+      "Nom": "Aloès de la Péninsule du Cap",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aloe-commixta-600x450.jpg",
+      "N. scientifique ": "Aloe commixta",
+      "Famille ": "Asphodélacées",
+      "Origine ": "Afrique du sud",
+      "Floraison": "fin d’hiver",
+      "Fleurs ": [
+        "     ",
+        "   jaune, orange "
+      ],
+      "Type": "plante succulente",
+      "Végétation": "buissonnante",
+      "Feuillage ": "persistant",
+      "Hauteur": "60 cm",
+      "Rusticité ": "   peu rustique, -3°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  plein soleil à mi-ombre "
+      ],
+      "Sol": "drainant, sablonneux",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "sec à normal",
+      "Utilisation": "plante de rocaille, serre, véranda, intérieur",
+      "Plantation": "d’avril à août",
+      "Multiplication": "semis, bouture de tige"
+    },
+    {
+      "Nom": "Aloès arborescent, Aloe candelabre, Corne de bélier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aloe-arborescens-600x450.jpg",
+      "N. scientifique ": "Aloe arborescens",
+      "Famille ": "Aloacées, Aloéacées",
+      "Origine ": "Afrique",
+      "Floraison": "hiver",
       "Fleurs ": [
         "     ",
         "   rouge "
       ],
-      "Type": "arbuste succulent",
+      "Type": "succulente",
       "Végétation": "vivace",
       "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 1,50 m",
-      "Rusticité ": "   10°C minimum en hiver ",
+      "Hauteur": "jusqu'à 4 mètres",
+      "Toxicité": "Non, plante médicinale utilisée très communément pour le traitement des brûlures",
+      "Rusticité ": [
+        "  ",
+        "  0°C "
+      ],
       "Exposition ": [
         "  ",
-        "  lumière vive "
+        "  plein soleil "
       ],
-      "Sol": "léger, riche en humus, sableux",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "normal",
-      "Utilisation": "pot, bac, serre tempérée",
+      "Sol": "riche mais drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "pas d'humidité stagnante",
+      "Utilisation": "rocaille, jardin méditerranéens, serres froides",
       "Plantation": "printemps",
-      "Multiplication": "bouturage au printemps ou semis "
+      "Multiplication": "semis, rejets, bouture de tige",
+      "Sensibilité ": "cochenilles à boucliers, rouille"
+    },
+    {
+      "Nom": "Euphorbe lactée, Os de dragon, Euphorbe candélabre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/euphorbia-lactea-600x450.jpg",
+      "N. scientifique ": "Euphorbia lactea",
+      "Famille ": "Euphorbiacées",
+      "Origine ": "Asie",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   ciathia jaune "
+      ],
+      "Type": "plante succulente",
+      "Végétation": "arbustive",
+      "Feuillage ": "feuillage caduc, tige chlorophyllienne",
+      "Hauteur": "1 à 5 m",
+      "Rusticité ": "   non rustique, jusqu'à 12 °C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "pot, plante d'appartement, extérieur en été",
+      "Plantation": "printemps, été",
+      "Multiplication": "semis, greffe, bouture"
+    },
+    {
+      "Nom": "Palmier noir, Yucca",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/yucca-decipiens-600x450.jpg",
+      "N. scientifique ": "Yucca decipiens",
+      "Famille ": "Agavacées",
+      "Origine ": "Mexique",
+      "Floraison": "printemps, été",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "plante exotique",
+      "Végétation": "arborescente",
+      "Feuillage ": "persistant",
+      "Hauteur": "3 à 9 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "drainant, à tendance minérale",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "normal à sec",
+      "Utilisation": "grand pot, rocaille, talus",
+      "Plantation": "semis, boutures",
+      "Multiplication": "printemps, été"
+    },
+    {
+      "Nom": "Orpin spatulé, Sédum nain",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/sedum-spathulifolium-cv-purpureum-600x450.jpg",
+      "N. scientifique ": "Sedum spathulifolium",
+      "Famille ": "Crassulacées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "avril à juillet",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante grasse",
+      "Végétation": "vivace",
+      "Feuillage ": "feuilles épaissies, persistantes",
+      "Hauteur": "1 à 10 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -34°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre à plein soleil "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "potée, muret, rocaille, toiture végétalisée",
+      "Plantation": "d'avril à septembre",
+      "Multiplication": "bouturage, division, semis"
+    },
+    {
+      "Nom": "Orpin rouge",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sedum-moranense-600x450.jpg",
+      "N. scientifique ": "Sedum moranense",
+      "Synonymes ": "Sedum arboreum, Sedum submontanum",
+      "Famille ": "Crassulacées",
+      "Origine ": "Amérique centrale",
+      "Floraison": "juillet, août",
+      "Fleurs ": [
+        "     ",
+        "   blanc à rosé "
+      ],
+      "Type": "plante grasse rustique",
+      "Végétation": "vivace",
+      "Feuillage ": "feuilles épaissies, persistantes",
+      "Hauteur": "10 à 20 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique -11°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "indifférent",
+      "Humidité ": "sec à normal",
+      "Utilisation": "plante de rocaille",
+      "Plantation": "avril à septembre",
+      "Multiplication": "bouturage, division"
+    },
+    {
+      "Nom": "Orpin reprise, Herbe à la coupure",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sedum-telephium-cv-chocolate-cherry-600x450.jpg",
+      "N. scientifique ": "Sedum telephium",
+      "Synonyme ": "Hylotelephium telephium",
+      "Famille ": "Crassulacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "juillet à août",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "plante grasse",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 70 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ombre claire à plein soleil "
+      ],
+      "Sol": "à tendance minérale",
+      "Acidité ": "acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "massif, potée, toiture végétalisée",
+      "Plantation": "printemps",
+      "Multiplication": "bouturage, division, semis"
+    },
+    {
+      "Nom": "Orpin Matrona",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sedum-cv-matrona-fleur-600x450.jpg",
+      "N. scientifique ": "Sedum 'Matrona'",
+      "Famille ": "Crassulacées",
+      "Origine ": "Europe",
+      "Floraison": "septembre, octobre",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "fleur, plante grasse",
+      "Végétation": "vivace",
+      "Feuillage ": " caduc",
+      "Hauteur": "jusqu'à 60 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "ordinaire",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à plutôt sec",
+      "Utilisation": "rocaille, muret, couvre-sol, jardinière, pot",
+      "Plantation": "printemps",
+      "Multiplication": "division de la touffe, bouturage",
+      "Taille": "enlevez les vieilles tiges fanées au printemps",
+      "Sensibilité ": "la pourriture"
+    },
+    {
+      "Nom": "Orpin du Kamtchatka",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sedum-kamtschaticum-600x450.jpg",
+      "N. scientifique ": "Sedum kamtschaticum",
+      "Famille ": "Crassulacées",
+      "Origine ": "Asie du Nord",
+      "Floraison": "juin",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-caduc",
+      "Hauteur": "15 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "ordinaire, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "couvre-sol, muret, rocaille, potée",
+      "Plantation": "printemps, automne",
+      "Multiplication": "division de la touffe au printemps",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "la pourriture"
+    },
+    {
+      "Nom": "Orpin doux, Orpin de Bologne, Orpin à 6 angles",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sedum-sexangulare-600x450.jpg",
+      "N. scientifique ": "Sedum sexangulare",
+      "Synonymes ": "Sedum boloniense, Sedum mite, Sedum tschernokolevii",
+      "Famille ": "Crassulacées",
+      "Origine ": "Europe",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "plante grasse",
+      "Végétation": "vivace",
+      "Feuillage ": "feuilles épaissies, persistantes",
+      "Hauteur": "5 à 12 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -15°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "normal, drainant",
+      "Acidité ": "indifférent",
+      "Humidité ": "sec à normal",
+      "Utilisation": "plante de rocaille",
+      "Plantation": "avril à septembre",
+      "Multiplication": "bouturage, division"
     },
     {
       "Nom": "Baobab africain, Arbre bouteille",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/adansonia-digitata-600x450.jpg",
       "N. scientifique ": "Adansonia digitata",
       "Synonymes ": "Adansonia baobab, Adansonia integrifolia, Adansonia digitata",
       "Famille ": "Bombacacées",
@@ -313,6 +530,7 @@
     },
     {
       "Nom": "Téphrocactus géométrique, Opuntia géométrique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/tephrocactus-geometricus-600x450.jpg",
       "N. scientifique ": "Tephrocactus geometricus",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Argentine",
@@ -344,6 +562,7 @@
     },
     {
       "Nom": "Schlumbergera tronqué, Cactus de Noël",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/schlumbergera-truncata-600x450.jpg",
       "N. scientifique ": "Schlumbergera truncata",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Brésil",
@@ -369,6 +588,7 @@
     },
     {
       "Nom": "Saguaro, Sage du désert",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/carnegiea-gigantea-600x450.jpg",
       "N. scientifique ": "Carnegiea gigantea",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Arizona aux USA, Sonora au Mexique",
@@ -400,6 +620,7 @@
     },
     {
       "Nom": "Rhipsalis cruciforme, Rhipsalis rouge",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/rhipsalis-cruciformis-600x450.jpg",
       "N. scientifique ": "Rhipsalis cruciformis",
       "Synonyme ": "Lespimium cruciforme",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -427,6 +648,7 @@
     },
     {
       "Nom": "Rebutia perplexa",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/rebutia-perplexa-600x450.jpg",
       "N. scientifique ": "Rebutia perplexa",
       "Synonymes ": "Aylostera perplexa, Aylostera pulvinosa subsp perplexa, Rebutia pulvinosa subsp perplexa",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -455,6 +677,7 @@
     },
     {
       "Nom": "Rebutia heliosa",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/rebutia-heliosa-600x450.jpg",
       "N. scientifique ": "Rebutia heliosa",
       "Synonyme ": "Aylostera heliosa",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -486,7 +709,327 @@
       "Sensibilité ": "cochenilles, pourriture du collet"
     },
     {
+      "Nom": "Cactus tonneau",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ferocactus-covillei-600x450.jpg",
+      "N. scientifique ": "Ferocactus emoryi",
+      "Synonymes ": "Ferocactus covillei, Ferocactus rectispinus",
+      "Famille ": "Cactacées, Cactées, Cactus",
+      "Origine ": "Mexique, Arizona",
+      "Floraison": "juin, juillet",
+      "Fleurs ": [
+        "     ",
+        "   jaune ou rouge "
+      ],
+      "Type": "cactus",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "Jusqu’à 1 m",
+      "Rusticité ": "   gélif, 2°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "minéral et drainant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "rocaille, serre, véranda, plante d’intérieur",
+      "Plantation": "printemps, été"
+    },
+    {
+      "Nom": "Rose du désert, Faux baobab",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/adenium-obesum-600x450.jpg",
+      "N. scientifique ": "Adenium obesum",
+      "Synonymes ": "Adenium arabicum, Nerium obesum",
+      "Famille ": "Apocynacées",
+      "Origine ": "Afrique de l'est et du sud-ouest",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "   rose, blanc, rouge "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace succulente",
+      "Feuillage ": "persistant",
+      "Hauteur": "1,50 m",
+      "Toxicité": "sève toxique",
+      "Rusticité ": "   15°C ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "terreau, léger",
+      "Acidité ": "neutre",
+      "Humidité ": "sec",
+      "Utilisation": "pot",
+      "Plantation": "printemps",
+      "Multiplication": "semis au chaud à 20°C, bouturage de tiges en été",
+      "Sensibilité ": "les pucerons"
+    },
+    {
+      "Nom": "Plante tortue, Pied d'éléphant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/dioscorea-elephantipes-600x450.jpg",
+      "N. scientifique ": "Dioscorea elephantipes",
+      "Synonyme ": "Testudinaria elephantipes",
+      "Famille ": "Dioscoréacées",
+      "Origine ": "Afrique du sud",
+      "Floraison": "variable : selon sa période de végétation",
+      "Fleurs ": [
+        "     ",
+        "   jaunes et petites "
+      ],
+      "Type": "plante à caudex, caudiciforme ou pachycaule",
+      "Végétation": "vivace",
+      "Feuillage ": "liane volubile qui disparaît en saison sèche",
+      "Hauteur": "tiges volubiles jusque 1m de long",
+      "Rusticité ": "   5° C minimum, supporte des températures très chaudes ",
+      "Exposition ": [
+        "  ",
+        "  lumineuse, derrière une fenêtre "
+      ],
+      "Sol": "sol drainant et profond : terre de jardin +sable",
+      "Acidité ": "neutre à basique, ne craint pas le calcaire",
+      "Humidité ": "sec, arrosage en fonction du cycle de la plante",
+      "Utilisation": "plante d'intérieur, véranda",
+      "Plantation": "en pot profond, avant la reprise de la végétation ",
+      "Multiplication": "semis uniquement"
+    },
+    {
+      "Nom": "Pied épais",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/pachypodium-bispinosum-600x450.jpg",
+      "N. scientifique ": "Pachypodium bispinosum",
+      "Famille ": "Apocynacées",
+      "Origine ": "Afrique du Sud",
+      "Floraison": "août à décembre",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "plante à caudex, pachycaule",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "60 cm",
+      "Toxicité": "produit un latex toxique",
+      "Rusticité ": "   peu rustique, -4°C, à réserver aux régions sud en extérieur ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "très poreux",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "sec",
+      "Utilisation": "serre, véranda, bonsaï d'intérieur",
+      "Plantation": "printemps",
+      "Multiplication": "semis, greffe"
+    },
+    {
+      "Nom": "Palmier de Madagascar",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/pachypodium-lamerei-600x450.jpg",
+      "N. scientifique ": "Pachypodium lamerei",
+      "Famille ": "Apocynacées",
+      "Origine ": "Madagascar",
+      "Floraison": "saison chaude",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante d'intérieur, plante à caudex, pachycaule, plante succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc à semi-persistant",
+      "Hauteur": "6 m dans son milieu, 1,50 m en culture",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, jusqu'à -4 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "très poreux",
+      "Acidité ": "légèrement acide à légèrement alcalin",
+      "Humidité ": "normal à sec",
+      "Utilisation": "serre, véranda, extérieur en climat très doux",
+      "Plantation": "printemps",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Oxalis bonsaï",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/oxalis-megalorrhiza-600x450.jpg",
+      "N. scientifique ": "Oxalis megalorrhiza",
+      "Synonyme ": "Acetosella megalorrhiza",
+      "Famille ": "Oxalidacées",
+      "Origine ": "Chili, Pérou, Bolivie",
+      "Floraison": "de juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune vif "
+      ],
+      "Type": "plante à caudex, caudiciforme, ou pachycaule",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "40 cm",
+      "Rusticité ": "   2°C minimum, supporte des températures très chaudes ",
+      "Exposition ": [
+        "  ",
+        "  lumineuse, derrière une fenêtre "
+      ],
+      "Sol": "sol drainant et profond : terre de jardin + sable",
+      "Acidité ": "neutre à basique, ne craint pas le calcaire",
+      "Humidité ": "sec, arrosage régulier pendant l’été",
+      "Utilisation": "plante d’intérieur, véranda",
+      "Plantation": "en pot profond, de mars à août",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Fockea edulis",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/fockea-crispa-600x450.jpg",
+      "N. scientifique ": "Fockea edulis",
+      "Synonymes ": "Fockea cylindrica, Fockea edulis v. capensis",
+      "Famille ": "Asclépiadacées",
+      "Origine ": "Afrique du sud",
+      "Floraison": "août à septembre",
+      "Fleurs ": [
+        "     ",
+        "   blanche et verte "
+      ],
+      "Type": "plante à caudex, caudiciforme, ou pachycaule",
+      "Végétation": "vivace",
+      "Feuillage ": "liane volubile qui disparaît en saison sèche",
+      "Hauteur": "tiges volubile jusque 0.80m de long voir 2m dans la nature",
+      "Rusticité ": "   non rustique, 4° C minimum ",
+      "Exposition ": [
+        "  ",
+        "  lumineuse, derrière une fenêtre "
+      ],
+      "Sol": "terre de jardin + sable",
+      "Acidité ": "neutre à basique, ne craint pas le calcaire",
+      "Humidité ": "sec, arrosage en fonction du cycle de la plante",
+      "Utilisation": "plante d’intérieur, véranda",
+      "Plantation": "en pot profond, avant la reprise de la végétation",
+      "Multiplication": "semis, bouture"
+    },
+    {
+      "Nom": "Euphorbe tête de méduse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/euphorbia-caput-medusae-600x450.jpg",
+      "N. scientifique ": "Euphorbia caput-medusae",
+      "Synonymes ": "Euphorbia tesselata, Euphorbia commelinii",
+      "Famille ": "Euphorbiacées",
+      "Origine ": "Afrique du Sud",
+      "Floraison": "juillet, août",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   blanc,jaune "
+      ],
+      "Type": "plante succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "presque inexistant",
+      "Hauteur": "5 à 15 cm",
+      "Rusticité ": "   non rustique, 2 °C minimum ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée, mi-ombre "
+      ],
+      "Sol": "drainant, assez minéral",
+      "Acidité ": "moyennement acide à moyennement basique",
+      "Humidité ": "moyennement sec à sec",
+      "Utilisation": "pot, serre, véranda",
+      "Plantation": "printemps, été",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Euphorbe obèse, Euphorbe melon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/euphorbia-obesa-600x450.jpg",
+      "N. scientifique ": "Euphorbia obesa",
+      "Famille ": "Euphorbiacées",
+      "Origine ": "Afrique du Sud (province du Cap)",
+      "Floraison": "avril, mai",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "15 cm",
+      "Toxicité": "toxique par ingestion et sève laiteuse irritante pour la peau",
+      "Rusticité ": "   minimum 10 ° au sec ",
+      "Exposition ": [
+        "  ",
+        "  pleine lumière sans soleil direct brûlant "
+      ],
+      "Sol": "drainé",
+      "Acidité ": "plutôt acide",
+      "Humidité ": "sécheresse totale en hiver",
+      "Utilisation": "serre",
+      "Plantation": "printemps",
+      "Multiplication": "semis",
+      "Taille": "pas de taille",
+      "Sensibilité ": "cochenilles, pourriture grise, rouille"
+    },
+    {
+      "Nom": "Edelweiss du Brésil",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sinningia-leucotricha-600x450.jpg?1",
+      "N. scientifique ": "Sinningia leucotricha",
+      "Synonyme ": "Reichsteneria leucotricha",
+      "Famille ": "Gesnériacées",
+      "Origine ": "Brésil",
+      "Floraison": "mai",
+      "Fleurs ": [
+        "     ",
+        "   orange vif "
+      ],
+      "Type": "plante à caudex, caudiciforme , ou pachycaule",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "20 à 30 cm",
+      "Rusticité ": "   5° C minimum ",
+      "Exposition ": [
+        "  ",
+        "  lumineuse, derrière une fenêtre "
+      ],
+      "Sol": "sol drainant et profond : terre à cactée",
+      "Acidité ": "neutre à basique, ne craint pas le calcaire",
+      "Humidité ": "sec, arrosage en fonction du cycle de la plante",
+      "Utilisation": "plante d'intérieur, véranda",
+      "Plantation": "en pot profond, avant la reprise de la végétation",
+      "Multiplication": "semis",
+      "Sensibilité ": "la pourriture en cas d'excès d'arrosage"
+    },
+    {
+      "Nom": "Baobab nain, Plante bouteille, Médicinier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/jatropha-podragrica-600x450.jpg",
+      "N. scientifique ": "Jatropha podagrica",
+      "Famille ": "Euphorbiacées",
+      "Origine ": "Amérique centrale",
+      "Floraison": "toute l'année",
+      "Fleurs ": [
+        "     ",
+        "   rouge "
+      ],
+      "Type": "arbuste succulent",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 1,50 m",
+      "Rusticité ": "   10°C minimum en hiver ",
+      "Exposition ": [
+        "  ",
+        "  lumière vive "
+      ],
+      "Sol": "léger, riche en humus, sableux",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "normal",
+      "Utilisation": "pot, bac, serre tempérée",
+      "Plantation": "printemps",
+      "Multiplication": "bouturage au printemps ou semis "
+    },
+    {
       "Nom": "Queue de rat doré",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cleistocactus-winteri-600x450.jpg",
       "N. scientifique ": "Cleistocactus winteri",
       "Synonymes ": "Hildewintera aureispina, Borzicactus aureispina, Winteria aureispina",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -515,6 +1058,7 @@
     },
     {
       "Nom": "Peyote, Peyotl",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/lophophora-williamsii-600x450.jpg",
       "N. scientifique ": "Lophophora williamsii",
       "Synonyme ": "Lophohpora fricii",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -544,6 +1088,7 @@
     },
     {
       "Nom": "Parodia magnifica",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/parodia-magnifica-600x450.jpg",
       "N. scientifique ": "Parodia magnifica",
       "Synonymes ": "Notocactus magnificus, Eriocactus magnificus",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -576,6 +1121,7 @@
     },
     {
       "Nom": "Parodia haselbergii",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/brasilicactus-haselbergii-600x450.jpg",
       "N. scientifique ": "Parodia haselbergii",
       "Synonymes ": "Notocactus haselbergii, Brasilicactus haselbergii",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -604,6 +1150,7 @@
     },
     {
       "Nom": "Parodia comarapana",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/parodia-comarapa-600x450.jpg",
       "N. scientifique ": "Parodia comarapana",
       "Synonyme ": "Parodia mairianana",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -631,6 +1178,7 @@
     },
     {
       "Nom": "Opuntia souterrain à fleurs rouges",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/maihueniopsis-subterranea-pulcherrima-tephrocactus-600x450.jpg",
       "N. scientifique ": "Tephrocactus subterranea ssp. pulcherrima",
       "Synonymes ": "Maihueniopsis subterranea subs pulcherrima, Cumulopuntia subterranea subsp. pulcherrima, Puna subterranea",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -660,6 +1208,7 @@
     },
     {
       "Nom": "Opuntia de papier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/tephrocactus-papyracanthus-600x450.jpg",
       "N. scientifique ": "Tephrocactus articulatus var. paryracanthus",
       "Synonyme ": "Opuntia diadematus",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -689,6 +1238,7 @@
     },
     {
       "Nom": "Oponce cylindrique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/opuntia-subulata-600x450.jpg",
       "N. scientifique ": "Opuntia subulata",
       "Synonymes ": "Cylindropuntia subulata, Austrocylindropuntia exaltata, Opuntia exaltata, Cylindropuntia exaltata, Austrocylindropuntia subulata",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -719,6 +1269,7 @@
     },
     {
       "Nom": "Mammillaire allongé, Mammillaire doré",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img8/mammillaria-elongata-600x450.jpg",
       "N. scientifique ": "Mammillaria elongata",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Mexique (Hidalgo)",
@@ -746,6 +1297,7 @@
     },
     {
       "Nom": "Mammilaire",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/mammillaria-haageana-600x450.jpg",
       "N. scientifique ": "Mammillaria haageana",
       "Synonymes ": "Mammillaria elegans,  Mammillaria dealbata",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -773,6 +1325,7 @@
     },
     {
       "Nom": "Mammilaire",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/mammillaria-geminispina-600x450.jpg",
       "N. scientifique ": "Mammillaria geminispina",
       "Synonyme ": "Mammillaria geminispina var nobilis",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -800,6 +1353,7 @@
     },
     {
       "Nom": "Mammilaire",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/mammillaria-carmenae-600x450.jpg",
       "N. scientifique ": "Mammillaria carmenae",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Mexique",
@@ -826,6 +1380,7 @@
     },
     {
       "Nom": "Mamillaire",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/mammillaria-crocidata-600x450.jpg",
       "N. scientifique ": "Mammillaria polythele",
       "Synonymes ": "Mammillaria obconella, Mammillaria crocidata, Mammillaria dolichocentra,  Mammillaria tetracantha",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -854,6 +1409,7 @@
     },
     {
       "Nom": "Griffe de corbeau, Langue du diable",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/ferocactus-latispinus-600x450.jpg",
       "N. scientifique ": "Ferocactus latispinus",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Mexique",
@@ -881,6 +1437,7 @@
     },
     {
       "Nom": "Fleur de la prière",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/echinopsis-mirabilis-fleur-600x450.jpg",
       "N. scientifique ": "Echinopsis mirabilis",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Argentine Santiago Del Estero",
@@ -912,6 +1469,7 @@
     },
     {
       "Nom": "Espostoa laineux, Vieil homme péruvien",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/espostoa-lanata-600x450.jpg",
       "N. scientifique ": "Epostoa lanata",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Équateur, Pérou",
@@ -940,6 +1498,7 @@
     },
     {
       "Nom": "Epicactus Pegasus",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/epicactus-cv-pegasus-600x450.jpg",
       "N. scientifique ": "Epiphyllum 'Pegasus'",
       "Synonyme ": "Phyllocactus 'Pegasus'",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -969,6 +1528,7 @@
     },
     {
       "Nom": "Coussin de belle-mère, Cactus oursin",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/echinocactus-grusonii-600x450.jpg",
       "N. scientifique ": "Echinocactus grusonii",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Mexique",
@@ -997,6 +1557,7 @@
     },
     {
       "Nom": "Coussin de belle-mère sans épines",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/echinocactus-grusonii-var-inermis-600x450.jpg",
       "N. scientifique ": "Echinocactus grusonii var. inermis",
       "Synonymes ": "Echinocactus grusonii var. brevispinus, Echinocactus grusonii var. subinermis",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -1027,6 +1588,7 @@
     },
     {
       "Nom": "Copiapoa du Mexique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/thelocactus-rinconensis-600x450.jpg",
       "N. scientifique ": "Thelocactus rinconensis",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Mexique",
@@ -1054,6 +1616,7 @@
     },
     {
       "Nom": "Chin cactus, Cactus fraise",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/gymnocalycium-mihanovichii-600x450.jpg",
       "N. scientifique ": "Gymnocalycium mihanovichii",
       "Synonymes ": "Gymnocalycium friedrichii, Gymnocalycium stenopleurum",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -1084,6 +1647,7 @@
     },
     {
       "Nom": "Chandelle bleue, Garambullo",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/myrtillocactus-geometrizans-600x450.jpg",
       "N. scientifique ": "Myrtillocactus geometrizans",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Mexique",
@@ -1111,6 +1675,7 @@
     },
     {
       "Nom": "Cactus tonneau",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ferocactus-horridus-600x450.jpg",
       "N. scientifique ": "Ferocactus horridus",
       "Synonyme ": "Ferocactus peninsulae",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -1138,34 +1703,8 @@
       "Multiplication": "semis, divisions"
     },
     {
-      "Nom": "Cactus tonneau",
-      "N. scientifique ": "Ferocactus emoryi",
-      "Synonymes ": "Ferocactus covillei, Ferocactus rectispinus",
-      "Famille ": "Cactacées, Cactées, Cactus",
-      "Origine ": "Mexique, Arizona",
-      "Floraison": "juin, juillet",
-      "Fleurs ": [
-        "     ",
-        "   jaune ou rouge "
-      ],
-      "Type": "cactus",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "Jusqu’à 1 m",
-      "Rusticité ": "   gélif, 2°C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "minéral et drainant",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "rocaille, serre, véranda, plante d’intérieur",
-      "Plantation": "printemps, été"
-    },
-    {
       "Nom": "Cactus raquette, Oreille de lapin",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/opuntia-microdasys-600x450.jpg?1",
       "N. scientifique ": "Opuntia microdasys",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Mexique",
@@ -1195,6 +1734,7 @@
     },
     {
       "Nom": "Cactus oursin, Sand dollar",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/astrophytum-asterias-600x450.jpg",
       "N. scientifique ": "Astrophytum asterias",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Texas, Nord Est du Mexique",
@@ -1219,6 +1759,7 @@
     },
     {
       "Nom": "Cactus oursin, Cactus lys de Pâques",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/echinopsis-obrepanda-600x450.jpg",
       "N. scientifique ": "Echinopsis obrepanda",
       "Synonymes ": "Pseudolobivia obrepanda, Lobivia callichroma",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -1247,6 +1788,7 @@
     },
     {
       "Nom": "Cactus oursin",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/echinopsis-mammillosa-cv-kermesina-fleur-600x450.jpg",
       "N. scientifique ": "Echinopsis mamilosa var. kermesina",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Bolivie",
@@ -1276,6 +1818,7 @@
     },
     {
       "Nom": "Cactus orchidée, Epicactus",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/epiphyllum-x-fleur-600x450.jpg",
       "N. scientifique ": "Epiphyllum",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Amérique centrale, Antilles",
@@ -1307,6 +1850,7 @@
     },
     {
       "Nom": "Cactus hérisson",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/echinocereus-chisoensis-fleur-600x450.jpg",
       "N. scientifique ": "Echinocereus chisoensis",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Sierra Mojada au Mexique",
@@ -1339,6 +1883,7 @@
     },
     {
       "Nom": "Cactus de Pâques",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/hatiora-gaertneri-600x450.jpg",
       "N. scientifique ": "Hatiora gaertneri",
       "Synonymes ": "Rhipsalidopsis gaertneri, Schlumbergera gaertneri, Epiphyllum gaertneri",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -1372,6 +1917,7 @@
     },
     {
       "Nom": "Cactus de Noël",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/schlumbergera-600x450.jpg",
       "N. scientifique ": "Schlumbergera x buckleyi",
       "Synonymes ": "Zygocactus x buckleyi, Epiphyllum x buckleyi",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -1405,6 +1951,7 @@
     },
     {
       "Nom": "Cactus coussin, Mammillaire",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/mammillaria-plumosa-600x450.jpg",
       "N. scientifique ": "Mammillaria plumosa",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Nord est du Mexique",
@@ -1432,6 +1979,7 @@
     },
     {
       "Nom": "Cactus cornichon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/echinopsis-chamaecereus-600x450.jpg",
       "N. scientifique ": "Echinopsis chamaecereus",
       "Synonymes ": "Lobivia sylvestris, Echinopsis chamaecereus",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -1459,6 +2007,7 @@
     },
     {
       "Nom": "Cactus corail",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/rhipsalis-cereuscula-600x450.jpg",
       "N. scientifique ": "Rhipsalis",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Amérique du sud, Amérique centrale, Afrique tropicale, Sri lanka",
@@ -1488,6 +2037,7 @@
     },
     {
       "Nom": "Cactus cierge",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/cleistocactus-strausii-600x450.jpg",
       "N. scientifique ": "Cleistocactus Strausii",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Bolivie",
@@ -1518,6 +2068,7 @@
     },
     {
       "Nom": "Cactus boule de neige",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/mammillaria-candida-600x450.jpg",
       "N. scientifique ": "Mammillaria candida",
       "Synonymes ": "Mammillaria estanzuelensis, Mammillaria ortiz-rubiona",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -1546,6 +2097,7 @@
     },
     {
       "Nom": "Cactus bonnet d'évêque",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/astrophytum-myriostigma-600x450.jpg",
       "N. scientifique ": "Astrophytum myriostigma",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Mexique",
@@ -1574,6 +2126,7 @@
     },
     {
       "Nom": "Cactus arc-en-ciel",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/echinocereus-rigidissimus-rubispinus-600x450.jpg",
       "N. scientifique ": "Echinocereus rigidissimus ssp. rubispinus",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Mexique",
@@ -1606,6 +2159,7 @@
     },
     {
       "Nom": "Cactus araignée, Cactus menton",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/gymnocalycium-bruchii-600x450.jpg",
       "N. scientifique ": "Gymnocalycium bruchii",
       "Synonymes ": "Gymnocalycium albispinum, Gymnocalycium lafaldense",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -1638,6 +2192,7 @@
     },
     {
       "Nom": "Cactus araignée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/gymnocalycium-pflanzii-600x450.jpg",
       "N. scientifique ": "Gymnocalycium pflanzii",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Bolivie, Argentine, Paraguay",
@@ -1666,6 +2221,7 @@
     },
     {
       "Nom": "Cactus araignée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/gymnocalycium-baldianum-600x450.jpg",
       "N. scientifique ": "Gymnocalycium baldianum",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Argentine",
@@ -1697,6 +2253,7 @@
     },
     {
       "Nom": "Cactus agave",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/leuchtenbergia-principis-600x450.jpg?1",
       "N. scientifique ": "Leuchtenbergia principis",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Mexique",
@@ -1724,6 +2281,7 @@
     },
     {
       "Nom": "Boule de Moïse, Cactus oursin",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/echinopsis-oxygona-fleur-600x450.jpg",
       "N. scientifique ": "Echinopsis oxygona",
       "Famille ": "Cactacées, Cactées, Cactus",
       "Origine ": "Sud du brésil",
@@ -1752,6 +2310,7 @@
     },
     {
       "Nom": "Ariocarpe, Cactus edelweiss",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/ariocarpus-fissuratus-600x450.jpg",
       "N. scientifique ": "Ariocarpus fissuratus",
       "Synonymes ": "Roseocactus Fissuratus v.lloydii, Ariocarpus intermédia",
       "Famille ": "Cactacées, Cactées, Cactus",
@@ -1780,6 +2339,7 @@
     },
     {
       "Nom": "Yucca superbe",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/yucca-gloriosa-600x450.jpg",
       "N. scientifique ": "Yucca gloriosa",
       "Famille ": "Agavacées",
       "Origine ": "sud-est des États-Unis",
@@ -1812,6 +2372,7 @@
     },
     {
       "Nom": "Yucca rouge, Yucca corail, Faux-yucca",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/hesperaloe-parviflora-600x450.jpg",
       "N. scientifique ": "Hesperaloe parviflora",
       "Synonyme ": "Yucca parviflora",
       "Famille ": "Agavacées",
@@ -1843,6 +2404,7 @@
     },
     {
       "Nom": "Yucca rostré",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/yucca-rostrata-600x450.jpg",
       "N. scientifique ": "Yucca rostrata",
       "Famille ": "Agavacées",
       "Origine ": "Amérique du nord",
@@ -1876,6 +2438,7 @@
     },
     {
       "Nom": "Yucca géant, Yucca pied d'éléphant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/yucca-elephantides-600x450.jpg",
       "N. scientifique ": "Yucca elephantides",
       "Synonyme ": "Yucca gigantea",
       "Famille ": "Agavacées",
@@ -1910,6 +2473,7 @@
     },
     {
       "Nom": "Yucca filamenteux",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/yucca-filamentosa-600x450.jpg",
       "N. scientifique ": "Yucca filamentosa",
       "Famille ": "Agavacées",
       "Origine ": "Etats-Unis",
@@ -1943,6 +2507,7 @@
     },
     {
       "Nom": "Yucca de Thompson",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/yucca-thompsoniana-600x450.jpg",
       "N. scientifique ": "Yucca thompsoniana",
       "Famille ": "Agavacées",
       "Origine ": "Sud des Etats-Unis, Mexique",
@@ -1970,6 +2535,7 @@
     },
     {
       "Nom": "Yucca de Faxon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/yucca-faxoniana-600x450.jpg",
       "N. scientifique ": "Yucca faxoniana",
       "Synonyme ": "Samuela carnerosana",
       "Famille ": "Agavacées",
@@ -2001,6 +2567,7 @@
     },
     {
       "Nom": "Yucca à feuilles linéaires",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/yucca-linearifolia-600x450.jpg",
       "N. scientifique ": "Yucca linearifolia",
       "Synonyme ": "Yucca rostrata var. linearis",
       "Famille ": "Agavacées",
@@ -2028,6 +2595,7 @@
     },
     {
       "Nom": "Yucca à feuilles glauques, Yucca des grandes plaines",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/yucca-glauca-600x450.jpg",
       "N. scientifique ": "Yucca glauca",
       "Synonymes ": "Yucca angustifolia, Yucca stricta",
       "Famille ": "Agavacées",
@@ -2055,6 +2623,7 @@
     },
     {
       "Nom": "Yucca à feuilles d'Aloès",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/yucca-aloifolia-600x450.jpg",
       "N. scientifique ": "Yucca aloifolia",
       "Synonyme ": "Yucca yucatana",
       "Famille ": "Agavacées",
@@ -2087,6 +2656,7 @@
     },
     {
       "Nom": "Tonneau de lait africain",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/euphorbia-horrida-600x450.jpg",
       "N. scientifique ": "Euphorbia horrida",
       "Famille ": "Euphorbiacées",
       "Origine ": "Afrique du Sud",
@@ -2115,6 +2685,7 @@
     },
     {
       "Nom": "Tapis magique, Ficoïde",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/dorotheanthus-bellidiformis-600x450.jpg",
       "N. scientifique ": "Dorotheanthus bellidiformis",
       "Famille ": "Aizoacées",
       "Origine ": "Afrique du sud",
@@ -2138,6 +2709,7 @@
     },
     {
       "Nom": "Stapélia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/stapelia-grandiflora-600x450.jpg",
       "N. scientifique ": "Stapelia grandiflora",
       "Famille ": "Asclépiadacées",
       "Origine ": "Afrique tropicale et méridionale",
@@ -2166,6 +2738,7 @@
     },
     {
       "Nom": "Stapélia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/stapelia-lepida-600x450.jpg",
       "N. scientifique ": "Orbea lepida",
       "Synonyme ": "Stapelia lepida",
       "Famille ": "Asclépiadacées",
@@ -2194,6 +2767,7 @@
     },
     {
       "Nom": "Séneçon de Barberton",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/senecio-barbertonicus-600x450.jpg",
       "N. scientifique ": "Senecio barbertonicus",
       "Synonyme ": "Senecio 'Himalaya'",
       "Famille ": "Astéracées, Composées",
@@ -2220,171 +2794,8 @@
       "Multiplication": "boutures, semis"
     },
     {
-      "Nom": "Plante parachute, Céropégia",
-      "N. scientifique ": "Ceropegia sandersonii",
-      "Famille ": "Asclépiadacées",
-      "Origine ": "Afrique du Sud, Natal, Mozambique",
-      "Floraison": "été",
-      "Fleurs ": "        blanc, vert foncé moucheté de brun ",
-      "Type": "succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1,2m, étalement 60 cm",
-      "Rusticité ": "   minimum 10 ° au sec ",
-      "Exposition ": [
-        "  ",
-        "  pied mi-ombre, tête au soleil "
-      ],
-      "Sol": "normal, bien drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "humide en été, sec en hiver",
-      "Utilisation": "serre",
-      "Plantation": "printemps",
-      "Multiplication": "semis, boutures",
-      "Sensibilité ": "cochenilles, pucerons"
-    },
-    {
-      "Nom": "Plante crayon",
-      "N. scientifique ": "Euphorbia tirucalli",
-      "Synonymes ": "Euphorbia rhipsaloides, Euphorbia scoparia",
-      "Famille ": "Euphorbiacées",
-      "Origine ": "Afrique australe",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "plante grasse",
-      "Végétation": "vivace",
-      "Feuillage ": "feuilles très réduites",
-      "Hauteur": "3 m, 6 à 9 m dans la nature",
-      "Rusticité ": "   peu rustique, -2°C ",
-      "Exposition ": [
-        "  ",
-        "  lumineuse "
-      ],
-      "Sol": "sol riche et drainant",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "sec",
-      "Utilisation": "plante d’intérieur, véranda, terrasse en été",
-      "Plantation": "avril à juillet",
-      "Multiplication": "bouturage, semis"
-    },
-    {
-      "Nom": "Plante corail",
-      "N. scientifique ": "Jatropha multifida",
-      "Synonyme ": "Jatropha multiphida",
-      "Famille ": "Euphorbiacées",
-      "Origine ": "Mexique",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "   rouge vif "
-      ],
-      "Type": "plante succulente, léger caudex",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1 à 3 m",
-      "Rusticité ": "   0°C minimum ",
-      "Exposition ": [
-        "  ",
-        "  lumineuse "
-      ],
-      "Sol": "riche et très drainant",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "sec",
-      "Utilisation": "plante d’intérieur, véranda, terrasse en été",
-      "Plantation": "d’avril à juillet",
-      "Multiplication": "semis"
-    },
-    {
-      "Nom": "Plante caillou",
-      "N. scientifique ": "Lithops",
-      "Famille ": "Aizoacées",
-      "Origine ": "Afrique du Sud, Namibie",
-      "Floraison": "juillet à novembre",
-      "Fleurs ": "        blanc, jaune ",
-      "Type": "succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 2 à 4 cm",
-      "Rusticité ": "   minimum 10°C au sec ",
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "sec",
-      "Utilisation": "potée, appartement, serre",
-      "Plantation": "printemps",
-      "Multiplication": "semis, rejets",
-      "Sensibilité ": "poux des racines"
-    },
-    {
-      "Nom": "Palmier noir, Yucca",
-      "N. scientifique ": "Yucca decipiens",
-      "Famille ": "Agavacées",
-      "Origine ": "Mexique",
-      "Floraison": "printemps, été",
-      "Fleurs ": [
-        "     ",
-        "   crème "
-      ],
-      "Type": "plante exotique",
-      "Végétation": "arborescente",
-      "Feuillage ": "persistant",
-      "Hauteur": "3 à 9 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, jusqu'à -15°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ensoleillée "
-      ],
-      "Sol": "drainant, à tendance minérale",
-      "Acidité ": "légèrement acide à légèrement alcalin",
-      "Humidité ": "normal à sec",
-      "Utilisation": "grand pot, rocaille, talus",
-      "Plantation": "semis, boutures",
-      "Multiplication": "printemps, été"
-    },
-    {
-      "Nom": "Orpin spatulé, Sédum nain",
-      "N. scientifique ": "Sedum spathulifolium",
-      "Famille ": "Crassulacées",
-      "Origine ": "Amérique du Nord",
-      "Floraison": "avril à juillet",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "plante grasse",
-      "Végétation": "vivace",
-      "Feuillage ": "feuilles épaissies, persistantes",
-      "Hauteur": "1 à 10 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -34°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  mi-ombre à plein soleil "
-      ],
-      "Sol": "drainant",
-      "Acidité ": "moyennement acide à moyennement basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "potée, muret, rocaille, toiture végétalisée",
-      "Plantation": "d'avril à septembre",
-      "Multiplication": "bouturage, division, semis"
-    },
-    {
       "Nom": "Sansevière bâton",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sansevieria-stuckyi-600x450.jpg",
       "N. scientifique ": "Sansevieria stuckyi",
       "Famille ": "Asparagacées",
       "Origine ": "Côte est de l'Afrique",
@@ -2412,6 +2823,7 @@
     },
     {
       "Nom": "Sansevière à feuilles cylindriques",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/sansevieria-cylindrica-600x450.jpg",
       "N. scientifique ": "Sansevieria cylindrica",
       "Synonymes ": "Acyntha cylindrica, Cordyline cylindrica, Sansevieria angolensis",
       "Famille ": "Asparagacées",
@@ -2439,136 +2851,146 @@
       "Sensibilité ": "les cochenilles"
     },
     {
-      "Nom": "Orpin rouge",
-      "N. scientifique ": "Sedum moranense",
-      "Synonymes ": "Sedum arboreum, Sedum submontanum",
-      "Famille ": "Crassulacées",
-      "Origine ": "Amérique centrale",
-      "Floraison": "juillet, août",
-      "Fleurs ": [
-        "     ",
-        "   blanc à rosé "
-      ],
-      "Type": "plante grasse rustique",
+      "Nom": "Plante parachute, Céropégia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ceropegia-sandersonii-fleur-600x450.jpg",
+      "N. scientifique ": "Ceropegia sandersonii",
+      "Famille ": "Asclépiadacées",
+      "Origine ": "Afrique du Sud, Natal, Mozambique",
+      "Floraison": "été",
+      "Fleurs ": "        blanc, vert foncé moucheté de brun ",
+      "Type": "succulente",
       "Végétation": "vivace",
-      "Feuillage ": "feuilles épaissies, persistantes",
-      "Hauteur": "10 à 20 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique -11°C "
-      ],
+      "Feuillage ": "persistant",
+      "Hauteur": "1,2m, étalement 60 cm",
+      "Rusticité ": "   minimum 10 ° au sec ",
       "Exposition ": [
         "  ",
-        " ",
-        "  soleil à mi-ombre "
+        "  pied mi-ombre, tête au soleil "
       ],
-      "Sol": "drainant",
-      "Acidité ": "indifférent",
-      "Humidité ": "sec à normal",
-      "Utilisation": "plante de rocaille",
-      "Plantation": "avril à septembre",
-      "Multiplication": "bouturage, division"
-    },
-    {
-      "Nom": "Orpin reprise, Herbe à la coupure",
-      "N. scientifique ": "Sedum telephium",
-      "Synonyme ": "Hylotelephium telephium",
-      "Famille ": "Crassulacées",
-      "Origine ": "Europe, Asie",
-      "Floraison": "juillet à août",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "plante grasse",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "30 à 70 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -34 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ombre claire à plein soleil "
-      ],
-      "Sol": "à tendance minérale",
-      "Acidité ": "acide à basique",
-      "Humidité ": "normal",
-      "Utilisation": "massif, potée, toiture végétalisée",
-      "Plantation": "printemps",
-      "Multiplication": "bouturage, division, semis"
-    },
-    {
-      "Nom": "Orpin Matrona",
-      "N. scientifique ": "Sedum 'Matrona'",
-      "Famille ": "Crassulacées",
-      "Origine ": "Europe",
-      "Floraison": "septembre, octobre",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "fleur, plante grasse",
-      "Végétation": "vivace",
-      "Feuillage ": " caduc",
-      "Hauteur": "jusqu'à 60 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "ordinaire",
+      "Sol": "normal, bien drainé",
       "Acidité ": "neutre",
-      "Humidité ": "normal à plutôt sec",
-      "Utilisation": "rocaille, muret, couvre-sol, jardinière, pot",
+      "Humidité ": "humide en été, sec en hiver",
+      "Utilisation": "serre",
       "Plantation": "printemps",
-      "Multiplication": "division de la touffe, bouturage",
-      "Taille": "enlevez les vieilles tiges fanées au printemps",
-      "Sensibilité ": "la pourriture"
+      "Multiplication": "semis, boutures",
+      "Sensibilité ": "cochenilles, pucerons"
     },
     {
-      "Nom": "Orpin du Kamtchatka",
-      "N. scientifique ": "Sedum kamtschaticum",
-      "Famille ": "Crassulacées",
-      "Origine ": "Asie du Nord",
-      "Floraison": "juin",
+      "Nom": "Plante crayon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/euphorbia-tirucalli-600x450.jpg",
+      "N. scientifique ": "Euphorbia tirucalli",
+      "Synonymes ": "Euphorbia rhipsaloides, Euphorbia scoparia",
+      "Famille ": "Euphorbiacées",
+      "Origine ": "Afrique australe",
+      "Floraison": "été",
       "Fleurs ": [
         "     ",
         "   jaune "
       ],
-      "Type": "fleur",
+      "Type": "plante grasse",
       "Végétation": "vivace",
-      "Feuillage ": "semi-caduc",
-      "Hauteur": "15 cm",
-      "Rusticité ": [
+      "Feuillage ": "feuilles très réduites",
+      "Hauteur": "3 m, 6 à 9 m dans la nature",
+      "Rusticité ": "   peu rustique, -2°C ",
+      "Exposition ": [
         "  ",
-        " ",
-        "  rustique "
+        "  lumineuse "
       ],
+      "Sol": "sol riche et drainant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "sec",
+      "Utilisation": "plante d’intérieur, véranda, terrasse en été",
+      "Plantation": "avril à juillet",
+      "Multiplication": "bouturage, semis"
+    },
+    {
+      "Nom": "Plante corail",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/jatropha-multifida-600x450.jpg",
+      "N. scientifique ": "Jatropha multifida",
+      "Synonyme ": "Jatropha multiphida",
+      "Famille ": "Euphorbiacées",
+      "Origine ": "Mexique",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   rouge vif "
+      ],
+      "Type": "plante succulente, léger caudex",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 3 m",
+      "Rusticité ": "   0°C minimum ",
+      "Exposition ": [
+        "  ",
+        "  lumineuse "
+      ],
+      "Sol": "riche et très drainant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "sec",
+      "Utilisation": "plante d’intérieur, véranda, terrasse en été",
+      "Plantation": "d’avril à juillet",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Plante caillou",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/lithops-600x450.jpg",
+      "N. scientifique ": "Lithops",
+      "Famille ": "Aizoacées",
+      "Origine ": "Afrique du Sud, Namibie",
+      "Floraison": "juillet à novembre",
+      "Fleurs ": "        blanc, jaune ",
+      "Type": "succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 2 à 4 cm",
+      "Rusticité ": "   minimum 10°C au sec ",
       "Exposition ": [
         "  ",
         "  soleil "
       ],
-      "Sol": "ordinaire, bien drainé",
+      "Sol": "drainé",
       "Acidité ": "neutre",
+      "Humidité ": "sec",
+      "Utilisation": "potée, appartement, serre",
+      "Plantation": "printemps",
+      "Multiplication": "semis, rejets",
+      "Sensibilité ": "poux des racines"
+    },
+    {
+      "Nom": "Orpin de Siebold",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sedum-sieboldii-600x450.jpg",
+      "N. scientifique ": "Sedum sieboldii",
+      "Famille ": "Crassulacées",
+      "Origine ": "Japon",
+      "Floraison": "fin d’été",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "plante grasse, succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "20cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, -19° C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  lumineuse à mi-ombre "
+      ],
+      "Sol": "sol minéral, drainant et pauvre",
+      "Acidité ": "neutre à basique",
       "Humidité ": "normal à sec",
-      "Utilisation": "couvre-sol, muret, rocaille, potée",
-      "Plantation": "printemps, automne",
-      "Multiplication": "division de la touffe au printemps",
-      "Taille": "pas de taille nécessaire",
-      "Sensibilité ": "la pourriture"
+      "Utilisation": "potée, jardin, mur, rocaille",
+      "Plantation": "avril à juillet",
+      "Multiplication": "bouturage, division"
     },
     {
       "Nom": "Orpin de Montéreale, Orpin de Mondovi, Sédum à feuilles en croix",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sedum-monregalense-600x450.jpg",
       "N. scientifique ": "Sedum monregalense",
       "Synonyme ": "Sedum cruciatum",
       "Famille ": "Crassulacées",
@@ -2601,6 +3023,7 @@
     },
     {
       "Nom": "Orpin d'Espagne",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sedum-hispanicum-600x450.jpg",
       "N. scientifique ": "Sedum hispanicum",
       "Famille ": "Crassulacées",
       "Origine ": "Europe du sud et de l'est",
@@ -2632,70 +3055,8 @@
       "Multiplication": "bouturage, division"
     },
     {
-      "Nom": "Orpin doux, Orpin de Bologne, Orpin à 6 angles",
-      "N. scientifique ": "Sedum sexangulare",
-      "Synonymes ": "Sedum boloniense, Sedum mite, Sedum tschernokolevii",
-      "Famille ": "Crassulacées",
-      "Origine ": "Europe",
-      "Floraison": "juin, juillet",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "plante grasse",
-      "Végétation": "vivace",
-      "Feuillage ": "feuilles épaissies, persistantes",
-      "Hauteur": "5 à 12 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, -15°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "normal, drainant",
-      "Acidité ": "indifférent",
-      "Humidité ": "sec à normal",
-      "Utilisation": "plante de rocaille",
-      "Plantation": "avril à septembre",
-      "Multiplication": "bouturage, division"
-    },
-    {
-      "Nom": "Orpin de Siebold",
-      "N. scientifique ": "Sedum sieboldii",
-      "Famille ": "Crassulacées",
-      "Origine ": "Japon",
-      "Floraison": "fin d’été",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "plante grasse, succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "20cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, -19° C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  lumineuse à mi-ombre "
-      ],
-      "Sol": "sol minéral, drainant et pauvre",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "potée, jardin, mur, rocaille",
-      "Plantation": "avril à juillet",
-      "Multiplication": "bouturage, division"
-    },
-    {
       "Nom": "Orpin à feuilles épaisses",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/sedum-dasyphyllum-600x450.jpg",
       "N. scientifique ": "Sedum dasyphyllum",
       "Synonyme ": "Sedum cruciatum",
       "Famille ": "Crassulacées",
@@ -2728,6 +3089,7 @@
     },
     {
       "Nom": "Noline",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/nolina-matapensis-600x450.jpg",
       "N. scientifique ": "Nolina matapensis",
       "Famille ": "Agavacées",
       "Origine ": "sud des Etats-Unis, Mexique",
@@ -2757,6 +3119,7 @@
     },
     {
       "Nom": "Langue de belle-mère, Sansevière",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sansevieria-trifasciata-600x450.jpg",
       "N. scientifique ": "Sansevieria trifasciata",
       "Famille ": "Asparagacées",
       "Origine ": "Afrique, Inde",
@@ -2780,6 +3143,7 @@
     },
     {
       "Nom": "Kalanchoé tomenteux",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/kalanchoe-tomentosa-600x450.jpg",
       "N. scientifique ": "Kalanchoe tomentosa",
       "Famille ": "Crassulacées",
       "Origine ": "Madagascar",
@@ -2807,6 +3171,7 @@
     },
     {
       "Nom": "Kalanchoé mère de famille, Kalanchoé de Daigremont",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/kalanchoe-daigremontania-600x450.jpg",
       "N. scientifique ": "Kalanchoe daigremontania",
       "Synonyme ": "Bryophyllum daigremontiana",
       "Famille ": "Crassulacées",
@@ -2834,6 +3199,7 @@
     },
     {
       "Nom": "Kalanchoé luciae",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/kalanchoe-luciae-600x450.jpg",
       "N. scientifique ": "Kalanchoe luciae",
       "Synonymes ": "Kalanchoe aleurodes, Kalanchoe albiflora",
       "Famille ": "Crassulacées",
@@ -2864,6 +3230,7 @@
     },
     {
       "Nom": "Kalanchoé humilis",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/kalanchoe-humilis-600x450.jpg",
       "N. scientifique ": "Kalanchoe humilis",
       "Famille ": "Crassulacées",
       "Origine ": "Afrique de l'Est",
@@ -2891,6 +3258,7 @@
     },
     {
       "Nom": "Kalanchoé de Blossfeld",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/kalanchoe-blossfeldiana-600x450.jpg",
       "N. scientifique ": "Kalanchoe blossfeldiana",
       "Famille ": "Crassulacées",
       "Origine ": "Madagascar",
@@ -2921,6 +3289,7 @@
     },
     {
       "Nom": "Kalanchoé à fleurs en thyrse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/kalanchoe-thyrsiflora-fleurs-600x450.jpg",
       "N. scientifique ": "Kalanchoe thyrsiflora",
       "Famille ": "Crassulacées",
       "Origine ": "Afrique du Sud",
@@ -2947,6 +3316,7 @@
     },
     {
       "Nom": "Joubarbe hérissée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/jovibarba-hirta-cv-purpurea-600x450.jpg",
       "N. scientifique ": "Jovibarba hirta",
       "Synonyme ": "Sempervivum hirta",
       "Famille ": "Crassulacées",
@@ -2980,6 +3350,7 @@
     },
     {
       "Nom": "Joubarbe du calcaire",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/sempervivum-calcareum-cv-mrs-Giuseppi-600x450.jpg",
       "N. scientifique ": "Sempervivum calcareum",
       "Synonyme ": "Sempervivum tectorum subsp calcareae",
       "Famille ": "Crassulacées",
@@ -3013,6 +3384,7 @@
     },
     {
       "Nom": "Joubarbe à toile d'araignée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sempervivum-arachnoideum-600x450.jpg",
       "N. scientifique ": "Sempervivum arachnoideum",
       "Famille ": "Crassulacées",
       "Origine ": "Europe",
@@ -3040,6 +3412,7 @@
     },
     {
       "Nom": "Joubarbe",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/sempervivum-600x450.jpg",
       "N. scientifique ": "Sempervivum",
       "Synonyme ": "Jovibarba",
       "Famille ": "Crassulacées",
@@ -3070,6 +3443,7 @@
     },
     {
       "Nom": "Jatropha fleur, Jatropha épicé, Pignon d'inde",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/jatropha-integerrima-600x450.jpg",
       "N. scientifique ": "Jatropha integerrima",
       "Synonyme ": "Jatropha hastata",
       "Famille ": "Euphorbiacées",
@@ -3098,6 +3472,7 @@
     },
     {
       "Nom": "Haworthie à bande",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/haworthia-attenuata-600x450.jpg",
       "N. scientifique ": "Haworthia attenuata",
       "Famille ": "Liliacées",
       "Origine ": "Afrique du Sud (Province du Cap)",
@@ -3126,6 +3501,7 @@
     },
     {
       "Nom": "Haworthia truncata",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/haworthia-truncata-600x450.jpg",
       "N. scientifique ": "Haworthia truncata",
       "Famille ": "Asphodélacées",
       "Origine ": "Province du Cap en Afrique du sud",
@@ -3156,6 +3532,7 @@
     },
     {
       "Nom": "Haworthia decipiens",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/haworthia-decipiens-600x450.jpg",
       "N. scientifique ": "Haworthia decipiens",
       "Famille ": "Liliacées",
       "Origine ": "Afrique du Sud",
@@ -3184,6 +3561,7 @@
     },
     {
       "Nom": "Glottiphylum nelii",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/glottiphylum-nelii-600x450.jpg",
       "N. scientifique ": "Glottiphylum nelii",
       "Famille ": "Aizoacées",
       "Origine ": "Afrique du sud",
@@ -3211,6 +3589,7 @@
     },
     {
       "Nom": "Gasteria",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/gasteria-600x450.jpg",
       "N. scientifique ": "Gasteria",
       "Famille ": "Aloacées, Aloéacées",
       "Origine ": "Afrique du Sud",
@@ -3238,6 +3617,7 @@
     },
     {
       "Nom": "Figue des Hottentots, Figue marine, Griffe de sorcière",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/carpobrotus-edulis-600x450.jpg",
       "N. scientifique ": "Carpobrotus edulis",
       "Famille ": "Aizoacées",
       "Origine ": "Afrique du sud",
@@ -3268,6 +3648,7 @@
     },
     {
       "Nom": "Ficoïde vivace jaune",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/delosperma-lineare-600x450.jpg",
       "N. scientifique ": "Delosperma lineare",
       "Famille ": "Aizoacées",
       "Origine ": "Afrique du sud",
@@ -3299,6 +3680,7 @@
     },
     {
       "Nom": "Ficoïde variable",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lampranthus-variabilis-600x450.jpg",
       "N. scientifique ": "Lampranthus variabilis",
       "Synonyme ": "Mesembryanthemum variabile",
       "Famille ": "Aizoacées",
@@ -3326,6 +3708,7 @@
     },
     {
       "Nom": "Ficoïde orange, Lampranthe orange",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lampranthus-aurantiacus-600x450.jpg",
       "N. scientifique ": "Lampranthus auriantacus",
       "Famille ": "Aizoacées",
       "Origine ": "Afrique du sud",
@@ -3353,6 +3736,7 @@
     },
     {
       "Nom": "Ficoïde nodiflore, Ficoïde à fleur nodale",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/mesembryanthemum-nodiflorum-600x450.jpg",
       "N. scientifique ": "Mesembryanthemum nodiflorum",
       "Famille ": "Aizoacées",
       "Origine ": "pourtour méditerranéen, Madère, Afrique, ...",
@@ -3382,6 +3766,7 @@
     },
     {
       "Nom": "Euphorbe tête de méduse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/euphorbia-gatbergensis-600x450.jpg",
       "N. scientifique ": "Euphorbia gatbergensis",
       "Famille ": "Euphorbiacées",
       "Origine ": "Afrique du Sud",
@@ -3409,6 +3794,7 @@
     },
     {
       "Nom": "Euphorbe pentagona",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/euphorbia-pentagona-600x450.jpg",
       "N. scientifique ": "Euphorbia pentagona",
       "Synonyme ": "Euphorbia heptagona",
       "Famille ": "Euphorbiacées",
@@ -3436,34 +3822,8 @@
       "Sensibilité ": "pourriture du collet, pourriture noire sur les tiges"
     },
     {
-      "Nom": "Euphorbe lactée, Os de dragon, Euphorbe candélabre",
-      "N. scientifique ": "Euphorbia lactea",
-      "Famille ": "Euphorbiacées",
-      "Origine ": "Asie",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "   ciathia jaune "
-      ],
-      "Type": "plante succulente",
-      "Végétation": "arbustive",
-      "Feuillage ": "feuillage caduc, tige chlorophyllienne",
-      "Hauteur": "1 à 5 m",
-      "Rusticité ": "   non rustique, jusqu'à 12 °C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "légèrement acide à légèrement basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "pot, plante d'appartement, extérieur en été",
-      "Plantation": "printemps, été",
-      "Multiplication": "semis, greffe, bouture"
-    },
-    {
       "Nom": "Euphorbe des Canaries",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/euphorbia-canariensis-600x450.jpg",
       "N. scientifique ": "Euphorbia canariensis",
       "Famille ": "Euphorbiacées",
       "Origine ": "Iles Canaries",
@@ -3491,6 +3851,7 @@
     },
     {
       "Nom": "Euphorbe coussin",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/euphorbia-clavarioides-feuille-600x450.jpg",
       "N. scientifique ": "Euphorbia clavarioides",
       "Famille ": "Euphorbiacées",
       "Origine ": "Afrique du Sud, Lesotho",
@@ -3515,6 +3876,7 @@
     },
     {
       "Nom": "Euphorbe arborescente",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/euphorbia-erithreaea-600x450.jpg",
       "N. scientifique ": "Euphorbia erithreaea",
       "Synonyme ": "Euphorbia erithrea",
       "Famille ": "Euphorbiacées",
@@ -3546,6 +3908,7 @@
     },
     {
       "Nom": "Euphorbe à résine, Euphorbe resinifère",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/euphorbia-resinifera-600x450.jpg",
       "N. scientifique ": "Euphorbia resinifera",
       "Famille ": "Euphorbiacées",
       "Origine ": "Maroc",
@@ -3574,6 +3937,7 @@
     },
     {
       "Nom": "Epine du christ, Couronne d'épines, Paliure épineux, Argalon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/euphorbia-milii-fleur-600x450.jpg",
       "N. scientifique ": "Euphorbia milii",
       "Famille ": "Euphorbiacées",
       "Origine ": "Madagascar",
@@ -3605,6 +3969,7 @@
     },
     {
       "Nom": "Echeveria pulvinata",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/echeveria-pulvinata-600x450.jpg",
       "N. scientifique ": "Echeveria pulvinata",
       "Synonyme ": "Cotyledon pulvinata",
       "Famille ": "Crassulacées",
@@ -3634,38 +3999,70 @@
       "Multiplication": "bouture, semis"
     },
     {
-      "Nom": "Délosperma à feuilles cylindriques",
-      "N. scientifique ": "Delosperma spalmanhoïde",
-      "Famille ": "Aizoacées",
-      "Origine ": "Afrique du Sud",
-      "Floraison": "mars, avril",
+      "Nom": "Echeveria frisé",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/echeveria-shaviana-cv-pink-frills-600x450.jpg",
+      "N. scientifique ": "Echeveria shaviana",
+      "Famille ": "Crassulacées",
+      "Origine ": "Mexique",
+      "Floraison": "juin",
       "Fleurs ": [
         "     ",
-        "   violet "
+        "   orange à rosé "
       ],
-      "Type": "plante grasse, succulente",
+      "Type": "plante succulente",
       "Végétation": "vivace",
-      "Feuillage ": "feuilles persistantes",
-      "Hauteur": "4 cm",
+      "Feuillage ": "persistant",
+      "Hauteur": "40 cm",
       "Rusticité ": [
         "  ",
-        " ",
-        "  rustique, jusqu'à -18 °C "
+        "  peu rustique, jusqu'à -3 °C "
       ],
       "Exposition ": [
         "  ",
-        "  ensoleillée "
+        " ",
+        "  ensoleillée à ombre claire "
       ],
-      "Sol": "drainant, sablonneux, minéral",
-      "Acidité ": "tolérant, aime le calcaire",
-      "Humidité ": "frais en hiver, sec en été",
-      "Utilisation": "rocaille, auge, jardin de gravier",
-      "Plantation": "printemps, fin d'été",
-      "Multiplication": "semis, bouturage",
-      "Sensibilité ": "pourriture des tissus"
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "serre, véranda, plante d'intérieur, extérieur en zone méditerranéenne",
+      "Plantation": "printemps, été",
+      "Multiplication": "bouture, semis"
+    },
+    {
+      "Nom": "Echeveria",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/echeveria-600x450.jpg",
+      "N. scientifique ": "Echeveria",
+      "Famille ": "Crassulacées",
+      "Origine ": "Mexique",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   rouges, orangées, parfois jaunes à l’intérieur "
+      ],
+      "Type": "succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 10 à 30 cm selon les espèces",
+      "Rusticité ": "   minimum 5 ° au sec ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "sableux, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "sec",
+      "Utilisation": "serre, rocaille, appartement",
+      "Plantation": "printemps",
+      "Multiplication": "semis, boutures de feuilles, de tiges",
+      "Sensibilité ": "cochenilles, escargots, limaces"
     },
     {
       "Nom": "Drosanthème",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/drosanthemum-micans-600x450.jpg",
       "N. scientifique ": "Drosanthemum micans",
       "Famille ": "Aizoacées",
       "Origine ": "Afrique du sud",
@@ -3693,6 +4090,7 @@
     },
     {
       "Nom": "Délosperma rose, Pourpier de Cooper",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/delosperma-cooperi-600x450.jpg",
       "N. scientifique ": "Delosperma cooperi",
       "Famille ": "Aizoacées",
       "Origine ": "Afrique du sud",
@@ -3725,6 +4123,7 @@
     },
     {
       "Nom": "Délosperma hirsute",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/delosperma-echinatum-600x450.jpg",
       "N. scientifique ": "Delosperma echinatum",
       "Synonymes ": "Trichodiadema echinatum, Mesembryanthemum echinatum",
       "Famille ": "Aizoacées",
@@ -3757,94 +4156,8 @@
       "Sensibilité ": "pourriture due à l'humidité"
     },
     {
-      "Nom": "Echeveria frisé",
-      "N. scientifique ": "Echeveria shaviana",
-      "Famille ": "Crassulacées",
-      "Origine ": "Mexique",
-      "Floraison": "juin",
-      "Fleurs ": [
-        "     ",
-        "   orange à rosé "
-      ],
-      "Type": "plante succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "40 cm",
-      "Rusticité ": [
-        "  ",
-        "  peu rustique, jusqu'à -3 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à ombre claire "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "légèrement acide à basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "serre, véranda, plante d'intérieur, extérieur en zone méditerranéenne",
-      "Plantation": "printemps, été",
-      "Multiplication": "bouture, semis"
-    },
-    {
-      "Nom": "Dasylire de Berlandier",
-      "N. scientifique ": "Dasylirion berlandieri",
-      "Famille ": "Agavacées",
-      "Origine ": "Amérique centrale",
-      "Floraison": "août, septembre",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "vivace arbustive exotique",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1m, 4m lors de la floraison",
-      "Rusticité ": "   rustique jusqu'à -12°C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  plein soleil à éventuellement mi-ombre "
-      ],
-      "Sol": "minéral et très drainant",
-      "Acidité ": "neutre à alcalin",
-      "Humidité ": "normal à très sec",
-      "Utilisation": "potée, rocaille, serre froide, véranda",
-      "Plantation": "printemps",
-      "Multiplication": "semis au chaud au printemps"
-    },
-    {
-      "Nom": "Echeveria",
-      "N. scientifique ": "Echeveria",
-      "Famille ": "Crassulacées",
-      "Origine ": "Mexique",
-      "Floraison": "printemps",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "     ",
-        "     ",
-        "   rouges, orangées, parfois jaunes à l’intérieur "
-      ],
-      "Type": "succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 10 à 30 cm selon les espèces",
-      "Rusticité ": "   minimum 5 ° au sec ",
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "sableux, bien drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "sec",
-      "Utilisation": "serre, rocaille, appartement",
-      "Plantation": "printemps",
-      "Multiplication": "semis, boutures de feuilles, de tiges",
-      "Sensibilité ": "cochenilles, escargots, limaces"
-    },
-    {
       "Nom": "Délosperma congestionné, Pourpier congestionné",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/delosperma-congestum-600x450.jpg",
       "N. scientifique ": "Delosperma congestum",
       "Famille ": "Aizoacées",
       "Origine ": "Afrique du sud",
@@ -3875,7 +4188,68 @@
       "Sensibilité ": "pourriture"
     },
     {
+      "Nom": "Délosperma à feuilles cylindriques",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/delosperma-sphalmanthoides-600x450.jpg",
+      "N. scientifique ": "Delosperma spalmanhoïde",
+      "Famille ": "Aizoacées",
+      "Origine ": "Afrique du Sud",
+      "Floraison": "mars, avril",
+      "Fleurs ": [
+        "     ",
+        "   violet "
+      ],
+      "Type": "plante grasse, succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "feuilles persistantes",
+      "Hauteur": "4 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -18 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "drainant, sablonneux, minéral",
+      "Acidité ": "tolérant, aime le calcaire",
+      "Humidité ": "frais en hiver, sec en été",
+      "Utilisation": "rocaille, auge, jardin de gravier",
+      "Plantation": "printemps, fin d'été",
+      "Multiplication": "semis, bouturage",
+      "Sensibilité ": "pourriture des tissus"
+    },
+    {
+      "Nom": "Dasylire de Berlandier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/dasylirion-berlandieri-600x450.jpg",
+      "N. scientifique ": "Dasylirion berlandieri",
+      "Famille ": "Agavacées",
+      "Origine ": "Amérique centrale",
+      "Floraison": "août, septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "vivace arbustive exotique",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1m, 4m lors de la floraison",
+      "Rusticité ": "   rustique jusqu'à -12°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  plein soleil à éventuellement mi-ombre "
+      ],
+      "Sol": "minéral et très drainant",
+      "Acidité ": "neutre à alcalin",
+      "Humidité ": "normal à très sec",
+      "Utilisation": "potée, rocaille, serre froide, véranda",
+      "Plantation": "printemps",
+      "Multiplication": "semis au chaud au printemps"
+    },
+    {
       "Nom": "Dasylire acrotriche",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/dasylirion-acrotrichum-600x450.jpg",
       "N. scientifique ": "Dasylirion acrotrichum",
       "Famille ": "Asparagacées",
       "Origine ": "Amérique centrale",
@@ -3905,7 +4279,97 @@
       "Multiplication": "semis"
     },
     {
+      "Nom": "Crassule",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/crassula-perforata-ssp-perforata-600x450.jpg",
+      "N. scientifique ": "Crassula perforata",
+      "Synonymes ": "Crassula perfossa, Crassula perfilata, Crassula anthurus, Crassula conjucta, Crassula patersoniae",
+      "Famille ": "Crassulacées",
+      "Origine ": "Afrique du sud (Province du Cap, Kwazulu Natal) ",
+      "Floraison": "hiver, début du printemps",
+      "Fleurs ": [
+        "     ",
+        "   jaunâtre "
+      ],
+      "Type": "succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "atteint 1m dans son milieu d'origine. En Europe, sa taille est bien moindre !",
+      "Rusticité ": "   -2°C au sec. Autant que faire se peut, éviter les gelées. ",
+      "Exposition ": [
+        "  ",
+        "  lumière vive "
+      ],
+      "Sol": "minéral, bien drainé",
+      "Acidité ": "neutre à légèrement acide",
+      "Humidité ": "garder au sec sauf en été",
+      "Utilisation": "serre, rocaille sèche",
+      "Plantation": "printemps, avant la reprise végétative (fin Mars/début Avril)",
+      "Multiplication": "semis, boutures de tiges, division des touffes",
+      "Taille": "non obligatoire, mais pincer permet de ramifier la plante",
+      "Sensibilité ": "Cochenilles sur les tiges, poux des racines,attaques cryptogamique. Pourriture due à l'humidité excessive."
+    },
+    {
+      "Nom": "Crassule",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/crassula-lycopodioides-feuille-600x450.jpg",
+      "N. scientifique ": "Crassula lycopodioides",
+      "Synonymes ": "Crassula muscosa ssp. muscosa, Crassula muscosa fa variegata, Crassula imbricata, Tetraphyle lycopodioides, Sedum lycopodioides, Tetraphyle littoralis, Crassula littoralis, Combesia muscosa var. littoralis, Crassula anguinea, Combesia muscosa var. anguinea, Crassula pseudolycopodioides, Crassula lycopodioides var. pseudolycopodioides, Combesia muscosa var. pseudolycopodioides, Lycopodium hieronymii, Crassula lycopodioides fa acuminata, Combesia muscosa var. acuminata, Crassula lycopodioides fa fragilis, Combesia muscosa var. fragilis",
+      "Famille ": "Crassulacées",
+      "Origine ": " Afrique du sud",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   jaune (toutes petites fleurs, naissant à l'aisselle des feuilles) "
+      ],
+      "Type": "succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 cm, étalement 30 cm",
+      "Rusticité ": "   -2°C au sec, autant que faire se peut, éviter les gelées ",
+      "Exposition ": [
+        "  ",
+        "  lumière vive "
+      ],
+      "Sol": "minéral, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "garder au sec sauf en été",
+      "Utilisation": "serre, rocaille",
+      "Plantation": "printemps, avant la reprise végétative (fin Mars/début Avril)",
+      "Multiplication": "semis, boutures de tiges, division des touffes",
+      "Taille": "non",
+      "Sensibilité ": "Cochenilles sur les tiges, poux des racines,attaques cryptogamique. Pourriture due à l'humidité excessive"
+    },
+    {
+      "Nom": "Crassule",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/crassula-dejecta-600x450.jpg",
+      "N. scientifique ": "Crassula dejecta",
+      "Famille ": "Crassulacées",
+      "Origine ": "Afrique du sud",
+      "Floraison": "fin de l'hiver",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante succulente",
+      "Végétation": "vivace",
+      "Feuillage ": "feuilles épaissies, persistantes",
+      "Hauteur": "15 à 30 cm",
+      "Rusticité ": [
+        "  ",
+        "  -4°C minimum "
+      ],
+      "Exposition ": [
+        "  ",
+        "  lumineuse, sans soleil direct "
+      ],
+      "Sol": "sol minéral et drainant",
+      "Acidité ": "neutre à basique, ne craint pas le calcaire",
+      "Humidité ": "sec, arrosage en fonction du cycle de la plante",
+      "Utilisation": "plante d'intérieur, véranda",
+      "Plantation": "d'avril à juillet"
+    },
+    {
       "Nom": "Crassula de Schmidt",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/crassula-schmidtii-600x450.jpg",
       "N. scientifique ": "Crassula exilis ssp. schmidtii",
       "Synonyme ": "Crassula exilis subsp Schmidtii",
       "Famille ": "Crassulacées",
@@ -3938,146 +4402,8 @@
       "Multiplication": "bouturage, semis"
     },
     {
-      "Nom": "Crassule",
-      "N. scientifique ": "Crassula perforata",
-      "Synonymes ": "Crassula perfossa, Crassula perfilata, Crassula anthurus, Crassula conjucta, Crassula patersoniae",
-      "Famille ": "Crassulacées",
-      "Origine ": "Afrique du sud (Province du Cap, Kwazulu Natal) ",
-      "Floraison": "hiver, début du printemps",
-      "Fleurs ": [
-        "     ",
-        "   jaunâtre "
-      ],
-      "Type": "succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "atteint 1m dans son milieu d'origine. En Europe, sa taille est bien moindre !",
-      "Rusticité ": "   -2°C au sec. Autant que faire se peut, éviter les gelées. ",
-      "Exposition ": [
-        "  ",
-        "  lumière vive "
-      ],
-      "Sol": "minéral, bien drainé",
-      "Acidité ": "neutre à légèrement acide",
-      "Humidité ": "garder au sec sauf en été",
-      "Utilisation": "serre, rocaille sèche",
-      "Plantation": "printemps, avant la reprise végétative (fin Mars/début Avril)",
-      "Multiplication": "semis, boutures de tiges, division des touffes",
-      "Taille": "non obligatoire, mais pincer permet de ramifier la plante",
-      "Sensibilité ": "Cochenilles sur les tiges, poux des racines,attaques cryptogamique. Pourriture due à l'humidité excessive."
-    },
-    {
-      "Nom": "Crassule",
-      "N. scientifique ": "Crassula lycopodioides",
-      "Synonymes ": "Crassula muscosa ssp. muscosa, Crassula muscosa fa variegata, Crassula imbricata, Tetraphyle lycopodioides, Sedum lycopodioides, Tetraphyle littoralis, Crassula littoralis, Combesia muscosa var. littoralis, Crassula anguinea, Combesia muscosa var. anguinea, Crassula pseudolycopodioides, Crassula lycopodioides var. pseudolycopodioides, Combesia muscosa var. pseudolycopodioides, Lycopodium hieronymii, Crassula lycopodioides fa acuminata, Combesia muscosa var. acuminata, Crassula lycopodioides fa fragilis, Combesia muscosa var. fragilis",
-      "Famille ": "Crassulacées",
-      "Origine ": " Afrique du sud",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "   jaune (toutes petites fleurs, naissant à l'aisselle des feuilles) "
-      ],
-      "Type": "succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "20 cm, étalement 30 cm",
-      "Rusticité ": "   -2°C au sec, autant que faire se peut, éviter les gelées ",
-      "Exposition ": [
-        "  ",
-        "  lumière vive "
-      ],
-      "Sol": "minéral, bien drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "garder au sec sauf en été",
-      "Utilisation": "serre, rocaille",
-      "Plantation": "printemps, avant la reprise végétative (fin Mars/début Avril)",
-      "Multiplication": "semis, boutures de tiges, division des touffes",
-      "Taille": "non",
-      "Sensibilité ": "Cochenilles sur les tiges, poux des racines,attaques cryptogamique. Pourriture due à l'humidité excessive"
-    },
-    {
-      "Nom": "Crassule",
-      "N. scientifique ": "Crassula dejecta",
-      "Famille ": "Crassulacées",
-      "Origine ": "Afrique du sud",
-      "Floraison": "fin de l'hiver",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "plante succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "feuilles épaissies, persistantes",
-      "Hauteur": "15 à 30 cm",
-      "Rusticité ": [
-        "  ",
-        "  -4°C minimum "
-      ],
-      "Exposition ": [
-        "  ",
-        "  lumineuse, sans soleil direct "
-      ],
-      "Sol": "sol minéral et drainant",
-      "Acidité ": "neutre à basique, ne craint pas le calcaire",
-      "Humidité ": "sec, arrosage en fonction du cycle de la plante",
-      "Utilisation": "plante d'intérieur, véranda",
-      "Plantation": "d'avril à juillet"
-    },
-    {
-      "Nom": "Crassula 'Buddha's Temple'",
-      "N. scientifique ": "Crassula ‘Temple’s boubha’",
-      "Famille ": "Crassulacées",
-      "Origine ": "parent originaire du Cap en Afrique du sud",
-      "Floraison": "hiver",
-      "Fleurs ": [
-        "     ",
-        "   rose pâle, ou blanches "
-      ],
-      "Type": "plante grasse",
-      "Végétation": "vivace",
-      "Feuillage ": "feuilles épaissies, persistantes",
-      "Hauteur": "15 à 30 cm",
-      "Rusticité ": "   non rustique, 8°C minimum ",
-      "Exposition ": [
-        "  ",
-        "  lumineuse, sans soleil direct "
-      ],
-      "Sol": "sol minéral et drainant",
-      "Acidité ": "neutre à basique, ne craint pas le calcaire",
-      "Humidité ": "sec, arrosage en fonction du cycle de la plante",
-      "Utilisation": "plante d’intérieur, véranda",
-      "Plantation": "de juin à juillet",
-      "Multiplication": "bouturage",
-      "Sensibilité ": "pourriture des racines, cochenille"
-    },
-    {
-      "Nom": "Céropegia en forme de stapélia",
-      "N. scientifique ": "Ceropegia stapeliiformis ssp serpentina",
-      "Famille ": "Asclépiadacées",
-      "Origine ": "Afrique du sud",
-      "Floraison": "juillet à septembre",
-      "Fleurs ": [
-        "     ",
-        "   blanches et brunes "
-      ],
-      "Type": "plante grasse, xérophyte",
-      "Végétation": "vivace",
-      "Feuillage ": "feuilles très réduites",
-      "Hauteur": "tiges jusqu’à 1 m 20",
-      "Rusticité ": "   non rustique, 5°C ",
-      "Exposition ": [
-        "  ",
-        "  lumineuse "
-      ],
-      "Sol": "drainant",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "normal en été, sec en hiver",
-      "Utilisation": "plante d’intérieur, véranda",
-      "Plantation": "pendant toute la belle saison",
-      "Multiplication": "bouturage, semis"
-    },
-    {
       "Nom": "Crassula à faucilles, Plante à hélice",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/crassula-falcata-600x450.jpg",
       "N. scientifique ": "Crassula perfoliata var. minor",
       "Synonymes ": "Larochea falcata var. minor, Rochea falcata var. minor, Crassula falcata, Larochea falcata, Rochea falcata, Crassula perfoliata var. falcata, Crassula retroflexa, Crassula falx",
       "Famille ": "Crassulacées",
@@ -4106,7 +4432,63 @@
       "Sensibilité ": "cochenilles, poux des racines, attaques cryptogamique. Pourriture due à l'humidité excessive"
     },
     {
+      "Nom": "Crassula 'Buddha's Temple'",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/crassula-cv-buddhas-temple-600x450.jpg",
+      "N. scientifique ": "Crassula ‘Temple’s boubha’",
+      "Famille ": "Crassulacées",
+      "Origine ": "parent originaire du Cap en Afrique du sud",
+      "Floraison": "hiver",
+      "Fleurs ": [
+        "     ",
+        "   rose pâle, ou blanches "
+      ],
+      "Type": "plante grasse",
+      "Végétation": "vivace",
+      "Feuillage ": "feuilles épaissies, persistantes",
+      "Hauteur": "15 à 30 cm",
+      "Rusticité ": "   non rustique, 8°C minimum ",
+      "Exposition ": [
+        "  ",
+        "  lumineuse, sans soleil direct "
+      ],
+      "Sol": "sol minéral et drainant",
+      "Acidité ": "neutre à basique, ne craint pas le calcaire",
+      "Humidité ": "sec, arrosage en fonction du cycle de la plante",
+      "Utilisation": "plante d’intérieur, véranda",
+      "Plantation": "de juin à juillet",
+      "Multiplication": "bouturage",
+      "Sensibilité ": "pourriture des racines, cochenille"
+    },
+    {
+      "Nom": "Céropegia en forme de stapélia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ceropegia-stapeliiformis-ssp-serpentina-600x450.jpg",
+      "N. scientifique ": "Ceropegia stapeliiformis ssp serpentina",
+      "Famille ": "Asclépiadacées",
+      "Origine ": "Afrique du sud",
+      "Floraison": "juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   blanches et brunes "
+      ],
+      "Type": "plante grasse, xérophyte",
+      "Végétation": "vivace",
+      "Feuillage ": "feuilles très réduites",
+      "Hauteur": "tiges jusqu’à 1 m 20",
+      "Rusticité ": "   non rustique, 5°C ",
+      "Exposition ": [
+        "  ",
+        "  lumineuse "
+      ],
+      "Sol": "drainant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal en été, sec en hiver",
+      "Utilisation": "plante d’intérieur, véranda",
+      "Plantation": "pendant toute la belle saison",
+      "Multiplication": "bouturage, semis"
+    },
+    {
       "Nom": "Cactus étoile de mer",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/stapelia-variegata-600x450.jpg",
       "N. scientifique ": "Orbea variegata",
       "Synonyme ": "Stapelia variegata",
       "Famille ": "Asclépiadacées",
@@ -4135,6 +4517,7 @@
     },
     {
       "Nom": "Bulbine jaune",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/bulbine-frutescens-600x450.jpg",
       "N. scientifique ": "Bulbine frutescens",
       "Synonymes ": "Bulbine caulescens, Bulbinella frutescens",
       "Famille ": "Asphodélacées",
@@ -4163,6 +4546,7 @@
     },
     {
       "Nom": "Beschornéria superbe, Lis du Mexique, Amole, Faux-yucca, Faux agave",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/beschorneria-yuccoides-600x450.jpg",
       "N. scientifique ": "Beschorneria yuccoides",
       "Synonyme ": "Beschorneria superba",
       "Famille ": "Agavacées",
@@ -4193,6 +4577,7 @@
     },
     {
       "Nom": "Beaucarnéa, Pied d'éléphant, Arbre bouteille, Noline recourbée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/beaucarnea-recurvata-600x450.jpg",
       "N. scientifique ": "Beaucarnea recurvata",
       "Synonymes ": "Nolina recurvata, Nolina tuberculata",
       "Famille ": "Agavacées",
@@ -4221,6 +4606,7 @@
     },
     {
       "Nom": "Arbre de Josué",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/yucca-brevifolia-600x450.jpg",
       "N. scientifique ": "Yucca brevifolia",
       "Famille ": "Agavacées",
       "Origine ": "Déserts de Californie, Arizona, Utah",
@@ -4248,6 +4634,7 @@
     },
     {
       "Nom": "Arbre à Jade",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/crassula-ovata-600x450.jpg",
       "N. scientifique ": "Crassula ovata",
       "Synonymes ": "Cotyledon ovata, Crassula argentea, Crassula portulacea, Crassula obliqua, Crassula articulata, Crassula nitida, Crassula luscens",
       "Famille ": "Crassulacées",
@@ -4276,6 +4663,7 @@
     },
     {
       "Nom": "Apténie cordée, Ficoïde à feuilles en cœur",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aptenia-cordifolia-600x450.jpg",
       "N. scientifique ": "Aptenia cordifolia",
       "Synonymes ": " Litocarpus cordifolia, Mesembryanthemum cordifolia",
       "Famille ": "Aizoacées",
@@ -4311,6 +4699,7 @@
     },
     {
       "Nom": "Aloès zébré",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aloe-saponaria-feuille-600x450.jpg",
       "N. scientifique ": "Aloe saponaria",
       "Famille ": "Aloacées, Aloéacées",
       "Origine ": "Afrique du Sud",
@@ -4335,6 +4724,7 @@
     },
     {
       "Nom": "Aloès spirale du Lesotho",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aloe-polyphylla-cp-veronique-macrelle-600x450.jpg",
       "N. scientifique ": "Aloe polyphylla",
       "Famille ": "Asphodélacées",
       "Origine ": "Afrique du sud",
@@ -4364,209 +4754,8 @@
       "Multiplication": "semis"
     },
     {
-      "Nom": "Aloès panaché, Aloès plume de perdrix",
-      "N. scientifique ": "Aloe variegata",
-      "Famille ": "Asphodélacées",
-      "Origine ": "Afrique du Sud, Namibie",
-      "Floraison": "fin d'hiver, printemps",
-      "Fleurs ": [
-        "     ",
-        "   orange à rose "
-      ],
-      "Type": "plante succulente",
-      "Végétation": "arbustive",
-      "Feuillage ": "persistant",
-      "Hauteur": "20 à 30 cm, 50 cm en fleur",
-      "Rusticité ": "   peu rustique, jusqu'à -3 °C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "drainant, sablonneux",
-      "Acidité ": "légèrement acide à légèrement basique",
-      "Humidité ": "sec à normal",
-      "Utilisation": "serre, véranda, intérieur, extérieur pendant la belle saison",
-      "Plantation": "avril à septembre",
-      "Multiplication": "semis, rejets"
-    },
-    {
-      "Nom": "Aloès en arbre, Arbre carquois",
-      "N. scientifique ": "Aloidendron dichotomum",
-      "Synonyme ": "Aloe dichotoma",
-      "Famille ": "Asphodélacées",
-      "Origine ": "Afrique du Sud",
-      "Floraison": "hiver",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "plante succulente",
-      "Végétation": "arborée",
-      "Feuillage ": "persistante",
-      "Hauteur": "jusqu'à 7 m",
-      "Rusticité ": [
-        "  ",
-        "  peu rustique, jusqu'à -5 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  plein soleil "
-      ],
-      "Sol": "drainant, sablonneux",
-      "Acidité ": "légèrement acide à neutre",
-      "Humidité ": "sec à normal",
-      "Utilisation": "serre, véranda, maison",
-      "Plantation": "avril à juin",
-      "Multiplication": "semis"
-    },
-    {
-      "Nom": "Aloès en arbre géant",
-      "N. scientifique ": "Aloe pilansii",
-      "Synonyme ": "Aloidendron pilansii",
-      "Famille ": "Asphodélacées",
-      "Origine ": "Afrique du sud",
-      "Floraison": "printemps",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "plante succulente",
-      "Végétation": "arbustive",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 10 m",
-      "Rusticité ": [
-        "  ",
-        "  peu rustique, -3°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  plein soleil "
-      ],
-      "Sol": "drainant, sablonneux",
-      "Acidité ": "légèrement acide à neutre",
-      "Humidité ": "sec à normal",
-      "Utilisation": "serre, véranda",
-      "Plantation": "avril à juin",
-      "Multiplication": "semis"
-    },
-    {
-      "Nom": "Aloès des Barbades",
-      "N. scientifique ": "Aloe vera",
-      "Synonyme ": "Aloe barbadensis",
-      "Famille ": "Aloacées, Aloéacées",
-      "Origine ": "Afrique",
-      "Floraison": "jaune",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "60 cm",
-      "Toxicité": "plante médicinale utilisée très communément",
-      "Rusticité ": "   0°C, non rustique ",
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "riche mais drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "pas d’humidité stagnante",
-      "Utilisation": "rocaille, jardin méditerranéens, serres froides",
-      "Plantation": "printemps",
-      "Multiplication": "semis, rejets",
-      "Taille": "pas de taille",
-      "Sensibilité ": "cochenilles à boucliers"
-    },
-    {
-      "Nom": "Aloès de montagne",
-      "N. scientifique ": "Aloe marlothii",
-      "Synonyme ": "Aloe spectabilis",
-      "Famille ": "Asphodélacées",
-      "Origine ": "Afrique",
-      "Floraison": "fin d’hiver",
-      "Fleurs ": [
-        "     ",
-        "   orange à rouge "
-      ],
-      "Type": "plante grasse",
-      "Végétation": "arborescente",
-      "Feuillage ": "persistante",
-      "Hauteur": "2 à 4 m",
-      "Rusticité ": "   peu rustique, -3 °C ",
-      "Exposition ": [
-        "  ",
-        "  plein soleil "
-      ],
-      "Sol": "drainant",
-      "Acidité ": "légèrement acide à basique",
-      "Humidité ": "sec à normal",
-      "Utilisation": "plante de rocaille, serre, véranda, intérieur",
-      "Plantation": "d’avril à août",
-      "Multiplication": "semis"
-    },
-    {
-      "Nom": "Aloès de la Péninsule du Cap",
-      "N. scientifique ": "Aloe commixta",
-      "Famille ": "Asphodélacées",
-      "Origine ": "Afrique du sud",
-      "Floraison": "fin d’hiver",
-      "Fleurs ": [
-        "     ",
-        "   jaune, orange "
-      ],
-      "Type": "plante succulente",
-      "Végétation": "buissonnante",
-      "Feuillage ": "persistant",
-      "Hauteur": "60 cm",
-      "Rusticité ": "   peu rustique, -3°C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  plein soleil à mi-ombre "
-      ],
-      "Sol": "drainant, sablonneux",
-      "Acidité ": "légèrement acide à neutre",
-      "Humidité ": "sec à normal",
-      "Utilisation": "plante de rocaille, serre, véranda, intérieur",
-      "Plantation": "d’avril à août",
-      "Multiplication": "semis, bouture de tige"
-    },
-    {
-      "Nom": "Aloès arborescent, Aloe candelabre, Corne de bélier",
-      "N. scientifique ": "Aloe arborescens",
-      "Famille ": "Aloacées, Aloéacées",
-      "Origine ": "Afrique",
-      "Floraison": "hiver",
-      "Fleurs ": [
-        "     ",
-        "   rouge "
-      ],
-      "Type": "succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 4 mètres",
-      "Toxicité": "Non, plante médicinale utilisée très communément pour le traitement des brûlures",
-      "Rusticité ": [
-        "  ",
-        "  0°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  plein soleil "
-      ],
-      "Sol": "riche mais drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "pas d'humidité stagnante",
-      "Utilisation": "rocaille, jardin méditerranéens, serres froides",
-      "Plantation": "printemps",
-      "Multiplication": "semis, rejets, bouture de tige",
-      "Sensibilité ": "cochenilles à boucliers, rouille"
-    },
-    {
       "Nom": "Aloès à feuilles rougissantes",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aloe-erythrophylla-600x450.jpg",
       "N. scientifique ": "Aloe erythrophylla",
       "Famille ": "Asphodélacées",
       "Origine ": "Madagascar",
@@ -4594,6 +4783,7 @@
     },
     {
       "Nom": "Aloès",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aloe-x-spinosissima-600x450.jpg",
       "N. scientifique ": "Aloe x spinosissima",
       "Synonymes ": "Aloe humilis x Aloe arborescens, \"Spider Aloe\"",
       "Famille ": "Asphodélacées",
@@ -4621,6 +4811,7 @@
     },
     {
       "Nom": "Agave vernae",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/agave-vernae-600x450.jpg",
       "N. scientifique ": "Agave vernae",
       "Synonymes ": "Agave vera-cruci, Agave mexicana, Agave lepida, Agave neglecta, Agave lurida…",
       "Famille ": "Agavacées",
@@ -4652,6 +4843,7 @@
     },
     {
       "Nom": "Agave stricta",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/agave-stricta-600x450.jpg?1",
       "N. scientifique ": "Agave stricta",
       "Synonyme ": " Agave hystrix",
       "Famille ": "Agavacées",
@@ -4684,6 +4876,7 @@
     },
     {
       "Nom": "Agave parassana",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/agave-parrasana-600x450.jpg",
       "N. scientifique ": "Agave parassana",
       "Famille ": "Agavacées",
       "Origine ": "centre nord du Mexique",
@@ -4714,6 +4907,7 @@
     },
     {
       "Nom": "Agave nain, Agave miniature",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/agave-pumila-600x450.jpg",
       "N. scientifique ": "Agave pumila",
       "Synonyme ": "Agave pumila var nana",
       "Famille ": "Agavacées",
@@ -4741,6 +4935,7 @@
     },
     {
       "Nom": "Agave léopard, tubéreuse du Mexique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/manfreda-maculosa-600x450.jpg",
       "N. scientifique ": "Manfreda maculosa",
       "Synonymes ": "Agave maculosa, Polianthes maculosa",
       "Famille ": "Agavacées",
@@ -4773,6 +4968,7 @@
     },
     {
       "Nom": "Agave ferox",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/agave-ferox-600x450.jpg",
       "N. scientifique ": "Agave salmiana var. ferox",
       "Famille ": "Agavacées",
       "Origine ": "Mexique",
@@ -4805,6 +5001,7 @@
     },
     {
       "Nom": "Agave de Weber",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/agave-weberi-600x450.jpg",
       "N. scientifique ": "Agave weberi",
       "Famille ": "Agavacées",
       "Origine ": "Amérique du nord",
@@ -4835,6 +5032,7 @@
     },
     {
       "Nom": "Agave de Léopold",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/agave-x-leopoldii-600x450.jpg",
       "N. scientifique ": "Agave x leopoldii",
       "Synonyme ": "Agave filifera ssp. filifera x Agave filifera ssp. schidigera",
       "Famille ": "Agavacées",
@@ -4863,6 +5061,7 @@
     },
     {
       "Nom": "Agave de la Reine Victoria",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/agave-victoria-reginae-600x450.jpg",
       "N. scientifique ": "Agave Victoria Reginae",
       "Famille ": "Agavacées",
       "Origine ": "Mexique (Nuevo Leon)",
@@ -4891,6 +5090,7 @@
     },
     {
       "Nom": "Agave de Havard",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/agave-havardiana-600x450.jpg",
       "N. scientifique ": "Agave havardiana",
       "Famille ": "Agavacées",
       "Origine ": "centre nord du Mexique",
@@ -4923,6 +5123,7 @@
     },
     {
       "Nom": "Agave bleu, Agave à téquila",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/agave-tequilana-600x450.jpg",
       "N. scientifique ": "Agave tequilana",
       "Synonymes ": "Agave palmaris, Agave pedrosana",
       "Famille ": "Agavacées",
@@ -4950,6 +5151,7 @@
     },
     {
       "Nom": "Agave américain panaché",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/agave-americana-panache-600x450.jpg",
       "N. scientifique ": "Agave americana 'Marginata'",
       "Synonymes ": "Agave complicata, Agave altissima  ",
       "Famille ": "Agavacées",
@@ -4981,6 +5183,7 @@
     },
     {
       "Nom": "Agave américain",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/agave-americana-600x450.jpg",
       "N. scientifique ": "Agave americana",
       "Famille ": "Agavacées",
       "Origine ": "Mexique",
@@ -5014,6 +5217,7 @@
     },
     {
       "Nom": "Agave à fleurs géminées",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/agave-geminiflora-600x450.jpg",
       "N. scientifique ": "Agave geminiflora",
       "Famille ": "Agavacées",
       "Origine ": "Mexique",
@@ -5043,6 +5247,7 @@
     },
     {
       "Nom": "Agave à feuilles étroites",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/agave-striata-600x450.jpg",
       "N. scientifique ": "Agave striata",
       "Famille ": "Agavacées",
       "Origine ": "Est du Mexique",
@@ -5070,6 +5275,7 @@
     },
     {
       "Nom": "Agave à cou de cygne",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/agave-attenuata-600x450.jpg",
       "N. scientifique ": "Agave attenuata",
       "Famille ": "Agavacées",
       "Origine ": "Centre du Mexique",
@@ -5097,6 +5303,7 @@
     },
     {
       "Nom": "Aéonium tabuliforme",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aeonium-tabuliforme-600x450.jpg",
       "N. scientifique ": "Aeonium tabuliforme",
       "Famille ": "Crassulacées",
       "Origine ": "Iles Canaries",
@@ -5123,6 +5330,7 @@
     },
     {
       "Nom": "Aéonium pourpre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/aeonium-arboreum-cv-atropurpureum-600x450.jpg",
       "N. scientifique ": "Aeonium arboreum 'Atropurpureum'",
       "Famille ": "Crassulacées",
       "Origine ": "littoral méditerranéen",
@@ -5150,6 +5358,7 @@
     },
     {
       "Nom": "Aéonium kiwi",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aeonium-kiwionium-cv-tricolor-600x450.jpg",
       "N. scientifique ": "Aeonium kiwionium",
       "Synonyme ": "Aeonium Haworthii ‘Kiwi’",
       "Famille ": "Crassulacées",
@@ -5178,6 +5387,7 @@
     },
     {
       "Nom": "Aéonium en arbre, Chou en arbre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aeonium-arboreum-600x450.jpg",
       "N. scientifique ": "Aeonium arboreum",
       "Synonymes ": "Megalonium arboreum, Sempervivum arboreum",
       "Famille ": "Crassulacées",
@@ -5207,35 +5417,6 @@
       "Plantation": "printemps",
       "Multiplication": "semis, bouturage au printemps",
       "Sensibilité ": "la pourriture en cas d'excès d'arrosage, les pucerons, les cochenilles"
-    },
-    {
-      "Nom": "Adromischus",
-      "N. scientifique ": "Adromischus cooperi, Cotyledon cooperi",
-      "Synonyme ": " Cotyledon cooperi",
-      "Famille ": "Crassulacées",
-      "Origine ": "Afrique du sud",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "   vert et rouge "
-      ],
-      "Type": "vivace succulente",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "10 cm",
-      "Rusticité ": "   10°C ",
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "mélange pour cactées, drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "pot, jardinière",
-      "Plantation": "printemps",
-      "Multiplication": "semis au chaud, bouturage de feuilles",
-      "Sensibilité ": "les pucerons, les cochenilles"
     }
   ]
 }

@@ -2,143 +2,8 @@
   "category": "Orchidées & broméliacées",
   "data": [
     {
-      "Nom": "Sabot de Vénus de Chamberlain",
-      "N. scientifique ": "Paphiopedilum chamberlainianum",
-      "Synonyme ": "Paphiopedilum victoria-reginae var. chamberlainianum",
-      "Famille ": "Orchidées, Orchidacées",
-      "Origine ": "Sumatra",
-      "Floraison": "printemps, été",
-      "Fleurs ": [
-        "     ",
-        "   rose et pourpre "
-      ],
-      "Type": "orchidée tropicale",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "50 à 90 cm",
-      "Rusticité ": "   12°C minimum ",
-      "Exposition ": [
-        "  ",
-        "  mi-ombre, lumière tamisée "
-      ],
-      "Sol": "mélange drainant et aéré",
-      "Acidité ": "basique",
-      "Humidité ": "frais",
-      "Utilisation": "serre chaude, intérieur",
-      "Plantation": "printemps",
-      "Multiplication": "division, semis in vitro"
-    },
-    {
-      "Nom": "Pleione forrestii",
-      "N. scientifique ": "Pleione forrestii",
-      "Famille ": "Orchidées, Orchidacées",
-      "Origine ": "Chine, Yunnan",
-      "Floraison": "début du printemps",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "orchidée tempérée",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "5 à 15 cm",
-      "Rusticité ": "   non rustique, 1°C ",
-      "Exposition ": [
-        "  ",
-        "  lumineuse "
-      ],
-      "Sol": "mélange spécifique",
-      "Acidité ": "acide",
-      "Humidité ": "humide ou sec en fonction des saisons",
-      "Utilisation": "serre froide, extérieur en région tempérée",
-      "Plantation": "printemps",
-      "Multiplication": "division"
-    },
-    {
-      "Nom": "Phragmipedium 'Memoria Dick Clements'",
-      "N. scientifique ": "Phragmipedium besseae x sargentianum",
-      "Famille ": "Orchidées, Orchidacées",
-      "Origine ": "horticole",
-      "Floraison": "souvent au sortir de l’hiver",
-      "Fleurs ": [
-        "     ",
-        "   rouge cerise "
-      ],
-      "Type": "orchidée tropicale",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "50 à 90 cm",
-      "Rusticité ": "   non rustique -12°C minimum ",
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "mélange pour orchidées",
-      "Acidité ": "acide",
-      "Humidité ": "humide",
-      "Utilisation": "serre chaude, intérieur",
-      "Plantation": "printemps",
-      "Multiplication": "division, semis in vitro"
-    },
-    {
-      "Nom": "Phragmipédium",
-      "N. scientifique ": "Phragmipedium",
-      "Famille ": "Orchidées, Orchidacées",
-      "Origine ": "Amérique du sud et amérique centrale",
-      "Floraison": "toute l’année, variable, selon les espèces",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "     ",
-        "     ",
-        "   jaune, rouge, rose, brun "
-      ],
-      "Type": "fleur",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 10 à 1 m avec la hampe florale",
-      "Rusticité ": "   de 12° C à 32 °C, non rustique ",
-      "Exposition ": [
-        "  ",
-        "  lumière tamisée, pas de soleil direct "
-      ],
-      "Sol": "mélange pour orchidées",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "pot, serre chaude, véranda",
-      "Plantation": "printemps",
-      "Multiplication": "division de la touffe au printemps, semis in vitro",
-      "Taille": "pas de taille",
-      "Sensibilité ": "les pucerons, les cochenilles, les araignées rouges"
-    },
-    {
-      "Nom": "Orchidée-pensée",
-      "N. scientifique ": "Miltoniopsis",
-      "Synonyme ": "Miltonia",
-      "Famille ": "Orchidées, Orchidacées",
-      "Origine ": "Brésil de l'ouest, Pérou, Bolivie, Colombie",
-      "Floraison": "toute l'année",
-      "Fleurs ": "        variable selon les espèces ",
-      "Type": "fleur",
-      "Végétation": "vivace épiphyte",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 40 à 60 cm",
-      "Rusticité ": "   10°C minimum, idéal entre 15 et 20°C toute l'année ",
-      "Exposition ": [
-        "  ",
-        "  lumière vive "
-      ],
-      "Sol": "mélange pour orchidées",
-      "Acidité ": "neutre",
-      "Humidité ": "humide",
-      "Utilisation": "pot, bac",
-      "Plantation": "rempotez en septembre après la période estivale",
-      "Multiplication": "semis réservé aux professionnels, division de la touffe à l'automne au moment du rempotage",
-      "Taille": "pas de taille",
-      "Sensibilité ": "les cochenilles, les pucerons, les araignées rouges"
-    },
-    {
       "Nom": "Zygopétalum",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/zygopetalum-fleur-600x450.jpg",
       "N. scientifique ": "Zygopetalum",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Amérique du sud tropicale",
@@ -170,6 +35,7 @@
     },
     {
       "Nom": "Vanillier (Vanille)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/vanilla-zanzibar-600x450.jpg",
       "N. scientifique ": "Vanilla",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Mexique et Amérique centrale",
@@ -198,31 +64,8 @@
       "Sensibilité ": "les cochenilles"
     },
     {
-      "Nom": "Vanda",
-      "N. scientifique ": "Vanda",
-      "Famille ": "Orchidées, Orchidacées",
-      "Origine ": "de l'Hymalaya à la Nouvelle Guinée, Inde meridionale et Sri Lanka, Australie",
-      "Floraison": "très variable selon l'espèce, dans de bonnes conditions de culture, elle peut fleurir plusieurs fois dans une année",
-      "Fleurs ": "        nombreux coloris, certaines sont parfumées ",
-      "Type": "fleur",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "20 à 200 cm",
-      "Rusticité ": "   selon espèces. Vanda coerulea et toutes les hybrides bleues supportent plus de fraîcheur (10 degrés minimum le jour, 5 la nuit). Les espèces de serre chaude demandent un minimum de 15°C la nuit. ",
-      "Exposition ": [
-        "  ",
-        "  lumière vive, voir plein soleil pour certaines espèces "
-      ],
-      "Sol": "en suspension dans un panier ajouré avec un substrat très drainant (écorce par exemple) pour maintenir de l'humidité autour des racines. Laisser pendre les grandes racines librement",
-      "Acidité ": "neutre",
-      "Humidité ": "arrosage journalier en été, bi-hebdomadaire en hiver. Vaporisation journalière indispensable même en hiver car elle apporte une humidité ambiante élevée qui est nécessaire. Ventilation indispensable.",
-      "Utilisation": "en suspension dans une serre chaude ou temperée selon les espèces ",
-      "Plantation": "uniquement si indispensable en adaptant la taille du panier ou du pot a la plante. Attention aux racines. Au printemps de préférence mais pas obligatoire.",
-      "Multiplication": "bouturage, semis in vitro",
-      "Sensibilité ": "pucerons, araignées rouges, cochenilles, pourriture si manque de ventilation ou eau stagnante."
-    },
-    {
       "Nom": "Spathoglottis plicata",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/spathoglottis-spicata-600x450.jpg",
       "N. scientifique ": "Spathoglottis plicata",
       "Synonymes ": "Spathoglottis spicata, Bletia angustifolia",
       "Famille ": "Orchidées, Orchidacées",
@@ -250,6 +93,7 @@
     },
     {
       "Nom": "Sabot de Vénus, Paph",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/paphiopedilum-fleur-600x450.jpg",
       "N. scientifique ": "Paphiopedilum",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Inde du Nord, Thaïlande, Philippines, Europe",
@@ -277,32 +121,149 @@
       "Sensibilité ": "les cochenilles, les araignées rouges, les pucerons"
     },
     {
-      "Nom": "Orchidée papillon",
-      "N. scientifique ": "Phalaenopsis",
+      "Nom": "Sabot de Vénus de Chamberlain",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/paphiopedilum-chamberlainianum-var-liemianum-600x450.jpg",
+      "N. scientifique ": "Paphiopedilum chamberlainianum",
+      "Synonyme ": "Paphiopedilum victoria-reginae var. chamberlainianum",
       "Famille ": "Orchidées, Orchidacées",
-      "Origine ": "Asie, Océanie",
-      "Floraison": "variable selon les espèces et les variétés, certaines fleurissent toute l'année",
-      "Fleurs ": "        varié ",
-      "Type": "fleur, plante dépolluante",
-      "Végétation": "vivace d'intérieur, appréciant une température autour de 20 °C",
+      "Origine ": "Sumatra",
+      "Floraison": "printemps, été",
+      "Fleurs ": [
+        "     ",
+        "   rose et pourpre "
+      ],
+      "Type": "orchidée tropicale",
+      "Végétation": "vivace",
       "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 60 cm",
-      "Rusticité ": "   10°C, gare aux coups de froids surtout à l'achat, lors du changement de conditions de culture ",
+      "Hauteur": "50 à 90 cm",
+      "Rusticité ": "   12°C minimum ",
+      "Exposition ": [
+        "  ",
+        "  mi-ombre, lumière tamisée "
+      ],
+      "Sol": "mélange drainant et aéré",
+      "Acidité ": "basique",
+      "Humidité ": "frais",
+      "Utilisation": "serre chaude, intérieur",
+      "Plantation": "printemps",
+      "Multiplication": "division, semis in vitro"
+    },
+    {
+      "Nom": "Pleione forrestii",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/pleione-forrestii-600x450.jpg",
+      "N. scientifique ": "Pleione forrestii",
+      "Famille ": "Orchidées, Orchidacées",
+      "Origine ": "Chine, Yunnan",
+      "Floraison": "début du printemps",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "orchidée tempérée",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "5 à 15 cm",
+      "Rusticité ": "   non rustique, 1°C ",
+      "Exposition ": [
+        "  ",
+        "  lumineuse "
+      ],
+      "Sol": "mélange spécifique",
+      "Acidité ": "acide",
+      "Humidité ": "humide ou sec en fonction des saisons",
+      "Utilisation": "serre froide, extérieur en région tempérée",
+      "Plantation": "printemps",
+      "Multiplication": "division"
+    },
+    {
+      "Nom": "Phragmipedium 'Memoria Dick Clements'",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/phragmipedium-sargentianum-x-besseae-fleur-600x450.jpg",
+      "N. scientifique ": "Phragmipedium besseae x sargentianum",
+      "Famille ": "Orchidées, Orchidacées",
+      "Origine ": "horticole",
+      "Floraison": "souvent au sortir de l’hiver",
+      "Fleurs ": [
+        "     ",
+        "   rouge cerise "
+      ],
+      "Type": "orchidée tropicale",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "50 à 90 cm",
+      "Rusticité ": "   non rustique -12°C minimum ",
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "mélange pour orchidées",
+      "Acidité ": "acide",
+      "Humidité ": "humide",
+      "Utilisation": "serre chaude, intérieur",
+      "Plantation": "printemps",
+      "Multiplication": "division, semis in vitro"
+    },
+    {
+      "Nom": "Phragmipédium",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/phragmipedium-600x450.jpg",
+      "N. scientifique ": "Phragmipedium",
+      "Famille ": "Orchidées, Orchidacées",
+      "Origine ": "Amérique du sud et amérique centrale",
+      "Floraison": "toute l’année, variable, selon les espèces",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   jaune, rouge, rose, brun "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 10 à 1 m avec la hampe florale",
+      "Rusticité ": "   de 12° C à 32 °C, non rustique ",
+      "Exposition ": [
+        "  ",
+        "  lumière tamisée, pas de soleil direct "
+      ],
+      "Sol": "mélange pour orchidées",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "pot, serre chaude, véranda",
+      "Plantation": "printemps",
+      "Multiplication": "division de la touffe au printemps, semis in vitro",
+      "Taille": "pas de taille",
+      "Sensibilité ": "les pucerons, les cochenilles, les araignées rouges"
+    },
+    {
+      "Nom": "Orchidée-pensée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/miltoniopsis-hybride-600x450.jpg",
+      "N. scientifique ": "Miltoniopsis",
+      "Synonyme ": "Miltonia",
+      "Famille ": "Orchidées, Orchidacées",
+      "Origine ": "Brésil de l'ouest, Pérou, Bolivie, Colombie",
+      "Floraison": "toute l'année",
+      "Fleurs ": "        variable selon les espèces ",
+      "Type": "fleur",
+      "Végétation": "vivace épiphyte",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 40 à 60 cm",
+      "Rusticité ": "   10°C minimum, idéal entre 15 et 20°C toute l'année ",
       "Exposition ": [
         "  ",
         "  lumière vive "
       ],
-      "Sol": "mélange spécial pour orchidées épiphytes à base de mousse pour retenir l'eau et d'écorce de pin",
+      "Sol": "mélange pour orchidées",
       "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "véranda, intérieur, pot suspendu",
-      "Plantation": "printemps",
-      "Multiplication": "division de la touffe au printemps ou en automne, surtout lors de la formation de keikis, attendre que les racines aient au minimum 5cm avant de couper le morceau de hampe supportant le keiki. Empoter dans le même mélange que pour une plante adulte en choisissant de l'écorce de pin médium.",
+      "Humidité ": "humide",
+      "Utilisation": "pot, bac",
+      "Plantation": "rempotez en septembre après la période estivale",
+      "Multiplication": "semis réservé aux professionnels, division de la touffe à l'automne au moment du rempotage",
       "Taille": "pas de taille",
       "Sensibilité ": "les cochenilles, les pucerons, les araignées rouges"
     },
     {
       "Nom": "Orchidée bambou, Dendrobium nobilé",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/dendrobium-nobile-600x450.jpg",
       "N. scientifique ": "Dendrobium nobile",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Inde",
@@ -326,6 +287,7 @@
     },
     {
       "Nom": "Orchidée bambou",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/dendrobium-amethystoglossum-600x450.jpg",
       "N. scientifique ": "Dendrobium amethystoglossum",
       "Synonyme ": "Callista amethystoglossa",
       "Famille ": "Orchidées, Orchidacées",
@@ -353,6 +315,7 @@
     },
     {
       "Nom": "Orchidée bambou",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/dendrobium-fleur-v-tongchai-gold-600x450.jpg",
       "N. scientifique ": "Dendrobium",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Asie, Océanie",
@@ -377,6 +340,7 @@
     },
     {
       "Nom": "Orchidée araignée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/brassia-fleur-600x450.jpg",
       "N. scientifique ": "Brassia",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Amérique Centrale, Caraïbes, Floride, Pérou, Bolivie, Pérou",
@@ -401,7 +365,59 @@
       "Sensibilité ": "pucerons, cochenilles, acariens"
     },
     {
+      "Nom": "Vanda",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/vanda-cv-blue-magic-600x450.jpg",
+      "N. scientifique ": "Vanda",
+      "Famille ": "Orchidées, Orchidacées",
+      "Origine ": "de l'Hymalaya à la Nouvelle Guinée, Inde meridionale et Sri Lanka, Australie",
+      "Floraison": "très variable selon l'espèce, dans de bonnes conditions de culture, elle peut fleurir plusieurs fois dans une année",
+      "Fleurs ": "        nombreux coloris, certaines sont parfumées ",
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 à 200 cm",
+      "Rusticité ": "   selon espèces. Vanda coerulea et toutes les hybrides bleues supportent plus de fraîcheur (10 degrés minimum le jour, 5 la nuit). Les espèces de serre chaude demandent un minimum de 15°C la nuit. ",
+      "Exposition ": [
+        "  ",
+        "  lumière vive, voir plein soleil pour certaines espèces "
+      ],
+      "Sol": "en suspension dans un panier ajouré avec un substrat très drainant (écorce par exemple) pour maintenir de l'humidité autour des racines. Laisser pendre les grandes racines librement",
+      "Acidité ": "neutre",
+      "Humidité ": "arrosage journalier en été, bi-hebdomadaire en hiver. Vaporisation journalière indispensable même en hiver car elle apporte une humidité ambiante élevée qui est nécessaire. Ventilation indispensable.",
+      "Utilisation": "en suspension dans une serre chaude ou temperée selon les espèces ",
+      "Plantation": "uniquement si indispensable en adaptant la taille du panier ou du pot a la plante. Attention aux racines. Au printemps de préférence mais pas obligatoire.",
+      "Multiplication": "bouturage, semis in vitro",
+      "Sensibilité ": "pucerons, araignées rouges, cochenilles, pourriture si manque de ventilation ou eau stagnante."
+    },
+    {
+      "Nom": "Orchidée papillon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/phalaenopsis-fleur-600x450.jpg",
+      "N. scientifique ": "Phalaenopsis",
+      "Famille ": "Orchidées, Orchidacées",
+      "Origine ": "Asie, Océanie",
+      "Floraison": "variable selon les espèces et les variétés, certaines fleurissent toute l'année",
+      "Fleurs ": "        varié ",
+      "Type": "fleur, plante dépolluante",
+      "Végétation": "vivace d'intérieur, appréciant une température autour de 20 °C",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 60 cm",
+      "Rusticité ": "   10°C, gare aux coups de froids surtout à l'achat, lors du changement de conditions de culture ",
+      "Exposition ": [
+        "  ",
+        "  lumière vive "
+      ],
+      "Sol": "mélange spécial pour orchidées épiphytes à base de mousse pour retenir l'eau et d'écorce de pin",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "véranda, intérieur, pot suspendu",
+      "Plantation": "printemps",
+      "Multiplication": "division de la touffe au printemps ou en automne, surtout lors de la formation de keikis, attendre que les racines aient au minimum 5cm avant de couper le morceau de hampe supportant le keiki. Empoter dans le même mélange que pour une plante adulte en choisissant de l'écorce de pin médium.",
+      "Taille": "pas de taille",
+      "Sensibilité ": "les cochenilles, les pucerons, les araignées rouges"
+    },
+    {
       "Nom": "Oncidier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/oncidium-fleur-600x450.jpg",
       "N. scientifique ": "Oncidium",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Amérique centrale (jusqu'en Floride) et amérique du sud",
@@ -432,6 +448,7 @@
     },
     {
       "Nom": "Odontonia, Odtna",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/odontonia-cv-purple-rain-600x450.jpg",
       "N. scientifique ": "Odontoglossum x Miltonia",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "horticole",
@@ -455,6 +472,7 @@
     },
     {
       "Nom": "Odontoglossum spectatissimum",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/odontoglossum-spectatissimum-600x450.jpg",
       "N. scientifique ": "Odontoglossum spectatissimum",
       "Synonyme ": "Odontoglosum triumphans",
       "Famille ": "Orchidées, Orchidacées",
@@ -482,6 +500,7 @@
     },
     {
       "Nom": "Laelia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/laelia-purpurata-600x450.jpg",
       "N. scientifique ": "Laelia",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Amérique centrale, Amérique du sud, Antilles",
@@ -505,6 +524,7 @@
     },
     {
       "Nom": "Fleur aigrette, Orchidée colombe",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/habenaria-radiata-600x450.jpg",
       "N. scientifique ": "Habenaria radiata",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Chine, Japon, Corée",
@@ -532,6 +552,7 @@
     },
     {
       "Nom": "Dendrobium speciosum",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/dendrobium-speciosum-600x450.jpg",
       "N. scientifique ": "Dendrobium speciosum",
       "Synonyme ": "Thelychiton speciosus",
       "Famille ": "Orchidées, Orchidacées",
@@ -559,6 +580,7 @@
     },
     {
       "Nom": "Cymbidium",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/cymbidium-fleur-600x450.jpg",
       "N. scientifique ": "Cymbidium",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Népal, Asie du sud-est, Indonésie",
@@ -584,6 +606,7 @@
     },
     {
       "Nom": "Cattleya",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/cattleya-fleur-600x450.jpg",
       "N. scientifique ": "Cattleya",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "forêts tropicales d'amérique centrale et d'amérique du sud",
@@ -615,6 +638,7 @@
     },
     {
       "Nom": "Cambria, Odonto",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/odontoglossum-v-wild-cat-red-cat-600x450.jpg",
       "N. scientifique ": "Odontoglossum",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Amérique centrale et Amérique du Sud",
@@ -645,6 +669,7 @@
     },
     {
       "Nom": "Calanthe",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/calanthe-600x450.jpg",
       "N. scientifique ": "Calanthe",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Asie, Afrique, Amérique centrale",
@@ -676,6 +701,7 @@
     },
     {
       "Nom": "Brassada",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/x-brassada-cv-orange-delight-600x450.jpg",
       "N. scientifique ": "x Brassada",
       "Synonyme ": "Brassia x Ada",
       "Famille ": "Orchidées, Orchidacées",
@@ -703,6 +729,7 @@
     },
     {
       "Nom": "Sérapias négligé, Sérapias méconnu",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/serapias-neglecta-600x450.jpg",
       "N. scientifique ": "Serapias neglecta",
       "Synonyme ": "Serapias cordigera subsp neglecta",
       "Famille ": "Orchidées, Orchidacées",
@@ -735,6 +762,7 @@
     },
     {
       "Nom": "Orchis pyramidal",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/anacamptis-pyramidalis-600x450.jpg",
       "N. scientifique ": "Anacamptis pyramidalis",
       "Synonymes ": "Anacampsis brachystachys, A. tanayensis, A. urvilleana",
       "Famille ": "Orchidées, Orchidacées",
@@ -767,6 +795,7 @@
     },
     {
       "Nom": "Orchis pourpre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/orchis-purpurea-600x450.jpg",
       "N. scientifique ": "Orchis purpurea",
       "Synonymes ": "Orchis maxima, Orchis moravica, Orchis lokiana",
       "Famille ": "Orchidées, Orchidacées",
@@ -799,6 +828,7 @@
     },
     {
       "Nom": "Orchis géant, Orchis à longues bractées",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/barlia-robertiana-600x450.jpg",
       "N. scientifique ": "Barlia robertiana",
       "Synonymes ": "Himantoglossum robertianum, Orchis robertiana",
       "Famille ": "Orchidées, Orchidacées",
@@ -830,6 +860,7 @@
     },
     {
       "Nom": "Orchidée abeille, Ophrys abeille",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ophrys-apifera-600x450.jpg",
       "N. scientifique ": "Ophrys apifera",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Europe",
@@ -856,6 +887,7 @@
     },
     {
       "Nom": "Nigritelle noire ou rose, Orchis vanille",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/nigritella-nigra-subsp-corneliana-600x450.jpg",
       "N. scientifique ": "Gymnadenia nigra",
       "Synonyme ": "Nigritella nigra",
       "Famille ": "Orchidées, Orchidacées",
@@ -884,6 +916,7 @@
     },
     {
       "Nom": "Gymnadénie à long éperon, Gymnadénie moucheron",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/gymnadenia-conopsea-600x450.jpg",
       "N. scientifique ": "Gymnadenia conopsea",
       "Synonyme ": "Orchis conopsea",
       "Famille ": "Orchidées, Orchidacées",
@@ -916,6 +949,7 @@
     },
     {
       "Nom": "Spiranthe odorante",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/spiranthes-cernua-cv-chadds-ford-600x450.jpg",
       "N. scientifique ": "Spiranthes cernua",
       "Synonyme ": "Spiranthes odorata",
       "Famille ": "Orchidées, Orchidacées",
@@ -948,6 +982,7 @@
     },
     {
       "Nom": "Sabot-de-Vénus du Kentucky",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/cypripedium-kentuckiense-600x450.jpg",
       "N. scientifique ": "Cypripedium kentuckiense",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "sud des États-Unis et nord du Mexique",
@@ -979,6 +1014,7 @@
     },
     {
       "Nom": "Sabot-de-Vénus d'Europe",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/cypripedium-calceolus-600x450.jpg",
       "N. scientifique ": "Cypripedium calceolus",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Europe, Asie, Japon et Amérique du nord",
@@ -1011,6 +1047,7 @@
     },
     {
       "Nom": "Orchis négligé, Dactylorhize oublié",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/dactylorhiza-praetermissa-600x450.jpg",
       "N. scientifique ": "Dactylorhiza praetermissa",
       "Synonyme ": "Orchis praetermissa",
       "Famille ": "Orchidées, Orchidacées",
@@ -1042,6 +1079,7 @@
     },
     {
       "Nom": "Orchidée jacinthe",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/bletilla-striata-fleur-600x450.jpg",
       "N. scientifique ": "Bletilla striata",
       "Synonyme ": "Bletilla hyacinthina",
       "Famille ": "Orchidées, Orchidacées",
@@ -1075,6 +1113,7 @@
     },
     {
       "Nom": "Orchidée de Formose, Pléione",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/pleione-formosana-600x450.jpg",
       "N. scientifique ": "Pleione formosana",
       "Synonymes ": "Pleione bulbocodioides, Pleione pricei",
       "Famille ": "Orchidées, Orchidacées",
@@ -1108,6 +1147,7 @@
     },
     {
       "Nom": "Helléborine géante, Épipactide géante, Épipactis de Californie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/epipactis-gigantea-600x450.jpg",
       "N. scientifique ": "Epipactis gigantea",
       "Synonyme ": "Helléborine gigantea",
       "Famille ": "Orchidées, Orchidacées",
@@ -1141,6 +1181,7 @@
     },
     {
       "Nom": "Epipactis des marais, Helleborine des marais",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/epipactis-palustris-600x450.jpg",
       "N. scientifique ": "Epipactis palustris",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Europe",
@@ -1170,6 +1211,7 @@
     },
     {
       "Nom": "Cypripédium jaune, Sabot-de-Vénus jaune",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/cypripedium-flavum-600x450.jpg",
       "N. scientifique ": "Cypripedium flavum",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Chine",
@@ -1203,6 +1245,7 @@
     },
     {
       "Nom": "Cypripède royal",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/cypripedium-reginae-600x450.jpg",
       "N. scientifique ": "Cypripedium reginae",
       "Famille ": "Orchidées, Orchidacées",
       "Origine ": "Amérique du Nord",
@@ -1234,6 +1277,7 @@
     },
     {
       "Nom": "Vriésie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/vriesea-duvaliana-600x450.jpg",
       "N. scientifique ": "Vriesea",
       "Famille ": "Broméliacées",
       "Origine ": "Amérique tropicale",
@@ -1262,6 +1306,7 @@
     },
     {
       "Nom": "Vase d'argent",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/aechmea-fasciata-600x450.jpg",
       "N. scientifique ": "Aechmea fasciata",
       "Famille ": "Broméliacées",
       "Origine ": "Brésil",
@@ -1289,6 +1334,7 @@
     },
     {
       "Nom": "Tillandsie violette, Fille de l'air",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/tillandsia-ionantha-600x450.jpg?1",
       "N. scientifique ": "Tillandsia ionantha",
       "Famille ": "Broméliacées",
       "Origine ": "Brésil, Paraguay, Uruguay",
@@ -1318,6 +1364,7 @@
     },
     {
       "Nom": "Tillandsie tricolore, Fille de l'air",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/tillandsia-tricolor-600x450.jpg",
       "N. scientifique ": "Tillandsia tricolor",
       "Famille ": "Broméliacées",
       "Origine ": "du sud du Mexique au Costa Rica",
@@ -1346,6 +1393,7 @@
     },
     {
       "Nom": "Tillandsie bulbeuse, Fille de l'air",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/tillandsia-bulbosa-600x450.jpg",
       "N. scientifique ": "Tillandsia bulbosa",
       "Famille ": "Broméliacées",
       "Origine ": "Mexique, Amérique centrale, Antilles, et du nord de l'Amérique du Sud au Pérou et au nord du Brésil",
@@ -1374,6 +1422,7 @@
     },
     {
       "Nom": "Tillandsie à feuilles filiformes, Fille de l'air filiforme",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/tillandsia-filifolia-600x450.jpg",
       "N. scientifique ": "Tillandsia filifolia",
       "Famille ": "Broméliacées",
       "Origine ": "du Mexique au Costa Rica",
@@ -1402,6 +1451,7 @@
     },
     {
       "Nom": "Tillandsia raquette",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/tillandsia-cyanea-fleur-600x450.jpg",
       "N. scientifique ": "Tillandsia cyanea",
       "Famille ": "Broméliacées",
       "Origine ": "Equateur",
@@ -1428,35 +1478,8 @@
       "Sensibilité ": "les cochenilles, les pucerons"
     },
     {
-      "Nom": "Tillandsia de Bailey, Fille de l'air",
-      "N. scientifique ": "Tillandsia baileyi",
-      "Famille ": "Broméliacées",
-      "Origine ": "Texas, Mexique, Guatemala, Honduras, Salvador, Nicaragua",
-      "Floraison": "indéterminée",
-      "Fleurs ": [
-        "     ",
-        "   épi de bractées rosés, fleurs violettes "
-      ],
-      "Type": "curiosité décorative",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "12 à 30 cm",
-      "Rusticité ": "   0-1 °C au sec ",
-      "Exposition ": [
-        "  ",
-        "  lumineuse, soleil diffus "
-      ],
-      "Sol": "hors-sol",
-      "Acidité ": "légèrement acide à neutre",
-      "Humidité ": "atmosphère humide",
-      "Utilisation": "en pot de support ou en suspension, attaché à une branche d'arbre, etc...",
-      "Plantation": "en dehors de la période de floraison",
-      "Multiplication": "rejets, semis",
-      "Taille": "retirer périodiquement les feuilles mortes",
-      "Sensibilité ": "la pourriture"
-    },
-    {
       "Nom": "Plante réservoir, Néorégelia Monet",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/neoregelia-cv-monet-cp-bourbon-nature-600x450.jpg",
       "N. scientifique ": "Neoregelia 'Monet'",
       "Synonyme ": "Aregelia 'Monet'",
       "Famille ": "Broméliacées",
@@ -1488,6 +1511,7 @@
     },
     {
       "Nom": "Pitcairnia maidifolia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/pitcairnia-maidifolia-600x450.jpg",
       "N. scientifique ": "Pitcairnia maidifolia",
       "Synonyme ": "Puya maidifolia",
       "Famille ": "Broméliacées",
@@ -1518,6 +1542,7 @@
     },
     {
       "Nom": "Hechtie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/hechtia-epigyna-600x450.jpg",
       "N. scientifique ": "Hechtia epigyna",
       "Famille ": "Broméliacées",
       "Origine ": "Argentine, Brésil, Paraguay, Uruguay",
@@ -1545,87 +1570,8 @@
       "Multiplication": "rejets, semis"
     },
     {
-      "Nom": "Guzmania",
-      "N. scientifique ": "Guzmania",
-      "Famille ": "Broméliacées",
-      "Origine ": "Amérique du sud",
-      "Floraison": "toute l'année",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "vivace épiphyte",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "60 cm",
-      "Rusticité ": "   de 20 à 25°C toute l'année ",
-      "Exposition ": [
-        "  ",
-        "  lumière vive "
-      ],
-      "Sol": "terreau",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "pot",
-      "Plantation": "printemps",
-      "Multiplication": "séparation des rejets",
-      "Sensibilité ": "les cochenilles, les pucerons"
-    },
-    {
-      "Nom": "Fille de l'air",
-      "N. scientifique ": "Tillandsia aeranthos",
-      "Famille ": "Broméliacées",
-      "Origine ": "Brésil, Paraguay, Uruguay",
-      "Floraison": "printemps",
-      "Fleurs ": [
-        "     ",
-        "   épi de bractées roses, fleurs violettes "
-      ],
-      "Type": "plante épiphyte, plante d'intérieur",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "20 à 25 cm",
-      "Rusticité ": "   1 °C ",
-      "Exposition ": [
-        "  ",
-        "  lumière sans soleil direct "
-      ],
-      "Sol": "pas de sol",
-      "Acidité ": "acide à neutre (eau d'arrosage)",
-      "Humidité ": "atmosphère humide",
-      "Utilisation": "plante d'intérieur, serre, véranda, extérieur en été",
-      "Plantation": "en dehors de la période de floraison",
-      "Multiplication": "rejets, semis"
-    },
-    {
-      "Nom": "Fille de l'air",
-      "N. scientifique ": "Tillandsia dyeriana",
-      "Synonyme ": "Racinaea dyeriana",
-      "Famille ": "Broméliacées",
-      "Origine ": "Équateur",
-      "Floraison": "printemps",
-      "Fleurs ": [
-        "     ",
-        "   épi de bractées rouge vif, fleurs blanches "
-      ],
-      "Type": "plante épiphyte",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "60 à 120 cm",
-      "Rusticité ": "   non rustique, 10 °C minimum ",
-      "Exposition ": [
-        "  ",
-        "  ombre lumineuse "
-      ],
-      "Sol": "terre à orchidée",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "atmosphère humide",
-      "Utilisation": "plante d'intérieur, serre, véranda",
-      "Plantation": "rempotage pas vraiment utile",
-      "Multiplication": "rejets, semis"
-    },
-    {
       "Nom": "Dyckia altissima",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/dyckia-altissima-600x450.jpg",
       "N. scientifique ": "Dyckia altissima",
       "Synonymes ": "Dyckia altissima, Dyckia princeps",
       "Famille ": "Broméliacées",
@@ -1657,6 +1603,7 @@
     },
     {
       "Nom": "Dyckia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/dyckia-remotiflora-600x450.jpg",
       "N. scientifique ": "Dyckia remotiflora",
       "Synonyme ": "Dyckia rarifolia",
       "Famille ": "Broméliacées",
@@ -1682,7 +1629,120 @@
       "Plantation": "rejets, semis"
     },
     {
+      "Nom": "Tillandsia de Bailey, Fille de l'air",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/tillandsia-baileyi-600x450.jpg",
+      "N. scientifique ": "Tillandsia baileyi",
+      "Famille ": "Broméliacées",
+      "Origine ": "Texas, Mexique, Guatemala, Honduras, Salvador, Nicaragua",
+      "Floraison": "indéterminée",
+      "Fleurs ": [
+        "     ",
+        "   épi de bractées rosés, fleurs violettes "
+      ],
+      "Type": "curiosité décorative",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "12 à 30 cm",
+      "Rusticité ": "   0-1 °C au sec ",
+      "Exposition ": [
+        "  ",
+        "  lumineuse, soleil diffus "
+      ],
+      "Sol": "hors-sol",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "atmosphère humide",
+      "Utilisation": "en pot de support ou en suspension, attaché à une branche d'arbre, etc...",
+      "Plantation": "en dehors de la période de floraison",
+      "Multiplication": "rejets, semis",
+      "Taille": "retirer périodiquement les feuilles mortes",
+      "Sensibilité ": "la pourriture"
+    },
+    {
+      "Nom": "Guzmania",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/guzmania-600x450.jpg",
+      "N. scientifique ": "Guzmania",
+      "Famille ": "Broméliacées",
+      "Origine ": "Amérique du sud",
+      "Floraison": "toute l'année",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "vivace épiphyte",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "60 cm",
+      "Rusticité ": "   de 20 à 25°C toute l'année ",
+      "Exposition ": [
+        "  ",
+        "  lumière vive "
+      ],
+      "Sol": "terreau",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "pot",
+      "Plantation": "printemps",
+      "Multiplication": "séparation des rejets",
+      "Sensibilité ": "les cochenilles, les pucerons"
+    },
+    {
+      "Nom": "Fille de l'air",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/tillandsia-aeranthos-600x450.jpg",
+      "N. scientifique ": "Tillandsia aeranthos",
+      "Famille ": "Broméliacées",
+      "Origine ": "Brésil, Paraguay, Uruguay",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   épi de bractées roses, fleurs violettes "
+      ],
+      "Type": "plante épiphyte, plante d'intérieur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "20 à 25 cm",
+      "Rusticité ": "   1 °C ",
+      "Exposition ": [
+        "  ",
+        "  lumière sans soleil direct "
+      ],
+      "Sol": "pas de sol",
+      "Acidité ": "acide à neutre (eau d'arrosage)",
+      "Humidité ": "atmosphère humide",
+      "Utilisation": "plante d'intérieur, serre, véranda, extérieur en été",
+      "Plantation": "en dehors de la période de floraison",
+      "Multiplication": "rejets, semis"
+    },
+    {
+      "Nom": "Fille de l'air",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/tillandsia-dyeriana-600x450.jpg",
+      "N. scientifique ": "Tillandsia dyeriana",
+      "Synonyme ": "Racinaea dyeriana",
+      "Famille ": "Broméliacées",
+      "Origine ": "Équateur",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   épi de bractées rouge vif, fleurs blanches "
+      ],
+      "Type": "plante épiphyte",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "60 à 120 cm",
+      "Rusticité ": "   non rustique, 10 °C minimum ",
+      "Exposition ": [
+        "  ",
+        "  ombre lumineuse "
+      ],
+      "Sol": "terre à orchidée",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "atmosphère humide",
+      "Utilisation": "plante d'intérieur, serre, véranda",
+      "Plantation": "rempotage pas vraiment utile",
+      "Multiplication": "rejets, semis"
+    },
+    {
       "Nom": "Cheveux d'ange, Fille de l'air, Mousse espagnole, Barbe de vieillard",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/tillandsia-usneoides-600x450.jpg",
       "N. scientifique ": "Tillandsia usneoïdes",
       "Famille ": "Broméliacées",
       "Origine ": "Amérique du nord et Amérique centrale",
@@ -1708,6 +1768,7 @@
     },
     {
       "Nom": "Chagual, Plante mange mouton",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/puya-harmsii-600x450.jpg",
       "N. scientifique ": "Puya harmsii",
       "Synonyme ": "Puyopsis harmsii ; Puyopsis est un sous-genre de Puya",
       "Famille ": "Acanthacées",
@@ -1739,37 +1800,8 @@
       "Multiplication": "rejets, semis"
     },
     {
-      "Nom": "Abromeitiella tapissante",
-      "N. scientifique ": "Deuterocohnia brevifolia",
-      "Synonyme ": "Abromeitiella brevifolia",
-      "Famille ": "Broméliacées",
-      "Origine ": "Amérique du Sud",
-      "Floraison": "hiver",
-      "Fleurs ": [
-        "     ",
-        "   fleurs vert acide "
-      ],
-      "Type": "plante xérophyte, broméliacée terrestre",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "coussinet large jusqu'à 90 cm, en dôme",
-      "Rusticité ": [
-        "  ",
-        "  non rustique, jusqu'à -2 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "drainant, pauvre en matière organique",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "sec en hiver, arrosé en été",
-      "Utilisation": "plante d'intérieur, serre, véranda, extérieur en été",
-      "Plantation": "fin de printemps, début d'été",
-      "Multiplication": "rejets, semis"
-    },
-    {
       "Nom": "Billbergie penchée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/billbergia-nutans-600x450.jpg",
       "N. scientifique ": "Billbergia nutans",
       "Famille ": "Broméliacées",
       "Origine ": "Argentine, Brésil",
@@ -1800,6 +1832,7 @@
     },
     {
       "Nom": "Ananas requin",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ananas-bracteatus-600x450.jpg",
       "N. scientifique ": "Ananas bracteatus",
       "Famille ": "Broméliacées",
       "Origine ": "Amérique du sud",
@@ -1826,6 +1859,37 @@
       "Multiplication": "semis, séparation des rejets",
       "Taille": "pas de taille nécessaire",
       "Sensibilité ": "rongeurs"
+    },
+    {
+      "Nom": "Abromeitiella tapissante",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/deuterocohnia-brevifolia-600x450.jpg",
+      "N. scientifique ": "Deuterocohnia brevifolia",
+      "Synonyme ": "Abromeitiella brevifolia",
+      "Famille ": "Broméliacées",
+      "Origine ": "Amérique du Sud",
+      "Floraison": "hiver",
+      "Fleurs ": [
+        "     ",
+        "   fleurs vert acide "
+      ],
+      "Type": "plante xérophyte, broméliacée terrestre",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "coussinet large jusqu'à 90 cm, en dôme",
+      "Rusticité ": [
+        "  ",
+        "  non rustique, jusqu'à -2 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "drainant, pauvre en matière organique",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "sec en hiver, arrosé en été",
+      "Utilisation": "plante d'intérieur, serre, véranda, extérieur en été",
+      "Plantation": "fin de printemps, début d'été",
+      "Multiplication": "rejets, semis"
     }
   ]
 }

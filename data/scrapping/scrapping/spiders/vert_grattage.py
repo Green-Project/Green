@@ -10,7 +10,7 @@ class QuotesSpider(scrapy.Spider):
     file = open('debug.html', 'w+')
 
     def debugLog(self, data):
-        self.file.write(str(data))
+        self.file.write(str(data) + '\n')
 
     def write_json_to_file(self, data, file, mode='w+'):
         tmp = open(file, mode)
@@ -69,7 +69,11 @@ class QuotesSpider(scrapy.Spider):
         fname = response.meta.get('fname')
         parent_dict = json.loads(open(fname).read())
 
-        d = dict({'Nom': response.css('article').xpath('./child::h1/text()')[0].extract()})
+        article = response.css('article')
+        d = dict({
+            'Nom': article.xpath('./child::h1/text()')[0].extract(),
+            'ImgUrl': article.xpath('./child::figure/picture/img/@src')[0].extract()
+        })
         for attr in response.css('div.description3').xpath('./child::div'):
             # Get tags corresponding to the data we are looking for
             attr_tags = attr.xpath('./strong')
@@ -78,8 +82,6 @@ class QuotesSpider(scrapy.Spider):
                 tab = n.xpath('./following-sibling::span/text()')
                 if (len(tab) == 0):
                     tab = n.xpath('./following-sibling::span/*/text()')
-                # f.write(str(tab.extract()) + '\n')
                 d[str(n.xpath('./text()').extract()[0])] = tab.extract() if len(tab) > 1 else tab[0].extract()
-
         parent_dict['data'].append(d)
         self.write_json_to_file(parent_dict, fname)

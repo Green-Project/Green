@@ -3,6 +3,7 @@
   "data": [
     {
       "Nom": "Violette de Tasmanie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/viola-banksii-600x450.jpg",
       "N. scientifique ": "Viola banksii",
       "Synonyme ": "Viola hederacea (par erreur)",
       "Famille ": "Violacées",
@@ -35,6 +36,7 @@
     },
     {
       "Nom": "Verveine rugueuse, Verveine tubéreuse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/verbena-rigida-cv-polaris-600x450.jpg",
       "N. scientifique ": "Verbena rigida",
       "Synonyme ": "Verbena venosa",
       "Famille ": "Verbénacées",
@@ -66,6 +68,7 @@
     },
     {
       "Nom": "Verveine de MacDougall, Verveine du Nouveau-Mexique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/verbena-macdougalii-cv-lavender-spires-600x450.jpg",
       "N. scientifique ": "Verbena macdougalii",
       "Synonyme ": "Verbena venosa",
       "Famille ": "Verbénacées",
@@ -96,6 +99,7 @@
     },
     {
       "Nom": "Verveine de Buenos-Aires",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/verbena-bonariensis-fleur-600x450.jpg",
       "N. scientifique ": "Verbena bonariensis",
       "Synonyme ": "Verbena patagonica",
       "Famille ": "Verbénacées",
@@ -129,6 +133,7 @@
     },
     {
       "Nom": "Véronique en épi",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/veronica-spicata-600x450.jpg",
       "N. scientifique ": "Veronica spicata",
       "Synonymes ": "Cardia spicata, Eustaxia oppositifolia, Hedystachys spicata, Pseudolysimachion spicatum",
       "Famille ": "Plantaginacées",
@@ -158,6 +163,7 @@
     },
     {
       "Nom": "Véronique à feuilles longues",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/veronica-longifolia-600x450.jpg",
       "N. scientifique ": "Veronica longifolia",
       "Famille ": "Plantaginacées",
       "Origine ": "Europe",
@@ -184,6 +190,7 @@
     },
     {
       "Nom": "Vernone hybride",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/vernonia-angustifolia-x-missurica-600x450.jpg",
       "N. scientifique ": "Vernonia angustifolia x missurica",
       "Famille ": "Astéracées, Composées",
       "Origine ": "horticole, parents d'Amérique du Nord",
@@ -216,6 +223,7 @@
     },
     {
       "Nom": "Vergerette de Karvinski, Vergerette muscronée, Marguerite folle",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/erigeron-karvinskianus-600x450.jpg",
       "N. scientifique ": "Erigeron karvinskianus",
       "Synonymes ": "Vittadinia triloba, Erigeron mucronatus",
       "Famille ": "Astéracées, Composées",
@@ -248,6 +256,7 @@
     },
     {
       "Nom": "Valériane rouge, Centranthe rouge, Lilas d’espagne",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/centranthus-ruber-600x450.jpg",
       "N. scientifique ": "Centranthus ruber",
       "Famille ": "Valérianacées",
       "Origine ": "Europe du sud, Afrique du nord",
@@ -279,6 +288,7 @@
     },
     {
       "Nom": "Trachélie bleue, Trachélium bleu",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/trachelium-caerulata-cv-pandora-600x450.jpg",
       "N. scientifique ": "Trachelium caerulata",
       "Famille ": "Campanulacées",
       "Origine ": "Europe méridionale, Afrique septentrionale",
@@ -313,6 +323,7 @@
     },
     {
       "Nom": "Spirée à 3 feuilles",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/gillenia-trifoliata-600x450.jpg",
       "N. scientifique ": "Gillenia trifoliata",
       "Synonyme ": "Porteranthus trifoliatus",
       "Famille ": "Rosacées",
@@ -345,6 +356,7 @@
     },
     {
       "Nom": "Scabieuse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/scabiosa-fleur-600x450.jpg",
       "N. scientifique ": "Scabiosa",
       "Famille ": "Dipsacacées",
       "Origine ": "Caucase",
@@ -381,6 +393,7 @@
     },
     {
       "Nom": "Saxifrage musquée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/saxifraga-moschata-cv-cloth-of-gold-600x450.jpg",
       "N. scientifique ": "Saxifraga moschata",
       "Famille ": "Saxifragacées",
       "Origine ": "Europe, Asie",
@@ -407,6 +420,7 @@
     },
     {
       "Nom": "Saxifrage des Pyrénées",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/saxifraga-longifolia-600x450.jpg",
       "N. scientifique ": "Saxifraga longifolia",
       "Famille ": "Saxifragacées",
       "Origine ": "Europe, Pyrénéen",
@@ -433,6 +447,7 @@
     },
     {
       "Nom": "Saxifrage d'Arends, Saxifrage mousse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/saxifraga-arendsii-600x450.jpg",
       "N. scientifique ": "Saxifraga arendsii",
       "Famille ": "Saxifragacées",
       "Origine ": "horticole",
@@ -461,6 +476,7 @@
     },
     {
       "Nom": "Sauge russe, Lavande d'Afghanistan",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/perovskia-600x450.jpg",
       "N. scientifique ": "Perovskia",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Asie",
@@ -494,6 +510,7 @@
     },
     {
       "Nom": "Sauge involucre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/salvia-involucrata-fleur-600x450.jpg",
       "N. scientifique ": "Salvia involucrata",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Mexique",
@@ -526,6 +543,7 @@
     },
     {
       "Nom": "Sauge farineuse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/salvia-farinacea-600x450.jpg",
       "N. scientifique ": "Salvia farinacea",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Sud des Etats-Unis, Mexique",
@@ -550,6 +568,7 @@
     },
     {
       "Nom": "Sauge éclatante, sauge rouge",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/salvia-splendens-fleurs-600x450.jpg",
       "N. scientifique ": "Salvia splendens",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Brésil",
@@ -579,6 +598,7 @@
     },
     {
       "Nom": "Sauge du Pérou, Sauge andine, Sauge noire",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/salvia-discolor-600x450.jpg",
       "N. scientifique ": "Salvia discolor",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Pérou",
@@ -605,6 +625,7 @@
     },
     {
       "Nom": "Sauge des marais, Sauge uligineuse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/salvia-uliginosa-fleur-600x450.jpg",
       "N. scientifique ": "Salvia uliginosa",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Amérique du sud",
@@ -635,6 +656,7 @@
     },
     {
       "Nom": "Sauge des bois",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/salvia-nemorosa-600x450.jpg",
       "N. scientifique ": "Salvia nemorosa",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "de l'Europe à l'Asie centrale",
@@ -661,6 +683,7 @@
     },
     {
       "Nom": "Sauge de Jérusalem à fleurs roses, Phlomis tubéreux",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/phlomis-tuberosa-cv-amazone-600x450.jpg",
       "N. scientifique ": "Phlomis tuberosa",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Asie, Europe",
@@ -693,6 +716,7 @@
     },
     {
       "Nom": "Sauge de Jérusalem",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/phlomis-grandiflora-cv-anatolica-fleur-600x450.jpg",
       "N. scientifique ": "Phlomis grandiflora",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Turquie",
@@ -719,6 +743,7 @@
     },
     {
       "Nom": "Rudbeckie lumineuse, Rudbeckia lumineux",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/rudbeckia-fulgida-600x450.jpg",
       "N. scientifique ": "Rudbeckia fulgida",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Amérique du Nord",
@@ -751,6 +776,7 @@
     },
     {
       "Nom": "Rudbeckia doux, Echinacée douce",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/rudbeckia-subtomentosa-cv-little-henry-600x450.jpg",
       "N. scientifique ": "Rudbeckia subtomentosa",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Amérique du Nord",
@@ -783,6 +809,7 @@
     },
     {
       "Nom": "Rudbéckia à trois lobes, Echinacées à 3 lobes",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/rudbeckia-triloba-600x450.jpg",
       "N. scientifique ": "Rudbeckia triloba",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Etats-Unis",
@@ -815,6 +842,7 @@
     },
     {
       "Nom": "Rudbeckia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/rudbeckia-600x450.jpg",
       "N. scientifique ": "Rudbeckia",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Amérique du nord",
@@ -847,6 +875,7 @@
     },
     {
       "Nom": "Rose trémière, Rose à bâton",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/alcea-rosea-600x450.jpg",
       "N. scientifique ": "Althaea rosea, Althaea sinensis",
       "Synonymes ": "Althaea rosea, Althaea sinensis",
       "Famille ": "Malvacées",
@@ -886,6 +915,7 @@
     },
     {
       "Nom": "Roscoea jaune, Roscoea à floraison précoce, Gingembre orchidée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/roscoea-cautleyoides-600x450.jpg",
       "N. scientifique ": "Roscoea cautleoides",
       "Synonyme ": "Roscoea cautleyoides",
       "Famille ": "Zingibéracées",
@@ -921,6 +951,7 @@
     },
     {
       "Nom": "Ricin vivace",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/napaea-dioica-600x450.jpg",
       "N. scientifique ": "Napea dioica",
       "Famille ": "Malvacées",
       "Origine ": "Amérique du nord",
@@ -952,6 +983,7 @@
     },
     {
       "Nom": "Renouée rose",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/polygonum-capitatum-600x450.jpg",
       "N. scientifique ": "Persicaria capitata",
       "Synonyme ": "Polygonum capitatum",
       "Famille ": "Polygonacées",
@@ -983,6 +1015,7 @@
     },
     {
       "Nom": "Renouée bistorte",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/polygonum-bistorta-600x450.jpg",
       "N. scientifique ": "Persicaria bistorta",
       "Synonymes ": "Polygonum bistorta , Bistorta officinalis",
       "Famille ": "Polygonacées",
@@ -1015,6 +1048,7 @@
     },
     {
       "Nom": "Renouée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/persicaria-runcinata-cv-needham-s-form-600x450.jpg",
       "N. scientifique ": "Persicaria runcinata",
       "Famille ": "Polygonacées",
       "Origine ": "Népal",
@@ -1040,6 +1074,7 @@
     },
     {
       "Nom": "Raisin d'amérique, Phytolaque d'amérique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/phytolacca-americana-600x450.jpg",
       "N. scientifique ": "Phytolacca americana",
       "Famille ": "Phytolaccacées",
       "Origine ": "Amérique du nord, Mexique",
@@ -1075,6 +1110,7 @@
     },
     {
       "Nom": "Queue de lion",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/leonotis-leonorus-600x450.jpg",
       "N. scientifique ": "Leonotis leonorus",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Afrique du sud",
@@ -1106,6 +1142,7 @@
     },
     {
       "Nom": "Primevère de Vial, Primevère des marais",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/primula-vialii-fleur-600x450.jpg",
       "N. scientifique ": "Primula vialii",
       "Famille ": "Primulacées",
       "Origine ": "Chine",
@@ -1138,6 +1175,7 @@
     },
     {
       "Nom": "Primevère de Siebold, Sakurasoo",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/primula-sieboldii-600x450.jpg",
       "N. scientifique ": "Primula sieboldii",
       "Famille ": "Primulacées",
       "Origine ": "Asie",
@@ -1167,6 +1205,7 @@
     },
     {
       "Nom": "Primevère candélabre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/primula-candelabra-600x450.jpg",
       "N. scientifique ": "Primula section candelabra",
       "Famille ": "Primulacées",
       "Origine ": "Chine, Birmanie selon les espèces",
@@ -1199,6 +1238,7 @@
     },
     {
       "Nom": "Polygale petit buis, Faux-buis",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/polygala-chamaebuxus-var-grandiflora-600x450.jpg",
       "N. scientifique ": "Polygala chamaebuxus var.grandiflora",
       "Famille ": "Polygalacées",
       "Origine ": "Alpes",
@@ -1229,6 +1269,7 @@
     },
     {
       "Nom": "Pissenlit à fleurs roses",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/taraxacum-pseudoroseum-600x450.jpg",
       "N. scientifique ": "Taraxacum pseudoroseum",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Asie centrale",
@@ -1262,6 +1303,7 @@
     },
     {
       "Nom": "Pigamon de Rochebrun",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/thalictrum-rochebrunianum-600x450.jpg",
       "N. scientifique ": "Thalictrum rochebrunianum",
       "Synonyme ": "Thalictrum dipterocarpum",
       "Famille ": "Renonculacées",
@@ -1295,6 +1337,7 @@
     },
     {
       "Nom": "Pigamon de Delavay",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/thalictrum-delavayi-cv-splendide-600x450.jpg",
       "N. scientifique ": "Thalictrum delavayi",
       "Synonyme ": "Thalictrum dipterocarpum",
       "Famille ": "Renonculacées",
@@ -1328,6 +1371,7 @@
     },
     {
       "Nom": "Pied de chat dioïque, Antennaire dioïque",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/antennaria-dioica-cv-alex-duguid-600x450.jpg",
       "N. scientifique ": "Antennaria dioica",
       "Synonymes ": "Gnaphalium dioicum, Antennaria hibernica",
       "Famille ": "Astéracées, Composées",
@@ -1361,6 +1405,7 @@
     },
     {
       "Nom": "Pied d'alouette, dauphinelle",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/delphinium-fleur-600x450.jpg",
       "N. scientifique ": "Delphinium ",
       "Famille ": "Renonculacées",
       "Origine ": "Asie",
@@ -1391,6 +1436,7 @@
     },
     {
       "Nom": "Pied d'alouette",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/delphinium-x-elatum-600x450.jpg",
       "N. scientifique ": "Delphinium x elatum",
       "Synonyme ": "Delphinium x culturum",
       "Famille ": "Renonculacées",
@@ -1428,6 +1474,7 @@
     },
     {
       "Nom": "Physostégie de Virginie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/physostegia-virginiana-600x450.jpg",
       "N. scientifique ": "Physostegia virginiana",
       "Synonymes ": "Dracocephalum denticulatum, Dracocephalum virginiana",
       "Famille ": "Labiacées, Lamiacées, Labiées",
@@ -1460,6 +1507,7 @@
     },
     {
       "Nom": "Phlox paniculé, Phlox vivace",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/phlox-paniculata-600x450.jpg",
       "N. scientifique ": "Phlox paniculata",
       "Famille ": "Polémoniacées",
       "Origine ": "Amérique du nord",
@@ -1496,6 +1544,7 @@
     },
     {
       "Nom": "Phlomis de Russel",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/phlomis-russeliana-600x450.jpg",
       "N. scientifique ": "Phlomis russeliana",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Turquie",
@@ -1527,6 +1576,7 @@
     },
     {
       "Nom": "Petite scabieuse de Macédoine, Knautie de Macédoine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/knautia-macedonica-600x450.jpg",
       "N. scientifique ": "Knautia macedonica",
       "Famille ": "Caprifoliacées",
       "Origine ": "Balkans",
@@ -1557,6 +1607,7 @@
     },
     {
       "Nom": "Persicaire, Renouée amplexicaule",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/persicaria-amplexicaulis-600x450.jpg",
       "N. scientifique ": "Persicaria amplexicaulis",
       "Synonymes ": "Polygonum amplexicaule, Bistorta amplexicaulis",
       "Famille ": "Polygonacées",
@@ -1589,6 +1640,7 @@
     },
     {
       "Nom": "Penstémon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/penstemon-heterophyllus-600x450.jpg",
       "N. scientifique ": "Penstemon heterophyllus",
       "Famille ": "Scrophulariacées",
       "Origine ": "Amérique du Nord",
@@ -1627,6 +1679,7 @@
     },
     {
       "Nom": "Pavot de Californie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/eschscholtzia-californica-600x450.jpg",
       "N. scientifique ": "Eschscholtzia californica",
       "Famille ": "Papavéracées",
       "Origine ": "Amérique du nord",
@@ -1657,6 +1710,7 @@
     },
     {
       "Nom": "Pavot bleu de l'Himalaya",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/meconopsis-betonicifolia-600x450.jpg",
       "N. scientifique ": "Pavot bleu de l'Himalaya, Meconopsis betonicifolia",
       "Famille ": "Papavéracées",
       "Origine ": "Tibet, Sud Ouest de la Chine, Myanmar",
@@ -1688,6 +1742,7 @@
     },
     {
       "Nom": "Panicaut Big Blue, Chardon Big Blue",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/eryngium-x-zabelii-cv-big-blue-600x450.jpg",
       "N. scientifique ": "Eryngium x zabelii 'Big Blue'",
       "Synonyme ": "Eryngium bourgatii 'Big Blue'",
       "Famille ": "Apiacées, Ombellifères",
@@ -1720,6 +1775,7 @@
     },
     {
       "Nom": "Ortie rouge, Lamier orvale",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lamium-orvala-600x450.jpg",
       "N. scientifique ": "Lamium orvala",
       "Famille ": "Labiacées, Lamiacées, Labiées",
       "Origine ": "Europe centrale, Balkan",
@@ -1752,6 +1808,7 @@
     },
     {
       "Nom": "Oreille d’ours, Oreille de lapin, Epiaire laineuse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/stachys-byzantina-600x450.jpg",
       "N. scientifique ": "Stachys byzantina",
       "Synonyme ": "Stachys lanata",
       "Famille ": "Labiacées, Lamiacées, Labiées",
@@ -1783,6 +1840,7 @@
     },
     {
       "Nom": "Onagre rose, Oenothère rose, Oenothe rose",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/oenothera-speciosa-600x450.jpg",
       "N. scientifique ": "Oenothera speciosa",
       "Famille ": "Onagracées",
       "Origine ": "Amérique du Nord, Amérique centrale",
@@ -1814,6 +1872,7 @@
     },
     {
       "Nom": "Onagre arbustif, Oenothère",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/oenothera-fruticosa-fleur-600x450.jpg",
       "N. scientifique ": "Oenothera fruticosa, Oenothera linearis",
       "Synonyme ": " Oenothera linearis",
       "Famille ": "Onagracées",
@@ -1849,6 +1908,7 @@
     },
     {
       "Nom": "Oeillet mignardise",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/dianthus-plumarius-600x450.jpg",
       "N. scientifique ": "Dianthus plumarius",
       "Famille ": "Caryophyllacées",
       "Origine ": "Europe centrale, Orient",
@@ -1877,6 +1937,7 @@
     },
     {
       "Nom": "Oeillet giroflée, Oeillet des fleuristes, Oeillet commun",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/dianthus-caryophyllus-600x450.jpg",
       "N. scientifique ": "Dianthus caryophyllus",
       "Famille ": "Caryophyllacées",
       "Origine ": "Europe méridionale",
@@ -1907,6 +1968,7 @@
     },
     {
       "Nom": "Oeillet des chartreux",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/dianthus-carthusianorum-600x450.jpg",
       "N. scientifique ": "Dianthus cathusianorum",
       "Famille ": "Caryophyllacées",
       "Origine ": "Europe",
@@ -1938,6 +2000,7 @@
     },
     {
       "Nom": "Muguet de Chine, Muguet japonais",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/reineckea-carnea-600x450.jpg",
       "N. scientifique ": "Reineckea carnea",
       "Famille ": "Asparagacées",
       "Origine ": "Chine, Japon",
@@ -1969,6 +2032,7 @@
     },
     {
       "Nom": "Monarde écarlate, Monarde didyme, Bergamote écarlate",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/monarda-didyma-600x450.jpg",
       "N. scientifique ": "Monarda didyma",
       "Synonyme ": "Monarda coccinea",
       "Famille ": "Labiacées, Lamiacées, Labiées",
@@ -2004,6 +2068,7 @@
     },
     {
       "Nom": "Lysimaque ponctuée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/lysimachia-punctata-600x450.jpg",
       "N. scientifique ": "Lysimachia punctata",
       "Famille ": "Primulacées",
       "Origine ": "Europe, Asie",
@@ -2034,6 +2099,7 @@
     },
     {
       "Nom": "Lysimaque de Chine, Lysimaque col de cygne",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lysimachia-clethroides-600x450.jpg",
       "N. scientifique ": "Lysimachia clethroides",
       "Famille ": "Primulacées",
       "Origine ": "Chine, Japon",
@@ -2065,6 +2131,7 @@
     },
     {
       "Nom": "Lysimaque commune, Grande lysimaque",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/lysimachia-vulgaris-600x450.jpg",
       "N. scientifique ": "Lysimachia vulgaris",
       "Famille ": "Primulacées",
       "Origine ": "Europe, Asie",
@@ -2098,6 +2165,7 @@
     },
     {
       "Nom": "Lupin indigo, Faux indigotier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/baptisia-australis-600x450.jpg",
       "N. scientifique ": "Baptisia australis",
       "Famille ": "Légumineuses, Fabacées, Papilionacées",
       "Origine ": "Amérique du nord",
@@ -2129,6 +2197,7 @@
     },
     {
       "Nom": "Lupin de Russell, Lupin des jardins",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lupinus-x-russellii-600x450.jpg",
       "N. scientifique ": "Lupinus x russellii",
       "Famille ": "Légumineuses, Fabacées, Papilionacées",
       "Origine ": "horticole",
@@ -2163,6 +2232,7 @@
     },
     {
       "Nom": "Lobélie rouge",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lobelia-x-speciosa-cv-fan-scarlet-fleur-600x450.jpg",
       "N. scientifique ": "Lobelia x speciosa",
       "Famille ": "Campanulacées",
       "Origine ": "horticole",
@@ -2195,6 +2265,7 @@
     },
     {
       "Nom": "Lis des incas, Lis du Pérou, Alstroemère",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/alstroemeria-hybride-fleur-600x450.jpg",
       "N. scientifique ": "Alstroemeria ligtu hybride",
       "Famille ": "Amaryllidacées",
       "Origine ": "Amérique du sud, particulièrement le Chili",
@@ -2231,6 +2302,7 @@
     },
     {
       "Nom": "Lis crapaud de Formose",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/tricyrtis-formosana-fleur-600x450.jpg",
       "N. scientifique ": "Tricyrtis formosana",
       "Famille ": "Liliacées",
       "Origine ": "Japon, Himalaya, Asie",
@@ -2265,6 +2337,7 @@
     },
     {
       "Nom": "Liriope muscari",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/liriope-muscari-600x450.jpg",
       "N. scientifique ": "Liriope muscari",
       "Synonymes ": "Liriope platyphylla, Liriope graminifolia",
       "Famille ": "Liliacées",
@@ -2292,6 +2365,7 @@
     },
     {
       "Nom": "Linaire pourpre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/linaria-purpurea-600x450.jpg",
       "N. scientifique ": "Linaria purpurea",
       "Famille ": "Plantaginacées",
       "Origine ": "Europe",
@@ -2320,6 +2394,7 @@
     },
     {
       "Nom": "Laîche palmier de Chine, Laîche Tenjiku",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/carex-phyllocephala-600x450.jpg",
       "N. scientifique ": "Carex phyllocephala",
       "Famille ": "Cypéracées",
       "Origine ": "Asie",
@@ -2351,6 +2426,7 @@
     },
     {
       "Nom": "Iris tigré, Iris léopard",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/iris-domestica-600x450.jpg",
       "N. scientifique ": "Iris domestica",
       "Synonyme ": "Belamcanda chinensis",
       "Famille ": "Iridacées",
@@ -2382,6 +2458,7 @@
     },
     {
       "Nom": "Impatiens tubéreuse de Qingchengshan, Balsamine tubéreuse de Chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/impatiens-qingchanganica-cv-emei-dawn-600x450.jpg",
       "N. scientifique ": "Impatiens qingchanganica",
       "Synonymes ": "Impatiens qingchengshanica,  Impatiens qingchanganica 'Omeishan'",
       "Famille ": "Balsaminacées",
@@ -2413,6 +2490,7 @@
     },
     {
       "Nom": "Immortelle pagophilum",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/helichrysum-pagophilum-600x450.jpg",
       "N. scientifique ": "Helichrysum pagophilum",
       "Synonyme ": "écrit parfois par erreur Helichrysum pagophyllum",
       "Famille ": "Astéracées, Composées",
@@ -2444,6 +2522,7 @@
     },
     {
       "Nom": "Hibiscus des marais, Ketmie des marais",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/hibiscus_moscheutos-fleur-600x450.jpg",
       "N. scientifique ": "Hibiscus moscheutos, Hibiscus palustris",
       "Synonyme ": " Hibiscus palustris",
       "Famille ": "Malvacées",
@@ -2470,6 +2549,7 @@
     },
     {
       "Nom": "Heuchère, Désespoir du peintre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/heuchera-cv-leuchtkafer-600x450.jpg",
       "N. scientifique ": "Heuchera",
       "Famille ": "Saxifragacées",
       "Origine ": "Amérique du nord",
@@ -2499,6 +2579,7 @@
     },
     {
       "Nom": "Herbe aux perruches, Herbe à la ouate, Asclépiade commune",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/asclepias-syriaca-600x450.jpg",
       "N. scientifique ": "Asclepias syriaca",
       "Synonymes ": "Asclepias cornutii, A. apocinatum, A. capitellata, A. globosa",
       "Famille ": "Asclépiadacées",
@@ -2536,6 +2617,7 @@
     },
     {
       "Nom": "Herbe aux écouvillons 'Japonicum'",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/pennisetum-alopecuroides-cv-japonicum-600x450.jpg",
       "N. scientifique ": "Pennisetum alopecuroides 'Japonicum'",
       "Synonyme ": "Pennisetum alopecuroides 'Foxtrot'",
       "Famille ": "Poacées, Graminées",
@@ -2568,6 +2650,7 @@
     },
     {
       "Nom": "Herbe aux écouvillons",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/pennisetum-alopecuroides-cv-weserbergland-600x450.jpg",
       "N. scientifique ": "Pennisetum alopecuroides",
       "Synonyme ": "Pennisetum compressum",
       "Famille ": "Poacées, Graminées",
@@ -2597,6 +2680,7 @@
     },
     {
       "Nom": "Héliopsis, Faux-tournesol, Fausse hélianthe",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/heliopsis-helianthoides-600x450.jpg",
       "N. scientifique ": "Heliopsis helianthoides",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Amérique du Nord",
@@ -2629,6 +2713,7 @@
     },
     {
       "Nom": "Hélénie hybride",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/helenium-x-cv-feuersiegel-600x450.jpg",
       "N. scientifique ": "Helenium x",
       "Famille ": "Astéracées, Composées",
       "Origine ": "horticole",
@@ -2661,6 +2746,7 @@
     },
     {
       "Nom": "Gypsophile paniculée, Gypsophile nuage, Plante brouillard",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/gypsophila-paniculata-600x450.jpg",
       "N. scientifique ": "Gypsophila paniculata",
       "Synonymes ": "Arrostia paniculata, Gypsophila effusa, Gypsophila hungarica, Gypsophila manginii, Gypsophila parviflora",
       "Famille ": "Caryophyllacées",
@@ -2694,6 +2780,7 @@
     },
     {
       "Nom": "Grande marguerite d'été jaune",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/leucanthemum-x-superbum-cv-goldfinch-600x450.jpg",
       "N. scientifique ": "Leucanthemum x superbum 'Goldfinch’",
       "Synonyme ": "Chrysanthemum x superbum",
       "Famille ": "Astéracées, Composées",
@@ -2727,6 +2814,7 @@
     },
     {
       "Nom": "Grande marguerite",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/chrysanthemum-maximum-600x450.jpg",
       "N. scientifique ": "Chrysanthemum maximum",
       "Synonyme ": "Leucanthemum x superbum",
       "Famille ": "Astéracées, Composées",
@@ -2759,6 +2847,7 @@
     },
     {
       "Nom": "Grande Chélidoine à fleurs doubles",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/chelidonium-majus-cv-flore-pleno-600x450.jpg",
       "N. scientifique ": "Chelidonium majus 'Flore Pleno'",
       "Famille ": "Papavéracées",
       "Origine ": "Europe, Asie du nord est",
@@ -2790,6 +2879,7 @@
     },
     {
       "Nom": "Grande astrance, Grande radiaire, Sanicle de montagne",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/astrantia-major-cv-super-star-600x450.jpg",
       "N. scientifique ": "Astrantia major",
       "Famille ": "Apiacées, Ombellifères",
       "Origine ": "Europe centrale et orientale",
@@ -2822,6 +2912,7 @@
     },
     {
       "Nom": "Gingembre orchidée pourpre, Roscoea pourpre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/roscoea-purpurea-600x450.jpg",
       "N. scientifique ": "Roscoea purpurea",
       "Synonyme ": "Roscoea procera",
       "Famille ": "Zingibéracées",
@@ -2854,6 +2945,7 @@
     },
     {
       "Nom": "Géranium vivace, Bec de grue",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/geranium-600x450.jpg",
       "N. scientifique ": "Geranium",
       "Famille ": "Géraniacées",
       "Origine ": "Europpe, moyen-orient, asie",
@@ -2891,6 +2983,7 @@
     },
     {
       "Nom": "Géranium vivace Rozanne",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/geranium-cv-rozanne-600x450.jpg",
       "N. scientifique ": "Geranium 'Rozanne'",
       "Synonymes ": "Geranium 'Gerwat' Rozanne, Geranium 'Jolly Bee'",
       "Famille ": "Géraniacées",
@@ -2924,6 +3017,7 @@
     },
     {
       "Nom": "Géranium vivace psilostemon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/geranium-psilostemon-600x450.jpg",
       "N. scientifique ": "Geranium psilostemon",
       "Famille ": "Géraniacées",
       "Origine ": "Turquie, Arménie, Caucase",
@@ -2955,6 +3049,7 @@
     },
     {
       "Nom": "Géranium vivace de l'Himalaya",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/geranium-himalayense-600x450.jpg",
       "N. scientifique ": "Geranium himalayense",
       "Synonyme ": "Geranium grandiflorum",
       "Famille ": "Géraniacées",
@@ -2987,6 +3082,7 @@
     },
     {
       "Nom": "Géranium vivace à feuilles de crêpe, Géranium vivace de Renard, Géranium du Caucase, Géranium nain",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/geranium-renardii-600x450.jpg",
       "N. scientifique ": "Geranium renardii",
       "Famille ": "Géraniacées",
       "Origine ": "Caucase",
@@ -3019,6 +3115,7 @@
     },
     {
       "Nom": "Géranium oxoniamum",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/geranium-oxonianum-600x450.jpg",
       "N. scientifique ": "Geranium x oxonianum",
       "Synonyme ": "Geranium versicolor x Geranium endressii",
       "Famille ": "Géraniacées",
@@ -3053,6 +3150,7 @@
     },
     {
       "Nom": "Géranium noueux",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/geranium-nodosum-600x450.jpg",
       "N. scientifique ": "Geranium nodosum",
       "Famille ": "Géraniacées",
       "Origine ": "Sud de l'Europe",
@@ -3080,6 +3178,7 @@
     },
     {
       "Nom": "Géranium livide, Géranium brun",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/geranium-phaeum-600x450.jpg",
       "N. scientifique ": "Geranium phaeum",
       "Famille ": "Géraniacées",
       "Origine ": "Europe méridionale",
@@ -3112,6 +3211,7 @@
     },
     {
       "Nom": "Géranium herbe-à-Robert, Bec de grue, Herbe rouge",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/geranium-robertianum-600x450.jpg",
       "N. scientifique ": "Geranium robertianum",
       "Famille ": "Géraniacées",
       "Origine ": "Europe, Asie",
@@ -3143,6 +3243,7 @@
     },
     {
       "Nom": "Géranium des Pyrénées",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/geranium-pyrenaicum-600x450.jpg",
       "N. scientifique ": "Geranium pyrenaicum",
       "Famille ": "Géraniacées",
       "Origine ": "Europe, sud-ouest de l'Asie, Afrique du nord",
@@ -3175,6 +3276,7 @@
     },
     {
       "Nom": "Géranium des prés",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/geranium-pratense-600x450.jpg",
       "N. scientifique ": "Geranium pratense",
       "Famille ": "Géraniacées",
       "Origine ": "Europe, Asie",
@@ -3209,6 +3311,7 @@
     },
     {
       "Nom": "Géranium à grosses racines, Géranium rhizomateux",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/geranium-macrorrhizum-600x450.jpg",
       "N. scientifique ": "Geranium macrorrhizum",
       "Synonyme ": "Geranium armenum",
       "Famille ": "Géraniacées",
@@ -3240,6 +3343,7 @@
     },
     {
       "Nom": "Gazon d'Espagne, Oeillet de mer",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/armeria-maritima-600x450.jpg",
       "N. scientifique ": "Armeria maritima",
       "Famille ": "Plumbaginacées",
       "Origine ": "Europe, Nord de l'Afrique, côte Pacifique des États-Unis",
@@ -3268,6 +3372,7 @@
     },
     {
       "Nom": "Gaura de Lindheimer",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/gaura-lindheimeri-600x450.jpg",
       "N. scientifique ": "Gaura lindheimeri",
       "Famille ": "Onagracées",
       "Origine ": "Etats-Unis",
@@ -3301,6 +3406,7 @@
     },
     {
       "Nom": "Gaillarde vivace à grandes fleurs",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/gaillardia-x-grandiflora-600x450.jpg",
       "N. scientifique ": "Gaillardia x grandiflora",
       "Synonyme ": "Gaillardia aristata x Gaillardia  pulchella",
       "Famille ": "Astéracées, Composées",
@@ -3335,6 +3441,7 @@
     },
     {
       "Nom": "Gaillarde aristée, Gaillarde à feuilles lancéolées, Gaillarde commune",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/gaillardia-aristata-600x450.jpg",
       "N. scientifique ": "Gaillardia aristata",
       "Synonymes ": "Gaillardia bicolor, Gaillardia perennis Gaillardia ridcharsonii",
       "Famille ": "Astéracées, Composées",
@@ -3368,6 +3475,7 @@
     },
     {
       "Nom": "Gaillarde",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/gaillardia-fleur-600x450.jpg",
       "N. scientifique ": "Gaillardia",
       "Famille ": "Astéracées, Composées",
       "Origine ": "États-Unis (centre et Sud) et Amérique du Sud",
@@ -3401,6 +3509,7 @@
     },
     {
       "Nom": "Fuchsia de Californie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/epilobium-canum-600x450.jpg",
       "N. scientifique ": "Epilobium canum",
       "Synonyme ": "Zauschneria californica",
       "Famille ": "Onagracées",
@@ -3433,6 +3542,7 @@
     },
     {
       "Nom": "Faux mouron des savanes, Lindernie à grandes fleurs, Larmes d'ange, Nummulaire bleue",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lindernia-grandiflora-600x450.jpg",
       "N. scientifique ": "Lindernia grandiflora",
       "Synonymes ": "Ilisanthes grandiflora, Ilisanthes floribunda",
       "Famille ": "Scrophulariacées",
@@ -3465,6 +3575,7 @@
     },
     {
       "Nom": "Faux aloès, Tritoma, Tritome, Tison de satan",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/kniphofia-600x450.jpg",
       "N. scientifique ": "Kniphofia",
       "Famille ": "Liliacées",
       "Origine ": "Afrique du sud, Madagascar",
@@ -3496,6 +3607,7 @@
     },
     {
       "Nom": "Etoile du Texas, Ketmie écarlate",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/hibiscus-coccineus-fleur-600x450.jpg",
       "N. scientifique ": "Hibiscus coccineus",
       "Synonyme ": "Hibiscus semilobatus",
       "Famille ": "Malvacées",
@@ -3531,6 +3643,7 @@
     },
     {
       "Nom": "Etoile du sud",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/tweedia-caerulea-600x450.jpg",
       "N. scientifique ": "Tweedia caerulea",
       "Synonyme ": "Oxypetalum cearuleum",
       "Famille ": "Asclépiadacées",
@@ -3562,6 +3675,7 @@
     },
     {
       "Nom": "Ephémère de virginie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/tradescantia-x-andersoniana-600x450.jpg",
       "N. scientifique ": "Tradescantia x andersoniana",
       "Synonyme ": "Tradescantia virginiana",
       "Famille ": "Commelinacées",
@@ -3594,6 +3708,7 @@
     },
     {
       "Nom": "Edelweiss, Etoile d'argent",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/leontopodium-alpinum-600x450.jpg",
       "N. scientifique ": "Leontopodium alpinum",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Montagnes d'Europe",
@@ -3627,6 +3742,7 @@
     },
     {
       "Nom": "Echinacée pourpre, Rudbeckie pourpre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/echinacea-pupurea-600x450.jpg",
       "N. scientifique ": "Rudbeckia purpurea, Echinacea purpurea ",
       "Synonyme ": " Echinacea purpurea ",
       "Famille ": "Astéracées, Composées",
@@ -3661,6 +3777,7 @@
     },
     {
       "Nom": "Dentelaire de Lady Larpent, Dentelaire bleue",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/ceratostigma-plumbaginoides-fleur-600x450.jpg",
       "N. scientifique ": "Ceratostigma plumbaginoides",
       "Synonymes ": "Plumbago larpentae, Valoradia plumbaginoides",
       "Famille ": "Plumbaginacées",
@@ -3694,6 +3811,7 @@
     },
     {
       "Nom": "Crucianelle, Lilas de terre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/phuopsis-stylosa-600x450.jpg",
       "N. scientifique ": "Phuopsis stylosa",
       "Synonyme ": "Crucianella stylosa",
       "Famille ": "Rubiacées",
@@ -3728,6 +3846,7 @@
     },
     {
       "Nom": "Croix de Malte",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/lychnis-x-arkwrightii-600x450.jpg",
       "N. scientifique ": "Lychnis x arkwrightii",
       "Famille ": "Caryophyllacées",
       "Origine ": "Hybride horticole",
@@ -3760,6 +3879,7 @@
     },
     {
       "Nom": "Croix de Jérusalem, Croix de Malte",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lychnis-chalcedonica-fleur-600x450.jpg",
       "N. scientifique ": "Lychnis chalcedonica",
       "Famille ": "Caryophyllacées",
       "Origine ": "Asie",
@@ -3793,6 +3913,7 @@
     },
     {
       "Nom": "Cornouiller du Canada, Quatre-temps",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cornus-canadensis-600x450.jpg",
       "N. scientifique ": "Cornus canadensis",
       "Famille ": "Cornacées",
       "Origine ": "Amérique du nord",
@@ -3825,6 +3946,7 @@
     },
     {
       "Nom": "Coréopsis verticillé, Coréopsis à feuilles en aiguille",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/coreopsis-verticillata-cv-moonbeam-600x450.jpg",
       "N. scientifique ": "Coreopsis verticillata",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Est des États-Unis",
@@ -3857,6 +3979,7 @@
     },
     {
       "Nom": "Coréopsis à feuilles lancéolées, Coréopsis des sables",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/coreopsis-lanceolata-cv-sterntaler-600x450.jpg",
       "N. scientifique ": "Coreopsis lanceolata",
       "Synonymes ": "Coreopsis crassifolia, Coreopsis heterogynaidae",
       "Famille ": "Astéracées, Composées",
@@ -3886,6 +4009,7 @@
     },
     {
       "Nom": "Coréopsis",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/coreopsis-600x450.jpg",
       "N. scientifique ": "Coreopsis",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Etat-Unis, Méxique",
@@ -3922,6 +4046,7 @@
     },
     {
       "Nom": "Cirse des ruisseaux pourpre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/cirsium-rivulare-cv-atropurpureum-600x450.jpg",
       "N. scientifique ": "Cirsium rivulare 'Atropurpureum'",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Europe, Asie",
@@ -3954,6 +4079,7 @@
     },
     {
       "Nom": "Cierge d’argent, Cimicaire",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cimicifuga-matsumurae-cv-elstead-600x450.jpg",
       "N. scientifique ": "Actaea matsumurae",
       "Synonymes ": "Cimicifuga matsumurae, Actaea simplex",
       "Famille ": "Renonculacées",
@@ -3988,6 +4114,7 @@
     },
     {
       "Nom": "Chardon bleu, Boule azurée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/echinops-ritro-fleur-600x450.jpg",
       "N. scientifique ": "Echinops ritro",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Bassin méditerranéen",
@@ -4022,6 +4149,7 @@
     },
     {
       "Nom": "Chardon africain pourpre, Verkheya pourpre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/berkheya-purpurea-600x450.jpg",
       "N. scientifique ": "Berkheya purpurea",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Afrique du Sud",
@@ -4053,6 +4181,7 @@
     },
     {
       "Nom": "Centaurée des montagnes, Bleuet vivace",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/centaurea-montana-fleur-600x450.jpg",
       "N. scientifique ": "Centaurea montana",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Europe",
@@ -4082,6 +4211,7 @@
     },
     {
       "Nom": "Centaurée de Fischer, Centaurée blanche",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/centaurea-fischeri-600x450.jpg",
       "N. scientifique ": "Centaurea fischeri",
       "Synonymes ": "Cyanus  fischeri, Centaurea cheiranthifolia",
       "Famille ": "Astéracées, Composées",
@@ -4115,6 +4245,7 @@
     },
     {
       "Nom": "Carpette argentée, Mouton végétal",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/raoulia-hookeri-600x450.jpg",
       "N. scientifique ": "Raoulia hookeri",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Nouvelle-Zélande",
@@ -4141,6 +4272,7 @@
     },
     {
       "Nom": "Carpette argentée, Mouton végétal",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/raoulia-australis-600x450.jpg",
       "N. scientifique ": "Raoulia australis",
       "Synonyme ": "Raoulia lutescens",
       "Famille ": "Astéracées, Composées",
@@ -4173,6 +4305,7 @@
     },
     {
       "Nom": "Campanule pyramidale",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/campanula-pyramidalis-600x450.jpg",
       "N. scientifique ": "Campanula pyramidalis",
       "Synonyme ": "Campanula umbellulifera",
       "Famille ": "Campanulacées",
@@ -4205,6 +4338,7 @@
     },
     {
       "Nom": "Campanule ponctuée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/campanula-punctata-600x450.jpg",
       "N. scientifique ": "Campanula punctata",
       "Synonyme ": "Campanula takesimana",
       "Famille ": "Campanulacées",
@@ -4241,6 +4375,7 @@
     },
     {
       "Nom": "Campanule laiteuse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/campanula-lactiflora-600x450.jpg",
       "N. scientifique ": "Campanula lactiflora",
       "Synonymes ": "Campanula biserrata, Campanula celtidifolia, Campanula hispida",
       "Famille ": "Campanulacées",
@@ -4276,6 +4411,7 @@
     },
     {
       "Nom": "Campanule gantelée, Campanule à feuilles d'ortie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/campanula-trachelium-600x450.jpg",
       "N. scientifique ": "Campanula trachelium",
       "Famille ": "Campanulacées",
       "Origine ": "Europe, Asie",
@@ -4309,6 +4445,7 @@
     },
     {
       "Nom": "Campanule fausse-raiponce",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/campanula-rapunculoides-600x450.jpg",
       "N. scientifique ": "Campanula rapunculoides",
       "Famille ": "Campanulacées",
       "Origine ": "Europe, ouest de l'Asie",
@@ -4341,6 +4478,7 @@
     },
     {
       "Nom": "Campanule des murailles, Campanule de Dalmatie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/campanula-muralis-600x450.jpg",
       "N. scientifique ": "Campanula portenschlagiana",
       "Synonyme ": "Campanula muralis",
       "Famille ": "Campanulacées",
@@ -4376,6 +4514,7 @@
     },
     {
       "Nom": "Campanule des Carpates",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/campanula-carpatica-600x450.jpg",
       "N. scientifique ": "Campanula carpatica",
       "Famille ": "Campanulacées",
       "Origine ": "Europe centrale",
@@ -4411,6 +4550,7 @@
     },
     {
       "Nom": "Campanule agglomérée, Campanule à bouquet, Campanule à fleurs agglomérées",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/campanula-glomerata-600x450.jpg",
       "N. scientifique ": "Campanula glomerata",
       "Synonymes ": "Campanula aggregata  Campanula conglomerata, Campanula cephalantha, Campanula congesta, Campanula ortleppi",
       "Famille ": "Campanulacées",
@@ -4446,6 +4586,7 @@
     },
     {
       "Nom": "Campanule à grandes fleurs, Platycodon à grandes fleurs, Fleur ballon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/platycodon-grandiflorus-cv-fuji-pink-600x450.jpg",
       "N. scientifique ": "Platycodon grandiflorus",
       "Synonymes ": "Campanula glauca, Platycodon glaucus",
       "Famille ": "Campanulacées",
@@ -4482,6 +4623,7 @@
     },
     {
       "Nom": "Campanule à feuilles rondes",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/campanula-rotundifolia-600x450.jpg",
       "N. scientifique ": "Campanula rotundifolia",
       "Famille ": "Campanulacées",
       "Origine ": "Amérique du Nord, Europe et Asie",
@@ -4514,6 +4656,7 @@
     },
     {
       "Nom": "Campanule à feuilles de pêcher",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/campanula-persicifolia-fleur-600x450.jpg",
       "N. scientifique ": "Campanula persicifolia",
       "Famille ": "Campanulacées",
       "Origine ": "Centre et sud de l'Europe",
@@ -4548,6 +4691,7 @@
     },
     {
       "Nom": "Buglosse d’Italie, Buglosse azurée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/anchusa-azurea-cv-dropmore-600x450.jpg",
       "N. scientifique ": "Anchusa azurea",
       "Synonyme ": "Anchusa italica",
       "Famille ": "Boraginacées, Borraginacées, Boragacées",
@@ -4579,6 +4723,7 @@
     },
     {
       "Nom": "Boule d'or, Trolle d'Europe, Trolle des montagnes",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/trollius-europaeus-600x450.jpg",
       "N. scientifique ": "Trollius europaeus",
       "Famille ": "Renonculacées",
       "Origine ": "Europe",
@@ -4612,6 +4757,7 @@
     },
     {
       "Nom": "Bouclier persan rustique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/strobilanthes-atropurpureus-600x450.jpg",
       "N. scientifique ": "Strobilanthes atropurpureus",
       "Synonyme ": "Ruellia atropurpurea",
       "Famille ": "Acanthacées",
@@ -4644,6 +4790,7 @@
     },
     {
       "Nom": "Boltonia faux aster, Aster étoilé, Boltonia fausse camomille",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/boltonia-asteroides-var-latisquama-cv-nana-600x450.jpg",
       "N. scientifique ": "Boltonia asteroides",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Amérique du Nord",
@@ -4677,6 +4824,7 @@
     },
     {
       "Nom": "Benoîte coccinelle",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/geum-coccineum-600x450.jpg",
       "N. scientifique ": "Geum coccineum",
       "Famille ": "Rosacées",
       "Origine ": "Europe",
@@ -4706,6 +4854,7 @@
     },
     {
       "Nom": "Bégonia ‘Silver Splendor’",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/begonia-cv-silver-splendor-600x450.jpg",
       "N. scientifique ": "Begonia x ‘Silver Splendor’",
       "Famille ": "Bégoniacées",
       "Origine ": "horticole",
@@ -4733,6 +4882,7 @@
     },
     {
       "Nom": "Bégonia vivace de Madame Evans, Bégonia rustique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/begonia-grandis-ssp-evansiana-600x450.jpg",
       "N. scientifique ": "Begonia grandis ssp. evansiana",
       "Synonymes ": "Begonia evansiana, Begonia grandis, Begonia discolor",
       "Famille ": "Bégoniacées",
@@ -4765,6 +4915,7 @@
     },
     {
       "Nom": "Azorelle, Coussin des Andes",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/azorella-trifurcata-600x450.jpg",
       "N. scientifique ": "Azorella trifurcata",
       "Synonymes ": "Bolax  gummifera, Bolax glebaria",
       "Famille ": "Apiacées, Ombellifères",
@@ -4792,6 +4943,7 @@
     },
     {
       "Nom": "Astilbe",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/astilbe-fleur-600x450.jpg",
       "N. scientifique ": "Astilbe",
       "Famille ": "Saxifragacées",
       "Origine ": "Dans les milieux humides en altitude de l'Asie et de l'Amérique du Nord",
@@ -4827,6 +4979,7 @@
     },
     {
       "Nom": "Aster japonais",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/kalimeris-pinnatifida-cv-hortensis-600x450.jpg",
       "N. scientifique ": "Kalimeris pinnatifida",
       "Synonymes ": "Asteromoea mongolica, Asteromoea pinnatifida, Kalimeris mongolica, Aster cantoniensis, Boltonia cantoniensis",
       "Famille ": "Astéracées, Composées",
@@ -4860,6 +5013,7 @@
     },
     {
       "Nom": "Aster des Pyrénées Lutetia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/aster-pyrenaeus-cv-lutetia-600x450.jpg",
       "N. scientifique ": "Aster pyrenaeus 'Lutetia'",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Amérique du Nord",
@@ -4889,6 +5043,7 @@
     },
     {
       "Nom": "Aster de Chine, Bleuet de Stoke, Bleuet d'Amérique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/stokesia-laevis-cv-mels-blue-600x450.jpg",
       "N. scientifique ": "Stokesia laevis",
       "Synonymes ": "Stokesia  cyanea, Carthamus laevis",
       "Famille ": "Astéracées, Composées",
@@ -4922,6 +5077,7 @@
     },
     {
       "Nom": "Aster datschii",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aster-cv-datschii-600x450.jpg",
       "N. scientifique ": "Aster x datschii",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Amérique du Nord, probable hybride",
@@ -4953,6 +5109,7 @@
     },
     {
       "Nom": "Armoise",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/artemisia-absinthium-600x450.jpg",
       "N. scientifique ": "Artemisia",
       "Famille ": "Astéracées, Composées",
       "Floraison": "été",
@@ -4981,6 +5138,7 @@
     },
     {
       "Nom": "Anémone du Japon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/anemone-hupehensis-var-japonica-600x450.jpg",
       "N. scientifique ": "Anemone hupehensis var. Japonica",
       "Synonymes ": "Anemone japonica, Anemone x hybrida",
       "Famille ": "Renonculacées",
@@ -5014,6 +5172,7 @@
     },
     {
       "Nom": "Amsonie bleue, Etoile bleue, Amsonie à larges feuilles",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/amsonia-tabernaemontana-cv-blue-ice-600x450.jpg",
       "N. scientifique ": "Amsonia tabernaemontana",
       "Famille ": "Apocynacées",
       "Origine ": "Amérique du Nord",
@@ -5045,6 +5204,7 @@
     },
     {
       "Nom": "Amarantine du Rio Grande, Gomphréna écarlate",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/gomphrena-haageana-600x450.jpg",
       "N. scientifique ": "Gomphrena haageana",
       "Famille ": "Amaranthacées",
       "Origine ": "Amérique centrale",
@@ -5074,6 +5234,7 @@
     },
     {
       "Nom": "Alchémille mollis, Manteau de notre dame",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/alchemilla-mollis-600x450.jpg",
       "N. scientifique ": "Alchemilla mollis",
       "Famille ": "Rosacées",
       "Origine ": "Europe, Asie",
@@ -5106,6 +5267,7 @@
     },
     {
       "Nom": "Alcalthéa",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/alcalthaea-suffrutescens-cv-parkrondell-600x450.jpg",
       "N. scientifique ": "Alcalthaea suffrutescens",
       "Synonyme ": "X Alcalthaea suffrutescens",
       "Famille ": "Malvacées",
@@ -5139,6 +5301,7 @@
     },
     {
       "Nom": "Agératum sauvage, Eupatoire à fleurs d'agératum",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/conoclinium-coelestinum-600x450.jpg",
       "N. scientifique ": "Conoclinium coelestinum",
       "Synonyme ": "Eupatorium coelestinum",
       "Famille ": "Astéracées, Composées",
@@ -5172,6 +5335,7 @@
     },
     {
       "Nom": "Agastache fenouil, Grande hysope, Hysope anisée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/agastache-foeniculum-600x450.jpg",
       "N. scientifique ": "Agastache foeniculum",
       "Synonyme ": "Agastache anethiodora",
       "Famille ": "Labiacées, Lamiacées, Labiées",
@@ -5203,6 +5367,7 @@
     },
     {
       "Nom": "Aconit de Carmichael, Aconit chinois, Casque de Jupiter",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/aconitum-carmichaelii-cv-arendsii-600x450.jpg",
       "N. scientifique ": "Aconitum carmichaelii",
       "Synonyme ": "Aconitum fischeri",
       "Famille ": "Renonculacées",
@@ -5238,6 +5403,7 @@
     },
     {
       "Nom": "Achillée millefeuille, Herbe aux charpentiers",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/achillea-millefolium-cv-red-velvet-600x450.jpg",
       "N. scientifique ": "Achillea millefolium",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Europe, Asie du nord",
@@ -5270,6 +5436,7 @@
     },
     {
       "Nom": "Achillée jaune, Achillée Eupatoire",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/achillea-filipendulina-cv-moonshine-600x450.jpg",
       "N. scientifique ": "Achillea filipendulina",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Caucase, Asie du Sud-ouest",
@@ -5302,6 +5469,7 @@
     },
     {
       "Nom": "Achillée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/achillea-millefolium-cv-apricot-delight-600x450.jpg",
       "N. scientifique ": "Achillea",
       "Famille ": "Astéracées, Composées",
       "Origine ": "régions tempérées de l'hémisphère Nord",
@@ -5338,6 +5506,7 @@
     },
     {
       "Nom": "Plante corail",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/berberidopsis-corallina-600x450.jpg",
       "N. scientifique ": "Berberidopsis corallina",
       "Famille ": "Berberidopsidacées",
       "Origine ": "Chili",
@@ -5369,6 +5538,7 @@
     },
     {
       "Nom": "Passiflore bleue",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/passiflora-caerulea-fleur-600x450.jpg",
       "N. scientifique ": "Passiflora caerulea",
       "Famille ": "Passifloracées",
       "Origine ": "Amérique du sud, Brésil ",
@@ -5405,6 +5575,7 @@
     },
     {
       "Nom": "Muehlenbeckie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/muehlenbeckia-complexa-600x450.jpg",
       "N. scientifique ": "Muehlenbeckia complexa",
       "Synonyme ": "Muehlenbeckia microphylla",
       "Famille ": "Polygonacées",
@@ -5437,6 +5608,7 @@
     },
     {
       "Nom": "Jasmin de Virginie, Jasmin trompette, Bignone",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/campsis-600x450.jpg",
       "N. scientifique ": "Campsis",
       "Famille ": "Bignoniacées",
       "Origine ": "Amérique du nord, Chine et Japon",
@@ -5472,6 +5644,7 @@
     },
     {
       "Nom": "Jasmin blanc, Jasmin officinal",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/jasminum-officinalis-fleur-600x450.jpg",
       "N. scientifique ": "Jasminum officinalis",
       "Famille ": "Oléacées",
       "Origine ": "Asie",
@@ -5504,6 +5677,7 @@
     },
     {
       "Nom": "Hydrangéa grimpant du Pérou",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/hydrangea-peruviana-600x450.jpg?1",
       "N. scientifique ": "Hydrangea peruviana",
       "Synonymes ": "Hydrangea peruviana var oerstediana, Hydrangea seemannii",
       "Famille ": "Hydrangeacées, Philadelphacées",
@@ -5536,6 +5710,7 @@
     },
     {
       "Nom": "Hortensia grimpant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/hydrangea-petiolaris-fleur-600x450.jpg",
       "N. scientifique ": "Hydrangea petiolaris",
       "Synonyme ": "Hydrangea scandens",
       "Famille ": "Hydrangeacées, Philadelphacées",
@@ -5570,6 +5745,7 @@
     },
     {
       "Nom": "Haricot d'Espagne, Haricot écarlate",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/phaseolus-coccineus-600x450.jpg",
       "N. scientifique ": "Phaseolus coccineus",
       "Famille ": "Légumineuses, Fabacées, Papilionacées",
       "Origine ": "Mexique",
@@ -5597,6 +5773,7 @@
     },
     {
       "Nom": "Glycine persistante, Glycine d'été",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/millettia-japonica-cv-satsuma-600x450.jpg",
       "N. scientifique ": "Millettia japonica 'Satsuma'",
       "Synonymes ": "Wisteria taiwanensis 'Pinot Noir', Milletia reticulata",
       "Famille ": "Légumineuses, Fabacées, Papilionacées",
@@ -5630,6 +5807,7 @@
     },
     {
       "Nom": "Fuchsia royal Reitzii, Fuschia grimpant rustique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/fuchsia-regia-ssp-reitzii-600x450.jpg",
       "N. scientifique ": "Fuchsia regia ssp. Reitzii",
       "Famille ": "Onagracées",
       "Origine ": "Brésil",
@@ -5660,6 +5838,7 @@
     },
     {
       "Nom": "Fuchsia royal",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/fuchsia-regia-600x450.jpg",
       "N. scientifique ": "Fuchsia regia",
       "Famille ": "Onagracées",
       "Origine ": "Brésil",
@@ -5691,6 +5870,7 @@
     },
     {
       "Nom": "Dicentra grimpant, Larmes d'or",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/dicentra-scandens-600x450.jpg",
       "N. scientifique ": "Dactylocapnos scandens",
       "Synonymes ": "Dicentra thalictrifolia, Dactylicapnos trifolia, Dicentra scandens",
       "Famille ": "Papavéracées",
@@ -5723,6 +5903,7 @@
     },
     {
       "Nom": "Cobée vivace de Pringle",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cobaea-pringlei-600x450.jpg",
       "N. scientifique ": "Cobaea pringlei",
       "Synonyme ": "Cobaea foetidissima",
       "Famille ": "Polémoniacées",
@@ -5754,6 +5935,7 @@
     },
     {
       "Nom": "Chèvrefeuille grimpant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lonicera-cv-goldflame-600x450.jpg",
       "N. scientifique ": "Lonicera",
       "Famille ": "Caprifoliacées",
       "Origine ": "Asie, Europe",
@@ -5785,6 +5967,7 @@
     },
     {
       "Nom": "Bignone, Jasmin de Virginie, Jasmin trompette",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/campsis-radicans-600x450.jpg",
       "N. scientifique ": "Campsis radicans",
       "Synonymes ": "Bignonia radicans, Tecoma radicans",
       "Famille ": "Bignoniacées",
@@ -5817,6 +6000,7 @@
     },
     {
       "Nom": "Bignone Madame Galen",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/campsis-x-tagliabuana-cv-madame-galen-600x450.jpg",
       "N. scientifique ": "Campsis x tagliabuana 'Madame Galen'",
       "Synonyme ": "Campsis x hybrida 'Madame Galen'",
       "Famille ": "Bignoniacées",
@@ -5849,6 +6033,7 @@
     },
     {
       "Nom": "Bignone jaune",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/campsis-radicans-cv-flava-600x450.jpg",
       "N. scientifique ": "Campsis radicans 'Flava'",
       "Synonymes ": "Campsis radicans 'Yellow Trompette', Bigninia radicans, Tecoma radicans",
       "Famille ": "Bignoniacées",
