@@ -2,7 +2,37 @@
   "category": "Plantes du balcon et de la terrasse",
   "data": [
     {
+      "Nom": "Biden à feuilles de férule",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/bidens-ferulifolia-600x450.jpg",
+      "N. scientifique ": "Bidens ferulifolia",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Mexique",
+      "Floraison": "de juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "fleur",
+      "Végétation": "vivace cultivée comme annuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "40 cm",
+      "Rusticité ": "   5°C, gélive ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche, bien drainé",
+      "Acidité ": "neutre à légèrement acide",
+      "Humidité ": "normal",
+      "Utilisation": "bordure, massif, pot, suspension, jardinière",
+      "Plantation": "printemps",
+      "Multiplication": "semis en février-mars au chaud, bouturage",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "résistant au maladies"
+    },
+    {
       "Nom": "Scaévola, Fleur éventail de fée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/scaevola-aemula-cv-whirlwind-blue-600x450.jpg",
       "N. scientifique ": "Scaevola aemula",
       "Synonyme ": "Scavolea saligna",
       "Famille ": "Goodéniacées",
@@ -28,6 +58,7 @@
     },
     {
       "Nom": "Pélargonium des fleuristes, Pélargonium régal, Géranium à grandes fleurs",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/pelargonium-x-grandiflorum-fleur-600x450.jpg",
       "N. scientifique ": "Pelargonium x domesticum, Pelargonium x grandiflorum",
       "Synonyme ": "Pelargonium x grandiflorum",
       "Famille ": "Géraniacées",
@@ -60,6 +91,7 @@
     },
     {
       "Nom": "Némésie, Miroir des Elfes",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/nemesia-hybrida-cv-magma-orange-600x450.jpg",
       "N. scientifique ": "Nemesia",
       "Famille ": "Scrophulariacées",
       "Origine ": "Afrique du sud",
@@ -91,6 +123,7 @@
     },
     {
       "Nom": "Lysimaque",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lysimachia-congestiflora-600x450.jpg",
       "N. scientifique ": "Lysimachia congestiflora",
       "Famille ": "Primulacées",
       "Origine ": "Chine",
@@ -124,6 +157,7 @@
     },
     {
       "Nom": "Gerbera Garvinea",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/gerbera-x-jamesonii-cv-garvinea-sweet-glow-600x450.jpg",
       "N. scientifique ": "Gerbera x jamesonii Garvinea",
       "Famille ": "Astéracées, Composées",
       "Origine ": "horticole",
@@ -157,6 +191,7 @@
     },
     {
       "Nom": "Géranium zonale, Pélargonium du groupe zonale",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/pelargonium-x-hortorum-600x450.jpg",
       "N. scientifique ": "Pelargonium x Hortorum",
       "Famille ": "Géraniacées",
       "Origine ": "horticole",
@@ -181,6 +216,7 @@
     },
     {
       "Nom": "Géranium rosat",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/pelargonium-graveolens-600x450.jpg",
       "N. scientifique ": "Pelargonium graveolens",
       "Famille ": "Géraniacées",
       "Origine ": "Afrique du sud",
@@ -207,6 +243,7 @@
     },
     {
       "Nom": "Géranium odorant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/pelargonium-crispum-600x450.jpg",
       "N. scientifique ": "Pelargonium crispum",
       "Famille ": "Géraniacées",
       "Origine ": "Afrique du sud",
@@ -233,6 +270,7 @@
     },
     {
       "Nom": "Géranium lierre, Géranium des balcons",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/pelargonium-x-hederaefolium-600x450.jpg",
       "N. scientifique ": "Pelargonium x Hederaefolium",
       "Synonymes ": "Pelargonium peltatum, Pelargonium x hederaefolium",
       "Famille ": "Géraniacées",
@@ -261,6 +299,7 @@
     },
     {
       "Nom": "Géranium citronnelle, Pélargonium citron",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/pelargonium-citronellum-600x450.jpg",
       "N. scientifique ": "Pelargonium citronellum",
       "Famille ": "Géraniacées",
       "Origine ": "Afrique du Sud",
@@ -291,6 +330,7 @@
     },
     {
       "Nom": "Fuchsia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/fuchsia-600x450.jpg",
       "N. scientifique ": "Fuchsia",
       "Famille ": "Onagracées",
       "Origine ": "Amérique du sud",
@@ -322,40 +362,8 @@
       "Sensibilité ": "l'oïdium, la rouille, les perces-oreilles, les pucerons, les araignées rouges, les aleurodes, la pourriture grise"
     },
     {
-      "Nom": "Comment hiverner un fuchsia en pot ?"
-    },
-    {
-      "Nom": "Fuchsia paniculé, Fuchsia à fleurs de lilas",
-      "N. scientifique ": "Fuchsia paniculata",
-      "Famille ": "Onagracées",
-      "Origine ": "Sud du Mexique et Panama",
-      "Floraison": "d’avril jusqu’à novembre",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "plante arbustive, voire arborescente",
-      "Végétation": "vivace",
-      "Feuillage ": "semi-persistant",
-      "Hauteur": "jusqu'à 3 m",
-      "Rusticité ": [
-        "  ",
-        "  moyennement rustique, -9°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "riche et humifère",
-      "Acidité ": "acide à neutre",
-      "Humidité ": "frais",
-      "Utilisation": "potée, pleine terre",
-      "Plantation": "printemps",
-      "Multiplication": "bouturage, semis",
-      "Taille": "taille de mise en forme sévère au printemps ou à l'automne"
-    },
-    {
       "Nom": "Diascie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/diascia-fetcaniensis-600x450.jpg",
       "N. scientifique ": "Diascia fetcaniensis",
       "Famille ": "Scrophulariacées",
       "Origine ": "Afrique du Sud",
@@ -385,10 +393,16 @@
       "Multiplication": "bouture, semis"
     },
     {
-      "Nom": "Des géraniums aux senteurs de citron"
+      "Nom": "Des géraniums aux senteurs de citron",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img7/pelargonium-crispum-600x450.jpg"
+    },
+    {
+      "Nom": "Comment hiverner un fuchsia en pot ?",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/fuchsia-fleurs-600x450.jpg"
     },
     {
       "Nom": "Bégonia tubéreux",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/begonia-tubereux-600x450.jpg",
       "N. scientifique ": "Begonia x tuberhybrida",
       "Famille ": "Bégoniacées",
       "Origine ": "Amérique centrale, Amérique du sud",
@@ -420,7 +434,39 @@
       "Sensibilité ": "la fonte des semis, l'oïdium, le botrytis, les limaces"
     },
     {
+      "Nom": "Fuchsia paniculé, Fuchsia à fleurs de lilas",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/fuchsia-paniculata-600x450.jpg",
+      "N. scientifique ": "Fuchsia paniculata",
+      "Famille ": "Onagracées",
+      "Origine ": "Sud du Mexique et Panama",
+      "Floraison": "d’avril jusqu’à novembre",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "plante arbustive, voire arborescente",
+      "Végétation": "vivace",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "jusqu'à 3 m",
+      "Rusticité ": [
+        "  ",
+        "  moyennement rustique, -9°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "acide à neutre",
+      "Humidité ": "frais",
+      "Utilisation": "potée, pleine terre",
+      "Plantation": "printemps",
+      "Multiplication": "bouturage, semis",
+      "Taille": "taille de mise en forme sévère au printemps ou à l'automne"
+    },
+    {
       "Nom": "Verveine hybride",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/verbena-hybrida-cv-tukana-sweet-stripe-600x450.jpg",
       "N. scientifique ": "Verbena x hybrida",
       "Synonyme ": "Verbena hortensis",
       "Famille ": "Verbénacées",
@@ -452,6 +498,7 @@
     },
     {
       "Nom": "Surfinia, Pétunia retombant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/petunia-fuchsia-600x450.jpg",
       "N. scientifique ": "Petunia x 'Surfinia'",
       "Famille ": "Solanacées",
       "Origine ": "horticole",
@@ -475,6 +522,7 @@
     },
     {
       "Nom": "Salpiglossis à fleurs changeantes, Trompette de velours",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/salpiglossis-sinuata-600x450.jpg",
       "N. scientifique ": "Salpiglossis sinuata",
       "Famille ": "Solanacées",
       "Origine ": "PLes Andes : Argentine, Chili",
@@ -512,6 +560,7 @@
     },
     {
       "Nom": "Rose d'Inde",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/tagetes-erecta-600x450.jpg",
       "N. scientifique ": "Tagetes erecta",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Mexique, Amérique centrale",
@@ -537,6 +586,7 @@
     },
     {
       "Nom": "Pétunia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/petunia-x-cv-surfinia-600x450.jpg",
       "N. scientifique ": "Petunia x",
       "Famille ": "Solanacées",
       "Origine ": "horticole",
@@ -562,6 +612,7 @@
     },
     {
       "Nom": "Oeillet d'Inde",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/tagetes-patula-fleur-600x450.jpg",
       "N. scientifique ": "Tagetes patula",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Sud des États-Unis et Mexique",
@@ -594,6 +645,7 @@
     },
     {
       "Nom": "Lobelia annuelle, Lobelia de bordure, Lobélie érine, Lobélia bleue",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lobelia-erinus-600x450.jpg",
       "N. scientifique ": "Lobelia erinus",
       "Synonymes ": "Lobelia acutangulan,  Lobelia algoensis, Lobelia altimontis, Lobelia bellidifolia",
       "Famille ": "Campanulacées",
@@ -626,6 +678,7 @@
     },
     {
       "Nom": "Impatiens SunPatiens®",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/impatiens-cv-sunpatiens-600x450.jpg",
       "N. scientifique ": "Impatiens SunPatiens®",
       "Famille ": "Balsaminacées",
       "Origine ": "horticole",
@@ -655,6 +708,7 @@
     },
     {
       "Nom": "Impatience de Nouvelle-Guinée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/impatiens-x-novae-guinea-600x450.jpg",
       "N. scientifique ": "Impatiens",
       "Famille ": "Balsaminacées",
       "Origine ": "Nouvelle-Guinée",
@@ -681,6 +735,7 @@
     },
     {
       "Nom": "Diascia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/diascia-x-600x450.jpg",
       "N. scientifique ": "Diascia ",
       "Famille ": "Scrophulariacées",
       "Origine ": "Afrique du sud, horticole",
@@ -712,6 +767,7 @@
     },
     {
       "Nom": "Diascia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/diascia-barbarae-cv-flying-color-trailing-antique-rose-600x450.jpg",
       "N. scientifique ": "Diascia barberae",
       "Famille ": "Scrophulariacées",
       "Origine ": "Afrique du Sud",
@@ -742,6 +798,7 @@
     },
     {
       "Nom": "Calibrachoa hybride",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/calibrachoa-x-serie-millions-bells-600x450.jpg",
       "N. scientifique ": "Calibrachoa x",
       "Famille ": "Solanacées",
       "Origine ": "horticole",
@@ -772,34 +829,6 @@
       "Utilisation": "massif, balcon, jardinière",
       "Plantation": "printemps",
       "Multiplication": "boutures, semis"
-    },
-    {
-      "Nom": "Biden à feuilles de férule",
-      "N. scientifique ": "Bidens ferulifolia",
-      "Famille ": "Astéracées, Composées",
-      "Origine ": "Mexique",
-      "Floraison": "de juillet à septembre",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "fleur",
-      "Végétation": "vivace cultivée comme annuelle",
-      "Feuillage ": "persistant",
-      "Hauteur": "40 cm",
-      "Rusticité ": "   5°C, gélive ",
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "riche, bien drainé",
-      "Acidité ": "neutre à légèrement acide",
-      "Humidité ": "normal",
-      "Utilisation": "bordure, massif, pot, suspension, jardinière",
-      "Plantation": "printemps",
-      "Multiplication": "semis en février-mars au chaud, bouturage",
-      "Taille": "pas de taille nécessaire",
-      "Sensibilité ": "résistant au maladies"
     }
   ]
 }

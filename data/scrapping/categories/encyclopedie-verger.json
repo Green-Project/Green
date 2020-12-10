@@ -2,516 +2,8 @@
   "category": "Plantes du verger",
   "data": [
     {
-      "Nom": "Bergamotier (Bergamote)",
-      "N. scientifique ": "Citrus bergamia",
-      "Famille ": "Rutacées",
-      "Origine ": "inconnue",
-      "Floraison": "été",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "agrume",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "4m maxi en pleine terre",
-      "Rusticité ": "   peu rustique, -5°C min ",
-      "Exposition ": [
-        "  ",
-        "  ensoleillée "
-      ],
-      "Sol": "riche et drainant",
-      "Acidité ": "tolérant",
-      "Humidité ": "normal à frais",
-      "Utilisation": "potée, serre, véranda, pleine terre",
-      "Plantation": "printemps, été",
-      "Multiplication": "greffage",
-      "Sensibilité ": "cochenilles, maladies cryptogamiques"
-    },
-    {
-      "Nom": "Coqueret du Pérou",
-      "N. scientifique ": "Physalis peruviana",
-      "Synonyme ": "Physalis edulis",
-      "Famille ": "Solanacées",
-      "Origine ": "Amérique centrale, Pérou",
-      "Floraison": "mai",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "fruit",
-      "Végétation": "vivace cultivée en annuelle au potager",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 1 à 1,5 m",
-      "Toxicité": "Le fruit est comestible à maturité",
-      "Rusticité ": [
-        "  ",
-        "  moyennement rustique, prévoir une protection hivernale dans les régions nord "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "riche en compost, drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "potager, fruits séchés, pot, bac",
-      "Plantation": "printemps",
-      "Multiplication": "semis en mars-avril, division de la touffe en tranchant à la bêche, bouturage",
-      "Taille": "Plante à tendance envahissante",
-      "Sensibilité ": "les aleurodes et les pucerons surtout en serre, la rouille"
-    },
-    {
-      "Nom": "Fruit du dragon rouge, Pitaya rouge",
-      "N. scientifique ": "Hylocereus undatus",
-      "Synonyme ": "Lespimium cruciforme",
-      "Famille ": "Cactacées, Cactées, Cactus",
-      "Origine ": "Amérique tropicale",
-      "Floraison": "juin à septembre",
-      "Fleurs ": [
-        "     ",
-        "   crème, jaune, rose "
-      ],
-      "Type": "cactus grimpant et fruitier",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1 à 10 m",
-      "Rusticité ": "   non rustique, -1 °C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  mi-ombre à ensoleillée "
-      ],
-      "Sol": "riche et humifère",
-      "Acidité ": "légèrement acide à neutre",
-      "Humidité ": "normal",
-      "Utilisation": "véranda, pot à l'extérieur, cultivé pour son fruit ou ses énormes fleurs, porte-greffe",
-      "Plantation": "printemps, été",
-      "Multiplication": "boutures, semis"
-    },
-    {
-      "Nom": "Corossollier, Arbre à corossol, Glaviola",
-      "N. scientifique ": "Annona muricata",
-      "Synonyme ": "Annona macrocarpa",
-      "Famille ": "Annonacées",
-      "Origine ": "nord de l'Amérique du Sud, Caraïbe",
-      "Floraison": "printemps",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "   jaune vert "
-      ],
-      "Type": "arbre fruitier tropical",
-      "Végétation": "arbustive",
-      "Feuillage ": "persistant",
-      "Hauteur": "3 à 7 m",
-      "Rusticité ": "   2 °C minimum ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "drainant, pas trop riche",
-      "Acidité ": "très acide à très basique",
-      "Humidité ": "normal à frais, mais tolère la sécheresse",
-      "Utilisation": "excellents fruits, plante médicinale",
-      "Plantation": "printemps",
-      "Multiplication": "semis, greffe"
-    },
-    {
-      "Nom": "Concombre du Kenya, Métulon, Kiwano, concombre cornu, melon à corne",
-      "N. scientifique ": "Cucumis metuliferus",
-      "Synonyme ": "Cucumis metulifer",
-      "Famille ": "Cucurbitacées",
-      "Origine ": "Afrique, Yémen",
-      "Type": "fruit",
-      "Végétation": "annuelle",
-      "Feuillage ": "caduc",
-      "Hauteur": "jusqu'à 100 cm",
-      "Toxicité": "à l'état naturel le fruit peut provoquer des troubles digestifs. Toutes les semences et plants du commerce sont dépourvus de substances toxiques et peuvent être consommés sans souci",
-      "Rusticité ": "   gélif dès 0°C ",
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "normal",
-      "Acidité ": "neutre",
-      "Humidité ": "arrosages réguliers",
-      "Utilisation": "potager ou conduite en grimpante dans un pot",
-      "Plantation": "printemps",
-      "Multiplication": "semis en place au printemps",
-      "Sensibilité ": "pucerons, oïdium"
-    },
-    {
-      "Nom": "Carambolier (Carambole)",
-      "N. scientifique ": "Averrhoa carambola",
-      "Famille ": "Oxalidacées",
-      "Origine ": "Asie",
-      "Floraison": "toute l'année",
-      "Fleurs ": "        rose à rouge ",
-      "Type": "abre fruitier",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 5 à 10 m",
-      "Toxicité": "fruits comestibles",
-      "Rusticité ": [
-        "  ",
-        "  non rustisque, résiste à de très faibles gelées "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "normal, bien drainé",
-      "Acidité ": "neutre à acide",
-      "Humidité ": "normal à frais",
-      "Utilisation": "isolé, verger",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis au printemps au chaud"
-    },
-    {
-      "Nom": "Caïmitier, Caïnitier, Pomme étoile, Pomme de lait",
-      "N. scientifique ": "Chrysophyllum cainito",
-      "Synonymes ": "Achradelpha mammosa, Achras zapota",
-      "Famille ": "Sapotacées",
-      "Origine ": "Amérique centrale",
-      "Floraison": "un peu tout le temps",
-      "Fleurs ": [
-        "     ",
-        "   blanc-vert "
-      ],
-      "Type": "fruiter, arbre subtropical",
-      "Végétation": "arborée",
-      "Feuillage ": "persistant",
-      "Hauteur": "6 à 15 m ",
-      "Rusticité ": "   non rustique, jusqu'à -1 °C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "riche et drainant",
-      "Acidité ": "légèrement acide",
-      "Humidité ": "normal ",
-      "Utilisation": "pot, pleine terre en climat très doux",
-      "Plantation": "printemps",
-      "Multiplication": "semis, bouture"
-    },
-    {
-      "Nom": "Baie du miracle",
-      "N. scientifique ": "Synsepalum dulcificum",
-      "Famille ": "Sapotacées",
-      "Origine ": "Afrique de l'Ouest",
-      "Floraison": "printemps, été",
-      "Fleurs ": [
-        "     ",
-        "   crème "
-      ],
-      "Type": "arbre fruitier tropical",
-      "Végétation": "arbustive",
-      "Feuillage ": "persistant",
-      "Hauteur": "1 à 3 m",
-      "Toxicité": "fruits comestibles",
-      "Rusticité ": "   1 °C minimum ",
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "tourbeux",
-      "Acidité ": "acide",
-      "Humidité ": "qui ne sèche pas",
-      "Utilisation": "fruitier rare, véranda, intérieur",
-      "Plantation": "printemps",
-      "Multiplication": "semis, bouture",
-      "Sensibilité ": "cochenilles, acariens"
-    },
-    {
-      "Nom": "Ananas cultivé, Ananas-fruit",
-      "N. scientifique ": "Ananas comosus",
-      "Synonyme ": "Ananas sativus",
-      "Famille ": "Broméliacées",
-      "Origine ": "Brésil, Paraguay",
-      "Floraison": "printemps, été",
-      "Fleurs ": [
-        "     ",
-        "   épi de bractées roses/jaunes, fleurs violettes "
-      ],
-      "Type": "plante tropicale, plante d'intérieur",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1 à 2 m",
-      "Toxicité": "fruit comestible",
-      "Rusticité ": "   rustique jusqu'à 5 °C, 18°C toute l'année ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "humifère et drainant",
-      "Acidité ": "très acide à neutre",
-      "Humidité ": "normale, sans excès",
-      "Utilisation": "serre, véranda, extérieur en été, cultivé pour la production de fruits en région tropicale",
-      "Plantation": "printemps",
-      "Multiplication": "semis, séparation des rejets, bouturage de la couronne de feuilles au-dessus du fruit consommé",
-      "Sensibilité ": "rongeurs"
-    },
-    {
-      "Nom": "Prunier Reine-Claude, Prunier d'Italie",
-      "N. scientifique ": "Prunus domestica subsp. italica",
-      "Famille ": "Rosacées",
-      "Origine ": "Europe, Asie",
-      "Floraison": "mars, avril",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "petit arbre fruitier ou arbuste sauvage",
-      "Végétation": "arbustive",
-      "Feuillage ": "caduc",
-      "Hauteur": "4 à 10 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -24 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "acide à basique",
-      "Humidité ": "normal",
-      "Utilisation": "par deux, bord de potager, verger",
-      "Plantation": "de novembre à mars",
-      "Multiplication": "greffe, semis"
-    },
-    {
-      "Nom": "Prunier quetsche, Quetschier",
-      "N. scientifique ": "Prunus domestica",
-      "Famille ": "Rosacées",
-      "Origine ": "Europe, Asie",
-      "Floraison": "mars, avril",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "petit arbre fruitier",
-      "Végétation": "arbustive",
-      "Feuillage ": "caduc",
-      "Hauteur": "4 à 6 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -24 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "acide à basique",
-      "Humidité ": "normal",
-      "Utilisation": "par deux, bord de potager, verger",
-      "Plantation": "de novembre à mars",
-      "Multiplication": "greffe"
-    },
-    {
-      "Nom": "Figuier de Barbarie (figue de Barbarie), Figuier d'Inde",
-      "N. scientifique ": "Opuntia ficus-indica",
-      "Famille ": "Cactacées, Cactées, Cactus",
-      "Origine ": " Mexique",
-      "Floraison": "printemps",
-      "Fleurs ": [
-        "     ",
-        "   jaune "
-      ],
-      "Type": "arbuste succulent",
-      "Végétation": "vivace",
-      "Feuillage ": "très petites feuilles qui tiennent pas longtemps",
-      "Hauteur": "5 m",
-      "Toxicité": "Gare aux épines sur les figues",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique dans les régions au climat doux, plante gélive ailleurs "
-      ],
-      "Exposition ": [
-        "  ",
-        "  plein soleil "
-      ],
-      "Sol": "sableux, caillouteux, bien drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "sec",
-      "Utilisation": "haie défensive, bac",
-      "Plantation": "printemps",
-      "Multiplication": "séparation des raquettes",
-      "Sensibilité ": "la pourriture par excès d'eau"
-    },
-    {
-      "Nom": "Prunier fruitier japonais et américano-japonais",
-      "N. scientifique ": "Prunus salicina x",
-      "Synonyme ": "Prunus trifolia",
-      "Famille ": "Rosacées",
-      "Origine ": "Chine, hybrides issus de l'agronomie",
-      "Floraison": "mars, avril",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "petit arbre fruitier",
-      "Végétation": "arborée",
-      "Feuillage ": "caduc",
-      "Hauteur": "4 à 6  m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, jusqu'à -15 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "acide à basique",
-      "Humidité ": "normal, mais sans sécheresse",
-      "Utilisation": "au verger par 2 minimum",
-      "Plantation": "de novembre à mars",
-      "Multiplication": "greffe"
-    },
-    {
-      "Nom": "Prunier d'ente, Pruneau d'Agen",
-      "N. scientifique ": "Prunus domestica 'Agen'",
-      "Famille ": "Rosacées",
-      "Origine ": "Europe, Asie",
-      "Floraison": "mars, avril",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "petit arbre fruitier",
-      "Végétation": "arbustive",
-      "Feuillage ": "caduc",
-      "Hauteur": "4 à 6 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -24 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "acide à basique",
-      "Humidité ": "normal",
-      "Utilisation": "par deux, bord de potager, verger",
-      "Plantation": "de novembre à mars",
-      "Multiplication": "greffe"
-    },
-    {
-      "Nom": "Prunier (Prune)",
-      "N. scientifique ": "Prunus domestica",
-      "Famille ": "Rosacées",
-      "Origine ": "Europe centrale, Asie mineure",
-      "Floraison": "de fin mars à avril ",
-      "Fleurs ": [
-        "     ",
-        "   blanc rosé "
-      ],
-      "Type": "petit arbre fruitier ou arbuste sauvage",
-      "Végétation": "arbustive, jusqu'à 1000 m d'altitude",
-      "Feuillage ": "caduc",
-      "Hauteur": "4 à 10 m selon les variétés",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -24 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "ordinaire, tolérant",
-      "Acidité ": "acide à basique",
-      "Humidité ": "normal",
-      "Utilisation": "par 2 minimum, bord de potager, verger..",
-      "Plantation": "de novembre à mars",
-      "Multiplication": "semis pour les mirabelliers, drageonnage, greffage en écusson à oeil dormant fin juillet",
-      "Sensibilité ": "la sharka, le crowngall, la moniliose, la rouille, le coryneum, la cloque du pêcher, l'hplocampe, la carpocapse, les pucerons, les acariens"
-    },
-    {
-      "Nom": "Pommier (Pomme)",
-      "N. scientifique ": "Malus domestica",
-      "Famille ": "Rosacées",
-      "Origine ": "Asie du Sud-Ouest",
-      "Floraison": "printemps",
-      "Fleurs ": "        blanc rosé ",
-      "Type": "arbre fruitier",
-      "Végétation": "vivace, résiste jusqu'à -30°C",
-      "Feuillage ": "caduc",
-      "Hauteur": "15 m",
-      "Toxicité": "fruit comestible",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre, situation aérée et une humidité atmosphérique assez forte "
-      ],
-      "Sol": "Sain, profond, de préférence limoneux ou silico-argileux",
-      "Acidité ": "neutre",
-      "Humidité ": "frais",
-      "Utilisation": "jardin fruitier",
-      "Plantation": "automne",
-      "Multiplication": "le pommier doit être greffé pour bien fructifier",
-      "Taille": "retrouvez nos conseils ci-après",
-      "Sensibilité ": "la tavelure, l'oïdium, le chancre, le ver de la pomme (carpocapse), le puceron lanigère, les acariens, l'anthonome"
-    },
-    {
-      "Nom": "Myrtille de Floride, Myrtille œil de lapin",
-      "N. scientifique ": "Vaccinium ashei",
-      "Famille ": "Ericacées",
-      "Origine ": "Amérique du Nord",
-      "Floraison": "juin à août",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "arbuste",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "1,5 à 5 m",
-      "Rusticité ": [
-        "  ",
-        "  semi-rustique, de -8 à -10 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  ombre pommelée à ensoleillé "
-      ],
-      "Sol": "tourbeux ou limoneux",
-      "Acidité ": "acide",
-      "Humidité ": "frais, mais c'est un arbuste tolérant",
-      "Utilisation": "petits fruits, haie, massif",
-      "Plantation": "printemps, automne",
-      "Multiplication": "boutures, divisons, semis"
-    },
-    {
       "Nom": "Vigne (Raisin)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/vitis-vinifera-600x450.jpg",
       "N. scientifique ": "Vitis vinifera",
       "Famille ": "Vitacées",
       "Origine ": "Europe",
@@ -545,39 +37,8 @@
       "Sensibilité ": "le mildiou, l'oïdium, la pourriture grise, la pyrale, les cochenilles, l'érinose, le phylloxéra"
     },
     {
-      "Nom": "Ronce a mûres, Ronce fruitière",
-      "N. scientifique ": "Rubus fruticosus",
-      "Famille ": "Rosacées",
-      "Origine ": "hémisphère nord",
-      "Floraison": "mars, avril",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "arbuste sarmenteux à petit fruit",
-      "Végétation": "arbustive",
-      "Feuillage ": "semi-persistant",
-      "Hauteur": "2 à 5 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, de -8 à -24 °C selon les cultivars "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "acide à faiblement acide",
-      "Humidité ": "normal",
-      "Utilisation": "petits fruits, palissé sur un mur ou un grillage, libre sur un talus",
-      "Plantation": "de novembre à mars",
-      "Multiplication": "par bouturage à bois sec en hiver ou marcottage par couchage au printemps, voire division de la souche ligneuse",
-      "Sensibilité ": "peu d'ennemis ; le botrytis, le ver des framboises, les pucerons"
-    },
-    {
       "Nom": "Myrtillier commun, Myrtille sauvage",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/vaccinium-myrtillus-600x450.jpg",
       "N. scientifique ": "Vaccinium myrtillus",
       "Famille ": "Ericacées",
       "Origine ": "Europe, Asie du nord",
@@ -611,7 +72,38 @@
       "Sensibilité ": "la pourriture du collet"
     },
     {
+      "Nom": "Myrtille de Floride, Myrtille œil de lapin",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/vaccinium-ashei-600x450.jpg",
+      "N. scientifique ": "Vaccinium ashei",
+      "Famille ": "Ericacées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "juin à août",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "arbuste",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1,5 à 5 m",
+      "Rusticité ": [
+        "  ",
+        "  semi-rustique, de -8 à -10 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  ombre pommelée à ensoleillé "
+      ],
+      "Sol": "tourbeux ou limoneux",
+      "Acidité ": "acide",
+      "Humidité ": "frais, mais c'est un arbuste tolérant",
+      "Utilisation": "petits fruits, haie, massif",
+      "Plantation": "printemps, automne",
+      "Multiplication": "boutures, divisons, semis"
+    },
+    {
       "Nom": "Myrtille d'Amérique, Bleuet à corymbes, Corymbelle, Myrtille géante",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/vaccinium-corymbosum-600x450.jpg",
       "N. scientifique ": "Vaccinium corymbosum",
       "Famille ": "Ericacées",
       "Origine ": "Amérique du nord",
@@ -643,6 +135,7 @@
     },
     {
       "Nom": "Kiwier (Kiwi), Groseille de Chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/actinidia-chinensis-fruit-600x450.jpg",
       "N. scientifique ": "Actinidia chinensis",
       "Famille ": "Actinidiacées",
       "Origine ": "Chine",
@@ -678,6 +171,7 @@
     },
     {
       "Nom": "Kiwai, Kiwi de Sibérie, Kiwi d'été",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/actinidia-arguta-feuille-600x450.jpg",
       "N. scientifique ": "Actinidia arguta",
       "Famille ": "Actinidiacées",
       "Origine ": "Asie (Japon, Nord de la Chine, Corée)",
@@ -712,7 +206,41 @@
       "Sensibilité ": "araignées rouges"
     },
     {
+      "Nom": "Ronce a mûres, Ronce fruitière",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/rubus-fruticosus-fruit-600x450.jpg",
+      "N. scientifique ": "Rubus fruticosus",
+      "Famille ": "Rosacées",
+      "Origine ": "hémisphère nord",
+      "Floraison": "mars, avril",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste sarmenteux à petit fruit",
+      "Végétation": "arbustive",
+      "Feuillage ": "semi-persistant",
+      "Hauteur": "2 à 5 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, de -8 à -24 °C selon les cultivars "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à faiblement acide",
+      "Humidité ": "normal",
+      "Utilisation": "petits fruits, palissé sur un mur ou un grillage, libre sur un talus",
+      "Plantation": "de novembre à mars",
+      "Multiplication": "par bouturage à bois sec en hiver ou marcottage par couchage au printemps, voire division de la souche ligneuse",
+      "Sensibilité ": "peu d'ennemis ; le botrytis, le ver des framboises, les pucerons"
+    },
+    {
       "Nom": "Framboisier (Framboise)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/rubus-idaeus-fruit-600x450.jpg",
       "N. scientifique ": "Rubus idaeus, Rubus strigosus",
       "Synonyme ": " Rubus strigosus",
       "Famille ": "Rosacées",
@@ -747,6 +275,7 @@
     },
     {
       "Nom": "Fraisier (Fraise)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/fragaria-fraise-600x450.jpg",
       "N. scientifique ": "Fragaria x",
       "Famille ": "Rosacées",
       "Origine ": "Europe",
@@ -780,6 +309,7 @@
     },
     {
       "Nom": "Chèvrefeuille comestible, Baie de mai, Camérisier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lonicera-coerulea-fruit-600x450.jpg",
       "N. scientifique ": "Lonicera caerulea var. kamtschatica",
       "Synonyme ": "Lonicera kamtschatica",
       "Famille ": "Caprifoliacées",
@@ -813,6 +343,7 @@
     },
     {
       "Nom": "Caseilier (Caseille), Casseillier (Casseille), Josta",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/ribes-x-nidrigolaria-600x450.jpg",
       "N. scientifique ": "Ribes x nidigrolaria",
       "Synonyme ": "Ribes x culverwellii",
       "Famille ": "Grossulariacées",
@@ -845,6 +376,7 @@
     },
     {
       "Nom": "Canneberge à gros fruits, Airelle à gros fruits, Cranberry",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/vaccinium-macrocarpon-600x450.jpg",
       "N. scientifique ": "Vaccinum macrocarpon",
       "Famille ": "Ericacées",
       "Origine ": "Amérique du Nord",
@@ -876,6 +408,7 @@
     },
     {
       "Nom": "Aronie à fruits noirs, Aronia noir",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/aronia-melanocarpa-600x450.jpg",
       "N. scientifique ": "Aronia melanocarpa",
       "Synonymes ": "Photinia melanocarpa, Aronia nigra, Pyrus melanocarpa",
       "Famille ": "Rosacées",
@@ -909,6 +442,7 @@
     },
     {
       "Nom": "Alkékenge, Amour en cage, Lanterne japonaise ou chinoise",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/physalis-alkekengi-fruit-600x450.jpg",
       "N. scientifique ": "Physalis alkekengi",
       "Famille ": "Solanacées",
       "Origine ": "Europe, Asie, Japon",
@@ -942,6 +476,7 @@
     },
     {
       "Nom": "Airelle rouge, Canneberge ponctuée, Myrtille rouge",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/vaccinium-vitis-idaea-600x450.jpg",
       "N. scientifique ": "Vaccinium vitis-idaea",
       "Famille ": "Ericacées",
       "Origine ": "Europe, Asie, Amérique du Nord",
@@ -974,6 +509,7 @@
     },
     {
       "Nom": "Sapotillier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/manilkara-zapota-600x450.jpg",
       "N. scientifique ": "Manilkara zapota",
       "Synonymes ": "Achradelpha mammosa, Achras zapota",
       "Famille ": "Sapotacées",
@@ -1006,6 +542,7 @@
     },
     {
       "Nom": "Pomme cannelle, Attier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/annona-squamosa-600x450.jpg",
       "N. scientifique ": "Annona squamosa",
       "Famille ": "Annonacées",
       "Origine ": "Amérique centrale et du sud",
@@ -1032,6 +569,7 @@
     },
     {
       "Nom": "Poire-melon, Pépino Morelle de Wallis",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/solanum-muricatum-600x450.jpg",
       "N. scientifique ": "Solanum muricatum",
       "Famille ": "Solanacées",
       "Origine ": "Amérique du sud (Bolivie, Colombie, Pérou)",
@@ -1061,6 +599,7 @@
     },
     {
       "Nom": "Pistachier vrai",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/pistacia-vera-600x450.jpg",
       "N. scientifique ": "Pistacia vera",
       "Famille ": "Anacardiacées",
       "Origine ": "Asie",
@@ -1088,6 +627,7 @@
     },
     {
       "Nom": "Papayer, Papaye, Melon des îles, Figuier des îles",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/carica-papaya-600x450.jpg",
       "N. scientifique ": "Carica papaya",
       "Famille ": "Caricacées",
       "Origine ": "Amérique centrale",
@@ -1114,6 +654,7 @@
     },
     {
       "Nom": "Noix de cajou, Anacardier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/adb/anacardium-occidentale-600x450.jpg",
       "N. scientifique ": "Anacardium occidentale",
       "Synonymes ": "Acajuba occidentalis , Anacardium microcarpum, Cassuvium pomiferum",
       "Famille ": "Anacardiacées",
@@ -1146,6 +687,7 @@
     },
     {
       "Nom": "Néflier du Japon (Nèfle du Japon, Bibace), Bibacier, Loquat",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/eriobotrya-japonica-600x450.jpg",
       "N. scientifique ": "Eriobotrya japonica",
       "Famille ": "Rosacées",
       "Origine ": "Est de l'Asie, Forêts de l'Himalaya",
@@ -1178,6 +720,7 @@
     },
     {
       "Nom": "Myrte d'Australie, Cerisier des Antilles",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/eugenia-myrtifolia-600x450.jpg",
       "N. scientifique ": "Eugenia myrtifolia",
       "Synonymes ": "Eugenia paniculata var. australis, Syzygium paniculatum",
       "Famille ": "Myrtacées",
@@ -1205,6 +748,7 @@
     },
     {
       "Nom": "Litchi, Cerisier de Chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/litchi-sinensis-600x450.jpg",
       "N. scientifique ": "Litchi sinensis",
       "Synonyme ": "Litchi chinensis",
       "Famille ": "Sapindacées",
@@ -1233,6 +777,7 @@
     },
     {
       "Nom": "Jujubier Lang, Dattier chinois, Datte rouge",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/zizyphus-jujuba-cv-lang-600x450.jpg",
       "N. scientifique ": "Ziziphus jujuba 'Lang'",
       "Famille ": "Rhamnacées",
       "Origine ": "Asie",
@@ -1260,7 +805,545 @@
       "Utilisation": "fruitier rare, fruit oublié"
     },
     {
+      "Nom": "Grenadier (Grenade), Grenadier d'ornement",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/punica-granatum-grenade-600x450.jpg",
+      "N. scientifique ": "Punica granatum",
+      "Famille ": "Punicacées",
+      "Origine ": "Asie, Iran, Inde",
+      "Floraison": "de mai à août",
+      "Fleurs ": [
+        "     ",
+        "   rouge "
+      ],
+      "Type": "arbuste à fruits",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 3 à 8 m selon les variétés",
+      "Toxicité": "les fruits sont comestibles pour certaines variétés",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  -12°C, rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        "  soleil, à protéger des vents froids "
+      ],
+      "Sol": "drainé, frais",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "verger, haie libre, isolé, bac",
+      "Plantation": "février, mars ou à l'automne",
+      "Multiplication": "semis, bouturage en août",
+      "Taille": "supporte mal la taille"
+    },
+    {
+      "Nom": "Goyavier ananas, Goyavier du Brésil, Goyavier de Montevideo",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/feijoa-sellowiana-fleur-600x450.jpg",
+      "N. scientifique ": "Feijoa sellowiana, Acca sellowiana",
+      "Synonyme ": "Acca sellowiana",
+      "Famille ": "Myrtacées",
+      "Origine ": "Uruguay, Paraguay, sud du Brésil, nord de l'Argentine",
+      "Floraison": "mai, juin",
+      "Fleurs ": [
+        "     ",
+        "   Fleur blanche aux étamines rouges "
+      ],
+      "Type": "arbuste fruitier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 3 à 6 m",
+      "Toxicité": "fruits comestibles",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  -10°C, à protéger dans les régions aux hivers rigoureux ou à cultiver en bac "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "bien drainé, riche, argileux, léger",
+      "Acidité ": "neutre à acide, calcaire accepté",
+      "Humidité ": "normal",
+      "Utilisation": "isolé, haie libre, jardin fruitier, bac, bonsaï",
+      "Plantation": "printemps",
+      "Multiplication": "semis au printemps, bouturage en août, greffage",
+      "Taille": "en mars-avril, rabattez votre Feijoa pour conserver une touffe compacte. Pincez les jeunes plants pour obtenir une bonne ramification",
+      "Sensibilité ": "les cochenilles"
+    },
+    {
+      "Nom": "Fruit du dragon rouge, Pitaya rouge",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/hylocereus-undatus-600x450.jpg",
+      "N. scientifique ": "Hylocereus undatus",
+      "Synonyme ": "Lespimium cruciforme",
+      "Famille ": "Cactacées, Cactées, Cactus",
+      "Origine ": "Amérique tropicale",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   crème, jaune, rose "
+      ],
+      "Type": "cactus grimpant et fruitier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 10 m",
+      "Rusticité ": "   non rustique, -1 °C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  mi-ombre à ensoleillée "
+      ],
+      "Sol": "riche et humifère",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "normal",
+      "Utilisation": "véranda, pot à l'extérieur, cultivé pour son fruit ou ses énormes fleurs, porte-greffe",
+      "Plantation": "printemps, été",
+      "Multiplication": "boutures, semis"
+    },
+    {
+      "Nom": "Figuier de Barbarie (figue de Barbarie), Figuier d'Inde",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/opuntia-600x450.jpg",
+      "N. scientifique ": "Opuntia ficus-indica",
+      "Famille ": "Cactacées, Cactées, Cactus",
+      "Origine ": " Mexique",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "arbuste succulent",
+      "Végétation": "vivace",
+      "Feuillage ": "très petites feuilles qui tiennent pas longtemps",
+      "Hauteur": "5 m",
+      "Toxicité": "Gare aux épines sur les figues",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique dans les régions au climat doux, plante gélive ailleurs "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "sableux, caillouteux, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "sec",
+      "Utilisation": "haie défensive, bac",
+      "Plantation": "printemps",
+      "Multiplication": "séparation des raquettes",
+      "Sensibilité ": "la pourriture par excès d'eau"
+    },
+    {
+      "Nom": "Corossollier, Arbre à corossol, Glaviola",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/annona-muricata-600x450.jpg",
+      "N. scientifique ": "Annona muricata",
+      "Synonyme ": "Annona macrocarpa",
+      "Famille ": "Annonacées",
+      "Origine ": "nord de l'Amérique du Sud, Caraïbe",
+      "Floraison": "printemps",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   jaune vert "
+      ],
+      "Type": "arbre fruitier tropical",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "3 à 7 m",
+      "Rusticité ": "   2 °C minimum ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "drainant, pas trop riche",
+      "Acidité ": "très acide à très basique",
+      "Humidité ": "normal à frais, mais tolère la sécheresse",
+      "Utilisation": "excellents fruits, plante médicinale",
+      "Plantation": "printemps",
+      "Multiplication": "semis, greffe"
+    },
+    {
+      "Nom": "Coqueret du Pérou",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/physalis-peruviana-600x450.jpg",
+      "N. scientifique ": "Physalis peruviana",
+      "Synonyme ": "Physalis edulis",
+      "Famille ": "Solanacées",
+      "Origine ": "Amérique centrale, Pérou",
+      "Floraison": "mai",
+      "Fleurs ": [
+        "     ",
+        "   jaune "
+      ],
+      "Type": "fruit",
+      "Végétation": "vivace cultivée en annuelle au potager",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 1 à 1,5 m",
+      "Toxicité": "Le fruit est comestible à maturité",
+      "Rusticité ": [
+        "  ",
+        "  moyennement rustique, prévoir une protection hivernale dans les régions nord "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "riche en compost, drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "potager, fruits séchés, pot, bac",
+      "Plantation": "printemps",
+      "Multiplication": "semis en mars-avril, division de la touffe en tranchant à la bêche, bouturage",
+      "Taille": "Plante à tendance envahissante",
+      "Sensibilité ": "les aleurodes et les pucerons surtout en serre, la rouille"
+    },
+    {
+      "Nom": "Concombre du Kenya, Métulon, Kiwano, concombre cornu, melon à corne",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cucumis-metuliferus-fruit-600x450.jpg",
+      "N. scientifique ": "Cucumis metuliferus",
+      "Synonyme ": "Cucumis metulifer",
+      "Famille ": "Cucurbitacées",
+      "Origine ": "Afrique, Yémen",
+      "Type": "fruit",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 100 cm",
+      "Toxicité": "à l'état naturel le fruit peut provoquer des troubles digestifs. Toutes les semences et plants du commerce sont dépourvus de substances toxiques et peuvent être consommés sans souci",
+      "Rusticité ": "   gélif dès 0°C ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "normal",
+      "Acidité ": "neutre",
+      "Humidité ": "arrosages réguliers",
+      "Utilisation": "potager ou conduite en grimpante dans un pot",
+      "Plantation": "printemps",
+      "Multiplication": "semis en place au printemps",
+      "Sensibilité ": "pucerons, oïdium"
+    },
+    {
+      "Nom": "Carambolier (Carambole)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/averrhoa-carambola-fruit-600x450.jpg",
+      "N. scientifique ": "Averrhoa carambola",
+      "Famille ": "Oxalidacées",
+      "Origine ": "Asie",
+      "Floraison": "toute l'année",
+      "Fleurs ": "        rose à rouge ",
+      "Type": "abre fruitier",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 5 à 10 m",
+      "Toxicité": "fruits comestibles",
+      "Rusticité ": [
+        "  ",
+        "  non rustisque, résiste à de très faibles gelées "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "normal, bien drainé",
+      "Acidité ": "neutre à acide",
+      "Humidité ": "normal à frais",
+      "Utilisation": "isolé, verger",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis au printemps au chaud"
+    },
+    {
+      "Nom": "Caïmitier, Caïnitier, Pomme étoile, Pomme de lait",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/chrysophyllum-cainito-600x450.jpg",
+      "N. scientifique ": "Chrysophyllum cainito",
+      "Synonymes ": "Achradelpha mammosa, Achras zapota",
+      "Famille ": "Sapotacées",
+      "Origine ": "Amérique centrale",
+      "Floraison": "un peu tout le temps",
+      "Fleurs ": [
+        "     ",
+        "   blanc-vert "
+      ],
+      "Type": "fruiter, arbre subtropical",
+      "Végétation": "arborée",
+      "Feuillage ": "persistant",
+      "Hauteur": "6 à 15 m ",
+      "Rusticité ": "   non rustique, jusqu'à -1 °C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "légèrement acide",
+      "Humidité ": "normal ",
+      "Utilisation": "pot, pleine terre en climat très doux",
+      "Plantation": "printemps",
+      "Multiplication": "semis, bouture"
+    },
+    {
+      "Nom": "Baie du miracle",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/synsepalum-dulcificum-pot-600x450.jpg",
+      "N. scientifique ": "Synsepalum dulcificum",
+      "Famille ": "Sapotacées",
+      "Origine ": "Afrique de l'Ouest",
+      "Floraison": "printemps, été",
+      "Fleurs ": [
+        "     ",
+        "   crème "
+      ],
+      "Type": "arbre fruitier tropical",
+      "Végétation": "arbustive",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 3 m",
+      "Toxicité": "fruits comestibles",
+      "Rusticité ": "   1 °C minimum ",
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "tourbeux",
+      "Acidité ": "acide",
+      "Humidité ": "qui ne sèche pas",
+      "Utilisation": "fruitier rare, véranda, intérieur",
+      "Plantation": "printemps",
+      "Multiplication": "semis, bouture",
+      "Sensibilité ": "cochenilles, acariens"
+    },
+    {
+      "Nom": "Ananas cultivé, Ananas-fruit",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ananas-comosus-fruit-600x450.jpg",
+      "N. scientifique ": "Ananas comosus",
+      "Synonyme ": "Ananas sativus",
+      "Famille ": "Broméliacées",
+      "Origine ": "Brésil, Paraguay",
+      "Floraison": "printemps, été",
+      "Fleurs ": [
+        "     ",
+        "   épi de bractées roses/jaunes, fleurs violettes "
+      ],
+      "Type": "plante tropicale, plante d'intérieur",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1 à 2 m",
+      "Toxicité": "fruit comestible",
+      "Rusticité ": "   rustique jusqu'à 5 °C, 18°C toute l'année ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "humifère et drainant",
+      "Acidité ": "très acide à neutre",
+      "Humidité ": "normale, sans excès",
+      "Utilisation": "serre, véranda, extérieur en été, cultivé pour la production de fruits en région tropicale",
+      "Plantation": "printemps",
+      "Multiplication": "semis, séparation des rejets, bouturage de la couronne de feuilles au-dessus du fruit consommé",
+      "Sensibilité ": "rongeurs"
+    },
+    {
+      "Nom": "Prunier Reine-Claude, Prunier d'Italie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/adb/prunus-domestica-ssp-italica-600x450.jpg",
+      "N. scientifique ": "Prunus domestica subsp. italica",
+      "Famille ": "Rosacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "mars, avril",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "petit arbre fruitier ou arbuste sauvage",
+      "Végétation": "arbustive",
+      "Feuillage ": "caduc",
+      "Hauteur": "4 à 10 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -24 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "par deux, bord de potager, verger",
+      "Plantation": "de novembre à mars",
+      "Multiplication": "greffe, semis"
+    },
+    {
+      "Nom": "Prunier quetsche, Quetschier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/adb/prunus-domestica-600x450.jpg",
+      "N. scientifique ": "Prunus domestica",
+      "Famille ": "Rosacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "mars, avril",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "petit arbre fruitier",
+      "Végétation": "arbustive",
+      "Feuillage ": "caduc",
+      "Hauteur": "4 à 6 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -24 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "par deux, bord de potager, verger",
+      "Plantation": "de novembre à mars",
+      "Multiplication": "greffe"
+    },
+    {
+      "Nom": "Prunier fruitier japonais et américano-japonais",
+      "ImgUrl": "https://static.aujardin.info/cache/th/adb/prunus-salicina-600x450.jpg",
+      "N. scientifique ": "Prunus salicina x",
+      "Synonyme ": "Prunus trifolia",
+      "Famille ": "Rosacées",
+      "Origine ": "Chine, hybrides issus de l'agronomie",
+      "Floraison": "mars, avril",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "petit arbre fruitier",
+      "Végétation": "arborée",
+      "Feuillage ": "caduc",
+      "Hauteur": "4 à 6  m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -15 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à basique",
+      "Humidité ": "normal, mais sans sécheresse",
+      "Utilisation": "au verger par 2 minimum",
+      "Plantation": "de novembre à mars",
+      "Multiplication": "greffe"
+    },
+    {
+      "Nom": "Prunier d'ente, Pruneau d'Agen",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/prune-ente-600x450.jpg",
+      "N. scientifique ": "Prunus domestica 'Agen'",
+      "Famille ": "Rosacées",
+      "Origine ": "Europe, Asie",
+      "Floraison": "mars, avril",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "petit arbre fruitier",
+      "Végétation": "arbustive",
+      "Feuillage ": "caduc",
+      "Hauteur": "4 à 6 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -24 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "par deux, bord de potager, verger",
+      "Plantation": "de novembre à mars",
+      "Multiplication": "greffe"
+    },
+    {
+      "Nom": "Prunier (Prune)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/prunus-x-domestica-mirabelle-600x450.jpg",
+      "N. scientifique ": "Prunus domestica",
+      "Famille ": "Rosacées",
+      "Origine ": "Europe centrale, Asie mineure",
+      "Floraison": "de fin mars à avril ",
+      "Fleurs ": [
+        "     ",
+        "   blanc rosé "
+      ],
+      "Type": "petit arbre fruitier ou arbuste sauvage",
+      "Végétation": "arbustive, jusqu'à 1000 m d'altitude",
+      "Feuillage ": "caduc",
+      "Hauteur": "4 à 10 m selon les variétés",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -24 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "ordinaire, tolérant",
+      "Acidité ": "acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "par 2 minimum, bord de potager, verger..",
+      "Plantation": "de novembre à mars",
+      "Multiplication": "semis pour les mirabelliers, drageonnage, greffage en écusson à oeil dormant fin juillet",
+      "Sensibilité ": "la sharka, le crowngall, la moniliose, la rouille, le coryneum, la cloque du pêcher, l'hplocampe, la carpocapse, les pucerons, les acariens"
+    },
+    {
+      "Nom": "Pommier (Pomme)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/malus-600x450.jpg",
+      "N. scientifique ": "Malus domestica",
+      "Famille ": "Rosacées",
+      "Origine ": "Asie du Sud-Ouest",
+      "Floraison": "printemps",
+      "Fleurs ": "        blanc rosé ",
+      "Type": "arbre fruitier",
+      "Végétation": "vivace, résiste jusqu'à -30°C",
+      "Feuillage ": "caduc",
+      "Hauteur": "15 m",
+      "Toxicité": "fruit comestible",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre, situation aérée et une humidité atmosphérique assez forte "
+      ],
+      "Sol": "Sain, profond, de préférence limoneux ou silico-argileux",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "jardin fruitier",
+      "Plantation": "automne",
+      "Multiplication": "le pommier doit être greffé pour bien fructifier",
+      "Taille": "retrouvez nos conseils ci-après",
+      "Sensibilité ": "la tavelure, l'oïdium, le chancre, le ver de la pomme (carpocapse), le puceron lanigère, les acariens, l'anthonome"
+    },
+    {
       "Nom": "Poirier (Poire)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/pyrus-communis-fruit-600x450.jpg",
       "N. scientifique ": "Pyrus communis",
       "Famille ": "Rosacées",
       "Origine ": "Asie mineure",
@@ -1295,6 +1378,7 @@
     },
     {
       "Nom": "Plaqueminier du Japon (Kaki)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/diospyros-kaki-fruit-600x450.jpg",
       "N. scientifique ": "Diospyros kaki",
       "Famille ": "Ebénacées",
       "Origine ": "Chine, Japon",
@@ -1329,6 +1413,7 @@
     },
     {
       "Nom": "Pêcher (Pêche), Nectarinier (Nectarine), Brugnonier (Brugnon), Pavie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/prunus-persica-peche-fruit-600x450.jpg",
       "N. scientifique ": "Prunus persica",
       "Famille ": "Rosacées",
       "Origine ": "Chine",
@@ -1360,6 +1445,7 @@
     },
     {
       "Nom": "Olivier (Olive)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/olea-europaea-600x450.jpg",
       "N. scientifique ": "Olea europaea",
       "Famille ": "Oléacées",
       "Origine ": "Syrie ou Asie mineure",
@@ -1394,6 +1480,7 @@
     },
     {
       "Nom": "Noyer commun (Noix)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/juglans-regia-600x450.jpg",
       "N. scientifique ": "Juglans regia",
       "Famille ": "Juglandacées",
       "Origine ": "Asie occidentale",
@@ -1427,6 +1514,7 @@
     },
     {
       "Nom": "Noisetier de Byzance, Coudrier du levant, Noisetier de Turquie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/corylus-colurna-600x450.jpg",
       "N. scientifique ": "Corylus colurna",
       "Synonymes ": "Corylus jacquemontii, Corylus pontica",
       "Famille ": "Bétulacées",
@@ -1458,7 +1546,42 @@
       "Plantation": "automne jusqu'à mars"
     },
     {
+      "Nom": "Noisetier (Noisette), Coudrier, Avelinier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/corylus-avellana-600x450.jpg",
+      "N. scientifique ": "Corylus avellana",
+      "Famille ": "Bétulacées",
+      "Origine ": "Europe, Asie mineure, Algérie",
+      "Floraison": "les chatons apparaissent en plein hiver, quelques semaines avant les glomérules qui sont les fleurs femelles",
+      "Fleurs ": [
+        "     ",
+        "   chatons mâles jaunes "
+      ],
+      "Type": "arbuste de moyen développement",
+      "Végétation": "arbustive",
+      "Feuillage ": "caduc",
+      "Hauteur": "2 à 5 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique jusqu'à -18 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "très tolérant",
+      "Acidité ": "légèrement acide à basique",
+      "Humidité ": "normal",
+      "Utilisation": "en isolé, par paire, en haie, en bosquet, culture fruitière",
+      "Plantation": "automne jusqu'à mars",
+      "Multiplication": "bouturage en novembre, prélèvement de drageons, marcottage, semis mais les noisettes obtenues sont plus petites qu'une obtention par bouturage ou marcottage",
+      "Taille": "Un éclaircissage peut être pratiqué régulièrement pour aérer le pied. En fin d'automne, coupez les branches génantes.",
+      "Sensibilité ": "les larves du balanin ou ver des noisettes"
+    },
+    {
       "Nom": "Néflier commun (Nèfle), Néflier d'Allemagne",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/mespilus-germanica-fruit-600x450.jpg",
       "N. scientifique ": "Mespilus germanica",
       "Famille ": "Rosacées",
       "Origine ": "Europe de l'est",
@@ -1494,6 +1617,7 @@
     },
     {
       "Nom": "Nashi, Poire asiatique, Pomme-poire",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/pyrus-pyrifolia-600x450.jpg",
       "N. scientifique ": "Pyrus pyrifolia",
       "Synonyme ": "Pyrus serotina",
       "Famille ": "Rosacées",
@@ -1521,6 +1645,7 @@
     },
     {
       "Nom": "Mûrier platane, Mûrier à feuilles de platane",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/morus-bombycis-600x450.jpg",
       "N. scientifique ": "Morus bombycis",
       "Synonyme ": "Morus kagayamae",
       "Famille ": "Moracées",
@@ -1555,6 +1680,7 @@
     },
     {
       "Nom": "Mirabellier, Prunier à mirabelles",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/mirabelles-600x450.jpg",
       "N. scientifique ": "Prunus domestica ssp. syriaca",
       "Famille ": "Rosacées",
       "Origine ": "Europe, Asie",
@@ -1582,6 +1708,7 @@
     },
     {
       "Nom": "Figuier (Figue)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/ficus-carica-600x450.jpg",
       "N. scientifique ": "Ficus carica",
       "Famille ": "Moracées",
       "Origine ": "Afghanistan, Syrie",
@@ -1613,6 +1740,7 @@
     },
     {
       "Nom": "Cognassier (coing, poire de Cydonie)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/cydonia-oblonga-fruit-600x450.jpg",
       "N. scientifique ": "Cydonia oblonga, Cydonia vulgaris",
       "Synonyme ": " Cydonia vulgaris",
       "Famille ": "Rosacées",
@@ -1647,6 +1775,7 @@
     },
     {
       "Nom": "Châtaignier (Châtaigne)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/castanea-sativa-fruit-600x450.jpg",
       "N. scientifique ": "Castanea sativa",
       "Synonymes ": "Castanea vesca, Castanea vulgaris",
       "Famille ": "Fagacées",
@@ -1682,6 +1811,7 @@
     },
     {
       "Nom": "Cerisier (Cerise)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/prunus-cerasus-fruit-600x450.jpg",
       "N. scientifique ": "Prunus cerasus",
       "Synonyme ": " Prunus avium",
       "Famille ": "Rosacées",
@@ -1716,6 +1846,7 @@
     },
     {
       "Nom": "Asiminier trilobé",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/asimina-triloba-600x450.jpg",
       "N. scientifique ": "Asimina triloba",
       "Famille ": "Annonacées",
       "Origine ": "Amérique du Nord",
@@ -1745,7 +1876,41 @@
       "Multiplication": "semis, greffe"
     },
     {
+      "Nom": "Amélanchier à feuilles d'aulne, Amélanchier fruitier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/adb/amelanchier-alnifolia-600x450.jpg",
+      "N. scientifique ": "Amelanchier alnifolia",
+      "Famille ": "Rosacées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "avril, mai",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "arbuste décoratif à fruits comestibles",
+      "Végétation": "arborée",
+      "Feuillage ": "caduc",
+      "Hauteur": "4,5  m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -30 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "légèrement acide à neutre",
+      "Humidité ": "normal à légèrement humide",
+      "Utilisation": "isolé en petit arbre parasol ou multi-tronc, en haie, en fourré fruitier",
+      "Plantation": "printemps, automne",
+      "Multiplication": "bouture, semis"
+    },
+    {
       "Nom": "Amandier (Amande)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/prunus-amygdalus-600x450.jpg",
       "N. scientifique ": "Prunus amygdalus",
       "Famille ": "Rosacées",
       "Origine ": "Iran, Afghanistan",
@@ -1779,6 +1944,7 @@
     },
     {
       "Nom": "Abricotier (Abricot), Guigne, Bigarreau, Guignier sauvage",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/prunus-armeniaca-fruit-600x450.jpg",
       "N. scientifique ": "Prunus armeniaca , Armeniaca vulgaris",
       "Synonyme ": "Armeniaca vulgaris",
       "Famille ": "Rosacées",
@@ -1814,6 +1980,7 @@
     },
     {
       "Nom": "Yuzu, Citron du Japon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/citrus-x-junos-600x450.jpg",
       "N. scientifique ": "Citrus x junos",
       "Famille ": "Rutacées",
       "Origine ": "Asie",
@@ -1846,6 +2013,7 @@
     },
     {
       "Nom": "Pomelo",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/citrus-paradisi-fruit-600x450.jpg",
       "N. scientifique ": "Citrus x paradisi",
       "Synonymes ": "Citrus paradisi, Citrus sinensis x Citrus maxima, Citrus sinensis x Citrus grandis",
       "Famille ": "Rutacées",
@@ -1874,6 +2042,7 @@
     },
     {
       "Nom": "Oranger, Orange douce",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img8/citrus-sinensis-600x450.jpg",
       "N. scientifique ": "Citrus sinensis",
       "Famille ": "Rutacées",
       "Origine ": "sud-est de la Chine",
@@ -1901,6 +2070,7 @@
     },
     {
       "Nom": "Mandarinier (Mandarine)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/citrus-deliciosa-fruit-600x450.jpg",
       "N. scientifique ": "Citrus deliciosa",
       "Famille ": "Rutacées",
       "Origine ": "Asie",
@@ -1932,6 +2102,7 @@
     },
     {
       "Nom": "Main de Bouddha",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/citrus-medica-var-sarcodactylis-600x450.jpg",
       "N. scientifique ": "Citrus medica var. sarcodactylis",
       "Synonyme ": "Citrus medica ‘Digitata’",
       "Famille ": "Rutacées",
@@ -1960,6 +2131,7 @@
     },
     {
       "Nom": "Limettier, Citron vert, Lime acide",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/citrus-aurantifolia-fruit-600x450.jpg",
       "N. scientifique ": "Citrus aurantifolia",
       "Famille ": "Rutacées",
       "Origine ": "Sud-est asiatique",
@@ -1987,6 +2159,7 @@
     },
     {
       "Nom": "Kumquat de Nagami, Kumquat à fruits ovales",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/fortunella-margarita-fruit-600x450.jpg",
       "N. scientifique ": "Fortunella margarita",
       "Famille ": "Rutacées",
       "Origine ": "Chine, Malaisie",
@@ -2021,6 +2194,7 @@
     },
     {
       "Nom": "Grand citron vert, Lime de Tahiti, Lime de Perse, Limettier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/citrus-latifolia-600x450.jpg",
       "N. scientifique ": "Citrus latifolia",
       "Famille ": "Rutacées",
       "Origine ": "sud-est asiatique",
@@ -2052,6 +2226,7 @@
     },
     {
       "Nom": "Combava, Limettier hérissé, Papeda de Maurice",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/citrus-hystrix-fruit-600x450.jpg",
       "N. scientifique ": "Citrus hystrix",
       "Famille ": "Rutacées",
       "Origine ": "Iles indonésiennes",
@@ -2079,6 +2254,7 @@
     },
     {
       "Nom": "Clémentinier (Clémentine)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/citrus-clementina-600x450.jpg",
       "N. scientifique ": "Citrus clementina",
       "Synonyme ": "Citrus reticulata 'Clémentine'",
       "Famille ": "Rutacées",
@@ -2108,6 +2284,7 @@
     },
     {
       "Nom": "Citronnier des quatre saisons",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/citronnier-des-quatre-saisons-fruits-600x450.jpg",
       "N. scientifique ": "Citrus limon 'Eureka'",
       "Famille ": "Rutacées",
       "Origine ": "Sud-est asiatique",
@@ -2138,6 +2315,7 @@
     },
     {
       "Nom": "Citronnier (Citron), Limonier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/citrus-limon-fruit-600x450.jpg",
       "N. scientifique ": "Citrus limon",
       "Famille ": "Rutacées",
       "Origine ": "sud-est asiatique",
@@ -2168,6 +2346,7 @@
     },
     {
       "Nom": "Citron caviar, Citron doigt, Microcitrus",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/citrus-australasica-600x450.jpg",
       "N. scientifique ": "Citrus australasica",
       "Synonyme ": "Microcitrus austalasica",
       "Famille ": "Rutacées",
@@ -2199,6 +2378,7 @@
     },
     {
       "Nom": "Cédratier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/citrus-medica-fruit-600x450.jpg",
       "N. scientifique ": "Citrus medica",
       "Famille ": "Rutacées",
       "Origine ": "Inde, Birmanie",
@@ -2226,6 +2406,7 @@
     },
     {
       "Nom": "Calamondin, Oranger d'appartement",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/citrus-madurensis-fruit-600x450.jpg",
       "N. scientifique ": "Citrus mitis",
       "Synonymes ": "Citrus madurensis, X Citrofortunella microcarpa",
       "Famille ": "Rutacées",
@@ -2256,6 +2437,7 @@
     },
     {
       "Nom": "Bigaradier, Citronnier, Mandarinier, Oranger, Pamplemoussier, Clémentinier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/citrus-limon-fruit-600x450.jpg",
       "N. scientifique ": "Citrus",
       "Famille ": "Rutacées",
       "Origine ": "Chine, Inde, Indonésie",
@@ -2285,6 +2467,7 @@
     },
     {
       "Nom": "Bigaradier, Bouquetier, Orange amère",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/citrus-auriantium-600x450.jpg",
       "N. scientifique ": "Citrus aurantium",
       "Famille ": "Rutacées",
       "Origine ": "Inde",
@@ -2312,6 +2495,34 @@
       "Plantation": "printemps, été",
       "Multiplication": "greffage, bouture, semis",
       "Sensibilité ": "cochenilles, tavelure, virus de Tristeza"
+    },
+    {
+      "Nom": "Bergamotier (Bergamote)",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/citrus-bergamia-fruit-600x450.jpg",
+      "N. scientifique ": "Citrus bergamia",
+      "Famille ": "Rutacées",
+      "Origine ": "inconnue",
+      "Floraison": "été",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "agrume",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "4m maxi en pleine terre",
+      "Rusticité ": "   peu rustique, -5°C min ",
+      "Exposition ": [
+        "  ",
+        "  ensoleillée "
+      ],
+      "Sol": "riche et drainant",
+      "Acidité ": "tolérant",
+      "Humidité ": "normal à frais",
+      "Utilisation": "potée, serre, véranda, pleine terre",
+      "Plantation": "printemps, été",
+      "Multiplication": "greffage",
+      "Sensibilité ": "cochenilles, maladies cryptogamiques"
     }
   ]
 }

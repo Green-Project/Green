@@ -2,215 +2,8 @@
   "category": "Fleurs annuelles et bulbes d'été",
   "data": [
     {
-      "Nom": "Amarante, Queue-de-renard",
-      "N. scientifique ": "Amaranthus caudatus",
-      "Famille ": "Amaranthacées",
-      "Origine ": "Afrique, Inde, Amérique du sud",
-      "Floraison": "de juillet à septembre",
-      "Fleurs ": "        rouge-pourpre, vert ",
-      "Type": "fleur",
-      "Végétation": "vivace éphémère",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 1 à 1,5 m",
-      "Toxicité": "plante encore utilisée comme légume dans certains pays",
-      "Rusticité ": "   plante gélive ",
-      "Exposition ": [
-        "  ",
-        "  soleil, à l'abri du vent "
-      ],
-      "Sol": "riche en humus, bien drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "frais",
-      "Utilisation": "massif, pot",
-      "Plantation": "printemps",
-      "Multiplication": "semis en mars-avril au chaud et repiquage en mai",
-      "Sensibilité ": "les pucerons, les araignées rouges"
-    },
-    {
-      "Nom": "Agérate, Agératum du Mexique",
-      "N. scientifique ": "Ageratum houstonianum",
-      "Famille ": "Astéracées, Composées",
-      "Origine ": "Sud du Mexique, Guatemala",
-      "Floraison": "de juin à octobre",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "     ",
-        "     ",
-        "   bleu, rose, violet, blanc "
-      ],
-      "Type": "fleur",
-      "Végétation": "cultivé comme annuelle, vivace sous climat doux",
-      "Feuillage ": "persistant",
-      "Hauteur": "de 15 cm à 60 cm selon les variétés",
-      "Rusticité ": "   non rustique ",
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "riche en humus",
-      "Acidité ": "neutre",
-      "Humidité ": "frais",
-      "Utilisation": "pot, jardinière, massif, bordure",
-      "Plantation": "printemps",
-      "Multiplication": "semis en mars-avril et repiquage en place en mai",
-      "Taille": "pas de taille",
-      "Sensibilité ": "les pucerons, les araignées rouges, les limaces"
-    },
-    {
-      "Nom": "Dichelostemma ida-maia",
-      "N. scientifique ": "Dichelostemma ida-maia",
-      "Synonymes ": "Brodiaea ida-maia, Brevoortia ida-maia",
-      "Famille ": "Liliacées",
-      "Origine ": "Amérique du nord-ouest",
-      "Floraison": "de mai à juillet",
-      "Fleurs ": "        rose, bleu, rouge ",
-      "Type": "fleurs",
-      "Végétation": "bulbe",
-      "Feuillage ": "caduc",
-      "Hauteur": "de 40 à 90 cm selon l'espèce",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, cependant gare aux fortes gelées "
-      ],
-      "Exposition ": [
-        "  ",
-        "  plein soleil "
-      ],
-      "Sol": "bien drainé, léger",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "rocaille, fleurs coupées",
-      "Plantation": "automne",
-      "Multiplication": "semis au printemps, séparation des caïeux à la fin de l'été"
-    },
-    {
-      "Nom": "Cyclamen d'Europe, Cyclamen pourpre, Cyclamen commun, Pain de pourceau",
-      "N. scientifique ": "Cyclamen purpurascens",
-      "Synonyme ": "Cyclamen europeum L.",
-      "Famille ": "Primulacées",
-      "Origine ": "Europe centrale et Europe méridionale",
-      "Floraison": "août à octobre",
-      "Fleurs ": [
-        "     ",
-        "   rose "
-      ],
-      "Type": "plante à bulbes",
-      "Végétation": "vivace",
-      "Feuillage ": "presque persistant",
-      "Hauteur": "10 à 15 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, -28°C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  mi-ombre, ombre "
-      ],
-      "Sol": "sol riche et drainant",
-      "Acidité ": "légèrement acide à alcalin",
-      "Humidité ": "frais",
-      "Utilisation": "massif, sous-bois",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis"
-    },
-    {
-      "Nom": "Crocosmia, Montbrétia",
-      "N. scientifique ": "Crocosmia",
-      "Famille ": "Iridacées",
-      "Origine ": "Régions australes et tropicales de l'Afrique",
-      "Floraison": "de juin à octobre",
-      "Fleurs ": "        jaune, orange, rouge ",
-      "Type": "fleur",
-      "Végétation": "bulbe (cormus)",
-      "Feuillage ": "caduc",
-      "Hauteur": "de 50 à 100 cm selon les variétés",
-      "Rusticité ": [
-        "  ",
-        "  moyennement rustique selon les variétés, à retirer dans les régions à l'hiver rude "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil, mi-ombre "
-      ],
-      "Sol": "léger, frais, sablonneux, pauvre",
-      "Acidité ": "neutre",
-      "Humidité ": "frais",
-      "Utilisation": "massif, fleurs coupées",
-      "Plantation": "plantation entre 5 et 8 cm de profondeur au début du printemps",
-      "Multiplication": "semis en mars à l'intérieur, division des touffes tous les 3-4 ans en avril ou à l'automne",
-      "Taille": "Enlevez au fur et à mesure les fleurs fanées",
-      "Sensibilité ": "résistant aux maladies"
-    },
-    {
-      "Nom": "Crinum asiatique, Grand crinum, Crinum lis",
-      "N. scientifique ": "Crinum asiaticum",
-      "Famille ": "Amaryllidacées",
-      "Origine ": "Asie tropicale et subtropicale",
-      "Floraison": "toute l’année sauf lorsqu’il fait trop froid",
-      "Fleurs ": [
-        "     ",
-        "   blanc "
-      ],
-      "Type": "plante à bulbe",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "1,50m à 2m",
-      "Toxicité": "sève toxique, parfois allergisante",
-      "Rusticité ": [
-        "  ",
-        "  peu rustique, -4°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à ombre légère "
-      ],
-      "Sol": "sol riche",
-      "Acidité ": "neutre",
-      "Humidité ": "frais",
-      "Utilisation": "massif, potée",
-      "Plantation": "toute l’année",
-      "Multiplication": "division des bulbes, semis"
-    },
-    {
-      "Nom": "Crinole de Powell",
-      "N. scientifique ": "Crinum x powellii",
-      "Famille ": "Amaryllidacées",
-      "Origine ": "horticole",
-      "Floraison": "fin d’été, automne",
-      "Fleurs ": [
-        "     ",
-        "   rose clair "
-      ],
-      "Type": "plante à fleur herbacée",
-      "Végétation": "bulbe vivace",
-      "Feuillage ": "caduc en région froide",
-      "Hauteur": "80 à 120 cm",
-      "Toxicité": "sève toxique, parfois allergisante",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  assez rustique, -12 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "sol riche et drainant",
-      "Acidité ": "neutre",
-      "Humidité ": "frais",
-      "Utilisation": "massif",
-      "Plantation": "automne",
-      "Multiplication": "séparation des bulbes"
-    },
-    {
       "Nom": "Rhubarbe palmée, Rhubarbe décorative, Rhubarbe de Chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/rheum-palmatum-600x450.jpg",
       "N. scientifique ": "Rheum palmatum",
       "Synonyme ": "Rheum officinale",
       "Famille ": "Polygonacées",
@@ -238,6 +31,7 @@
     },
     {
       "Nom": "Rhodohypoxis baurii",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/rhodohypoxis-baurii-600x450.jpg",
       "N. scientifique ": "Rhodohypoxis baurii",
       "Famille ": "Hypoxidacées",
       "Origine ": "Afrique du sud",
@@ -267,6 +61,7 @@
     },
     {
       "Nom": "Hémérocalle, Lis d'un jour",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/hemerocallis-600x450.jpg",
       "N. scientifique ": "Hemerocallis",
       "Famille ": "Liliacées",
       "Origine ": "Asie",
@@ -300,6 +95,7 @@
     },
     {
       "Nom": "Hémérocalle orange, Lis d'un jour, Hémérocalle fauve",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/hemerocallis-fulva-600x450.jpg",
       "N. scientifique ": "Hemerocallis fulva",
       "Famille ": "Liliacées",
       "Origine ": "Asie",
@@ -331,6 +127,7 @@
     },
     {
       "Nom": "Hemerocalle citrine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/hemerocallis-citrina-600x450.jpg",
       "N. scientifique ": "Hemerocallis citrina",
       "Famille ": "Liliacées",
       "Origine ": "Asie",
@@ -363,6 +160,7 @@
     },
     {
       "Nom": "Gingembre orchidée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/roscoea-auriculata-600x450.jpg",
       "N. scientifique ": "Roscoea auriculata",
       "Famille ": "Zingibéracées",
       "Origine ": "Himalaya, Népal, Bhoutan",
@@ -393,6 +191,7 @@
     },
     {
       "Nom": "Funkia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/hosta-fleur-600x450.jpg",
       "N. scientifique ": "Hosta",
       "Famille ": "Liliacées",
       "Origine ": "Chine, Japon",
@@ -426,6 +225,7 @@
     },
     {
       "Nom": "Dahlia écarlate",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/dahlia-coccinea-1-600x450.jpg",
       "N. scientifique ": "Dahlia coccinea",
       "Synonyme ": "Dahlia crocea",
       "Famille ": "Astéracées, Composées",
@@ -456,61 +256,8 @@
       "Multiplication": "semis, boutures, divisions"
     },
     {
-      "Nom": "Dahlia commun",
-      "N. scientifique ": "Dahlia x pinnata",
-      "Synonymes ": "Dahlia x variabilis, Dahlia x hortensis",
-      "Famille ": "Astéracées, Composées",
-      "Origine ": "horticole",
-      "Floraison": "de juin jusqu'aux gelées",
-      "Fleurs ": "        de nombreux coloris, sauf le bleu ",
-      "Type": "fleur",
-      "Végétation": "bulbe, annuel",
-      "Feuillage ": "caduc",
-      "Hauteur": "de 30 à 150 cm",
-      "Toxicité": "tubercule comestible",
-      "Rusticité ": "   peu rustique, -4°C ",
-      "Exposition ": [
-        "  ",
-        "  plein soleil "
-      ],
-      "Sol": "riche en humus",
-      "Acidité ": "normal",
-      "Humidité ": "frais",
-      "Utilisation": "pot et jardinières pour les variétés naines, massif, fleurs coupées pour les autres",
-      "Plantation": "Le Dahlia se plante durant le mois d'avril à une profondeur de 2 à 3 cm en respectant un espacement de 80 à 120cm, sauf entre les Dahlias nains où environ 35cm suffisent.",
-      "Multiplication": "semis, division des tubercules au printemps",
-      "Sensibilité ": "le botrytis, le virus de la Mosaïque du Dahlia, le charbon du Dahlia, les pucerons noirs, les acariens, les noctuelles, les perce-oreilles, les limaces lors du démarrage des pousses au printemps"
-    },
-    {
-      "Nom": "Belle de nuit",
-      "N. scientifique ": "Mirabilis jalapa",
-      "Famille ": "Nyctaginacées",
-      "Origine ": "Amérique du sud, Pérou",
-      "Floraison": "été",
-      "Fleurs ": "        jaune, rose, rouge, panaché jaune-rouge ",
-      "Type": "fleur",
-      "Végétation": "vivace",
-      "Feuillage ": "caduc",
-      "Hauteur": "1 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  moyennement rustique, à rentrer à l'abri du gel ou mettre en place un paillage "
-      ],
-      "Exposition ": [
-        "  ",
-        "  plein soleil "
-      ],
-      "Sol": "riche en humus, bien drainé",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "haie basse, le long d'un mur, serre froide",
-      "Plantation": "printemps",
-      "Multiplication": "récolte des graines en septembre et semis en mars, division des tubercules au printemps, bouturage en septembre dans un verre d'eau facile",
-      "Sensibilité ": "les limaces, les pucerons"
-    },
-    {
       "Nom": "Balisier d'Inde botanique, Canna comestible",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/canna-indica-brasiliensis-600x450.jpg?1",
       "N. scientifique ": "Canna brasiliensis",
       "Synonymes ": "Canna edulis, Canna lutea, Canna patens",
       "Famille ": "Cannacées",
@@ -543,7 +290,64 @@
       "Multiplication": "printemps, été"
     },
     {
+      "Nom": "Dahlia commun",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/dahlia-fleur-600x450.jpg",
+      "N. scientifique ": "Dahlia x pinnata",
+      "Synonymes ": "Dahlia x variabilis, Dahlia x hortensis",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "horticole",
+      "Floraison": "de juin jusqu'aux gelées",
+      "Fleurs ": "        de nombreux coloris, sauf le bleu ",
+      "Type": "fleur",
+      "Végétation": "bulbe, annuel",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 30 à 150 cm",
+      "Toxicité": "tubercule comestible",
+      "Rusticité ": "   peu rustique, -4°C ",
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "riche en humus",
+      "Acidité ": "normal",
+      "Humidité ": "frais",
+      "Utilisation": "pot et jardinières pour les variétés naines, massif, fleurs coupées pour les autres",
+      "Plantation": "Le Dahlia se plante durant le mois d'avril à une profondeur de 2 à 3 cm en respectant un espacement de 80 à 120cm, sauf entre les Dahlias nains où environ 35cm suffisent.",
+      "Multiplication": "semis, division des tubercules au printemps",
+      "Sensibilité ": "le botrytis, le virus de la Mosaïque du Dahlia, le charbon du Dahlia, les pucerons noirs, les acariens, les noctuelles, les perce-oreilles, les limaces lors du démarrage des pousses au printemps"
+    },
+    {
+      "Nom": "Belle de nuit",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/mirabilis-jalapa-fleur-600x450.jpg",
+      "N. scientifique ": "Mirabilis jalapa",
+      "Famille ": "Nyctaginacées",
+      "Origine ": "Amérique du sud, Pérou",
+      "Floraison": "été",
+      "Fleurs ": "        jaune, rose, rouge, panaché jaune-rouge ",
+      "Type": "fleur",
+      "Végétation": "vivace",
+      "Feuillage ": "caduc",
+      "Hauteur": "1 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  moyennement rustique, à rentrer à l'abri du gel ou mettre en place un paillage "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "riche en humus, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "haie basse, le long d'un mur, serre froide",
+      "Plantation": "printemps",
+      "Multiplication": "récolte des graines en septembre et semis en mars, division des tubercules au printemps, bouturage en septembre dans un verre d'eau facile",
+      "Sensibilité ": "les limaces, les pucerons"
+    },
+    {
       "Nom": "Balisier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/canna-600x450.jpg",
       "N. scientifique ": "Canna",
       "Famille ": "Cannacées",
       "Origine ": "Zones tropicales d'Asie et d'Amérique",
@@ -577,6 +381,7 @@
     },
     {
       "Nom": "Arum d'Italie, Gouet d'Italie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/arum-italicum-600x450.jpg",
       "N. scientifique ": "Arum italicum",
       "Famille ": "Aracées",
       "Origine ": "Europe, Afrique du nord",
@@ -613,6 +418,7 @@
     },
     {
       "Nom": "Arum d'Ethiopie, Arum blanc",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/zantedeschia-aethiopica-600x450.jpg",
       "N. scientifique ": "Zantedeschia aethiopica",
       "Famille ": "Aracées",
       "Origine ": "Afrique",
@@ -642,6 +448,7 @@
     },
     {
       "Nom": "Plume du Kansas",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/liatris-spicata-fleur-600x450.jpg",
       "N. scientifique ": "Liatris spicata",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Est et centre des  Etats-Unis",
@@ -675,6 +482,7 @@
     },
     {
       "Nom": "Ornithogale en thyrse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/ornithogalum-thyrsoides-600x450.jpg",
       "N. scientifique ": "Ornithogalum thyrsoides",
       "Synonymes ": "Ornithogalum bicolor, Ornithogalum ceresianum, Ornithogalum coarctatum, Ornithogalum gilgianum",
       "Famille ": "Liliacées",
@@ -705,6 +513,7 @@
     },
     {
       "Nom": "Lis tigré",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/lilium-lanciolium-600x450.jpg",
       "N. scientifique ": "Lilium lancifolium",
       "Synonymes ": "Lilium triginum, Lilium trigrinum splendens",
       "Famille ": "Liliacées",
@@ -739,6 +548,7 @@
     },
     {
       "Nom": "Lis royal",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/lilium-regale-600x450.jpg",
       "N. scientifique ": "Lilium regale",
       "Famille ": "Liliacées",
       "Origine ": "Sichuan en Chine",
@@ -772,6 +582,7 @@
     },
     {
       "Nom": "Lis queue de renard, Lis des steppes",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/eremurus-600x450.jpg",
       "N. scientifique ": "Eremurus",
       "Famille ": "Liliacées",
       "Origine ": "Asie",
@@ -807,6 +618,7 @@
     },
     {
       "Nom": "Lis orangé",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/lilium-bulbiferum-var-bulbiferum-600x450.jpg",
       "N. scientifique ": "Lilium bulbiferum",
       "Famille ": "Liliacées",
       "Origine ": "Europe",
@@ -840,6 +652,7 @@
     },
     {
       "Nom": "Lis martagon",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/lilium-martagon-600x450.jpg",
       "N. scientifique ": "Lilium martagon",
       "Famille ": "Liliacées",
       "Origine ": "Europe, Asie",
@@ -873,6 +686,7 @@
     },
     {
       "Nom": "Lis léopard",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/lilium-pardalinum-600x450.jpg",
       "N. scientifique ": "Lilium pardalinum",
       "Famille ": "Liliacées",
       "Origine ": "Amérique du Nord",
@@ -905,6 +719,7 @@
     },
     {
       "Nom": "Lis géant de l'Himalaya",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/cardiocrinum-giganteum-var-yunnanense-600x450.jpg",
       "N. scientifique ": "Cardiocrinum giganteum",
       "Famille ": "Liliacées",
       "Origine ": "Himalaya de l'Inde, Tibet, Népal, Bhoutan, Pakistan, Chine et le Myanmar (Birmanie)",
@@ -936,6 +751,7 @@
     },
     {
       "Nom": "Lis de Leichtlin, Lilium leichtlinii",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/lilium-leichtlinii-600x450.jpg",
       "N. scientifique ": "Lilium leichtlinii",
       "Famille ": "Liliacées",
       "Origine ": "Japon",
@@ -968,6 +784,7 @@
     },
     {
       "Nom": "Lis de Henry",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/lilium-henryi-600x450.jpg",
       "N. scientifique ": "Lilium henryi",
       "Famille ": "Liliacées",
       "Origine ": "Chine",
@@ -1000,6 +817,7 @@
     },
     {
       "Nom": "Lis",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lilium-cv-muscadet-fleur-600x450.jpg",
       "N. scientifique ": "Lilium",
       "Famille ": "Liliacées",
       "Origine ": "hémisphère nord",
@@ -1029,6 +847,7 @@
     },
     {
       "Nom": "Glaïeul d'Abyssinie, Acidanthère bicolore",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/gladiolus-murieliae-600x450.jpg",
       "N. scientifique ": "Gladiolus murieliae",
       "Synonymes ": "Gladiolus callianthus, Acidanthera bicolor var murieliae",
       "Famille ": "Iridacées",
@@ -1061,6 +880,7 @@
     },
     {
       "Nom": "Glaïeul",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/gladiolus-600x450.jpg",
       "N. scientifique ": "Gladiolus",
       "Famille ": "Iridacées",
       "Origine ": "Afrique Australe, ouest de l'Asie et bassin méditerranéen",
@@ -1088,6 +908,7 @@
     },
     {
       "Nom": "Fleur ananas, Eucomide",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/eucomis-comosa-cv-sparkling-burgundy-600x450.jpg",
       "N. scientifique ": "Eucomis comosa",
       "Famille ": "Liliacées",
       "Origine ": "Afrique du Sud",
@@ -1116,6 +937,7 @@
     },
     {
       "Nom": "Fleur ananas",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/eucomis-bicolor-600x450.jpg",
       "N. scientifique ": "Eucomis bicolor",
       "Famille ": "Liliacées",
       "Origine ": "Afrique du sud",
@@ -1148,6 +970,7 @@
     },
     {
       "Nom": "Eucomis nain à feuilles tachetées",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/eucomis-vandermewei-600x450.jpg",
       "N. scientifique ": "Eucomis vandermerwei",
       "Famille ": "Liliacées",
       "Origine ": "Afrique du Sud",
@@ -1179,6 +1002,7 @@
     },
     {
       "Nom": "Eucomis des montagnes",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/eucomis-montana-600x450.jpg",
       "N. scientifique ": "Eucomis des montagnes,Eucomis montana",
       "Famille ": "Liliacées",
       "Origine ": "Afrique du Sud",
@@ -1210,7 +1034,165 @@
       "Multiplication": "division, semis, bouture"
     },
     {
+      "Nom": "Dichelostemma ida-maia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/dichelostemma-ida-maia-600x450.jpg",
+      "N. scientifique ": "Dichelostemma ida-maia",
+      "Synonymes ": "Brodiaea ida-maia, Brevoortia ida-maia",
+      "Famille ": "Liliacées",
+      "Origine ": "Amérique du nord-ouest",
+      "Floraison": "de mai à juillet",
+      "Fleurs ": "        rose, bleu, rouge ",
+      "Type": "fleurs",
+      "Végétation": "bulbe",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 40 à 90 cm selon l'espèce",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, cependant gare aux fortes gelées "
+      ],
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "bien drainé, léger",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "rocaille, fleurs coupées",
+      "Plantation": "automne",
+      "Multiplication": "semis au printemps, séparation des caïeux à la fin de l'été"
+    },
+    {
+      "Nom": "Cyclamen d'Europe, Cyclamen pourpre, Cyclamen commun, Pain de pourceau",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cyclamen-purpurascens-600x450.jpg",
+      "N. scientifique ": "Cyclamen purpurascens",
+      "Synonyme ": "Cyclamen europeum L.",
+      "Famille ": "Primulacées",
+      "Origine ": "Europe centrale et Europe méridionale",
+      "Floraison": "août à octobre",
+      "Fleurs ": [
+        "     ",
+        "   rose "
+      ],
+      "Type": "plante à bulbes",
+      "Végétation": "vivace",
+      "Feuillage ": "presque persistant",
+      "Hauteur": "10 à 15 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -28°C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre, ombre "
+      ],
+      "Sol": "sol riche et drainant",
+      "Acidité ": "légèrement acide à alcalin",
+      "Humidité ": "frais",
+      "Utilisation": "massif, sous-bois",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
+      "Nom": "Crocosmia, Montbrétia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/crocosmia-fleur-v-lucifer-600x450.jpg",
+      "N. scientifique ": "Crocosmia",
+      "Famille ": "Iridacées",
+      "Origine ": "Régions australes et tropicales de l'Afrique",
+      "Floraison": "de juin à octobre",
+      "Fleurs ": "        jaune, orange, rouge ",
+      "Type": "fleur",
+      "Végétation": "bulbe (cormus)",
+      "Feuillage ": "caduc",
+      "Hauteur": "de 50 à 100 cm selon les variétés",
+      "Rusticité ": [
+        "  ",
+        "  moyennement rustique selon les variétés, à retirer dans les régions à l'hiver rude "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil, mi-ombre "
+      ],
+      "Sol": "léger, frais, sablonneux, pauvre",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif, fleurs coupées",
+      "Plantation": "plantation entre 5 et 8 cm de profondeur au début du printemps",
+      "Multiplication": "semis en mars à l'intérieur, division des touffes tous les 3-4 ans en avril ou à l'automne",
+      "Taille": "Enlevez au fur et à mesure les fleurs fanées",
+      "Sensibilité ": "résistant aux maladies"
+    },
+    {
+      "Nom": "Crinum asiatique, Grand crinum, Crinum lis",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/crinum-asiaticum-600x450.jpg",
+      "N. scientifique ": "Crinum asiaticum",
+      "Famille ": "Amaryllidacées",
+      "Origine ": "Asie tropicale et subtropicale",
+      "Floraison": "toute l’année sauf lorsqu’il fait trop froid",
+      "Fleurs ": [
+        "     ",
+        "   blanc "
+      ],
+      "Type": "plante à bulbe",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "1,50m à 2m",
+      "Toxicité": "sève toxique, parfois allergisante",
+      "Rusticité ": [
+        "  ",
+        "  peu rustique, -4°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre légère "
+      ],
+      "Sol": "sol riche",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif, potée",
+      "Plantation": "toute l’année",
+      "Multiplication": "division des bulbes, semis"
+    },
+    {
+      "Nom": "Crinole de Powell",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/crinum-x-powellii-600x450.jpg",
+      "N. scientifique ": "Crinum x powellii",
+      "Famille ": "Amaryllidacées",
+      "Origine ": "horticole",
+      "Floraison": "fin d’été, automne",
+      "Fleurs ": [
+        "     ",
+        "   rose clair "
+      ],
+      "Type": "plante à fleur herbacée",
+      "Végétation": "bulbe vivace",
+      "Feuillage ": "caduc en région froide",
+      "Hauteur": "80 à 120 cm",
+      "Toxicité": "sève toxique, parfois allergisante",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  assez rustique, -12 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "sol riche et drainant",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif",
+      "Plantation": "automne",
+      "Multiplication": "séparation des bulbes"
+    },
+    {
       "Nom": "Bégonia de Bolivie",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/begonia-boliviensis-cv-bonfire-600x450.jpg",
       "N. scientifique ": "Begonia boliviensis",
       "Famille ": "Bégoniacées",
       "Origine ": "Argentine, Bolivie",
@@ -1241,6 +1223,7 @@
     },
     {
       "Nom": "Arisème jaune, Lis cobra jaune",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/arisaema-flavum-600x450.jpg",
       "N. scientifique ": "Arisaema flavum",
       "Famille ": "Aracées",
       "Origine ": "Asie du Sud, Afrique de l'Est",
@@ -1273,6 +1256,7 @@
     },
     {
       "Nom": "Ail violet d’Afrique du sud, Tulbaghie violette",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/tulbaghia-violacea-600x450.jpg",
       "N. scientifique ": "Tulbaghia violacea",
       "Famille ": "Liliacées",
       "Origine ": "Afrique du sud",
@@ -1304,6 +1288,7 @@
     },
     {
       "Nom": "Ail joli",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/allium-coloratum-600x450.jpg",
       "N. scientifique ": "Allium coloratum",
       "Synonymes ": "Allium pulchellum, Allium carinatum var pulchellum",
       "Famille ": "Liliacées",
@@ -1337,6 +1322,7 @@
     },
     {
       "Nom": "Suzanne aux yeux noirs",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/thunbergia-alata-600x450.jpg",
       "N. scientifique ": "Thunbergia alata",
       "Famille ": "Acanthacées",
       "Origine ": "Afrique tropicale",
@@ -1365,6 +1351,7 @@
     },
     {
       "Nom": "Pois papillon, Pois bleu, Clitorie de ternate",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/clitoria-ternatea-600x450.jpg",
       "N. scientifique ": "Clitoria ternatea",
       "Synonymes ": "Clitoria albiflora, Clitoria bracteata, Clitoria coelestris, Clitoria parviflora, Clitoria philippensis",
       "Famille ": "Légumineuses, Fabacées, Papilionacées",
@@ -1395,6 +1382,7 @@
     },
     {
       "Nom": "Pois de senteur",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lathyrus-odoratus-fleur-600x450.jpg",
       "N. scientifique ": "Lathyrus odoratus",
       "Famille ": "Légumineuses, Fabacées, Papilionacées",
       "Origine ": "sud-est de l'Italie, Sicile",
@@ -1424,6 +1412,7 @@
     },
     {
       "Nom": "Plumes d'indien, Mina lobée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/ipomea-lobata-fleurs-600x450.jpg",
       "N. scientifique ": "Ipomoea lobata, Ipomoea versicolor, Quamoclit lobata, Mina lobata",
       "Synonymes ": "Ipomoea versicolor, Quamoclit lobata",
       "Famille ": "Convolvulacées",
@@ -1450,6 +1439,7 @@
     },
     {
       "Nom": "Zinnia élégant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/adb/zinnia-elegans-600x450.jpg",
       "N. scientifique ": "Zinnia elegans",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Sud des États-Unis et Mexique",
@@ -1481,6 +1471,7 @@
     },
     {
       "Nom": "Zinnia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/zinnia-600x450.jpg",
       "N. scientifique ": "Zinnia",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Mexique, Sud-ouest des États-Unis",
@@ -1505,6 +1496,7 @@
     },
     {
       "Nom": "Tabac géant, Tabac sylvatique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/nicotiana-sylvestris-600x450.jpg",
       "N. scientifique ": "Nicotiana sylvestris",
       "Famille ": "Solanacées",
       "Origine ": "Argentine",
@@ -1535,6 +1527,7 @@
     },
     {
       "Nom": "Tabac d'ornement, Tabac ailé",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/nicotiana-600x450.jpg",
       "N. scientifique ": "Nicotiana alata",
       "Synonyme ": "Nicotiana affinis",
       "Famille ": "Solanacées",
@@ -1564,6 +1557,7 @@
     },
     {
       "Nom": "Souci",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/calendula-officinalis-fleur-600x450.jpg",
       "N. scientifique ": "Calendula officinalis",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Europe",
@@ -1594,6 +1588,7 @@
     },
     {
       "Nom": "Reine marguerite, Aster de Chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/callistephus-chinensis-fleur-600x450.jpg",
       "N. scientifique ": "Callistephus chinensis",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Chine",
@@ -1620,7 +1615,37 @@
       "Sensibilité ": "oïdium, fusariose, pucerons et vers gris."
     },
     {
+      "Nom": "Ptilotus",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ptilotus-exaltatus-fleur-600x450.jpg",
+      "N. scientifique ": "Ptilotus exaltatus",
+      "Famille ": "Amaranthacées",
+      "Origine ": "Australie",
+      "Floraison": "mai-juin à septembre en France",
+      "Fleurs ": [
+        "     ",
+        "   rose à rouge "
+      ],
+      "Type": "fleurs",
+      "Végétation": "vivace",
+      "Feuillage ": "persistant",
+      "Hauteur": "jusqu'à 40cm",
+      "Rusticité ": "   Plante gélive et annuelle sous nos contrées ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "normal",
+      "Acidité ": "neutre",
+      "Humidité ": "normal à sec",
+      "Utilisation": "bac, pot, massif",
+      "Plantation": "au printemps",
+      "Multiplication": "par semis au chaud au printemps",
+      "Taille": "pas de taille nécessaire",
+      "Sensibilité ": "résistante aux maladies"
+    },
+    {
       "Nom": "Pourpier de rocaille, Calandrinia en ombelle",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/calandrinia-umbellata-600x450.jpg",
       "N. scientifique ": "Calandrinia umbellata",
       "Synonymes ": "Montiopsis umbellata, Talinum umbellatum",
       "Famille ": "Portulacacées",
@@ -1654,6 +1679,7 @@
     },
     {
       "Nom": "Pourpier à grandes fleurs, Chevalier-d'onze-heures",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/portulaca-grandiflora-600x450.jpg",
       "N. scientifique ": "Portulaca grandiflora",
       "Famille ": "Portulacacées",
       "Origine ": "Amérique du sud",
@@ -1678,6 +1704,7 @@
     },
     {
       "Nom": "Pourpier",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/portulaca-600x450.jpg",
       "N. scientifique ": "Portulaca",
       "Famille ": "Portulacacées",
       "Origine ": "Amérique centrale et du sud",
@@ -1702,6 +1729,7 @@
     },
     {
       "Nom": "Pervenche de Madagascar",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/catharanthus-roseus-600x450.jpg",
       "N. scientifique ": "Catharanthus roseus",
       "Synonyme ": "Vinca rosea",
       "Famille ": "Apocynacées",
@@ -1733,6 +1761,7 @@
     },
     {
       "Nom": "Orlaya à grandes fleurs",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/orlaya-grandiflora-600x450.jpg",
       "N. scientifique ": "Orlaya grandiflora",
       "Famille ": "Apiacées, Ombellifères",
       "Origine ": "Europe centrale et orientale",
@@ -1764,6 +1793,7 @@
     },
     {
       "Nom": "Oeillet du poète",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/dianthus-barbatus-600x450.jpg",
       "N. scientifique ": "Dianthus barbatus",
       "Famille ": "Caryophyllacées",
       "Origine ": "{origine}",
@@ -1793,6 +1823,7 @@
     },
     {
       "Nom": "Oeillet de Chine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/dianthus-sinensis-fleur-rouge-600x450.jpg",
       "N. scientifique ": "Dianthus sinensis, Dianthus chinensis",
       "Synonyme ": "Dianthus chinensis",
       "Famille ": "Caryophyllacées",
@@ -1823,6 +1854,7 @@
     },
     {
       "Nom": "Nigelle de Damas, Patte d'araignée, Barbe de Capucin",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/nigella-damascena-600x450.jpg",
       "N. scientifique ": "Nigella damascena",
       "Famille ": "Renonculacées",
       "Origine ": "Europe méditerranéenne, Afrique",
@@ -1853,6 +1885,7 @@
     },
     {
       "Nom": "Muflier, Gueule de loup",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/antirrhinum-majus-fleur-600x450.jpg",
       "N. scientifique ": "Antirrhinum majus",
       "Famille ": "Scrophulariacées",
       "Origine ": "Bassin méditerranéen",
@@ -1889,6 +1922,7 @@
     },
     {
       "Nom": "Molène, Bouillon Blanc",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/verbascum-thapsus-600x450.jpg",
       "N. scientifique ": "Verbascum Thapsus",
       "Famille ": "Scrophulariacées",
       "Origine ": "Europe, Asie",
@@ -1923,6 +1957,7 @@
     },
     {
       "Nom": "Mélanpodium",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/melanpodium-paludosum-600x450.jpg",
       "N. scientifique ": "Melanpodium paludosum",
       "Synonyme ": "Melampodium divaricatum",
       "Famille ": "Astéracées, Composées",
@@ -1950,7 +1985,68 @@
       "Sensibilité ": "oïdium"
     },
     {
+      "Nom": "Mauve de Mauritanie, Grande mauve, Mauve des bois, Mauve sylvestre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/malva-sylvestris-var-mauritania-600x450.jpg",
+      "N. scientifique ": "Malva sylvestris var Mauritiana",
+      "Synonymes ": "Malva sylvestris, Malva sylvestris Mauritania",
+      "Famille ": "Malvacées",
+      "Origine ": "Europe, Asie occidentale, Afrique du Nord",
+      "Floraison": "juin à septembre",
+      "Fleurs ": [
+        "     ",
+        "   pourpre violacé "
+      ],
+      "Type": "plante herbacée",
+      "Végétation": "bisannuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "70 cm à 1,20 m",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, -34 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        "  mi-ombre "
+      ],
+      "Sol": "argileux à calvaire, riche",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal",
+      "Utilisation": "ornementale et médicinale, comestible",
+      "Plantation": "printemps, automne",
+      "Multiplication": "divisions, semis"
+    },
+    {
+      "Nom": "Mauve annuelle, Lavatère d'un trimestre",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/lavatera-trimestris-v-tanagra-fleur-600x450.jpg",
+      "N. scientifique ": "Lavatera trimestris",
+      "Famille ": "Malvacées",
+      "Origine ": "Méditerranée, Asie et Afrique",
+      "Floraison": "de juillet à septembre",
+      "Fleurs ": [
+        "     ",
+        "   mauve "
+      ],
+      "Type": "fleur",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "jusqu'à 1m",
+      "Rusticité ": "   non rustique, la plante ne passe pas l'hiver ",
+      "Exposition ": [
+        "  ",
+        "  plein soleil "
+      ],
+      "Sol": "frais; riche",
+      "Acidité ": "neutre",
+      "Humidité ": "normal",
+      "Utilisation": "massif",
+      "Plantation": "printemps, semis en place",
+      "Multiplication": "par semis"
+    },
+    {
       "Nom": "Lupin changeant",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/lupinus-mutabilis-600x450.jpg",
       "N. scientifique ": "Lupinus mutabilis",
       "Synonymes ": "Lupinus mutabilis var. cruckshanksii, Lupinus cruckshanksii, Lupinus hartwegii ssp. cruckshanksii",
       "Famille ": "Légumineuses, Fabacées, Papilionacées",
@@ -1982,38 +2078,8 @@
       "Multiplication": "semis"
     },
     {
-      "Nom": "Limnanthe de Douglas, Oeuf au plat",
-      "N. scientifique ": "Limnanthes douglasii",
-      "Famille ": "Limnanthacées",
-      "Origine ": "Amérique du Nord",
-      "Floraison": "mai à août",
-      "Fleurs ": [
-        "     ",
-        "     ",
-        "   jaune, jaune et blanc "
-      ],
-      "Type": "plante ornementale",
-      "Végétation": "annuelle à bisannuelle",
-      "Feuillage ": "caduc",
-      "Hauteur": "15 à 30 cm",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique, jusqu'à -15 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi-ombre "
-      ],
-      "Sol": "tolérant",
-      "Acidité ": "moyennement  acide à basique",
-      "Humidité ": "normal à frais",
-      "Utilisation": "couvre-sol, massif, rocaille, potée, engrais vert, plante mellifère, plante de service",
-      "Plantation": "semis en été ou printemps"
-    },
-    {
       "Nom": "Khella, Noukha, Ammi visnage",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ammi-visnaga-600x450.jpg",
       "N. scientifique ": "Ammi visnaga",
       "Synonyme ": "Visnaga daucoides",
       "Famille ": "Apiacées, Ombellifères",
@@ -2048,35 +2114,8 @@
       "Sensibilité ": "résistant aux maladies"
     },
     {
-      "Nom": "Ptilotus",
-      "N. scientifique ": "Ptilotus exaltatus",
-      "Famille ": "Amaranthacées",
-      "Origine ": "Australie",
-      "Floraison": "mai-juin à septembre en France",
-      "Fleurs ": [
-        "     ",
-        "   rose à rouge "
-      ],
-      "Type": "fleurs",
-      "Végétation": "vivace",
-      "Feuillage ": "persistant",
-      "Hauteur": "jusqu'à 40cm",
-      "Rusticité ": "   Plante gélive et annuelle sous nos contrées ",
-      "Exposition ": [
-        "  ",
-        "  soleil "
-      ],
-      "Sol": "normal",
-      "Acidité ": "neutre",
-      "Humidité ": "normal à sec",
-      "Utilisation": "bac, pot, massif",
-      "Plantation": "au printemps",
-      "Multiplication": "par semis au chaud au printemps",
-      "Taille": "pas de taille nécessaire",
-      "Sensibilité ": "résistante aux maladies"
-    },
-    {
       "Nom": "Impatiente de l'Himalaya, Impatiente glanduleuse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/impatiens-glandulifera-600x450.jpg",
       "N. scientifique ": "Impatiens glandulifera",
       "Synonyme ": "Impatiens roylei",
       "Famille ": "Balsaminacées",
@@ -2106,122 +2145,8 @@
       "Sensibilité ": "les aleurodes, les araignées rouges"
     },
     {
-      "Nom": "Fleur de satin, Godetia, Clarkia",
-      "N. scientifique ": "Clarkia amonea",
-      "Synonymes ": "Godetia amonea, Clarkia grandiflora",
-      "Famille ": "Onagracées",
-      "Origine ": "Amérique du Nord, Californie",
-      "Floraison": "juin-juillet ou juillet à septembre",
-      "Fleurs ": "        rose, violet, blanc ",
-      "Type": "plante ornementale",
-      "Végétation": "annuelle",
-      "Feuillage ": "caduc",
-      "Hauteur": "30 à 80 cm, selon les variétés",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, jusqu'à -24°C "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  soleil à mi-ombre "
-      ],
-      "Sol": "léger, sablonneux",
-      "Acidité ": "légèrement acide à légèrement basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "massif, prairie fleurie, jardinière",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis"
-    },
-    {
-      "Nom": "Mauve de Mauritanie, Grande mauve, Mauve des bois, Mauve sylvestre",
-      "N. scientifique ": "Malva sylvestris var Mauritiana",
-      "Synonymes ": "Malva sylvestris, Malva sylvestris Mauritania",
-      "Famille ": "Malvacées",
-      "Origine ": "Europe, Asie occidentale, Afrique du Nord",
-      "Floraison": "juin à septembre",
-      "Fleurs ": [
-        "     ",
-        "   pourpre violacé "
-      ],
-      "Type": "plante herbacée",
-      "Végétation": "bisannuelle",
-      "Feuillage ": "caduc",
-      "Hauteur": "70 cm à 1,20 m",
-      "Rusticité ": [
-        "  ",
-        " ",
-        " ",
-        "  très rustique, -34 °C "
-      ],
-      "Exposition ": [
-        "  ",
-        "  mi-ombre "
-      ],
-      "Sol": "argileux à calvaire, riche",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "normal",
-      "Utilisation": "ornementale et médicinale, comestible",
-      "Plantation": "printemps, automne",
-      "Multiplication": "divisions, semis"
-    },
-    {
-      "Nom": "Mauve annuelle, Lavatère d'un trimestre",
-      "N. scientifique ": "Lavatera trimestris",
-      "Famille ": "Malvacées",
-      "Origine ": "Méditerranée, Asie et Afrique",
-      "Floraison": "de juillet à septembre",
-      "Fleurs ": [
-        "     ",
-        "   mauve "
-      ],
-      "Type": "fleur",
-      "Végétation": "annuelle",
-      "Feuillage ": "caduc",
-      "Hauteur": "jusqu'à 1m",
-      "Rusticité ": "   non rustique, la plante ne passe pas l'hiver ",
-      "Exposition ": [
-        "  ",
-        "  plein soleil "
-      ],
-      "Sol": "frais; riche",
-      "Acidité ": "neutre",
-      "Humidité ": "normal",
-      "Utilisation": "massif",
-      "Plantation": "printemps, semis en place",
-      "Multiplication": "par semis"
-    },
-    {
-      "Nom": "Coquelourde des jardins",
-      "N. scientifique ": "Lychnis coronaria",
-      "Famille ": "Caryophyllacées",
-      "Origine ": "Europe méridionale, Asie occidentale",
-      "Floraison": "de juillet jusqu’à l’automne",
-      "Fleurs ": [
-        "     ",
-        "   pourpre, blanche "
-      ],
-      "Type": "plante ornementale",
-      "Végétation": "vivace à vie brève, bisannuelle",
-      "Feuillage ": "persistant",
-      "Hauteur": "60 cm",
-      "Rusticité ": "   très rustique, -29°C ",
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à ombre partielle "
-      ],
-      "Sol": "pauvre et caillouteux, mais tolérant",
-      "Acidité ": "neutre à basique",
-      "Humidité ": "normal à sec",
-      "Utilisation": "massif, bouquet, terrains difficiles",
-      "Plantation": "printemps, automne",
-      "Multiplication": "semis"
-    },
-    {
       "Nom": "Immortelle d'Australie, Acroclinium rose, Acroclinie rose",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/rhodanthe-chlorocephala-subsp-rosea-600x450.jpg",
       "N. scientifique ": "Rhodanthe chlorocephala ssp. rosea",
       "Synonymes ": "Acroclinium rosem, Helipterum roseum",
       "Famille ": "Astéracées, Composées",
@@ -2251,6 +2176,7 @@
     },
     {
       "Nom": "Héliotrope du Pérou",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/heliotropium-arborescens-cv-scentropia-silver-600x450.jpg",
       "N. scientifique ": "Héliotrope du Pérou, Heliotropium arborescens",
       "Synonyme ": "Heliotropium peruvianum",
       "Famille ": "Boraginacées, Borraginacées, Boragacées",
@@ -2279,6 +2205,7 @@
     },
     {
       "Nom": "Heliotrope",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/heliotropum-600x450.jpg",
       "N. scientifique ": "Heliotropium",
       "Famille ": "Boraginacées, Borraginacées, Boragacées",
       "Origine ": "Amérique du sud",
@@ -2312,6 +2239,7 @@
     },
     {
       "Nom": "Gaillarde annuelle, Gaillarde peinte",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/gaillardia-pulchella-600x450.jpg",
       "N. scientifique ": "Gaillardia pulchella",
       "Synonymes ": "Gaillardia pulchella var picta, Gaillardia picta, Gaillardia drummondii",
       "Famille ": "Astéracées, Composées",
@@ -2343,7 +2271,39 @@
       "Multiplication": "printemps"
     },
     {
+      "Nom": "Fleur de satin, Godetia, Clarkia",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/clarkia-600x450.jpg",
+      "N. scientifique ": "Clarkia amonea",
+      "Synonymes ": "Godetia amonea, Clarkia grandiflora",
+      "Famille ": "Onagracées",
+      "Origine ": "Amérique du Nord, Californie",
+      "Floraison": "juin-juillet ou juillet à septembre",
+      "Fleurs ": "        rose, violet, blanc ",
+      "Type": "plante ornementale",
+      "Végétation": "annuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "30 à 80 cm, selon les variétés",
+      "Rusticité ": [
+        "  ",
+        " ",
+        " ",
+        "  très rustique, jusqu'à -24°C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  soleil à mi-ombre "
+      ],
+      "Sol": "léger, sablonneux",
+      "Acidité ": "légèrement acide à légèrement basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, prairie fleurie, jardinière",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
       "Nom": "Fleur araignée",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/cleome-spinosa-fleur-600x450.jpg",
       "N. scientifique ": "Cleome spinosa",
       "Synonymes ": " Cleome pungens, Cleome hassleriana",
       "Famille ": "Capparacées, Capparidacées",
@@ -2373,41 +2333,8 @@
       "Taille": "Apportez de l'engrais pour plantes fleuries"
     },
     {
-      "Nom": "Digitale pourprée, doigtier, gants de bergère, queue de loup",
-      "N. scientifique ": "Digitalis purpurea",
-      "Famille ": "Scrophulariacées",
-      "Origine ": "Europe centrale",
-      "Floraison": "de mai à juillet, remontée si la hampe défleurie est coupée",
-      "Fleurs ": [
-        "     ",
-        "   blanc, violet, rose "
-      ],
-      "Type": "plante herbacée à fleurs",
-      "Végétation": "bisannuelle",
-      "Feuillage ": "belle rosette persistante en hiver",
-      "Hauteur": "de 1 à 2 m",
-      "Toxicité": "plante toxique",
-      "Rusticité ": [
-        "  ",
-        " ",
-        "  rustique "
-      ],
-      "Exposition ": [
-        "  ",
-        " ",
-        "  ensoleillée à mi ombre "
-      ],
-      "Sol": "terre de jardin fertile de préférence",
-      "Acidité ": "tolérant",
-      "Humidité ": "normal",
-      "Utilisation": "jardin, parterre, massif",
-      "Plantation": "plantation de septembre à avril",
-      "Multiplication": "semis direct en août",
-      "Taille": "rabattre après la première floraison",
-      "Sensibilité ": "limaces"
-    },
-    {
       "Nom": "Cosmos bipenné, Cosmos annuel",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/cosmos-bipinnatus-600x450.jpg",
       "N. scientifique ": "Cosmos bipinnatus",
       "Famille ": "Astéracées, Composées",
       "Origine ": "Mexique",
@@ -2442,7 +2369,36 @@
       "Sensibilité ": "les pucerons"
     },
     {
+      "Nom": "Coquelourde des jardins",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/lychnis-coronaria-cv-gardeners-world-600x450.jpg",
+      "N. scientifique ": "Lychnis coronaria",
+      "Famille ": "Caryophyllacées",
+      "Origine ": "Europe méridionale, Asie occidentale",
+      "Floraison": "de juillet jusqu’à l’automne",
+      "Fleurs ": [
+        "     ",
+        "   pourpre, blanche "
+      ],
+      "Type": "plante ornementale",
+      "Végétation": "vivace à vie brève, bisannuelle",
+      "Feuillage ": "persistant",
+      "Hauteur": "60 cm",
+      "Rusticité ": "   très rustique, -29°C ",
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à ombre partielle "
+      ],
+      "Sol": "pauvre et caillouteux, mais tolérant",
+      "Acidité ": "neutre à basique",
+      "Humidité ": "normal à sec",
+      "Utilisation": "massif, bouquet, terrains difficiles",
+      "Plantation": "printemps, automne",
+      "Multiplication": "semis"
+    },
+    {
       "Nom": "Coquelicot",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/papaver-rhoeas-600x450.jpg",
       "N. scientifique ": "Papaver rhoeas",
       "Famille ": "Papavéracées",
       "Origine ": "Afrique du Nord, Eurasie",
@@ -2473,6 +2429,7 @@
     },
     {
       "Nom": "Celosie plumeuse",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/celosia-argentea-var-plumosa-600x450.jpg",
       "N. scientifique ": "Celosia argentea var. plumosa",
       "Famille ": "Amaranthacées",
       "Origine ": "Asie, Afrique, Amérique centrale",
@@ -2503,6 +2460,7 @@
     },
     {
       "Nom": "Capucine des jardins, Grande capucine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/tropaeolum-majus-fleur-600x450.jpg",
       "N. scientifique ": "Tropaeolum majus",
       "Famille ": "Tropaeolacées",
       "Origine ": "Amérique du Sud",
@@ -2536,7 +2494,40 @@
       "Sensibilité ": "les pucerons noirs, les chenilles"
     },
     {
+      "Nom": "Limnanthe de Douglas, Oeuf au plat",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/limnanthes-douglasii-600x450.jpg",
+      "N. scientifique ": "Limnanthes douglasii",
+      "Famille ": "Limnanthacées",
+      "Origine ": "Amérique du Nord",
+      "Floraison": "mai à août",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "   jaune, jaune et blanc "
+      ],
+      "Type": "plante ornementale",
+      "Végétation": "annuelle à bisannuelle",
+      "Feuillage ": "caduc",
+      "Hauteur": "15 à 30 cm",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique, jusqu'à -15 °C "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi-ombre "
+      ],
+      "Sol": "tolérant",
+      "Acidité ": "moyennement  acide à basique",
+      "Humidité ": "normal à frais",
+      "Utilisation": "couvre-sol, massif, rocaille, potée, engrais vert, plante mellifère, plante de service",
+      "Plantation": "semis en été ou printemps"
+    },
+    {
       "Nom": "Brachycome à feuilles d'ibéride",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/brachyscome-iberidifolia-600x450.jpg",
       "N. scientifique ": "Brachycome iberidifolia",
       "Synonyme ": "Brachyscome multifida",
       "Famille ": "Astéracées, Composées",
@@ -2560,6 +2551,7 @@
     },
     {
       "Nom": "Belle-de-jour, Liseron tricolore",
+      "ImgUrl": "https://static.aujardin.info/cache/th/par/convolvulus-tricolor-600x450.jpg",
       "N. scientifique ": "Convolvulus tricolor",
       "Synonyme ": "Convolvulus minor",
       "Famille ": "Convolvulacées",
@@ -2591,6 +2583,7 @@
     },
     {
       "Nom": "Bégonia annuel",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/begonia-semperflorens-600x450.jpg",
       "N. scientifique ": "Begonia semperflorens",
       "Synonyme ": "Begonia x semperflorens-cultorum",
       "Famille ": "Bégoniacées",
@@ -2620,6 +2613,7 @@
     },
     {
       "Nom": "Balsamine de Balfour",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/impatiens-balfourii-600x450.jpg",
       "N. scientifique ": "Impatiens balfourii",
       "Famille ": "Balsaminacées",
       "Origine ": "Himalaya",
@@ -2647,6 +2641,7 @@
     },
     {
       "Nom": "Balsamine",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/impatiens-balsamina-600x450.jpg",
       "N. scientifique ": "Impatiens balsamina",
       "Famille ": "Balsaminacées",
       "Origine ": "Inde, Chine, Malaisie",
@@ -2674,6 +2669,99 @@
       "Plantation": "printemps",
       "Multiplication": "semis en avril, bouture herbacée en juin",
       "Sensibilité ": "fonte des semis, Botrytis, aleurodes, araignées rouges, pucerons"
+    },
+    {
+      "Nom": "Amarante, Queue-de-renard",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/amaranthus-caudatus-600x450.jpg",
+      "N. scientifique ": "Amaranthus caudatus",
+      "Famille ": "Amaranthacées",
+      "Origine ": "Afrique, Inde, Amérique du sud",
+      "Floraison": "de juillet à septembre",
+      "Fleurs ": "        rouge-pourpre, vert ",
+      "Type": "fleur",
+      "Végétation": "vivace éphémère",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 1 à 1,5 m",
+      "Toxicité": "plante encore utilisée comme légume dans certains pays",
+      "Rusticité ": "   plante gélive ",
+      "Exposition ": [
+        "  ",
+        "  soleil, à l'abri du vent "
+      ],
+      "Sol": "riche en humus, bien drainé",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "massif, pot",
+      "Plantation": "printemps",
+      "Multiplication": "semis en mars-avril au chaud et repiquage en mai",
+      "Sensibilité ": "les pucerons, les araignées rouges"
+    },
+    {
+      "Nom": "Digitale pourprée, doigtier, gants de bergère, queue de loup",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img9/digitalis-purpurea-fleur-600x450.jpg",
+      "N. scientifique ": "Digitalis purpurea",
+      "Famille ": "Scrophulariacées",
+      "Origine ": "Europe centrale",
+      "Floraison": "de mai à juillet, remontée si la hampe défleurie est coupée",
+      "Fleurs ": [
+        "     ",
+        "   blanc, violet, rose "
+      ],
+      "Type": "plante herbacée à fleurs",
+      "Végétation": "bisannuelle",
+      "Feuillage ": "belle rosette persistante en hiver",
+      "Hauteur": "de 1 à 2 m",
+      "Toxicité": "plante toxique",
+      "Rusticité ": [
+        "  ",
+        " ",
+        "  rustique "
+      ],
+      "Exposition ": [
+        "  ",
+        " ",
+        "  ensoleillée à mi ombre "
+      ],
+      "Sol": "terre de jardin fertile de préférence",
+      "Acidité ": "tolérant",
+      "Humidité ": "normal",
+      "Utilisation": "jardin, parterre, massif",
+      "Plantation": "plantation de septembre à avril",
+      "Multiplication": "semis direct en août",
+      "Taille": "rabattre après la première floraison",
+      "Sensibilité ": "limaces"
+    },
+    {
+      "Nom": "Agérate, Agératum du Mexique",
+      "ImgUrl": "https://static.aujardin.info/cache/th/img10/ageratum-houstonianum-600x450.jpg",
+      "N. scientifique ": "Ageratum houstonianum",
+      "Famille ": "Astéracées, Composées",
+      "Origine ": "Sud du Mexique, Guatemala",
+      "Floraison": "de juin à octobre",
+      "Fleurs ": [
+        "     ",
+        "     ",
+        "     ",
+        "     ",
+        "   bleu, rose, violet, blanc "
+      ],
+      "Type": "fleur",
+      "Végétation": "cultivé comme annuelle, vivace sous climat doux",
+      "Feuillage ": "persistant",
+      "Hauteur": "de 15 cm à 60 cm selon les variétés",
+      "Rusticité ": "   non rustique ",
+      "Exposition ": [
+        "  ",
+        "  soleil "
+      ],
+      "Sol": "riche en humus",
+      "Acidité ": "neutre",
+      "Humidité ": "frais",
+      "Utilisation": "pot, jardinière, massif, bordure",
+      "Plantation": "printemps",
+      "Multiplication": "semis en mars-avril et repiquage en place en mai",
+      "Taille": "pas de taille",
+      "Sensibilité ": "les pucerons, les araignées rouges, les limaces"
     }
   ]
 }
