@@ -28,7 +28,7 @@ class Home extends React.Component {
         return (
             <View style={{padding: 40, flexDirection: 'column'}}>
                 <View style={{ textAlign: 'center', flexDirection: 'row', justifyContent: 'center'}}>
-                    <Text style={{fontWeight: "bold", color: "#9ACD32"}}>Type de sol</Text>
+                    <Text style={{fontWeight: "bold", color: "#FFB3CC"}}>Type de sol</Text>
                 </View>
                 <Picker
                     selectedValue={this.state.terre}
@@ -43,9 +43,9 @@ class Home extends React.Component {
                     <Picker.Item label="terre tourbeuse" value="terre tourbeuse" />
                     <Picker.Item label="terre humifère" value="terre humifère" />
                 </Picker>
-                <Text style={{width: "100%", borderTopWidth: 1, borderColor: "#9ACD32", marginTop: 15}}></Text>
+                <Text style={{width: "100%", borderTopWidth: 1, borderColor: "#FFB3CC", marginTop: 15}}></Text>
                 <View style={{ textAlign: 'center', flexDirection: 'row', justifyContent: 'center', marginTop: 15}}>
-                    <Text style={{fontWeight: "bold", color: "#9ACD32"}}>Ensoleillement</Text>
+                    <Text style={{fontWeight: "bold", color: "#FFB3CC"}}>Ensoleillement</Text>
                 </View>
                 <View style={{ textAlign: 'center', flexDirection: 'row', justifyContent: 'space-between', marginTop: 20}}>
                     <Text style={{color: "darkgray"}}>Peu ensoleillé</Text>
@@ -55,12 +55,12 @@ class Home extends React.Component {
                         style={{width: '100%', height: 40}}
                         minimumValue={0}
                         maximumValue={1}
-                        minimumTrackTintColor="#9ACD32"
+                        minimumTrackTintColor="#FFB3CC"
                         maximumTrackTintColor="#000000"
                     />
-                <Text style={{width: "100%", borderTopWidth: 1, borderColor: "#9ACD32", marginTop: 15}}></Text>
+                <Text style={{width: "100%", borderTopWidth: 1, borderColor: "#FFB3CC", marginTop: 15}}></Text>
                 <View style={{ textAlign: 'center', flexDirection: 'row', justifyContent: 'center', marginTop: 15}}>
-                    <Text style={{fontWeight: "bold", color: "#9ACD32"}}>Humidité</Text>
+                    <Text style={{fontWeight: "bold", color: "#FFB3CC"}}>Humidité</Text>
                 </View>
                 <View style={{ textAlign: 'center', flexDirection: 'row', justifyContent: 'space-between', marginTop: 20}}>
                     <Text style={{color: "darkgray"}}>Peu d'humidité</Text>
@@ -70,12 +70,12 @@ class Home extends React.Component {
                         style={{width: '100%', height: 40}}
                         minimumValue={0}
                         maximumValue={1}
-                        minimumTrackTintColor="#9ACD32"
+                        minimumTrackTintColor="#FFB3CC"
                         maximumTrackTintColor="#000000"
                     />
-                <Text style={{width: "100%", borderTopWidth: 1, borderColor: "#9ACD32", marginTop: 15}}></Text>
+                <Text style={{width: "100%", borderTopWidth: 1, borderColor: "#FFB3CC", marginTop: 15}}></Text>
                 <View style={{ textAlign: 'center', flexDirection: 'row', justifyContent: 'center', marginTop: 15}}>
-                    <Text style={{fontWeight: "bold", color: "#9ACD32"}}>Force des vents</Text>
+                    <Text style={{fontWeight: "bold", color: "#FFB3CC"}}>Force des vents</Text>
                 </View>
                 <View style={{ textAlign: 'center', flexDirection: 'row', justifyContent: 'space-between', marginTop: 20}}>
                     <Text style={{color: "darkgray"}}>Très faibles</Text>
@@ -85,11 +85,11 @@ class Home extends React.Component {
                     style={{width: '100%', height: 40}}
                     minimumValue={0}
                     maximumValue={1}
-                    minimumTrackTintColor="#9ACD32"
+                    minimumTrackTintColor="#FFB3CC"
                     maximumTrackTintColor="#000000"
                 />
                 <Button
-                    color="#9ACD32"
+                    color="#FFB3CC"
                     title="Valider"
                     onPress={() => this.props.navigation.navigate('Selection')}
                 />

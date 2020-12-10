@@ -61,7 +61,7 @@ export default class Selection extends React.Component {
         return(
         <View>
             <Modal
-            animationType="slide"
+            animationType="fade"
             transparent={true}
             visible={this.state.modalVisible}
             onRequestClose={() => {this.setState({modalVisible: false})}}>
@@ -87,28 +87,32 @@ export default class Selection extends React.Component {
             <FlatGrid
                 itemDimension={130}
                 data={tree_data}
+                style={{marginTop: 30}}
                
                 renderItem={({ item }) => (
                     <TouchableHighlight onPress={() => {
                         this.setState({selectedItem: item, modalVisible: true})
                     }}>
-                        <View style={{backgroundColor: `rgb(154, ${205 - (1 - item.optimal) * 200}, 50)`, padding: 3,shadowColor: "#000",
-                        shadowOffset: {
-                            width: 0,
-                            height: 2,
-                        },
-                        shadowOpacity: 0.5,
-                        shadowRadius: 2.62,
-                        
-                        elevation: 5}}
-                        >
-                            <Image
-                                style={{width: 159, height: 165}}
-                                source={{
-                                    uri: item.url,
-                            }}/>
-                            <Text style={{color: "white", textAlign: "center", padding: 3}}>{item.name}</Text>
+                        <View style={{backgroundColor: "black", shadowColor: "#000",
+                            shadowOffset: {
+                                width: 0,
+                                height: 2,
+                            },
+                            shadowOpacity: 0.5,
+                            shadowRadius: 2.62,
+                            
+                            elevation: 5}}>
+                            <View style={{backgroundColor: `rgba(255,179,204, ${item.optimal})`, padding: 3}}
+                            >
+                                <Image
+                                    style={{width: 159, height: 165}}
+                                    source={{
+                                        uri: item.url,
+                                }}/>
+                                <Text style={{color: "white", textAlign: "center", padding: 3}}>{item.name}</Text>
+                            </View>
                         </View>
+                        
                     </TouchableHighlight>
                    
 
