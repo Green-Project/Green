@@ -55,11 +55,17 @@ export default class HelloWorldSceneAR extends Component {
         <ViroARPlaneSelector>
           <ViroNode position={[0,0,1]} dragType={"FixedToWorld"} onDrag={()=>{}}>
           <Viro3DObject
-                      source={require('./res/tree2.vrx')}
+                      source={require('./res/Tree/Tree.obj')}
+                      resources={[
+                          require('./res/Tree/Tree.mtl'),
+                          require('./res/Tree/bark_0021.jpg'),
+                          require('./res/Tree/DB2X2_L01.png'),
+                          require('./res/Tree/DB2X2_L01_Spec.png')
+                      ]}
                       key={"model"}
-                      scale={[0.1, 0.1, 0.1]}
+                      scale={[0.4, 0.4, 0.4]}
                       position={[0, 0, -1]}
-                      type={"VRX"}
+                      type={"OBJ"}
                       dragType={"FixedDistance"}
                       onDrag={()=>{}}
                       onLoadStart={this._onLoadStart}
