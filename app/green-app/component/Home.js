@@ -52,6 +52,7 @@ class Home extends React.Component {
                     <Text style={{color: "darkgray"}}>Très ensoleillé</Text>
                 </View>
                 <Slider
+                        onValueChange= {(value) => this.setState({Ensoleillement: value})}
                         style={{width: '100%', height: 40}}
                         minimumValue={0}
                         maximumValue={1}
@@ -67,6 +68,7 @@ class Home extends React.Component {
                     <Text style={{color: "darkgray"}}>Très humide</Text>
                 </View>
                 <Slider
+                        onValueChange= {(value) => this.setState({Air: value})}
                         style={{width: '100%', height: 40}}
                         minimumValue={0}
                         maximumValue={1}
@@ -82,6 +84,7 @@ class Home extends React.Component {
                     <Text style={{color: "darkgray"}}>Très forts</Text>
                 </View>
                 <Slider
+                    onValueChange= {(value) => this.setState({Humidity: value})}
                     style={{width: '100%', height: 40}}
                     minimumValue={0}
                     maximumValue={1}
@@ -91,7 +94,7 @@ class Home extends React.Component {
                 <Button
                     color="#FFB3CC"
                     title="Valider"
-                    onPress={() => this.props.navigation.navigate('Selection')}
+                    onPress={() => this.props.navigation.navigate('Selection', {Ensoleillement: this.state.Ensoleillement, Humidity: this.state.Humidity})}
                 />
             </View>
         )

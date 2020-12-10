@@ -50,9 +50,38 @@ export default class Selection extends React.Component {
 
     constructor(props) {
         super(props)
+
+        let data = require('./../assets/tree_data.json')
+        let renderedData = []
+        let i = 0
+        data.data.forEach(element => {
+            let expo = element["Exposition "].join("")
+            let pexpo = 0
+            if (expo.includes("mi-ombre")) pexpo = 0.3
+            else if (expo.includes("ensoleillée")) pexpo = 0.6
+            else if (expo.includes("soleil")) pexpo = 0.9
+
+            let phumidity = 0
+            if (element["Humidité "].includes("normal")) phumidity = 0.5
+            else if (element["Humidité "].includes("frai")) phumidity = 0.3
+            else if (element["Humidité "].includes("humide")) phumidity = 0.1
+            else if (element["Humidité "].includes("sec")) phumidity = 0.8
+            console.log(props.route.params.Humidity, props.route.params.Ensoleillement)
+
+            let opt = 1 - (Math.abs(props.route.params.Ensoleillement - pexpo) + Math.abs(props.route.params.Humidity - phumidity))
+            renderedData.push({
+                name: element.Nom,
+                id: i++,
+                url: "",
+                optimal: opt > 0 ? opt: 0
+            })
+        });
         this.state = {
             selectedItem: {},
-            modalVisible: false
+            modalVisible: false,
+            Enseleillement: props.route.params.Enseleillement,
+            Humidity: props.route.params.Humidity,
+            trees: renderedData
         }
     }
 
@@ -167,4 +196,4 @@ const styles = StyleSheet.create({
       marginBottom: 15,
       textAlign: "center"
     }
-  });
+  })
