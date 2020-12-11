@@ -10,7 +10,23 @@
   "dependencies": {
     "react": "16.8.3",
     "react-native": "0.59.9",
-    "react-viro": "2.17.0"
+    "react-viro": "2.17.0",
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-native-community/slider": "^3.0.3",
+    "@react-native-picker/picker": "^1.9.4",
+    "@react-navigation/native": "^5.8.10",
+    "@react-navigation/stack": "^5.12.8",
+    "bootstrap": "^4.5.3",
+    "expo": "~39.0.2",
+    "expo-status-bar": "~1.0.2",
+    "react-dom": "16.13.1",
+    "react-native-gesture-handler": "~1.7.0",
+    "react-native-gridview": "^0.1.2",
+    "react-native-reanimated": "~1.13.0",
+    "react-native-safe-area-context": "3.1.4",
+    "react-native-screens": "~2.10.1",
+    "react-native-super-grid": "^4.0.3",
+    "react-native-web": "~0.13.12"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
