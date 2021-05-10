@@ -99,7 +99,7 @@ export default class Selection extends React.Component {
                                     source={{
                                         uri: item.url,
                                 }}/>
-                                <Text style={{color: "white", textAlign: "center", padding: 3}}>{item.name}</Text>
+                                <Text numberOfLines={1} style={{color: "white", textAlign: "center", padding: 3}}>{item.name}</Text>
                             </View>
                         </View>
                         
