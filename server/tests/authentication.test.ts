@@ -10,3 +10,8 @@ Deno.test("It creates a new user", async() => {
     assertEquals((await end.toArray()).length, 1);
     console.log(await end.toArray());
 });
+
+Deno.test("It authenticates user", async() => {
+    await signup("testUser", "testPassword");
+    assertEquals(await login("testUser", "testPassword"), true);
+})
