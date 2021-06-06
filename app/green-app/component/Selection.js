@@ -1,8 +1,9 @@
 import React from 'react';
-import { Text, View, Image, TouchableHighlight, Modal, Alert, Button, StyleSheet, TouchableOpacity, TouchableWithoutFeedback} from 'react-native';
+import { Text, View, Image, TouchableHighlight, Modal, Animated, Button, StyleSheet, TouchableOpacity, TouchableWithoutFeedback, Dimensions} from 'react-native';
 import { FlatGrid } from 'react-native-super-grid';
-
-export default class Selection extends React.Component {
+import Selection from './SelectionComp';
+const {width, height} = Dimensions.get("window");
+export default class SelectionClass extends React.Component {
 
     constructor(props) {
         super(props)
@@ -45,74 +46,35 @@ export default class Selection extends React.Component {
             trees: renderedData
         }
     }
-
     render() {
-
-        return(
-        <View>
-            <Modal
-            animationType="fade"
-            transparent={true}
-            visible={this.state.modalVisible}
-            onRequestClose={() => {this.setState({modalVisible: false})}}>
-                <TouchableOpacity onPress={() => {this.setState({modalVisible: false})}} style={styles.modal}>
-                    <View style={styles.centeredView}>
-                        <TouchableWithoutFeedback>
-                            <View style={styles.modalView}>
-                                <Text>
-                                    {this.state.selectedItem.name}
-                                </Text>
-                                <Text style={{marginTop: 15}}>
-                                    pertinence: {this.state.selectedItem.optimal * 100}%
-                                </Text>
-                                <View style={{flexDirection: 'row', justifyContent: 'space-around', width: 250, marginTop: 30}}>
-                                    <Button title="Visualiser"/>
-                                </View>
-                            </View>
-                        </TouchableWithoutFeedback>
-                        
-                    </View>
-                </TouchableOpacity>
-            </Modal>
-            <FlatGrid
-                itemDimension={130}
-                data={this.state.trees}
-                style={{marginTop: 30}}
-               
-                renderItem={({ item }) => (
-                    <TouchableHighlight onPress={() => {
-                        this.setState({selectedItem: item, modalVisible: true})
-                    }}>
-                        <View style={{backgroundColor: "black", shadowColor: "#000",
-                            shadowOffset: {
-                                width: 0,
-                                height: 2,
-                            },
-                            shadowOpacity: 0.5,
-                            shadowRadius: 2.62,
-                            
-                            elevation: 5}}>
-                            <View style={{backgroundColor: `rgba(255,179,204, ${item.optimal})`, padding: 3}}
-                            >
-                                <Image
-                                    style={{width: 159, height: 165}}
-                                    source={{
-                                        uri: item.url,
-                                }}/>
-                                <Text numberOfLines={1} style={{color: "white", textAlign: "center", padding: 3}}>{item.name}</Text>
-                            </View>
-                        </View>
-                        
-                    </TouchableHighlight>
-                   
-
-                )}
-            />
-        </View>)
+        const scrollX = new Animated.Value(0);
+        return (
+            <View style={styles.container}>
+                <View  style={{height:Dimensions.get("window").height, width:Dimensions.get("window").width, backgroundColor: "rgba(255,255,255,1)", elevationn : 10}}>
+                    <Animated.FlatList
+                        data = {this.state.trees}
+                        horizontal
+                        pagingEnabled
+                        showsHorizontalScrollIndicator= {false}
+                        onScroll={Animated.event(
+                        [{ nativeEvent: { contentOffset: { x: scrollX } } }],
+                        {useNativeDriver : true}
+                        )}
+                        keyExtractor={(item) => item.id.toString()}
+                        renderItem={({item, index}) => <Selection list={item} index={index} scrollX={scrollX} />}
+                    />
+                </View>
+            </View>
+        );
     }
 }
 
 const styles = StyleSheet.create({
+    container: {
+        width : width,
+        justifyContent: 'center',
+        alignItems: 'center',
+    },
     modal: {
         flex: 1,
         backgroundColor: 'transparent',
