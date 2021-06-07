@@ -8,7 +8,7 @@ export default class SelectionClass extends React.Component {
     constructor(props) {
         super(props)
 
-        let data = require('./../assets/tree_data.json')
+        let data = require('../../assets/tree_data.json')
         let renderedData = []
         let i = 0
         data.data.forEach(element => {

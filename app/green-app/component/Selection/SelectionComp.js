@@ -11,7 +11,7 @@ class Selection extends React.Component {
     iamgered: null,
     error: null,
     isLoading: true,
-    isVisible: false,
+    isVisible: false, 
 };
 displayModal(show){
   this.setState({isVisible: show})
@@ -44,7 +44,7 @@ displayModal(show){
                 style = { styles.modalimage }>
             <View style ={styles.modalview}></View>
             </ImageBackground>
-                <Text style= {{fontSize: 20, textAlign: 'center'}}>
+                <Text testID="myText" style= {{fontSize: 20, textAlign: 'center'}}>
                     {list.name}
                 </Text>
                 <Text style= {{fontSize: 15, marginTop: 15, textAlign: 'center', textDecorationLine: 'underline'}}>
