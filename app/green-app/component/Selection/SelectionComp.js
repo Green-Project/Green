@@ -1,6 +1,8 @@
 import React from 'react';
-import { View, Text, ImageBackground, Animated, Modal, StyleSheet, TouchableOpacity, Dimensions, Button } from 'react-native';
+import { View, Text, ImageBackground, Animated, Modal, StyleSheet, ScrollView,  TouchableOpacity, Dimensions, Button } from 'react-native';
 import { FontAwesome5 } from "@expo/vector-icons";
+import { Ionicons } from "@expo/vector-icons";
+
 
 const {width, height} = Dimensions.get("window");
 const ITEM_W = width*0.76;
@@ -39,20 +41,56 @@ displayModal(show){
               onRequestClose={() => {
                 this.displayModal(false);
               }}>
+                <ScrollView>
             <ImageBackground
                 source={{uri: list.url}}
                 style = { styles.modalimage }>
             <View style ={styles.modalview}></View>
             </ImageBackground>
-                <Text testID="myText" style= {{fontSize: 20, textAlign: 'center'}}>
-                    {list.name}
-                </Text>
-                <Text style= {{fontSize: 15, marginTop: 15, textAlign: 'center', textDecorationLine: 'underline'}}>
-                    pertinence: {list.optimal * 100}%
-                </Text>
-                <View style={{flexDirection: 'row', justifyContent: 'center', width: width, marginTop: 30}}>
+            <Ionicons style={styles.close} name="ios-close-circle" size={52} onPress={() => {
+              this.displayModal(!this.state.isVisible);}}/>
+                <Text testID="myText" style={styles.description_titre}>{list.name}</Text>
+                <View style = {{flexDirection: 'row', marginLeft: 15, top: 5, alignItems: 'center'}}>
+                  <FontAwesome5 name="check-circle" size = {14} color= "black"/>
+                  <Text style = {{marginLeft: 5}}>
+                     pertinence: {list.optimal * 100}%
+                  </Text>
+                </View>
+
+              <View style = {{marginTop: 10, width: width, height: 20, backgroundColor: '#dddddd'}}></View>
+              <View style= {{flexDirection: 'row', marginLeft: 15, top: 5, alignItems: 'center'}}>
+                <FontAwesome5 name="bars" size={14}></FontAwesome5>
+                <Text style= {styles.description}>Description</Text>
+              </View>
+                <View style = {{flexDirection: 'row', marginLeft: 15, top: 5, alignItems: 'center'}}>
+                  <FontAwesome5 name="wind" size = {14} color= "black"/>
+                  <Text> Force des vents
+                    pertinence: {Math.random()*100}%
+                  </Text>
+                </View>
+
+                <View style = {{flexDirection: 'row', marginLeft: 15, top: 5, alignItems: 'center'}}>
+                  <FontAwesome5 name="sun" size = {14} color= "black"/>
+                  <Text> Ensoleillement
+                    pertinence: {Math.random()*100}%
+                  </Text>
+                </View>
+
+                <View style = {{flexDirection: 'row', marginLeft: 15, top: 5, alignItems: 'center'}}>
+                  <FontAwesome5 name="water" size = {14} color= "black"/>
+                  <Text> Humidité
+                    pertinence: {Math.random()*100}%
+                  </Text>
+                </View>
+                <View style = {{marginTop: 10,  width: width, height: 20, backgroundColor: '#dddddd'}}></View>
+                <View style= {{flexDirection: 'row', marginLeft: 15, top: 5, alignItems: 'center'}}>
+                <FontAwesome5 name="window-restore" size={14}></FontAwesome5>
+                <Text style= {styles.description}>Réalité augmenté</Text>
+              </View>
+                <View style={{flexDirection: 'row', marginLeft : 20, justifyContent: 'flex-start', width: width, marginTop: 30}}>
                     <Button disabled title="Visualiser"/>
                 </View>
+            </ScrollView>
             </Modal>
         <Animated.View style = {styles.container}>
           <View style = {{
@@ -154,10 +192,12 @@ displayModal(show){
       textShadowRadius: 10,
     },
     description_titre: {
-      textAlign: 'center',
-      width: '100%',
+      textAlign: 'left',
+      width: '80%',
+      fontSize: 26,
       fontWeight: '700',
-      fontSize: 20,
+      marginLeft: 10,
+      marginTop: 5,
   },
   eventend : {
     fontSize: 13,
@@ -182,6 +222,11 @@ displayModal(show){
       textShadowColor: 'rgba(0, 0, 0, 1)',
       textShadowOffset: {width: -1, height: 1},
       textShadowRadius: 10,
+  },
+  description : {
+    marginLeft: 10,
+    fontSize: 22,
+    color: 'grey',
   },
   rdstyles: {
       fontSize: 16,
