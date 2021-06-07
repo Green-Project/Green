@@ -23,7 +23,7 @@ Ainsi, notre solution sera 100% adaptée aux paysagistes.
     
 -   Kirian Senaux
     
--   Said-Haroun Brahimi
+-   Vincent Son
     
 -   Enzo Palla
     
@@ -31,9 +31,7 @@ Ainsi, notre solution sera 100% adaptée aux paysagistes.
     
 -   Romain Bry
     
--   Gabriel Buetas
-    
--   Léa Jean
+-   Corentin Colsenet
     
 -   Aurélien Thuillier
     
