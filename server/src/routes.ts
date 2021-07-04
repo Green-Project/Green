@@ -1,6 +1,8 @@
 import { Router } from "https://deno.land/x/oak/mod.ts";
 import { signup, login} from "./controllers/authController.ts"
+import { getSuggestedTrees } from "./controllers/aiController.ts"
 import { Session } from "https://deno.land/x/session@1.1.0/mod.ts";
+
 const session = new Session({framework: "oak"});
 await session.init();
 
@@ -35,6 +37,37 @@ routes.get("/register", (context) => {
         context.response.status = 400;
     }
 });
+
+routes.get("/suggested_trees", async (context) => {
+    const humidity = context.request.url.searchParams.get('humidity');
+    const sunshine = context.request.url.searchParams.get('sunshine');
+    const grass_type = context.request.url.searchParams.get('grass_type');
+    const wind_force = context.request.url.searchParams.get('wind_force');
+
+    if (humidity && sunshine && grass_type && wind_force) {
+        try {
+            const res = await getSuggestedTrees({
+                humidity: humidity,
+                sunshine: sunshine,
+                grass_type: grass_type,
+                wind_force: wind_force
+            })
+
+            console.log("Got a response from IA API:")
+            console.log(res)
+
+            console.log("Forwarding responde ...")
+            context.response.body = res;
+            context.response.status = 200;
+
+        } catch (error){
+            context.response.body = error;
+            context.response.status = 400;
+        }
+
+    }
+
+})
 
 routes.post("/login", async (context) => {
     const formData = await context.request.body({type: "form-data"}).value.read();

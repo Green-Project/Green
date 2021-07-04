@@ -5,7 +5,7 @@ import json
 class IAController:
 
     def __init__(self, app):
-        app.add_route('/things', self)
+        app.add_route('/suggested_trees', self)
 
     async def on_get(self, req, resp):
         """Handles GET requests"""
