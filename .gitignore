@@ -1,3 +1,4 @@
 .vscode
 testfile*
 debug*
+__pycache__
